@@ -1,0 +1,67 @@
+{
+  "id": "d2335de1-3318-4765-83b1-f1aa35285457",
+  "name": "venue-beauty-type",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "beauty salon",
+      "synonyms": [
+        "beauty salon",
+        "manicure",
+        "pedicure",
+        "nails studio",
+        "nail stations",
+        "nail services",
+        "eyebrow wax",
+        "to get waxed",
+        "detox wrap"
+      ]
+    },
+    {
+      "value": "spa",
+      "synonyms": [
+        "spa",
+        "spa salon",
+        "spas"
+      ]
+    },
+    {
+      "value": "hair salon",
+      "synonyms": [
+        "hair salon",
+        "hair styled",
+        "hair style",
+        "hair stylist",
+        "haircut",
+        "new haircut",
+        "hairdresser",
+        "haircuts"
+      ]
+    },
+    {
+      "value": "nail salon",
+      "synonyms": [
+        "nail salon",
+        "nail salons"
+      ]
+    },
+    {
+      "value": "barber",
+      "synonyms": [
+        "barber",
+        "barbers"
+      ]
+    },
+    {
+      "value": "massage salon",
+      "synonyms": [
+        "massage salon",
+        "massage salons",
+        "massage therapy",
+        "massage"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

@@ -1,0 +1,813 @@
+{
+  "id": "1b1d7efe-9485-482e-8377-6c3708558488",
+  "name": "venue-local-service-title",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "AMEX Bank of Canada",
+      "synonyms": [
+        "AMEX Bank of Canada"
+      ]
+    },
+    {
+      "value": "Ally Financial",
+      "synonyms": [
+        "Ally Financial"
+      ]
+    },
+    {
+      "value": "American Express",
+      "synonyms": [
+        "American Express"
+      ]
+    },
+    {
+      "value": "Amscot Financial",
+      "synonyms": [
+        "Amscot Financial"
+      ]
+    },
+    {
+      "value": "Atlantic Bank",
+      "synonyms": [
+        "Atlantic Bank"
+      ]
+    },
+    {
+      "value": "B2B Bank",
+      "synonyms": [
+        "B2B Bank"
+      ]
+    },
+    {
+      "value": "BB\u0026T Corporation",
+      "synonyms": [
+        "BB\u0026T Corporation"
+      ]
+    },
+    {
+      "value": "BMO Financial Corp",
+      "synonyms": [
+        "BMO Financial Corp"
+      ]
+    },
+    {
+      "value": "BNP Paribas",
+      "synonyms": [
+        "BNP Paribas"
+      ]
+    },
+    {
+      "value": "Bank Mandiri",
+      "synonyms": [
+        "Bank Mandiri"
+      ]
+    },
+    {
+      "value": "Bank One Canada",
+      "synonyms": [
+        "Bank One Canada"
+      ]
+    },
+    {
+      "value": "Bank of America",
+      "synonyms": [
+        "Bank of America"
+      ]
+    },
+    {
+      "value": "Bank of America Canada",
+      "synonyms": [
+        "Bank of America Canada"
+      ]
+    },
+    {
+      "value": "Bank of China",
+      "synonyms": [
+        "Bank of China"
+      ]
+    },
+    {
+      "value": "Bank of Montreal",
+      "synonyms": [
+        "Bank of Montreal"
+      ]
+    },
+    {
+      "value": "Bank of New York Mellon",
+      "synonyms": [
+        "Bank of New York Mellon"
+      ]
+    },
+    {
+      "value": "Bank of Nova Scotia",
+      "synonyms": [
+        "Bank of Nova Scotia"
+      ]
+    },
+    {
+      "value": "Bank of Tokyo-Mitsubishi",
+      "synonyms": [
+        "Bank of Tokyo-Mitsubishi"
+      ]
+    },
+    {
+      "value": "Bank of Tokyo-Mitsubishi UFJ",
+      "synonyms": [
+        "Bank of Tokyo-Mitsubishi UFJ"
+      ]
+    },
+    {
+      "value": "Barclays",
+      "synonyms": [
+        "Barclays"
+      ]
+    },
+    {
+      "value": "Barclays Bank PLC",
+      "synonyms": [
+        "Barclays Bank PLC"
+      ]
+    },
+    {
+      "value": "BofA Canada Bank",
+      "synonyms": [
+        "BofA Canada Bank"
+      ]
+    },
+    {
+      "value": "Bridgewater Bank",
+      "synonyms": [
+        "Bridgewater Bank"
+      ]
+    },
+    {
+      "value": "CFF Bank",
+      "synonyms": [
+        "CFF Bank"
+      ]
+    },
+    {
+      "value": "CS Alterna Bank",
+      "synonyms": [
+        "CS Alterna Bank"
+      ]
+    },
+    {
+      "value": "CTBC Bank Corp.",
+      "synonyms": [
+        "CTBC Bank Corp."
+      ]
+    },
+    {
+      "value": "Caisse populaire acadienne ltée",
+      "synonyms": [
+        "Caisse populaire acadienne ltée"
+      ]
+    },
+    {
+      "value": "Canada Post",
+      "synonyms": [
+        "Canada Post"
+      ]
+    },
+    {
+      "value": "Canadian Imperial Bank of Commerce",
+      "synonyms": [
+        "Canadian Imperial Bank of Commerce"
+      ]
+    },
+    {
+      "value": "Canadian Tire Bank",
+      "synonyms": [
+        "Canadian Tire Bank"
+      ]
+    },
+    {
+      "value": "Canadian Western Bank",
+      "synonyms": [
+        "Canadian Western Bank"
+      ]
+    },
+    {
+      "value": "Capital One",
+      "synonyms": [
+        "Capital One"
+      ]
+    },
+    {
+      "value": "Capital One Bank",
+      "synonyms": [
+        "Capital One Bank"
+      ]
+    },
+    {
+      "value": "Capital One Financial",
+      "synonyms": [
+        "Capital One Financial"
+      ]
+    },
+    {
+      "value": "Charles Schwab Corporation",
+      "synonyms": [
+        "Charles Schwab Corporation"
+      ]
+    },
+    {
+      "value": "Chase",
+      "synonyms": [
+        "Chase"
+      ]
+    },
+    {
+      "value": "China Construction Bank Toronto Branch",
+      "synonyms": [
+        "China Construction Bank Toronto Branch"
+      ]
+    },
+    {
+      "value": "Chip Merchant",
+      "synonyms": [
+        "Chip Merchant"
+      ]
+    },
+    {
+      "value": "Citco Bank Canada",
+      "synonyms": [
+        "Citco Bank Canada"
+      ]
+    },
+    {
+      "value": "Citibank",
+      "synonyms": [
+        "Citibank"
+      ]
+    },
+    {
+      "value": "Citibank Canada",
+      "synonyms": [
+        "Citibank Canada"
+      ]
+    },
+    {
+      "value": "CitibankCiti bank",
+      "synonyms": [
+        "CitibankCiti bank"
+      ]
+    },
+    {
+      "value": "Citigroup",
+      "synonyms": [
+        "Citigroup"
+      ]
+    },
+    {
+      "value": "Citizens Bank of Canada",
+      "synonyms": [
+        "Citizens Bank of Canada"
+      ]
+    },
+    {
+      "value": "Citizens Financial Group",
+      "synonyms": [
+        "Citizens Financial Group"
+      ]
+    },
+    {
+      "value": "Comerica Bank",
+      "synonyms": [
+        "Comerica Bank"
+      ]
+    },
+    {
+      "value": "Continental Bank of Canada",
+      "synonyms": [
+        "Continental Bank of Canada"
+      ]
+    },
+    {
+      "value": "Credit Suisse",
+      "synonyms": [
+        "Credit Suisse"
+      ]
+    },
+    {
+      "value": "Credit Unions",
+      "synonyms": [
+        "Credit Unions"
+      ]
+    },
+    {
+      "value": "Crédit Agricole Corporate and Investment Bank",
+      "synonyms": [
+        "Crédit Agricole Corporate and Investment Bank"
+      ]
+    },
+    {
+      "value": "DHL",
+      "synonyms": [
+        "DHL"
+      ]
+    },
+    {
+      "value": "DHL Express",
+      "synonyms": [
+        "DHL Express"
+      ]
+    },
+    {
+      "value": "Deutsche Bank AG",
+      "synonyms": [
+        "Deutsche Bank AG"
+      ]
+    },
+    {
+      "value": "DirectCash Bank",
+      "synonyms": [
+        "DirectCash Bank"
+      ]
+    },
+    {
+      "value": "Equitable Bank",
+      "synonyms": [
+        "Equitable Bank"
+      ]
+    },
+    {
+      "value": "Exchange Bank of Canada",
+      "synonyms": [
+        "Exchange Bank of Canada"
+      ]
+    },
+    {
+      "value": "FedEx",
+      "synonyms": [
+        "FedEx"
+      ]
+    },
+    {
+      "value": "Fifth Third Bank",
+      "synonyms": [
+        "Fifth Third Bank"
+      ]
+    },
+    {
+      "value": "First Commercial Bank",
+      "synonyms": [
+        "First Commercial Bank"
+      ]
+    },
+    {
+      "value": "First Nations Bank of Canada",
+      "synonyms": [
+        "First Nations Bank of Canada"
+      ]
+    },
+    {
+      "value": "General Bank of Canada",
+      "synonyms": [
+        "General Bank of Canada"
+      ]
+    },
+    {
+      "value": "Goldman Sachs",
+      "synonyms": [
+        "Goldman Sachs"
+      ]
+    },
+    {
+      "value": "Goldman Sachs Group",
+      "synonyms": [
+        "Goldman Sachs Group"
+      ]
+    },
+    {
+      "value": "HSBC",
+      "synonyms": [
+        "HSBC"
+      ]
+    },
+    {
+      "value": "HSBC Bank Canada",
+      "synonyms": [
+        "HSBC Bank Canada"
+      ]
+    },
+    {
+      "value": "HSBC North America Holdings",
+      "synonyms": [
+        "HSBC North America Holdings"
+      ]
+    },
+    {
+      "value": "Habib Canadian Bank",
+      "synonyms": [
+        "Habib Canadian Bank"
+      ]
+    },
+    {
+      "value": "Hollis Canadian Bank",
+      "synonyms": [
+        "Hollis Canadian Bank"
+      ]
+    },
+    {
+      "value": "HomEquity Bank",
+      "synonyms": [
+        "HomEquity Bank"
+      ]
+    },
+    {
+      "value": "ICICI Bank Canada",
+      "synonyms": [
+        "ICICI Bank Canada"
+      ]
+    },
+    {
+      "value": "IDBI",
+      "synonyms": [
+        "IDBI"
+      ]
+    },
+    {
+      "value": "Industrial and Commercial Bank of China",
+      "synonyms": [
+        "Industrial and Commercial Bank of China"
+      ]
+    },
+    {
+      "value": "J.P. Morgan Bank Canada",
+      "synonyms": [
+        "J.P. Morgan Bank Canada"
+      ]
+    },
+    {
+      "value": "J.P. Morgan Canada",
+      "synonyms": [
+        "J.P. Morgan Canada"
+      ]
+    },
+    {
+      "value": "J.P.Morgan Chase \u0026 Co",
+      "synonyms": [
+        "J.P.Morgan Chase \u0026 Co"
+      ]
+    },
+    {
+      "value": "JP Morgan Chase",
+      "synonyms": [
+        "JP Morgan Chase"
+      ]
+    },
+    {
+      "value": "JPMorgan Chase",
+      "synonyms": [
+        "JPMorgan Chase"
+      ]
+    },
+    {
+      "value": "JPMorgan Chase Bank",
+      "synonyms": [
+        "JPMorgan Chase Bank"
+      ]
+    },
+    {
+      "value": "KEB Hana Bank Canada",
+      "synonyms": [
+        "KEB Hana Bank Canada"
+      ]
+    },
+    {
+      "value": "Laurentian Bank of Canada",
+      "synonyms": [
+        "Laurentian Bank of Canada"
+      ]
+    },
+    {
+      "value": "Lloyds Banking Group",
+      "synonyms": [
+        "Lloyds Banking Group"
+      ]
+    },
+    {
+      "value": "M\u0026T Bank",
+      "synonyms": [
+        "M\u0026T Bank"
+      ]
+    },
+    {
+      "value": "M\u0026T Bank Corporation",
+      "synonyms": [
+        "M\u0026T Bank Corporation"
+      ]
+    },
+    {
+      "value": "Manulife Bank of Canada",
+      "synonyms": [
+        "Manulife Bank of Canada"
+      ]
+    },
+    {
+      "value": "Maple Bank",
+      "synonyms": [
+        "Maple Bank"
+      ]
+    },
+    {
+      "value": "Mega International Commercial Bank",
+      "synonyms": [
+        "Mega International Commercial Bank"
+      ]
+    },
+    {
+      "value": "Mizuho Corporate Bank",
+      "synonyms": [
+        "Mizuho Corporate Bank"
+      ]
+    },
+    {
+      "value": "Morgan Stanley",
+      "synonyms": [
+        "Morgan Stanley"
+      ]
+    },
+    {
+      "value": "National Bank of Canada",
+      "synonyms": [
+        "National Bank of Canada"
+      ]
+    },
+    {
+      "value": "Natixis",
+      "synonyms": [
+        "Natixis"
+      ]
+    },
+    {
+      "value": "Northern Trust Company",
+      "synonyms": [
+        "Northern Trust Company"
+      ]
+    },
+    {
+      "value": "PNC Bank",
+      "synonyms": [
+        "PNC Bank"
+      ]
+    },
+    {
+      "value": "PNC Bank Canada Branch",
+      "synonyms": [
+        "PNC Bank Canada Branch"
+      ]
+    },
+    {
+      "value": "PNC Financial Services",
+      "synonyms": [
+        "PNC Financial Services"
+      ]
+    },
+    {
+      "value": "President\u0027s Choice Bank",
+      "synonyms": [
+        "President\u0027s Choice Bank"
+      ]
+    },
+    {
+      "value": "RBC USA Holdco Corporation",
+      "synonyms": [
+        "RBC USA Holdco Corporation"
+      ]
+    },
+    {
+      "value": "Rabobank Nederland",
+      "synonyms": [
+        "Rabobank Nederland"
+      ]
+    },
+    {
+      "value": "Regions Financial Corporation",
+      "synonyms": [
+        "Regions Financial Corporation"
+      ]
+    },
+    {
+      "value": "Rogers Bank",
+      "synonyms": [
+        "Rogers Bank"
+      ]
+    },
+    {
+      "value": "Royal Bank of Canada",
+      "synonyms": [
+        "Royal Bank of Canada"
+      ]
+    },
+    {
+      "value": "Royal Bank of Scotland Group",
+      "synonyms": [
+        "Royal Bank of Scotland Group"
+      ]
+    },
+    {
+      "value": "Royal Bank of Scotland plc",
+      "synonyms": [
+        "Royal Bank of Scotland plc"
+      ]
+    },
+    {
+      "value": "Santander Holdings USA",
+      "synonyms": [
+        "Santander Holdings USA"
+      ]
+    },
+    {
+      "value": "Shinhan Bank Canada",
+      "synonyms": [
+        "Shinhan Bank Canada"
+      ]
+    },
+    {
+      "value": "Société Générale",
+      "synonyms": [
+        "Société Générale"
+      ]
+    },
+    {
+      "value": "Standard Chartered",
+      "synonyms": [
+        "Standard Chartered"
+      ]
+    },
+    {
+      "value": "State Bank of India",
+      "synonyms": [
+        "State Bank of India"
+      ]
+    },
+    {
+      "value": "State Street",
+      "synonyms": [
+        "State Street"
+      ]
+    },
+    {
+      "value": "State Street Corporation",
+      "synonyms": [
+        "State Street Corporation"
+      ]
+    },
+    {
+      "value": "Sumitomo Mitsui Banking Corporation",
+      "synonyms": [
+        "Sumitomo Mitsui Banking Corporation"
+      ]
+    },
+    {
+      "value": "Sumitomo Mitsui Banking Corporation of Canada",
+      "synonyms": [
+        "Sumitomo Mitsui Banking Corporation of Canada"
+      ]
+    },
+    {
+      "value": "SunTrust Banks",
+      "synonyms": [
+        "SunTrust Banks"
+      ]
+    },
+    {
+      "value": "TD Group US Holding",
+      "synonyms": [
+        "TD Group US Holding"
+      ]
+    },
+    {
+      "value": "TNT",
+      "synonyms": [
+        "TNT"
+      ]
+    },
+    {
+      "value": "TNT Express",
+      "synonyms": [
+        "TNT Express"
+      ]
+    },
+    {
+      "value": "TNT Post",
+      "synonyms": [
+        "TNT Post"
+      ]
+    },
+    {
+      "value": "Tangerine Bank",
+      "synonyms": [
+        "Tangerine Bank"
+      ]
+    },
+    {
+      "value": "The Ups Store",
+      "synonyms": [
+        "The Ups Store"
+      ]
+    },
+    {
+      "value": "Toronto-Dominion Bank",
+      "synonyms": [
+        "Toronto-Dominion Bank"
+      ]
+    },
+    {
+      "value": "U.S. Bancorp",
+      "synonyms": [
+        "U.S. Bancorp"
+      ]
+    },
+    {
+      "value": "U.S. Bank National Association",
+      "synonyms": [
+        "U.S. Bank National Association"
+      ]
+    },
+    {
+      "value": "UBS AG Canada Branch",
+      "synonyms": [
+        "UBS AG Canada Branch"
+      ]
+    },
+    {
+      "value": "UBS Bank",
+      "synonyms": [
+        "UBS Bank"
+      ]
+    },
+    {
+      "value": "US Postal Service",
+      "synonyms": [
+        "US Postal Service"
+      ]
+    },
+    {
+      "value": "Union Bank of California",
+      "synonyms": [
+        "Union Bank of California"
+      ]
+    },
+    {
+      "value": "United Overseas Bank Limited",
+      "synonyms": [
+        "United Overseas Bank Limited"
+      ]
+    },
+    {
+      "value": "United Services Automobile Assoc.",
+      "synonyms": [
+        "United Services Automobile Assoc."
+      ]
+    },
+    {
+      "value": "United States Postal Service",
+      "synonyms": [
+        "United States Postal Service"
+      ]
+    },
+    {
+      "value": "VersaBank",
+      "synonyms": [
+        "VersaBank"
+      ]
+    },
+    {
+      "value": "Walmart Canada Bank",
+      "synonyms": [
+        "Walmart Canada Bank"
+      ]
+    },
+    {
+      "value": "Wealth One Bank of Canada",
+      "synonyms": [
+        "Wealth One Bank of Canada"
+      ]
+    },
+    {
+      "value": "Wells Fargo",
+      "synonyms": [
+        "Wells Fargo"
+      ]
+    },
+    {
+      "value": "Wells Fargo Bank",
+      "synonyms": [
+        "Wells Fargo Bank"
+      ]
+    },
+    {
+      "value": "Zag Bank",
+      "synonyms": [
+        "Zag Bank"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}

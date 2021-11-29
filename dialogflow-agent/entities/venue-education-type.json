@@ -1,0 +1,109 @@
+{
+  "id": "ccd8719b-ada0-43ba-ad34-d3b5b7b4eb39",
+  "name": "venue-education-type",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "university",
+      "synonyms": [
+        "university",
+        "universities"
+      ]
+    },
+    {
+      "value": "elementary school",
+      "synonyms": [
+        "elementary school",
+        "primary school",
+        "elementary schools",
+        "primary schools"
+      ]
+    },
+    {
+      "value": "secondary school",
+      "synonyms": [
+        "secondary school",
+        "secondary schools"
+      ]
+    },
+    {
+      "value": "high school",
+      "synonyms": [
+        "high school",
+        "high schools"
+      ]
+    },
+    {
+      "value": "private school",
+      "synonyms": [
+        "private school",
+        "private schools"
+      ]
+    },
+    {
+      "value": "school",
+      "synonyms": [
+        "school",
+        "schools"
+      ]
+    },
+    {
+      "value": "spanish courses",
+      "synonyms": [
+        "spanish courses",
+        "spanish course"
+      ]
+    },
+    {
+      "value": "college",
+      "synonyms": [
+        "college",
+        "colleges"
+      ]
+    },
+    {
+      "value": "educational service",
+      "synonyms": [
+        "educational service",
+        "educational services"
+      ]
+    },
+    {
+      "value": "middle school",
+      "synonyms": [
+        "middle school",
+        "middle schools"
+      ]
+    },
+    {
+      "value": "technical school",
+      "synonyms": [
+        "technical school",
+        "technical schools"
+      ]
+    },
+    {
+      "value": "driving school",
+      "synonyms": [
+        "driving school",
+        "driving schools"
+      ]
+    },
+    {
+      "value": "language school",
+      "synonyms": [
+        "language school",
+        "language schools"
+      ]
+    },
+    {
+      "value": "religious school",
+      "synonyms": [
+        "religious school",
+        "religious schools"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

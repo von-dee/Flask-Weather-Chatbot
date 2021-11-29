@@ -1,0 +1,520 @@
+{
+  "id": "74e6a279-3841-404c-9e85-c7d6b321b214",
+  "name": "adm-division-ru",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Agin-Buryat Autonomous Okrug",
+      "synonyms": [
+        "Agin-Buryat Autonomous Okrug"
+      ]
+    },
+    {
+      "value": "Altai Krai",
+      "synonyms": [
+        "Altai Krai"
+      ]
+    },
+    {
+      "value": "Altai Republic",
+      "synonyms": [
+        "Altai Republic"
+      ]
+    },
+    {
+      "value": "Amur Oblast",
+      "synonyms": [
+        "Amur Oblast"
+      ]
+    },
+    {
+      "value": "Arkhangelsk Oblast",
+      "synonyms": [
+        "Arkhangelsk Oblast"
+      ]
+    },
+    {
+      "value": "Astrakhan Oblast",
+      "synonyms": [
+        "Astrakhan Oblast"
+      ]
+    },
+    {
+      "value": "Belgorod Oblast",
+      "synonyms": [
+        "Belgorod Oblast"
+      ]
+    },
+    {
+      "value": "Bryansk Oblast",
+      "synonyms": [
+        "Bryansk Oblast"
+      ]
+    },
+    {
+      "value": "Buryat Republic",
+      "synonyms": [
+        "Buryat Republic"
+      ]
+    },
+    {
+      "value": "Central Administrative Okrug",
+      "synonyms": [
+        "Central Administrative Okrug"
+      ]
+    },
+    {
+      "value": "Chechen Republic",
+      "synonyms": [
+        "Chechen Republic"
+      ]
+    },
+    {
+      "value": "Chelyabinsk Oblast",
+      "synonyms": [
+        "Chelyabinsk Oblast"
+      ]
+    },
+    {
+      "value": "Chuvash Republic",
+      "synonyms": [
+        "Chuvash Republic"
+      ]
+    },
+    {
+      "value": "Irkutsk Oblast",
+      "synonyms": [
+        "Irkutsk Oblast"
+      ]
+    },
+    {
+      "value": "Ivanovo Oblast",
+      "synonyms": [
+        "Ivanovo Oblast"
+      ]
+    },
+    {
+      "value": "Jewish Autonomous Oblast",
+      "synonyms": [
+        "Jewish Autonomous Oblast"
+      ]
+    },
+    {
+      "value": "Kabardino-Balkar Republic",
+      "synonyms": [
+        "Kabardino-Balkar Republic"
+      ]
+    },
+    {
+      "value": "Kaliningrad Oblast",
+      "synonyms": [
+        "Kaliningrad Oblast"
+      ]
+    },
+    {
+      "value": "Kaluga Oblast",
+      "synonyms": [
+        "Kaluga Oblast"
+      ]
+    },
+    {
+      "value": "Kamchatka Krai",
+      "synonyms": [
+        "Kamchatka Krai"
+      ]
+    },
+    {
+      "value": "Karachay-Cherkess Republic",
+      "synonyms": [
+        "Karachay-Cherkess Republic"
+      ]
+    },
+    {
+      "value": "Kemerovo Oblast",
+      "synonyms": [
+        "Kemerovo Oblast"
+      ]
+    },
+    {
+      "value": "Khabarovsk Krai",
+      "synonyms": [
+        "Khabarovsk Krai"
+      ]
+    },
+    {
+      "value": "Khanty-Mansi Autonomous Okrug",
+      "synonyms": [
+        "Khanty-Mansi Autonomous Okrug"
+      ]
+    },
+    {
+      "value": "Komi Republic",
+      "synonyms": [
+        "Komi Republic"
+      ]
+    },
+    {
+      "value": "Kostroma Oblast",
+      "synonyms": [
+        "Kostroma Oblast"
+      ]
+    },
+    {
+      "value": "Krasnodar Krai",
+      "synonyms": [
+        "Krasnodar Krai"
+      ]
+    },
+    {
+      "value": "Krasnoyarsk Krai",
+      "synonyms": [
+        "Krasnoyarsk Krai"
+      ]
+    },
+    {
+      "value": "Kurgan Oblast",
+      "synonyms": [
+        "Kurgan Oblast"
+      ]
+    },
+    {
+      "value": "Kursk Oblast",
+      "synonyms": [
+        "Kursk Oblast"
+      ]
+    },
+    {
+      "value": "Leningrad Oblast",
+      "synonyms": [
+        "Leningrad Oblast"
+      ]
+    },
+    {
+      "value": "Lipetsk Oblast",
+      "synonyms": [
+        "Lipetsk Oblast"
+      ]
+    },
+    {
+      "value": "Magadan Oblast",
+      "synonyms": [
+        "Magadan Oblast"
+      ]
+    },
+    {
+      "value": "Mari El Republic",
+      "synonyms": [
+        "Mari El Republic"
+      ]
+    },
+    {
+      "value": "Moscow Oblast",
+      "synonyms": [
+        "Moscow Oblast"
+      ]
+    },
+    {
+      "value": "Murmansk Oblast",
+      "synonyms": [
+        "Murmansk Oblast"
+      ]
+    },
+    {
+      "value": "Nizhny Novgorod Oblast",
+      "synonyms": [
+        "Nizhny Novgorod Oblast"
+      ]
+    },
+    {
+      "value": "Novgorod Oblast",
+      "synonyms": [
+        "Novgorod Oblast"
+      ]
+    },
+    {
+      "value": "Novosibirsk Oblast",
+      "synonyms": [
+        "Novosibirsk Oblast"
+      ]
+    },
+    {
+      "value": "Omsk Oblast",
+      "synonyms": [
+        "Omsk Oblast"
+      ]
+    },
+    {
+      "value": "Orenburg Oblast",
+      "synonyms": [
+        "Orenburg Oblast"
+      ]
+    },
+    {
+      "value": "Oryol Oblast",
+      "synonyms": [
+        "Oryol Oblast"
+      ]
+    },
+    {
+      "value": "Penza Oblast",
+      "synonyms": [
+        "Penza Oblast"
+      ]
+    },
+    {
+      "value": "Perm Krai",
+      "synonyms": [
+        "Perm Krai"
+      ]
+    },
+    {
+      "value": "Primorsky Krai",
+      "synonyms": [
+        "Primorsky Krai"
+      ]
+    },
+    {
+      "value": "Pskov Oblast",
+      "synonyms": [
+        "Pskov Oblast"
+      ]
+    },
+    {
+      "value": "Republic of Adygea",
+      "synonyms": [
+        "Republic of Adygea"
+      ]
+    },
+    {
+      "value": "Republic of Bashkortostan",
+      "synonyms": [
+        "Republic of Bashkortostan"
+      ]
+    },
+    {
+      "value": "Republic of Crimea",
+      "synonyms": [
+        "Republic of Crimea",
+        "Crimea"
+      ]
+    },
+    {
+      "value": "Republic of Dagestan",
+      "synonyms": [
+        "Republic of Dagestan"
+      ]
+    },
+    {
+      "value": "Republic of Ingushetia",
+      "synonyms": [
+        "Republic of Ingushetia"
+      ]
+    },
+    {
+      "value": "Republic of Kalmykia",
+      "synonyms": [
+        "Republic of Kalmykia"
+      ]
+    },
+    {
+      "value": "Republic of Karelia",
+      "synonyms": [
+        "Republic of Karelia"
+      ]
+    },
+    {
+      "value": "Republic of Khakassia",
+      "synonyms": [
+        "Republic of Khakassia"
+      ]
+    },
+    {
+      "value": "Republic of Mordovia",
+      "synonyms": [
+        "Republic of Mordovia"
+      ]
+    },
+    {
+      "value": "Republic of North Ossetia-Alania",
+      "synonyms": [
+        "Republic of North Ossetia-Alania"
+      ]
+    },
+    {
+      "value": "Republic of Tatarstan",
+      "synonyms": [
+        "Republic of Tatarstan"
+      ]
+    },
+    {
+      "value": "Rostov Oblast",
+      "synonyms": [
+        "Rostov Oblast"
+      ]
+    },
+    {
+      "value": "Ryazan Oblast",
+      "synonyms": [
+        "Ryazan Oblast"
+      ]
+    },
+    {
+      "value": "Saint Petersburg",
+      "synonyms": [
+        "Saint Petersburg"
+      ]
+    },
+    {
+      "value": "Sakha Republic",
+      "synonyms": [
+        "Sakha Republic"
+      ]
+    },
+    {
+      "value": "Sakhalin Oblast",
+      "synonyms": [
+        "Sakhalin Oblast"
+      ]
+    },
+    {
+      "value": "Samara Oblast",
+      "synonyms": [
+        "Samara Oblast"
+      ]
+    },
+    {
+      "value": "Saratov Oblast",
+      "synonyms": [
+        "Saratov Oblast"
+      ]
+    },
+    {
+      "value": "Smolensk Oblast",
+      "synonyms": [
+        "Smolensk Oblast"
+      ]
+    },
+    {
+      "value": "Southern Federal District",
+      "synonyms": [
+        "Southern Federal District"
+      ]
+    },
+    {
+      "value": "Stavropol Krai",
+      "synonyms": [
+        "Stavropol Krai"
+      ]
+    },
+    {
+      "value": "Sverdlovsk Oblast",
+      "synonyms": [
+        "Sverdlovsk Oblast"
+      ]
+    },
+    {
+      "value": "Tambov Oblast",
+      "synonyms": [
+        "Tambov Oblast"
+      ]
+    },
+    {
+      "value": "Tomsk Oblast",
+      "synonyms": [
+        "Tomsk Oblast"
+      ]
+    },
+    {
+      "value": "Tula Oblast",
+      "synonyms": [
+        "Tula Oblast"
+      ]
+    },
+    {
+      "value": "Tuva Republic",
+      "synonyms": [
+        "Tuva Republic"
+      ]
+    },
+    {
+      "value": "Tver Oblast",
+      "synonyms": [
+        "Tver Oblast"
+      ]
+    },
+    {
+      "value": "Tyumen Oblast",
+      "synonyms": [
+        "Tyumen Oblast"
+      ]
+    },
+    {
+      "value": "Udmurt Republic",
+      "synonyms": [
+        "Udmurt Republic"
+      ]
+    },
+    {
+      "value": "Ulyanovsk Oblast",
+      "synonyms": [
+        "Ulyanovsk Oblast"
+      ]
+    },
+    {
+      "value": "Ural Federal District",
+      "synonyms": [
+        "Ural Federal District"
+      ]
+    },
+    {
+      "value": "Ust-Orda Buryat Autonomous Okrug",
+      "synonyms": [
+        "Ust-Orda Buryat Autonomous Okrug"
+      ]
+    },
+    {
+      "value": "Vladimir Oblast",
+      "synonyms": [
+        "Vladimir Oblast"
+      ]
+    },
+    {
+      "value": "Volgograd Oblast",
+      "synonyms": [
+        "Volgograd Oblast"
+      ]
+    },
+    {
+      "value": "Vologda Oblast",
+      "synonyms": [
+        "Vologda Oblast"
+      ]
+    },
+    {
+      "value": "Voronezh Oblast",
+      "synonyms": [
+        "Voronezh Oblast"
+      ]
+    },
+    {
+      "value": "Vyborgsky District",
+      "synonyms": [
+        "Vyborgsky District"
+      ]
+    },
+    {
+      "value": "Yamalo-Nenets Autonomous Okrug",
+      "synonyms": [
+        "Yamalo-Nenets Autonomous Okrug"
+      ]
+    },
+    {
+      "value": "Zabaykalsky Krai",
+      "synonyms": [
+        "Zabaykalsky Krai"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

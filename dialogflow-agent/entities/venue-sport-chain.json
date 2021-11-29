@@ -1,0 +1,579 @@
+{
+  "id": "95d76d30-bd31-45e3-b0d8-a875b7222078",
+  "name": "venue-sport-chain",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "24 Hour Fitness",
+      "synonyms": [
+        "24 Hour Fitness"
+      ]
+    },
+    {
+      "value": "Acac Fitness and Wellness Center",
+      "synonyms": [
+        "Acac Fitness and Wellness Center"
+      ]
+    },
+    {
+      "value": "American Family Fitness",
+      "synonyms": [
+        "American Family Fitness"
+      ]
+    },
+    {
+      "value": "Anytime Fitness",
+      "synonyms": [
+        "Anytime Fitness"
+      ]
+    },
+    {
+      "value": "Bally Total Fitness",
+      "synonyms": [
+        "Bally Total Fitness"
+      ]
+    },
+    {
+      "value": "Bannatynes Gyms",
+      "synonyms": [
+        "Bannatynes Gyms"
+      ]
+    },
+    {
+      "value": "Barbell Brigade",
+      "synonyms": [
+        "Barbell Brigade"
+      ]
+    },
+    {
+      "value": "Ben Dunne Gyms",
+      "synonyms": [
+        "Ben Dunne Gyms"
+      ]
+    },
+    {
+      "value": "Big Sky",
+      "synonyms": [
+        "Big Sky"
+      ]
+    },
+    {
+      "value": "Blink Fitness",
+      "synonyms": [
+        "Blink Fitness"
+      ]
+    },
+    {
+      "value": "Celebrity Fitness",
+      "synonyms": [
+        "Celebrity Fitness"
+      ]
+    },
+    {
+      "value": "Club One",
+      "synonyms": [
+        "Club One"
+      ]
+    },
+    {
+      "value": "CrossFit Gyms",
+      "synonyms": [
+        "CrossFit Gyms"
+      ]
+    },
+    {
+      "value": "Crunch Fitness",
+      "synonyms": [
+        "Crunch Fitness"
+      ]
+    },
+    {
+      "value": "Curves International",
+      "synonyms": [
+        "Curves International"
+      ]
+    },
+    {
+      "value": "DW Fitness",
+      "synonyms": [
+        "DW Fitness"
+      ]
+    },
+    {
+      "value": "David Barton Gym",
+      "synonyms": [
+        "David Barton Gym"
+      ]
+    },
+    {
+      "value": "Elixia",
+      "synonyms": [
+        "Elixia"
+      ]
+    },
+    {
+      "value": "Equinox",
+      "synonyms": [
+        "Equinox"
+      ]
+    },
+    {
+      "value": "Equinox Fitness",
+      "synonyms": [
+        "Equinox Fitness"
+      ]
+    },
+    {
+      "value": "Esporta Gyms",
+      "synonyms": [
+        "Esporta Gyms"
+      ]
+    },
+    {
+      "value": "Experience Fitness",
+      "synonyms": [
+        "Experience Fitness"
+      ]
+    },
+    {
+      "value": "Fitness 19",
+      "synonyms": [
+        "Fitness 19"
+      ]
+    },
+    {
+      "value": "Fitness 360",
+      "synonyms": [
+        "Fitness 360"
+      ]
+    },
+    {
+      "value": "Fitness First",
+      "synonyms": [
+        "Fitness First"
+      ]
+    },
+    {
+      "value": "FitnessLand",
+      "synonyms": [
+        "FitnessLand"
+      ]
+    },
+    {
+      "value": "Gold\u0027s Gym",
+      "synonyms": [
+        "Gold\u0027s Gym"
+      ]
+    },
+    {
+      "value": "Gold\u0027s Gym franchisee Sheru Classic",
+      "synonyms": [
+        "Gold\u0027s Gym franchisee Sheru Classic"
+      ]
+    },
+    {
+      "value": "Goldís Gym",
+      "synonyms": [
+        "Goldís Gym"
+      ]
+    },
+    {
+      "value": "Goodlife Health Clubs",
+      "synonyms": [
+        "Goodlife Health Clubs"
+      ]
+    },
+    {
+      "value": "Grit Gym Singapore",
+      "synonyms": [
+        "Grit Gym Singapore"
+      ]
+    },
+    {
+      "value": "Gunze Sports",
+      "synonyms": [
+        "Gunze Sports"
+      ]
+    },
+    {
+      "value": "Hard Candy Fitness",
+      "synonyms": [
+        "Hard Candy Fitness"
+      ]
+    },
+    {
+      "value": "Hard Candy Fitness Mexico City",
+      "synonyms": [
+        "Hard Candy Fitness Mexico City"
+      ]
+    },
+    {
+      "value": "Hard Candy Fitness Milan",
+      "synonyms": [
+        "Hard Candy Fitness Milan"
+      ]
+    },
+    {
+      "value": "Hard Candy Fitness Rome",
+      "synonyms": [
+        "Hard Candy Fitness Rome"
+      ]
+    },
+    {
+      "value": "Hard Candy Fitness Santiago",
+      "synonyms": [
+        "Hard Candy Fitness Santiago"
+      ]
+    },
+    {
+      "value": "Hard Candy Fitness St Petersburg",
+      "synonyms": [
+        "Hard Candy Fitness St Petersburg"
+      ]
+    },
+    {
+      "value": "Hard Candy Fitnessb",
+      "synonyms": [
+        "Hard Candy Fitnessb"
+      ]
+    },
+    {
+      "value": "Healthtrax",
+      "synonyms": [
+        "Healthtrax"
+      ]
+    },
+    {
+      "value": "Hong Kong",
+      "synonyms": [
+        "Hong Kong"
+      ]
+    },
+    {
+      "value": "In-Shape",
+      "synonyms": [
+        "In-Shape"
+      ]
+    },
+    {
+      "value": "Iron Sport Gym Inc",
+      "synonyms": [
+        "Iron Sport Gym Inc"
+      ]
+    },
+    {
+      "value": "Island Gym",
+      "synonyms": [
+        "Island Gym"
+      ]
+    },
+    {
+      "value": "Island Gym \u0026 Fitness",
+      "synonyms": [
+        "Island Gym \u0026 Fitness"
+      ]
+    },
+    {
+      "value": "Jetts Fitness",
+      "synonyms": [
+        "Jetts Fitness"
+      ]
+    },
+    {
+      "value": "Jetts Fitness Bangkok",
+      "synonyms": [
+        "Jetts Fitness Bangkok"
+      ]
+    },
+    {
+      "value": "Jewish Community Center",
+      "synonyms": [
+        "Jewish Community Center"
+      ]
+    },
+    {
+      "value": "Joyful",
+      "synonyms": [
+        "Joyful"
+      ]
+    },
+    {
+      "value": "Just Fit",
+      "synonyms": [
+        "Just Fit"
+      ]
+    },
+    {
+      "value": "L.A Fitness",
+      "synonyms": [
+        "L.A Fitness"
+      ]
+    },
+    {
+      "value": "LA Fitness",
+      "synonyms": [
+        "LA Fitness"
+      ]
+    },
+    {
+      "value": "LA Fitness Gyms",
+      "synonyms": [
+        "LA Fitness Gyms"
+      ]
+    },
+    {
+      "value": "Les Mills International",
+      "synonyms": [
+        "Les Mills International"
+      ]
+    },
+    {
+      "value": "Life Fitness",
+      "synonyms": [
+        "Life Fitness"
+      ]
+    },
+    {
+      "value": "Life Time Fitness",
+      "synonyms": [
+        "Life Time Fitness"
+      ]
+    },
+    {
+      "value": "Lifetime Fitness",
+      "synonyms": [
+        "Lifetime Fitness"
+      ]
+    },
+    {
+      "value": "Lift Wellness Center of Jackson",
+      "synonyms": [
+        "Lift Wellness Center of Jackson"
+      ]
+    },
+    {
+      "value": "Lucille Roberts",
+      "synonyms": [
+        "Lucille Roberts"
+      ]
+    },
+    {
+      "value": "MVP Sports Club",
+      "synonyms": [
+        "MVP Sports Club"
+      ]
+    },
+    {
+      "value": "McFit",
+      "synonyms": [
+        "McFit"
+      ]
+    },
+    {
+      "value": "Merritt Athletic Clubs",
+      "synonyms": [
+        "Merritt Athletic Clubs"
+      ]
+    },
+    {
+      "value": "Metroflex Gym",
+      "synonyms": [
+        "Metroflex Gym"
+      ]
+    },
+    {
+      "value": "Nuffield Gyms",
+      "synonyms": [
+        "Nuffield Gyms"
+      ]
+    },
+    {
+      "value": "Orange Theory Fitness",
+      "synonyms": [
+        "Orange Theory Fitness"
+      ]
+    },
+    {
+      "value": "Planet Fitness",
+      "synonyms": [
+        "Planet Fitness"
+      ]
+    },
+    {
+      "value": "Power World Gym",
+      "synonyms": [
+        "Power World Gym"
+      ]
+    },
+    {
+      "value": "Powerhouse Gym",
+      "synonyms": [
+        "Powerhouse Gym"
+      ]
+    },
+    {
+      "value": "Pure Gym",
+      "synonyms": [
+        "Pure Gym"
+      ]
+    },
+    {
+      "value": "Pure-Fitness",
+      "synonyms": [
+        "Pure-Fitness"
+      ]
+    },
+    {
+      "value": "Renaissance Sports",
+      "synonyms": [
+        "Renaissance Sports"
+      ]
+    },
+    {
+      "value": "Retro Fitness",
+      "synonyms": [
+        "Retro Fitness"
+      ]
+    },
+    {
+      "value": "Rizap HK",
+      "synonyms": [
+        "Rizap HK"
+      ]
+    },
+    {
+      "value": "Rizap Santa Monica",
+      "synonyms": [
+        "Rizap Santa Monica"
+      ]
+    },
+    {
+      "value": "Rizap Shanghai",
+      "synonyms": [
+        "Rizap Shanghai"
+      ]
+    },
+    {
+      "value": "Rizap Taipei",
+      "synonyms": [
+        "Rizap Taipei"
+      ]
+    },
+    {
+      "value": "Savas Sports Club",
+      "synonyms": [
+        "Savas Sports Club"
+      ]
+    },
+    {
+      "value": "Snap Fitness",
+      "synonyms": [
+        "Snap Fitness"
+      ]
+    },
+    {
+      "value": "Soulcycle",
+      "synonyms": [
+        "Soulcycle"
+      ]
+    },
+    {
+      "value": "Spectrum Fitness Club",
+      "synonyms": [
+        "Spectrum Fitness Club"
+      ]
+    },
+    {
+      "value": "Talwalkars",
+      "synonyms": [
+        "Talwalkars"
+      ]
+    },
+    {
+      "value": "The Sports Club",
+      "synonyms": [
+        "The Sports Club"
+      ]
+    },
+    {
+      "value": "Total Fitness",
+      "synonyms": [
+        "Total Fitness"
+      ]
+    },
+    {
+      "value": "True Fitness",
+      "synonyms": [
+        "True Fitness"
+      ]
+    },
+    {
+      "value": "True Fitness 9 clubs",
+      "synonyms": [
+        "True Fitness 9 clubs"
+      ]
+    },
+    {
+      "value": "True Fitness Xiamen",
+      "synonyms": [
+        "True Fitness Xiamen"
+      ]
+    },
+    {
+      "value": "UFC Gym",
+      "synonyms": [
+        "UFC Gym"
+      ]
+    },
+    {
+      "value": "Virgin Active",
+      "synonyms": [
+        "Virgin Active"
+      ]
+    },
+    {
+      "value": "Virgin Gyms",
+      "synonyms": [
+        "Virgin Gyms"
+      ]
+    },
+    {
+      "value": "Wellbridge",
+      "synonyms": [
+        "Wellbridge"
+      ]
+    },
+    {
+      "value": "West Wood Club",
+      "synonyms": [
+        "West Wood Club"
+      ]
+    },
+    {
+      "value": "World Gym",
+      "synonyms": [
+        "World Gym"
+      ]
+    },
+    {
+      "value": "World Gym QuerÈtaro",
+      "synonyms": [
+        "World Gym QuerÈtaro"
+      ]
+    },
+    {
+      "value": "YMCA Fitness",
+      "synonyms": [
+        "YMCA Fitness"
+      ]
+    },
+    {
+      "value": "YouFit",
+      "synonyms": [
+        "YouFit"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}

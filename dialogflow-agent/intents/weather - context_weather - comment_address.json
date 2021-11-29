@@ -1,0 +1,203 @@
+{
+  "userSays": [
+    {
+      "id": "7635ea88-da84-454b-b43d-826cde079665",
+      "data": [
+        {
+          "text": "what about "
+        },
+        {
+          "text": "San Francisco",
+          "alias": "address",
+          "meta": "@address",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "05012ddf-9946-457e-bd1d-3c011a0fd549",
+      "data": [
+        {
+          "text": "can you check "
+        },
+        {
+          "text": "Seattle",
+          "alias": "address",
+          "meta": "@address",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "53e1a38b-c2f0-40a7-bf46-b25aada8ccd3",
+      "data": [
+        {
+          "text": "what about "
+        },
+        {
+          "text": "Oakland",
+          "alias": "address",
+          "meta": "@address",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6b721fdb-1884-44d2-b72b-b802c6a410fa",
+      "data": [
+        {
+          "text": "now",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Aspen",
+          "alias": "address",
+          "meta": "@address",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ae02210e-50e0-4d6a-9b56-caac4d4db356",
+      "data": [
+        {
+          "text": "what about "
+        },
+        {
+          "text": "Aspen",
+          "alias": "address",
+          "meta": "@address",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "993cb834-9e5d-4ae6-92a8-12734898f5fb",
+      "data": [
+        {
+          "text": "Moscow",
+          "alias": "address",
+          "meta": "@address",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9dddba7a-a0e3-472b-9b9b-3fc96470df01",
+      "data": [
+        {
+          "text": "and in "
+        },
+        {
+          "text": "London",
+          "alias": "address",
+          "meta": "@address",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "687d39f7-dc6d-4169-ab06-3e31679602b5",
+      "data": [
+        {
+          "text": "what about "
+        },
+        {
+          "text": "Paris",
+          "alias": "address",
+          "meta": "@address",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "24b09e4d-7ae4-47f8-8fe9-6dec721a9d8e",
+  "name": "weather - context:weather - comment:address",
+  "auto": true,
+  "contexts": [
+    "weather"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "#weather.intent_action",
+      "affectedContexts": [
+        {
+          "name": "weather",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "dataType": "@address",
+          "name": "address",
+          "value": "$address",
+          "isList": false
+        },
+        {
+          "dataType": "",
+          "name": "date-time",
+          "value": "#weather.date-time"
+        },
+        {
+          "dataType": "",
+          "name": "activity",
+          "value": "#weather.activity"
+        },
+        {
+          "dataType": "",
+          "name": "temperature",
+          "value": "#weather.temperature"
+        },
+        {
+          "dataType": "",
+          "name": "outfit",
+          "value": "#weather.outfit"
+        },
+        {
+          "name": "condition",
+          "value": "#weather.condition"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,81 @@
+{
+  "userSays": [
+    {
+      "id": "328f4608-c9fd-4dc6-acbc-7dacc76557fb",
+      "data": [
+        {
+          "text": "what about "
+        },
+        {
+          "text": "snowing",
+          "alias": "weather-condition",
+          "meta": "@weather-condition",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "32bf8dd8-4f08-4fe4-9d4a-3a15604d0781",
+      "data": [
+        {
+          "text": "and "
+        },
+        {
+          "text": "rain",
+          "alias": "weather-condition",
+          "meta": "@weather-condition",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "08c820bd-fd65-4e92-a681-709ca3dcf07e",
+  "name": "weather - context:weather - comment:condition",
+  "auto": true,
+  "contexts": [
+    "weather"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "#weather.intent_action",
+      "affectedContexts": [
+        {
+          "name": "weather",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "dataType": "@weather-condition",
+          "name": "weather-condition",
+          "value": "$weather-condition",
+          "isList": false
+        },
+        {
+          "name": "date-time",
+          "value": "#weather.date-time"
+        },
+        {
+          "name": "address",
+          "value": "#weather.address"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

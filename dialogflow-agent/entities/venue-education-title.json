@@ -1,0 +1,6003 @@
+{
+  "id": "28003b40-372b-4976-893e-c57b681c76e6",
+  "name": "venue-education-title",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "1st International School of Ostrava",
+      "synonyms": [
+        "1st International School of Ostrava"
+      ]
+    },
+    {
+      "value": "A\u0027takamul International School",
+      "synonyms": [
+        "A\u0027takamul International School"
+      ]
+    },
+    {
+      "value": "ABC International School",
+      "synonyms": [
+        "ABC International School"
+      ]
+    },
+    {
+      "value": "ACS Beirut",
+      "synonyms": [
+        "ACS Beirut"
+      ]
+    },
+    {
+      "value": "ACS International Schools",
+      "synonyms": [
+        "ACS International Schools"
+      ]
+    },
+    {
+      "value": "APU International School",
+      "synonyms": [
+        "APU International School"
+      ]
+    },
+    {
+      "value": "ASF Mexico",
+      "synonyms": [
+        "ASF Mexico"
+      ]
+    },
+    {
+      "value": "Aalto University",
+      "synonyms": [
+        "Aalto University"
+      ]
+    },
+    {
+      "value": "Aarhus University",
+      "synonyms": [
+        "Aarhus University"
+      ]
+    },
+    {
+      "value": "Abdulrahman Kanoo International School",
+      "synonyms": [
+        "Abdulrahman Kanoo International School"
+      ]
+    },
+    {
+      "value": "Abertay University",
+      "synonyms": [
+        "Abertay University"
+      ]
+    },
+    {
+      "value": "Aberystwyth University",
+      "synonyms": [
+        "Aberystwyth University"
+      ]
+    },
+    {
+      "value": "Academia Británica Cuscatleca",
+      "synonyms": [
+        "Academia Británica Cuscatleca"
+      ]
+    },
+    {
+      "value": "Academia Cotopaxi",
+      "synonyms": [
+        "Academia Cotopaxi"
+      ]
+    },
+    {
+      "value": "Academy of Art University",
+      "synonyms": [
+        "Academy of Art University"
+      ]
+    },
+    {
+      "value": "Aga Khan Academy",
+      "synonyms": [
+        "Aga Khan Academy"
+      ]
+    },
+    {
+      "value": "Aga Khan Mzizima Secondary School",
+      "synonyms": [
+        "Aga Khan Mzizima Secondary School"
+      ]
+    },
+    {
+      "value": "Aga Khan School",
+      "synonyms": [
+        "Aga Khan School"
+      ]
+    },
+    {
+      "value": "Aiglon College",
+      "synonyms": [
+        "Aiglon College"
+      ]
+    },
+    {
+      "value": "Al Jazeera Academy",
+      "synonyms": [
+        "Al Jazeera Academy"
+      ]
+    },
+    {
+      "value": "Al Noor International School",
+      "synonyms": [
+        "Al Noor International School"
+      ]
+    },
+    {
+      "value": "Albert Einstein International School of San Pedro Sula",
+      "synonyms": [
+        "Albert Einstein International School of San Pedro Sula"
+      ]
+    },
+    {
+      "value": "Albert-Ludwigs-Universitaet Freiburg",
+      "synonyms": [
+        "Albert-Ludwigs-Universitaet Freiburg"
+      ]
+    },
+    {
+      "value": "Alice Smith School",
+      "synonyms": [
+        "Alice Smith School"
+      ]
+    },
+    {
+      "value": "Aljezur International School",
+      "synonyms": [
+        "Aljezur International School"
+      ]
+    },
+    {
+      "value": "Alliance Academy International",
+      "synonyms": [
+        "Alliance Academy International"
+      ]
+    },
+    {
+      "value": "Alliant International University",
+      "synonyms": [
+        "Alliant International University"
+      ]
+    },
+    {
+      "value": "Almaty International School",
+      "synonyms": [
+        "Almaty International School"
+      ]
+    },
+    {
+      "value": "American Academy Nicosia",
+      "synonyms": [
+        "American Academy Nicosia"
+      ]
+    },
+    {
+      "value": "American Academy of Larnaca",
+      "synonyms": [
+        "American Academy of Larnaca"
+      ]
+    },
+    {
+      "value": "American British Academy",
+      "synonyms": [
+        "American British Academy"
+      ]
+    },
+    {
+      "value": "American College of Sofia",
+      "synonyms": [
+        "American College of Sofia"
+      ]
+    },
+    {
+      "value": "American Collegiate Institute",
+      "synonyms": [
+        "American Collegiate Institute"
+      ]
+    },
+    {
+      "value": "American Community School in Amman",
+      "synonyms": [
+        "American Community School in Amman"
+      ]
+    },
+    {
+      "value": "American Community School of Abu Dhabi",
+      "synonyms": [
+        "American Community School of Abu Dhabi"
+      ]
+    },
+    {
+      "value": "American Community Schools",
+      "synonyms": [
+        "American Community Schools"
+      ]
+    },
+    {
+      "value": "American Cooperative School La Paz",
+      "synonyms": [
+        "American Cooperative School La Paz"
+      ]
+    },
+    {
+      "value": "American Heritage University of Southern California",
+      "synonyms": [
+        "American Heritage University of Southern California"
+      ]
+    },
+    {
+      "value": "American International Pan Pacific University",
+      "synonyms": [
+        "American International Pan Pacific University"
+      ]
+    },
+    {
+      "value": "American International School",
+      "synonyms": [
+        "American International School"
+      ]
+    },
+    {
+      "value": "American International School in Cyprus",
+      "synonyms": [
+        "American International School in Cyprus"
+      ]
+    },
+    {
+      "value": "American International School in Egypt",
+      "synonyms": [
+        "American International School in Egypt"
+      ]
+    },
+    {
+      "value": "American International School of Bucharest",
+      "synonyms": [
+        "American International School of Bucharest"
+      ]
+    },
+    {
+      "value": "American International School of Budapest",
+      "synonyms": [
+        "American International School of Budapest"
+      ]
+    },
+    {
+      "value": "American International School of Costa Rica",
+      "synonyms": [
+        "American International School of Costa Rica"
+      ]
+    },
+    {
+      "value": "American International School of Dhaka",
+      "synonyms": [
+        "American International School of Dhaka"
+      ]
+    },
+    {
+      "value": "American International School of Kuwait",
+      "synonyms": [
+        "American International School of Kuwait"
+      ]
+    },
+    {
+      "value": "American International School of Lomé",
+      "synonyms": [
+        "American International School of Lomé"
+      ]
+    },
+    {
+      "value": "American International School of Lusaka",
+      "synonyms": [
+        "American International School of Lusaka"
+      ]
+    },
+    {
+      "value": "American International School of Rotterdam",
+      "synonyms": [
+        "American International School of Rotterdam"
+      ]
+    },
+    {
+      "value": "American International School of Saigon",
+      "synonyms": [
+        "American International School of Saigon"
+      ]
+    },
+    {
+      "value": "American International School of Zagreb",
+      "synonyms": [
+        "American International School of Zagreb"
+      ]
+    },
+    {
+      "value": "American Jewish University",
+      "synonyms": [
+        "American Jewish University"
+      ]
+    },
+    {
+      "value": "American Nicaraguan School",
+      "synonyms": [
+        "American Nicaraguan School"
+      ]
+    },
+    {
+      "value": "American Overseas School of Rome",
+      "synonyms": [
+        "American Overseas School of Rome"
+      ]
+    },
+    {
+      "value": "American School Foundation of Monterrey",
+      "synonyms": [
+        "American School Foundation of Monterrey"
+      ]
+    },
+    {
+      "value": "American School in England",
+      "synonyms": [
+        "American School in England"
+      ]
+    },
+    {
+      "value": "American School in London",
+      "synonyms": [
+        "American School in London"
+      ]
+    },
+    {
+      "value": "American School in Switzerland",
+      "synonyms": [
+        "American School in Switzerland"
+      ]
+    },
+    {
+      "value": "American School of Antananarivo",
+      "synonyms": [
+        "American School of Antananarivo"
+      ]
+    },
+    {
+      "value": "American School of Asuncion",
+      "synonyms": [
+        "American School of Asuncion"
+      ]
+    },
+    {
+      "value": "American School of Barcelona",
+      "synonyms": [
+        "American School of Barcelona"
+      ]
+    },
+    {
+      "value": "American School of Brasília",
+      "synonyms": [
+        "American School of Brasília"
+      ]
+    },
+    {
+      "value": "American School of Doha",
+      "synonyms": [
+        "American School of Doha"
+      ]
+    },
+    {
+      "value": "American School of Dubai",
+      "synonyms": [
+        "American School of Dubai"
+      ]
+    },
+    {
+      "value": "American School of Kuwait",
+      "synonyms": [
+        "American School of Kuwait"
+      ]
+    },
+    {
+      "value": "American School of Marrakesh",
+      "synonyms": [
+        "American School of Marrakesh"
+      ]
+    },
+    {
+      "value": "American School of Milan",
+      "synonyms": [
+        "American School of Milan"
+      ]
+    },
+    {
+      "value": "American School of Paris",
+      "synonyms": [
+        "American School of Paris"
+      ]
+    },
+    {
+      "value": "American School of Recife",
+      "synonyms": [
+        "American School of Recife"
+      ]
+    },
+    {
+      "value": "American School of Rio de Janeiro",
+      "synonyms": [
+        "American School of Rio de Janeiro"
+      ]
+    },
+    {
+      "value": "American School of Tegucigalpa",
+      "synonyms": [
+        "American School of Tegucigalpa"
+      ]
+    },
+    {
+      "value": "American School of The Hague",
+      "synonyms": [
+        "American School of The Hague"
+      ]
+    },
+    {
+      "value": "American School of Ulaanbaatar",
+      "synonyms": [
+        "American School of Ulaanbaatar"
+      ]
+    },
+    {
+      "value": "American School of Vietnam",
+      "synonyms": [
+        "American School of Vietnam"
+      ]
+    },
+    {
+      "value": "American School of Warsaw",
+      "synonyms": [
+        "American School of Warsaw"
+      ]
+    },
+    {
+      "value": "American School of Yaounde",
+      "synonyms": [
+        "American School of Yaounde"
+      ]
+    },
+    {
+      "value": "Amman Baccalaureate School",
+      "synonyms": [
+        "Amman Baccalaureate School"
+      ]
+    },
+    {
+      "value": "Anaheim University",
+      "synonyms": [
+        "Anaheim University"
+      ]
+    },
+    {
+      "value": "Anglia Ruskin University",
+      "synonyms": [
+        "Anglia Ruskin University"
+      ]
+    },
+    {
+      "value": "Anglo Colombian School",
+      "synonyms": [
+        "Anglo Colombian School"
+      ]
+    },
+    {
+      "value": "Anglo European School",
+      "synonyms": [
+        "Anglo European School"
+      ]
+    },
+    {
+      "value": "Anglo-American School of Moscow",
+      "synonyms": [
+        "Anglo-American School of Moscow"
+      ]
+    },
+    {
+      "value": "Anglo-American School of Sofia",
+      "synonyms": [
+        "Anglo-American School of Sofia"
+      ]
+    },
+    {
+      "value": "Anglo-American School of St. Petersburg",
+      "synonyms": [
+        "Anglo-American School of St. Petersburg"
+      ]
+    },
+    {
+      "value": "Antioch University Los Angeles",
+      "synonyms": [
+        "Antioch University Los Angeles"
+      ]
+    },
+    {
+      "value": "Antwerp International School",
+      "synonyms": [
+        "Antwerp International School"
+      ]
+    },
+    {
+      "value": "Appleby College",
+      "synonyms": [
+        "Appleby College"
+      ]
+    },
+    {
+      "value": "Arden University",
+      "synonyms": [
+        "Arden University"
+      ]
+    },
+    {
+      "value": "Argosy University",
+      "synonyms": [
+        "Argosy University"
+      ]
+    },
+    {
+      "value": "Art Center College of Design",
+      "synonyms": [
+        "Art Center College of Design"
+      ]
+    },
+    {
+      "value": "Asia Pacific International School",
+      "synonyms": [
+        "Asia Pacific International School"
+      ]
+    },
+    {
+      "value": "Asian International School",
+      "synonyms": [
+        "Asian International School"
+      ]
+    },
+    {
+      "value": "Association International School",
+      "synonyms": [
+        "Association International School"
+      ]
+    },
+    {
+      "value": "Associação Escola Graduada de São Paulo",
+      "synonyms": [
+        "Associação Escola Graduada de São Paulo"
+      ]
+    },
+    {
+      "value": "Aston University",
+      "synonyms": [
+        "Aston University"
+      ]
+    },
+    {
+      "value": "Asunción Christian Academy",
+      "synonyms": [
+        "Asunción Christian Academy"
+      ]
+    },
+    {
+      "value": "Atlantic College",
+      "synonyms": [
+        "Atlantic College"
+      ]
+    },
+    {
+      "value": "Atlantic International School",
+      "synonyms": [
+        "Atlantic International School"
+      ]
+    },
+    {
+      "value": "Auckland International College",
+      "synonyms": [
+        "Auckland International College"
+      ]
+    },
+    {
+      "value": "Australian International School",
+      "synonyms": [
+        "Australian International School"
+      ]
+    },
+    {
+      "value": "Azusa Pacific University",
+      "synonyms": [
+        "Azusa Pacific University"
+      ]
+    },
+    {
+      "value": "BPP University",
+      "synonyms": [
+        "BPP University"
+      ]
+    },
+    {
+      "value": "Bahrain School",
+      "synonyms": [
+        "Bahrain School"
+      ]
+    },
+    {
+      "value": "Baku International School",
+      "synonyms": [
+        "Baku International School"
+      ]
+    },
+    {
+      "value": "Balboa Academy",
+      "synonyms": [
+        "Balboa Academy"
+      ]
+    },
+    {
+      "value": "Banani International Secondary School",
+      "synonyms": [
+        "Banani International Secondary School"
+      ]
+    },
+    {
+      "value": "Bandung Alliance International School",
+      "synonyms": [
+        "Bandung Alliance International School"
+      ]
+    },
+    {
+      "value": "Bangladesh International School",
+      "synonyms": [
+        "Bangladesh International School"
+      ]
+    },
+    {
+      "value": "Bangladesh International School and College",
+      "synonyms": [
+        "Bangladesh International School and College"
+      ]
+    },
+    {
+      "value": "Bangladesh M.H.M High School \u0026 College",
+      "synonyms": [
+        "Bangladesh M.H.M High School \u0026 College"
+      ]
+    },
+    {
+      "value": "Bangor University",
+      "synonyms": [
+        "Bangor University"
+      ]
+    },
+    {
+      "value": "Bath Spa University",
+      "synonyms": [
+        "Bath Spa University"
+      ]
+    },
+    {
+      "value": "Bavarian International School",
+      "synonyms": [
+        "Bavarian International School"
+      ]
+    },
+    {
+      "value": "Beaconhouse Schools",
+      "synonyms": [
+        "Beaconhouse Schools"
+      ]
+    },
+    {
+      "value": "Benjamin Franklin International School",
+      "synonyms": [
+        "Benjamin Franklin International School"
+      ]
+    },
+    {
+      "value": "Berean Bible College",
+      "synonyms": [
+        "Berean Bible College"
+      ]
+    },
+    {
+      "value": "Berkeley",
+      "synonyms": [
+        "Berkeley"
+      ]
+    },
+    {
+      "value": "Berlin Brandenburg International School",
+      "synonyms": [
+        "Berlin Brandenburg International School"
+      ]
+    },
+    {
+      "value": "Berlin British School",
+      "synonyms": [
+        "Berlin British School"
+      ]
+    },
+    {
+      "value": "Berlin Cosmopolitan School",
+      "synonyms": [
+        "Berlin Cosmopolitan School"
+      ]
+    },
+    {
+      "value": "Biola University",
+      "synonyms": [
+        "Biola University"
+      ]
+    },
+    {
+      "value": "Birmingham City University",
+      "synonyms": [
+        "Birmingham City University"
+      ]
+    },
+    {
+      "value": "Birralee International School Trondheim",
+      "synonyms": [
+        "Birralee International School Trondheim"
+      ]
+    },
+    {
+      "value": "Bishop Grosseteste University",
+      "synonyms": [
+        "Bishop Grosseteste University"
+      ]
+    },
+    {
+      "value": "Bishop Mackenzie International School",
+      "synonyms": [
+        "Bishop Mackenzie International School"
+      ]
+    },
+    {
+      "value": "Bishop\u0027s College School",
+      "synonyms": [
+        "Bishop\u0027s College School"
+      ]
+    },
+    {
+      "value": "Black Forest Academy",
+      "synonyms": [
+        "Black Forest Academy"
+      ]
+    },
+    {
+      "value": "Bogaerts International School",
+      "synonyms": [
+        "Bogaerts International School"
+      ]
+    },
+    {
+      "value": "Bonn International School",
+      "synonyms": [
+        "Bonn International School"
+      ]
+    },
+    {
+      "value": "Bordeaux International School",
+      "synonyms": [
+        "Bordeaux International School"
+      ]
+    },
+    {
+      "value": "Boston University",
+      "synonyms": [
+        "Boston University"
+      ]
+    },
+    {
+      "value": "Bournemouth University",
+      "synonyms": [
+        "Bournemouth University"
+      ]
+    },
+    {
+      "value": "Box Hill School",
+      "synonyms": [
+        "Box Hill School"
+      ]
+    },
+    {
+      "value": "Braeburn Mombasa International School",
+      "synonyms": [
+        "Braeburn Mombasa International School"
+      ]
+    },
+    {
+      "value": "Brandman University",
+      "synonyms": [
+        "Brandman University"
+      ]
+    },
+    {
+      "value": "Branksome Hall Asia",
+      "synonyms": [
+        "Branksome Hall Asia"
+      ]
+    },
+    {
+      "value": "Brillantmont International School",
+      "synonyms": [
+        "Brillantmont International School"
+      ]
+    },
+    {
+      "value": "Britannica International School",
+      "synonyms": [
+        "Britannica International School"
+      ]
+    },
+    {
+      "value": "British International College",
+      "synonyms": [
+        "British International College"
+      ]
+    },
+    {
+      "value": "British International College of Cairo",
+      "synonyms": [
+        "British International College of Cairo"
+      ]
+    },
+    {
+      "value": "British International Distance College",
+      "synonyms": [
+        "British International Distance College"
+      ]
+    },
+    {
+      "value": "British International Preparatory School",
+      "synonyms": [
+        "British International Preparatory School"
+      ]
+    },
+    {
+      "value": "British International School",
+      "synonyms": [
+        "British International School"
+      ]
+    },
+    {
+      "value": "British International School Vietnam",
+      "synonyms": [
+        "British International School Vietnam"
+      ]
+    },
+    {
+      "value": "British International School in Cairo",
+      "synonyms": [
+        "British International School in Cairo"
+      ]
+    },
+    {
+      "value": "British International School of Brussels",
+      "synonyms": [
+        "British International School of Brussels"
+      ]
+    },
+    {
+      "value": "British International School of Cracow",
+      "synonyms": [
+        "British International School of Cracow"
+      ]
+    },
+    {
+      "value": "British International School of Ljubljana",
+      "synonyms": [
+        "British International School of Ljubljana"
+      ]
+    },
+    {
+      "value": "British International School of Stavanger",
+      "synonyms": [
+        "British International School of Stavanger"
+      ]
+    },
+    {
+      "value": "British International School of Tabuk",
+      "synonyms": [
+        "British International School of Tabuk"
+      ]
+    },
+    {
+      "value": "British School",
+      "synonyms": [
+        "British School"
+      ]
+    },
+    {
+      "value": "British School - Muscat",
+      "synonyms": [
+        "British School - Muscat"
+      ]
+    },
+    {
+      "value": "British School in the Netherlands",
+      "synonyms": [
+        "British School in the Netherlands"
+      ]
+    },
+    {
+      "value": "British School of Amsterdam",
+      "synonyms": [
+        "British School of Amsterdam"
+      ]
+    },
+    {
+      "value": "British School of Barcelona",
+      "synonyms": [
+        "British School of Barcelona"
+      ]
+    },
+    {
+      "value": "British School of Brussels",
+      "synonyms": [
+        "British School of Brussels"
+      ]
+    },
+    {
+      "value": "British School of Costa Rica",
+      "synonyms": [
+        "British School of Costa Rica"
+      ]
+    },
+    {
+      "value": "British School of Kuwait",
+      "synonyms": [
+        "British School of Kuwait"
+      ]
+    },
+    {
+      "value": "British School of Lomé",
+      "synonyms": [
+        "British School of Lomé"
+      ]
+    },
+    {
+      "value": "British School of Paris",
+      "synonyms": [
+        "British School of Paris"
+      ]
+    },
+    {
+      "value": "British School of Ulaanbaatar",
+      "synonyms": [
+        "British School of Ulaanbaatar"
+      ]
+    },
+    {
+      "value": "Brookhouse School",
+      "synonyms": [
+        "Brookhouse School"
+      ]
+    },
+    {
+      "value": "Brooks Institute",
+      "synonyms": [
+        "Brooks Institute"
+      ]
+    },
+    {
+      "value": "Brown University",
+      "synonyms": [
+        "Brown University"
+      ]
+    },
+    {
+      "value": "Brunel University",
+      "synonyms": [
+        "Brunel University"
+      ]
+    },
+    {
+      "value": "Brussels American School",
+      "synonyms": [
+        "Brussels American School"
+      ]
+    },
+    {
+      "value": "Buckinghamshire New University",
+      "synonyms": [
+        "Buckinghamshire New University"
+      ]
+    },
+    {
+      "value": "Buckswood School",
+      "synonyms": [
+        "Buckswood School"
+      ]
+    },
+    {
+      "value": "Busan Foreign School",
+      "synonyms": [
+        "Busan Foreign School"
+      ]
+    },
+    {
+      "value": "Busan International Foreign School",
+      "synonyms": [
+        "Busan International Foreign School"
+      ]
+    },
+    {
+      "value": "Cairo American College",
+      "synonyms": [
+        "Cairo American College"
+      ]
+    },
+    {
+      "value": "Calgary French And International School",
+      "synonyms": [
+        "Calgary French And International School"
+      ]
+    },
+    {
+      "value": "California Baptist University",
+      "synonyms": [
+        "California Baptist University"
+      ]
+    },
+    {
+      "value": "California College San Diego",
+      "synonyms": [
+        "California College San Diego"
+      ]
+    },
+    {
+      "value": "California College of the Arts",
+      "synonyms": [
+        "California College of the Arts"
+      ]
+    },
+    {
+      "value": "California Institute of Integral Studies",
+      "synonyms": [
+        "California Institute of Integral Studies"
+      ]
+    },
+    {
+      "value": "California Institute of Technology",
+      "synonyms": [
+        "California Institute of Technology"
+      ]
+    },
+    {
+      "value": "California Institute of the Arts",
+      "synonyms": [
+        "California Institute of the Arts"
+      ]
+    },
+    {
+      "value": "California Lutheran University",
+      "synonyms": [
+        "California Lutheran University"
+      ]
+    },
+    {
+      "value": "California Maritime Academy",
+      "synonyms": [
+        "California Maritime Academy"
+      ]
+    },
+    {
+      "value": "California Miramar University",
+      "synonyms": [
+        "California Miramar University"
+      ]
+    },
+    {
+      "value": "California Pacific University",
+      "synonyms": [
+        "California Pacific University"
+      ]
+    },
+    {
+      "value": "California Polytechnic State University",
+      "synonyms": [
+        "California Polytechnic State University"
+      ]
+    },
+    {
+      "value": "California South Bay University",
+      "synonyms": [
+        "California South Bay University"
+      ]
+    },
+    {
+      "value": "California Southern Law School",
+      "synonyms": [
+        "California Southern Law School"
+      ]
+    },
+    {
+      "value": "California State Polytechnic",
+      "synonyms": [
+        "California State Polytechnic"
+      ]
+    },
+    {
+      "value": "California State University",
+      "synonyms": [
+        "California State University"
+      ]
+    },
+    {
+      "value": "California University of Management and Sciences",
+      "synonyms": [
+        "California University of Management and Sciences"
+      ]
+    },
+    {
+      "value": "California University of Management and Technology",
+      "synonyms": [
+        "California University of Management and Technology"
+      ]
+    },
+    {
+      "value": "Cambridge International School",
+      "synonyms": [
+        "Cambridge International School"
+      ]
+    },
+    {
+      "value": "Campion School",
+      "synonyms": [
+        "Campion School"
+      ]
+    },
+    {
+      "value": "Canadian Lyceum of Greece",
+      "synonyms": [
+        "Canadian Lyceum of Greece"
+      ]
+    },
+    {
+      "value": "Canterbury Christ Church University",
+      "synonyms": [
+        "Canterbury Christ Church University"
+      ]
+    },
+    {
+      "value": "Cardiff Metropolitan University",
+      "synonyms": [
+        "Cardiff Metropolitan University"
+      ]
+    },
+    {
+      "value": "Cardiff University",
+      "synonyms": [
+        "Cardiff University"
+      ]
+    },
+    {
+      "value": "Carlsbad International School",
+      "synonyms": [
+        "Carlsbad International School"
+      ]
+    },
+    {
+      "value": "Carlucci American International School of Lisbon",
+      "synonyms": [
+        "Carlucci American International School of Lisbon"
+      ]
+    },
+    {
+      "value": "Carnegie Mellon University",
+      "synonyms": [
+        "Carnegie Mellon University"
+      ]
+    },
+    {
+      "value": "Carol Morgan School",
+      "synonyms": [
+        "Carol Morgan School"
+      ]
+    },
+    {
+      "value": "Casablanca American School",
+      "synonyms": [
+        "Casablanca American School"
+      ]
+    },
+    {
+      "value": "CentraleSupélec",
+      "synonyms": [
+        "CentraleSupélec"
+      ]
+    },
+    {
+      "value": "Chadwick International",
+      "synonyms": [
+        "Chadwick International"
+      ]
+    },
+    {
+      "value": "Chalmers University of Technology",
+      "synonyms": [
+        "Chalmers University of Technology"
+      ]
+    },
+    {
+      "value": "Chapman University",
+      "synonyms": [
+        "Chapman University"
+      ]
+    },
+    {
+      "value": "Charles Dale Memorial International School",
+      "synonyms": [
+        "Charles Dale Memorial International School"
+      ]
+    },
+    {
+      "value": "Charles R. Drew University of Medicine and Science",
+      "synonyms": [
+        "Charles R. Drew University of Medicine and Science"
+      ]
+    },
+    {
+      "value": "Chavagnes International College",
+      "synonyms": [
+        "Chavagnes International College"
+      ]
+    },
+    {
+      "value": "Cheongna Dalton School",
+      "synonyms": [
+        "Cheongna Dalton School"
+      ]
+    },
+    {
+      "value": "Chester College International School",
+      "synonyms": [
+        "Chester College International School"
+      ]
+    },
+    {
+      "value": "City University of Hong Kong",
+      "synonyms": [
+        "City University of Hong Kong"
+      ]
+    },
+    {
+      "value": "City University of London",
+      "synonyms": [
+        "City University of London"
+      ]
+    },
+    {
+      "value": "Cité Scolaire Internationale de Grenoble",
+      "synonyms": [
+        "Cité Scolaire Internationale de Grenoble"
+      ]
+    },
+    {
+      "value": "Cité Scolaire Internationale de Lyon",
+      "synonyms": [
+        "Cité Scolaire Internationale de Lyon"
+      ]
+    },
+    {
+      "value": "Claremont Graduate University",
+      "synonyms": [
+        "Claremont Graduate University"
+      ]
+    },
+    {
+      "value": "Claremont McKenna College",
+      "synonyms": [
+        "Claremont McKenna College"
+      ]
+    },
+    {
+      "value": "Cochabamba Cooperative School",
+      "synonyms": [
+        "Cochabamba Cooperative School"
+      ]
+    },
+    {
+      "value": "Cogswell Polytechnical College",
+      "synonyms": [
+        "Cogswell Polytechnical College"
+      ]
+    },
+    {
+      "value": "Colegio Alemán Alexander von Humboldt",
+      "synonyms": [
+        "Colegio Alemán Alexander von Humboldt"
+      ]
+    },
+    {
+      "value": "Colegio Americano de Puebla",
+      "synonyms": [
+        "Colegio Americano de Puebla"
+      ]
+    },
+    {
+      "value": "Colegio Americano de Quito",
+      "synonyms": [
+        "Colegio Americano de Quito"
+      ]
+    },
+    {
+      "value": "Colegio Bolivar",
+      "synonyms": [
+        "Colegio Bolivar"
+      ]
+    },
+    {
+      "value": "Colegio Franklin Delano Roosevelt",
+      "synonyms": [
+        "Colegio Franklin Delano Roosevelt"
+      ]
+    },
+    {
+      "value": "Colegio Internacional de Caracas",
+      "synonyms": [
+        "Colegio Internacional de Caracas"
+      ]
+    },
+    {
+      "value": "Colegio Nueva Granada",
+      "synonyms": [
+        "Colegio Nueva Granada"
+      ]
+    },
+    {
+      "value": "Colegio Privado Internacional Eurocolegio Casvi",
+      "synonyms": [
+        "Colegio Privado Internacional Eurocolegio Casvi"
+      ]
+    },
+    {
+      "value": "Collège Alpin International Beau Soleil",
+      "synonyms": [
+        "Collège Alpin International Beau Soleil"
+      ]
+    },
+    {
+      "value": "Collège International Marie de France",
+      "synonyms": [
+        "Collège International Marie de France"
+      ]
+    },
+    {
+      "value": "Columbia International College",
+      "synonyms": [
+        "Columbia International College"
+      ]
+    },
+    {
+      "value": "Columbia University",
+      "synonyms": [
+        "Columbia University"
+      ]
+    },
+    {
+      "value": "Compass International School",
+      "synonyms": [
+        "Compass International School"
+      ]
+    },
+    {
+      "value": "Concordia University Irvine",
+      "synonyms": [
+        "Concordia University Irvine"
+      ]
+    },
+    {
+      "value": "Copenhagen International School",
+      "synonyms": [
+        "Copenhagen International School"
+      ]
+    },
+    {
+      "value": "Cornell University",
+      "synonyms": [
+        "Cornell University"
+      ]
+    },
+    {
+      "value": "Costa Rica Country Day School",
+      "synonyms": [
+        "Costa Rica Country Day School"
+      ]
+    },
+    {
+      "value": "Courtauld Institute of Art",
+      "synonyms": [
+        "Courtauld Institute of Art"
+      ]
+    },
+    {
+      "value": "Coventry University",
+      "synonyms": [
+        "Coventry University"
+      ]
+    },
+    {
+      "value": "Cranfield University",
+      "synonyms": [
+        "Cranfield University"
+      ]
+    },
+    {
+      "value": "Crossroads Christian Academy",
+      "synonyms": [
+        "Crossroads Christian Academy"
+      ]
+    },
+    {
+      "value": "Culinary Institute of America at Greystone",
+      "synonyms": [
+        "Culinary Institute of America at Greystone"
+      ]
+    },
+    {
+      "value": "Dartmouth College",
+      "synonyms": [
+        "Dartmouth College"
+      ]
+    },
+    {
+      "value": "De Montfort University",
+      "synonyms": [
+        "De Montfort University"
+      ]
+    },
+    {
+      "value": "Deep Springs College",
+      "synonyms": [
+        "Deep Springs College"
+      ]
+    },
+    {
+      "value": "Del Campo International School",
+      "synonyms": [
+        "Del Campo International School"
+      ]
+    },
+    {
+      "value": "Delft University of Technology",
+      "synonyms": [
+        "Delft University of Technology"
+      ]
+    },
+    {
+      "value": "Design Institute of San Diego",
+      "synonyms": [
+        "Design Institute of San Diego"
+      ]
+    },
+    {
+      "value": "Deutsche Evangelische Oberschule",
+      "synonyms": [
+        "Deutsche Evangelische Oberschule"
+      ]
+    },
+    {
+      "value": "Deutsche Schule Istanbul",
+      "synonyms": [
+        "Deutsche Schule Istanbul"
+      ]
+    },
+    {
+      "value": "Doha College",
+      "synonyms": [
+        "Doha College"
+      ]
+    },
+    {
+      "value": "Dominican University of California",
+      "synonyms": [
+        "Dominican University of California"
+      ]
+    },
+    {
+      "value": "Drexel University",
+      "synonyms": [
+        "Drexel University"
+      ]
+    },
+    {
+      "value": "Dubai American Academy",
+      "synonyms": [
+        "Dubai American Academy"
+      ]
+    },
+    {
+      "value": "Dubai College",
+      "synonyms": [
+        "Dubai College"
+      ]
+    },
+    {
+      "value": "Dubai English Speaking College",
+      "synonyms": [
+        "Dubai English Speaking College"
+      ]
+    },
+    {
+      "value": "Dubai International Academy",
+      "synonyms": [
+        "Dubai International Academy"
+      ]
+    },
+    {
+      "value": "Dubai International School",
+      "synonyms": [
+        "Dubai International School"
+      ]
+    },
+    {
+      "value": "Duke University",
+      "synonyms": [
+        "Duke University"
+      ]
+    },
+    {
+      "value": "Dukhan English School",
+      "synonyms": [
+        "Dukhan English School"
+      ]
+    },
+    {
+      "value": "Durham University",
+      "synonyms": [
+        "Durham University"
+      ]
+    },
+    {
+      "value": "Dushanbe International School",
+      "synonyms": [
+        "Dushanbe International School"
+      ]
+    },
+    {
+      "value": "Dwight School Seoul",
+      "synonyms": [
+        "Dwight School Seoul"
+      ]
+    },
+    {
+      "value": "EF International Academy",
+      "synonyms": [
+        "EF International Academy"
+      ]
+    },
+    {
+      "value": "ETH Zurich - Swiss Federal Institute of Technology",
+      "synonyms": [
+        "ETH Zurich - Swiss Federal Institute of Technology"
+      ]
+    },
+    {
+      "value": "EUROPEAN International School Ho Chi Minh City",
+      "synonyms": [
+        "EUROPEAN International School Ho Chi Minh City"
+      ]
+    },
+    {
+      "value": "Ebenezer International School",
+      "synonyms": [
+        "Ebenezer International School"
+      ]
+    },
+    {
+      "value": "Eberhard Karls Universität Tübingen",
+      "synonyms": [
+        "Eberhard Karls Universität Tübingen"
+      ]
+    },
+    {
+      "value": "Ecole Active Bilingue Jeannine Manuel",
+      "synonyms": [
+        "Ecole Active Bilingue Jeannine Manuel"
+      ]
+    },
+    {
+      "value": "Ecole Internationale Arc-en-Ciel",
+      "synonyms": [
+        "Ecole Internationale Arc-en-Ciel"
+      ]
+    },
+    {
+      "value": "Ecole Polytechnique",
+      "synonyms": [
+        "Ecole Polytechnique"
+      ]
+    },
+    {
+      "value": "Ecole Polytechnique Fédérale de Lausanne",
+      "synonyms": [
+        "Ecole Polytechnique Fédérale de Lausanne"
+      ]
+    },
+    {
+      "value": "Ecole d\u0027Humanité Hasliberg Goldern",
+      "synonyms": [
+        "Ecole d\u0027Humanité Hasliberg Goldern"
+      ]
+    },
+    {
+      "value": "Ecole normale supérieure",
+      "synonyms": [
+        "Ecole normale supérieure"
+      ]
+    },
+    {
+      "value": "Edge Hill University",
+      "synonyms": [
+        "Edge Hill University"
+      ]
+    },
+    {
+      "value": "Edinburgh Napier University",
+      "synonyms": [
+        "Edinburgh Napier University"
+      ]
+    },
+    {
+      "value": "Edron Academy",
+      "synonyms": [
+        "Edron Academy"
+      ]
+    },
+    {
+      "value": "Eindhoven University of Technology",
+      "synonyms": [
+        "Eindhoven University of Technology"
+      ]
+    },
+    {
+      "value": "Elkhart School",
+      "synonyms": [
+        "Elkhart School"
+      ]
+    },
+    {
+      "value": "Emirates International School – Jumeirah",
+      "synonyms": [
+        "Emirates International School – Jumeirah"
+      ]
+    },
+    {
+      "value": "Emory University",
+      "synonyms": [
+        "Emory University"
+      ]
+    },
+    {
+      "value": "Emperor\u0027s College of Traditional Oriental Medicine",
+      "synonyms": [
+        "Emperor\u0027s College of Traditional Oriental Medicine"
+      ]
+    },
+    {
+      "value": "English College Dubai",
+      "synonyms": [
+        "English College Dubai"
+      ]
+    },
+    {
+      "value": "English College in Prague",
+      "synonyms": [
+        "English College in Prague"
+      ]
+    },
+    {
+      "value": "English International School",
+      "synonyms": [
+        "English International School"
+      ]
+    },
+    {
+      "value": "English International School Moscow",
+      "synonyms": [
+        "English International School Moscow"
+      ]
+    },
+    {
+      "value": "English School",
+      "synonyms": [
+        "English School"
+      ]
+    },
+    {
+      "value": "Enko Nyamunda International School",
+      "synonyms": [
+        "Enko Nyamunda International School"
+      ]
+    },
+    {
+      "value": "Epic Bible College",
+      "synonyms": [
+        "Epic Bible College"
+      ]
+    },
+    {
+      "value": "Erasmus University Rotterdam",
+      "synonyms": [
+        "Erasmus University Rotterdam"
+      ]
+    },
+    {
+      "value": "Escuela Bella Vista",
+      "synonyms": [
+        "Escuela Bella Vista"
+      ]
+    },
+    {
+      "value": "Escuela Campo Alegre",
+      "synonyms": [
+        "Escuela Campo Alegre"
+      ]
+    },
+    {
+      "value": "Escuela Internacional Sampedrana",
+      "synonyms": [
+        "Escuela Internacional Sampedrana"
+      ]
+    },
+    {
+      "value": "European School",
+      "synonyms": [
+        "European School"
+      ]
+    },
+    {
+      "value": "European School in Central Asia",
+      "synonyms": [
+        "European School in Central Asia"
+      ]
+    },
+    {
+      "value": "European School of Brussels I",
+      "synonyms": [
+        "European School of Brussels I"
+      ]
+    },
+    {
+      "value": "European School of Brussels II",
+      "synonyms": [
+        "European School of Brussels II"
+      ]
+    },
+    {
+      "value": "European School of Costa Rica",
+      "synonyms": [
+        "European School of Costa Rica"
+      ]
+    },
+    {
+      "value": "Evangelical",
+      "synonyms": [
+        "Evangelical"
+      ]
+    },
+    {
+      "value": "FOSCO International School",
+      "synonyms": [
+        "FOSCO International School"
+      ]
+    },
+    {
+      "value": "Fairview International School",
+      "synonyms": [
+        "Fairview International School"
+      ]
+    },
+    {
+      "value": "Falcon School Cyprus",
+      "synonyms": [
+        "Falcon School Cyprus"
+      ]
+    },
+    {
+      "value": "Falmouth University",
+      "synonyms": [
+        "Falmouth University"
+      ]
+    },
+    {
+      "value": "Fashion Institute of Design \u0026 Merchandising",
+      "synonyms": [
+        "Fashion Institute of Design \u0026 Merchandising"
+      ]
+    },
+    {
+      "value": "First Island Montessori School",
+      "synonyms": [
+        "First Island Montessori School"
+      ]
+    },
+    {
+      "value": "Florida International University",
+      "synonyms": [
+        "Florida International University"
+      ]
+    },
+    {
+      "value": "Forel International School",
+      "synonyms": [
+        "Forel International School"
+      ]
+    },
+    {
+      "value": "Four-Forest Bilingual International School",
+      "synonyms": [
+        "Four-Forest Bilingual International School"
+      ]
+    },
+    {
+      "value": "Franconian International School",
+      "synonyms": [
+        "Franconian International School"
+      ]
+    },
+    {
+      "value": "Frankfurt International School",
+      "synonyms": [
+        "Frankfurt International School"
+      ]
+    },
+    {
+      "value": "Freie Universitaet Berlin",
+      "synonyms": [
+        "Freie Universitaet Berlin"
+      ]
+    },
+    {
+      "value": "Fresno Pacific University",
+      "synonyms": [
+        "Fresno Pacific University"
+      ]
+    },
+    {
+      "value": "Fudan University",
+      "synonyms": [
+        "Fudan University"
+      ]
+    },
+    {
+      "value": "Fuller Theological Seminary",
+      "synonyms": [
+        "Fuller Theological Seminary"
+      ]
+    },
+    {
+      "value": "GEMS World Academy",
+      "synonyms": [
+        "GEMS World Academy"
+      ]
+    },
+    {
+      "value": "Gandhi Memorial International School",
+      "synonyms": [
+        "Gandhi Memorial International School"
+      ]
+    },
+    {
+      "value": "Garden International School",
+      "synonyms": [
+        "Garden International School"
+      ]
+    },
+    {
+      "value": "Georg-August-University Goettingen",
+      "synonyms": [
+        "Georg-August-University Goettingen"
+      ]
+    },
+    {
+      "value": "George Washington Academy",
+      "synonyms": [
+        "George Washington Academy"
+      ]
+    },
+    {
+      "value": "Georgia Institute of Technology",
+      "synonyms": [
+        "Georgia Institute of Technology"
+      ]
+    },
+    {
+      "value": "German School of Athens",
+      "synonyms": [
+        "German School of Athens"
+      ]
+    },
+    {
+      "value": "Ghana Christian High International School",
+      "synonyms": [
+        "Ghana Christian High International School"
+      ]
+    },
+    {
+      "value": "Ghana International School",
+      "synonyms": [
+        "Ghana International School"
+      ]
+    },
+    {
+      "value": "Ghent University",
+      "synonyms": [
+        "Ghent University"
+      ]
+    },
+    {
+      "value": "Glasgow Caledonian University",
+      "synonyms": [
+        "Glasgow Caledonian University"
+      ]
+    },
+    {
+      "value": "Global Christian Foreign School",
+      "synonyms": [
+        "Global Christian Foreign School"
+      ]
+    },
+    {
+      "value": "Global Indian International School",
+      "synonyms": [
+        "Global Indian International School"
+      ]
+    },
+    {
+      "value": "Glyndŵr University",
+      "synonyms": [
+        "Glyndŵr University"
+      ]
+    },
+    {
+      "value": "Golden Gate University",
+      "synonyms": [
+        "Golden Gate University"
+      ]
+    },
+    {
+      "value": "Goldsmiths University of London",
+      "synonyms": [
+        "Goldsmiths University of London"
+      ]
+    },
+    {
+      "value": "Graduate Theological Union",
+      "synonyms": [
+        "Graduate Theological Union"
+      ]
+    },
+    {
+      "value": "Greater Grace International School",
+      "synonyms": [
+        "Greater Grace International School"
+      ]
+    },
+    {
+      "value": "Green Land Pré Vert International School",
+      "synonyms": [
+        "Green Land Pré Vert International School"
+      ]
+    },
+    {
+      "value": "Greengates School",
+      "synonyms": [
+        "Greengates School"
+      ]
+    },
+    {
+      "value": "Groupe Scolaire Jean de La Fontaine",
+      "synonyms": [
+        "Groupe Scolaire Jean de La Fontaine"
+      ]
+    },
+    {
+      "value": "Guadalaviar School",
+      "synonyms": [
+        "Guadalaviar School"
+      ]
+    },
+    {
+      "value": "Gyeonggi Suwon International School",
+      "synonyms": [
+        "Gyeonggi Suwon International School"
+      ]
+    },
+    {
+      "value": "Gyeongnam International Foreign School",
+      "synonyms": [
+        "Gyeongnam International Foreign School"
+      ]
+    },
+    {
+      "value": "Haileybury Almaty",
+      "synonyms": [
+        "Haileybury Almaty"
+      ]
+    },
+    {
+      "value": "Haileybury Astana",
+      "synonyms": [
+        "Haileybury Astana"
+      ]
+    },
+    {
+      "value": "Hanyang University",
+      "synonyms": [
+        "Hanyang University"
+      ]
+    },
+    {
+      "value": "Harare International School",
+      "synonyms": [
+        "Harare International School"
+      ]
+    },
+    {
+      "value": "Harper Adams University",
+      "synonyms": [
+        "Harper Adams University"
+      ]
+    },
+    {
+      "value": "Harvard University",
+      "synonyms": [
+        "Harvard University"
+      ]
+    },
+    {
+      "value": "Harvey Mudd College",
+      "synonyms": [
+        "Harvey Mudd College"
+      ]
+    },
+    {
+      "value": "Haven of Peace Academy",
+      "synonyms": [
+        "Haven of Peace Academy"
+      ]
+    },
+    {
+      "value": "Heidelberg International School",
+      "synonyms": [
+        "Heidelberg International School"
+      ]
+    },
+    {
+      "value": "Herguan University",
+      "synonyms": [
+        "Herguan University"
+      ]
+    },
+    {
+      "value": "Heriot-Watt University",
+      "synonyms": [
+        "Heriot-Watt University"
+      ]
+    },
+    {
+      "value": "Herlufsholm School",
+      "synonyms": [
+        "Herlufsholm School"
+      ]
+    },
+    {
+      "value": "Heythrop College",
+      "synonyms": [
+        "Heythrop College"
+      ]
+    },
+    {
+      "value": "Hillcrest International School",
+      "synonyms": [
+        "Hillcrest International School"
+      ]
+    },
+    {
+      "value": "Hillcrest School",
+      "synonyms": [
+        "Hillcrest School"
+      ]
+    },
+    {
+      "value": "Hockerill Anglo-European College",
+      "synonyms": [
+        "Hockerill Anglo-European College"
+      ]
+    },
+    {
+      "value": "Hokkaido University",
+      "synonyms": [
+        "Hokkaido University"
+      ]
+    },
+    {
+      "value": "Holy Names University",
+      "synonyms": [
+        "Holy Names University"
+      ]
+    },
+    {
+      "value": "Hope International University",
+      "synonyms": [
+        "Hope International University"
+      ]
+    },
+    {
+      "value": "Huda Alnoor International School",
+      "synonyms": [
+        "Huda Alnoor International School"
+      ]
+    },
+    {
+      "value": "Hult International Business School",
+      "synonyms": [
+        "Hult International Business School"
+      ]
+    },
+    {
+      "value": "Humboldt State University",
+      "synonyms": [
+        "Humboldt State University"
+      ]
+    },
+    {
+      "value": "Humboldt-Universität zu Berlin",
+      "synonyms": [
+        "Humboldt-Universität zu Berlin"
+      ]
+    },
+    {
+      "value": "Humphreys College",
+      "synonyms": [
+        "Humphreys College"
+      ]
+    },
+    {
+      "value": "ICDC College",
+      "synonyms": [
+        "ICDC College"
+      ]
+    },
+    {
+      "value": "Imago Dei College",
+      "synonyms": [
+        "Imago Dei College"
+      ]
+    },
+    {
+      "value": "Imperial College London",
+      "synonyms": [
+        "Imperial College London"
+      ]
+    },
+    {
+      "value": "Independent Bonn International School",
+      "synonyms": [
+        "Independent Bonn International School"
+      ]
+    },
+    {
+      "value": "Indian Institute of Science",
+      "synonyms": [
+        "Indian Institute of Science"
+      ]
+    },
+    {
+      "value": "Indian Institute of Technology Delhi",
+      "synonyms": [
+        "Indian Institute of Technology Delhi"
+      ]
+    },
+    {
+      "value": "Indian School Bahrain",
+      "synonyms": [
+        "Indian School Bahrain"
+      ]
+    },
+    {
+      "value": "Indian School Muscat",
+      "synonyms": [
+        "Indian School Muscat"
+      ]
+    },
+    {
+      "value": "Institut International de Lancy",
+      "synonyms": [
+        "Institut International de Lancy"
+      ]
+    },
+    {
+      "value": "Institut Le Rosey",
+      "synonyms": [
+        "Institut Le Rosey"
+      ]
+    },
+    {
+      "value": "Institut auf dem Rosenberg",
+      "synonyms": [
+        "Institut auf dem Rosenberg"
+      ]
+    },
+    {
+      "value": "Institute of Cancer Research",
+      "synonyms": [
+        "Institute of Cancer Research"
+      ]
+    },
+    {
+      "value": "Inter-Community School Zürich",
+      "synonyms": [
+        "Inter-Community School Zürich"
+      ]
+    },
+    {
+      "value": "Interdom",
+      "synonyms": [
+        "Interdom"
+      ]
+    },
+    {
+      "value": "International Academy School",
+      "synonyms": [
+        "International Academy School"
+      ]
+    },
+    {
+      "value": "International Academy of St. Petersburg",
+      "synonyms": [
+        "International Academy of St. Petersburg"
+      ]
+    },
+    {
+      "value": "International American School of Warsaw",
+      "synonyms": [
+        "International American School of Warsaw"
+      ]
+    },
+    {
+      "value": "International American University",
+      "synonyms": [
+        "International American University"
+      ]
+    },
+    {
+      "value": "International Bilingual School of Provence",
+      "synonyms": [
+        "International Bilingual School of Provence"
+      ]
+    },
+    {
+      "value": "International Black Sea University",
+      "synonyms": [
+        "International Black Sea University"
+      ]
+    },
+    {
+      "value": "International British School of Bucharest",
+      "synonyms": [
+        "International British School of Bucharest"
+      ]
+    },
+    {
+      "value": "International Christian Academy",
+      "synonyms": [
+        "International Christian Academy"
+      ]
+    },
+    {
+      "value": "International Christian School",
+      "synonyms": [
+        "International Christian School"
+      ]
+    },
+    {
+      "value": "International Christian School of Budapest",
+      "synonyms": [
+        "International Christian School of Budapest"
+      ]
+    },
+    {
+      "value": "International College",
+      "synonyms": [
+        "International College"
+      ]
+    },
+    {
+      "value": "International Community School",
+      "synonyms": [
+        "International Community School"
+      ]
+    },
+    {
+      "value": "International Community School of Addis Ababa",
+      "synonyms": [
+        "International Community School of Addis Ababa"
+      ]
+    },
+    {
+      "value": "International Grammar School \u0026 College",
+      "synonyms": [
+        "International Grammar School \u0026 College"
+      ]
+    },
+    {
+      "value": "International Indian School",
+      "synonyms": [
+        "International Indian School"
+      ]
+    },
+    {
+      "value": "International School",
+      "synonyms": [
+        "International School"
+      ]
+    },
+    {
+      "value": "International School Amsterdam",
+      "synonyms": [
+        "International School Amsterdam"
+      ]
+    },
+    {
+      "value": "International School Augsburg",
+      "synonyms": [
+        "International School Augsburg"
+      ]
+    },
+    {
+      "value": "International School Basel",
+      "synonyms": [
+        "International School Basel"
+      ]
+    },
+    {
+      "value": "International School Brunei",
+      "synonyms": [
+        "International School Brunei"
+      ]
+    },
+    {
+      "value": "International School Dhaka",
+      "synonyms": [
+        "International School Dhaka"
+      ]
+    },
+    {
+      "value": "International School Ghent",
+      "synonyms": [
+        "International School Ghent"
+      ]
+    },
+    {
+      "value": "International School Groningen",
+      "synonyms": [
+        "International School Groningen"
+      ]
+    },
+    {
+      "value": "International School Ho Chi Minh City",
+      "synonyms": [
+        "International School Ho Chi Minh City"
+      ]
+    },
+    {
+      "value": "International School Ibadan",
+      "synonyms": [
+        "International School Ibadan"
+      ]
+    },
+    {
+      "value": "International School Lagos",
+      "synonyms": [
+        "International School Lagos"
+      ]
+    },
+    {
+      "value": "International School Neustadt",
+      "synonyms": [
+        "International School Neustadt"
+      ]
+    },
+    {
+      "value": "International School Nido de Aguilas",
+      "synonyms": [
+        "International School Nido de Aguilas"
+      ]
+    },
+    {
+      "value": "International School Seychelles",
+      "synonyms": [
+        "International School Seychelles"
+      ]
+    },
+    {
+      "value": "International School São Lourenço",
+      "synonyms": [
+        "International School São Lourenço"
+      ]
+    },
+    {
+      "value": "International School Twente",
+      "synonyms": [
+        "International School Twente"
+      ]
+    },
+    {
+      "value": "International School Yangon",
+      "synonyms": [
+        "International School Yangon"
+      ]
+    },
+    {
+      "value": "International School of Aberdeen",
+      "synonyms": [
+        "International School of Aberdeen"
+      ]
+    },
+    {
+      "value": "International School of Aleppo",
+      "synonyms": [
+        "International School of Aleppo"
+      ]
+    },
+    {
+      "value": "International School of Athens",
+      "synonyms": [
+        "International School of Athens"
+      ]
+    },
+    {
+      "value": "International School of Azerbaijan",
+      "synonyms": [
+        "International School of Azerbaijan"
+      ]
+    },
+    {
+      "value": "International School of Barcelona",
+      "synonyms": [
+        "International School of Barcelona"
+      ]
+    },
+    {
+      "value": "International School of Belgrade",
+      "synonyms": [
+        "International School of Belgrade"
+      ]
+    },
+    {
+      "value": "International School of Bergen",
+      "synonyms": [
+        "International School of Bergen"
+      ]
+    },
+    {
+      "value": "International School of Bremen",
+      "synonyms": [
+        "International School of Bremen"
+      ]
+    },
+    {
+      "value": "International School of Brussels",
+      "synonyms": [
+        "International School of Brussels"
+      ]
+    },
+    {
+      "value": "International School of Central Switzerland",
+      "synonyms": [
+        "International School of Central Switzerland"
+      ]
+    },
+    {
+      "value": "International School of Choueifat",
+      "synonyms": [
+        "International School of Choueifat"
+      ]
+    },
+    {
+      "value": "International School of Curaçao",
+      "synonyms": [
+        "International School of Curaçao"
+      ]
+    },
+    {
+      "value": "International School of Curitiba",
+      "synonyms": [
+        "International School of Curitiba"
+      ]
+    },
+    {
+      "value": "International School of Düsseldorf",
+      "synonyms": [
+        "International School of Düsseldorf"
+      ]
+    },
+    {
+      "value": "International School of France",
+      "synonyms": [
+        "International School of France"
+      ]
+    },
+    {
+      "value": "International School of Geneva",
+      "synonyms": [
+        "International School of Geneva"
+      ]
+    },
+    {
+      "value": "International School of Georgia",
+      "synonyms": [
+        "International School of Georgia"
+      ]
+    },
+    {
+      "value": "International School of Hamburg",
+      "synonyms": [
+        "International School of Hamburg"
+      ]
+    },
+    {
+      "value": "International School of Havana",
+      "synonyms": [
+        "International School of Havana"
+      ]
+    },
+    {
+      "value": "International School of Helsinki",
+      "synonyms": [
+        "International School of Helsinki"
+      ]
+    },
+    {
+      "value": "International School of Kenya",
+      "synonyms": [
+        "International School of Kenya"
+      ]
+    },
+    {
+      "value": "International School of Krakow",
+      "synonyms": [
+        "International School of Krakow"
+      ]
+    },
+    {
+      "value": "International School of Kuala Lumpur",
+      "synonyms": [
+        "International School of Kuala Lumpur"
+      ]
+    },
+    {
+      "value": "International School of Kuantan",
+      "synonyms": [
+        "International School of Kuantan"
+      ]
+    },
+    {
+      "value": "International School of Latvia",
+      "synonyms": [
+        "International School of Latvia"
+      ]
+    },
+    {
+      "value": "International School of Lusaka",
+      "synonyms": [
+        "International School of Lusaka"
+      ]
+    },
+    {
+      "value": "International School of Luxembourg",
+      "synonyms": [
+        "International School of Luxembourg"
+      ]
+    },
+    {
+      "value": "International School of Macaé",
+      "synonyms": [
+        "International School of Macaé"
+      ]
+    },
+    {
+      "value": "International School of Monagas",
+      "synonyms": [
+        "International School of Monagas"
+      ]
+    },
+    {
+      "value": "International School of Paphos",
+      "synonyms": [
+        "International School of Paphos"
+      ]
+    },
+    {
+      "value": "International School of Paris",
+      "synonyms": [
+        "International School of Paris"
+      ]
+    },
+    {
+      "value": "International School of Port of Spain",
+      "synonyms": [
+        "International School of Port of Spain"
+      ]
+    },
+    {
+      "value": "International School of Prague",
+      "synonyms": [
+        "International School of Prague"
+      ]
+    },
+    {
+      "value": "International School of Siem Reap",
+      "synonyms": [
+        "International School of Siem Reap"
+      ]
+    },
+    {
+      "value": "International School of Stavanger",
+      "synonyms": [
+        "International School of Stavanger"
+      ]
+    },
+    {
+      "value": "International School of Stuttgart",
+      "synonyms": [
+        "International School of Stuttgart"
+      ]
+    },
+    {
+      "value": "International School of Tanganyika",
+      "synonyms": [
+        "International School of Tanganyika"
+      ]
+    },
+    {
+      "value": "International School of The Hague",
+      "synonyms": [
+        "International School of The Hague"
+      ]
+    },
+    {
+      "value": "International School of Toulouse",
+      "synonyms": [
+        "International School of Toulouse"
+      ]
+    },
+    {
+      "value": "International School of Ulaanbaatar",
+      "synonyms": [
+        "International School of Ulaanbaatar"
+      ]
+    },
+    {
+      "value": "International School of Zanzibar",
+      "synonyms": [
+        "International School of Zanzibar"
+      ]
+    },
+    {
+      "value": "International School of Zug and Luzern",
+      "synonyms": [
+        "International School of Zug and Luzern"
+      ]
+    },
+    {
+      "value": "International School of the Gothenburg Region",
+      "synonyms": [
+        "International School of the Gothenburg Region"
+      ]
+    },
+    {
+      "value": "International Secondary School Eindhoven",
+      "synonyms": [
+        "International Secondary School Eindhoven"
+      ]
+    },
+    {
+      "value": "International Technological University",
+      "synonyms": [
+        "International Technological University"
+      ]
+    },
+    {
+      "value": "International Turkish Hope School",
+      "synonyms": [
+        "International Turkish Hope School"
+      ]
+    },
+    {
+      "value": "Istanbul International Community School",
+      "synonyms": [
+        "Istanbul International Community School"
+      ]
+    },
+    {
+      "value": "Italyan lisesi",
+      "synonyms": [
+        "Italyan lisesi"
+      ]
+    },
+    {
+      "value": "Jakarta Intercultural School",
+      "synonyms": [
+        "Jakarta Intercultural School"
+      ]
+    },
+    {
+      "value": "Jakarta International Korean School",
+      "synonyms": [
+        "Jakarta International Korean School"
+      ]
+    },
+    {
+      "value": "Japanese School in Seoul",
+      "synonyms": [
+        "Japanese School in Seoul"
+      ]
+    },
+    {
+      "value": "Jeddah International School",
+      "synonyms": [
+        "Jeddah International School"
+      ]
+    },
+    {
+      "value": "Jerudong International School",
+      "synonyms": [
+        "Jerudong International School"
+      ]
+    },
+    {
+      "value": "John F. Kennedy School",
+      "synonyms": [
+        "John F. Kennedy School"
+      ]
+    },
+    {
+      "value": "John F. Kennedy University",
+      "synonyms": [
+        "John F. Kennedy University"
+      ]
+    },
+    {
+      "value": "John McGlashan College",
+      "synonyms": [
+        "John McGlashan College"
+      ]
+    },
+    {
+      "value": "John Paul the Great Catholic University",
+      "synonyms": [
+        "John Paul the Great Catholic University"
+      ]
+    },
+    {
+      "value": "Johns Hopkins University",
+      "synonyms": [
+        "Johns Hopkins University"
+      ]
+    },
+    {
+      "value": "Jumeirah English Speaking School",
+      "synonyms": [
+        "Jumeirah English Speaking School"
+      ]
+    },
+    {
+      "value": "KAIST - Korea Advanced Institute of Science \u0026 Technology",
+      "synonyms": [
+        "KAIST - Korea Advanced Institute of Science \u0026 Technology"
+      ]
+    },
+    {
+      "value": "KTH Royal Institute of Technology",
+      "synonyms": [
+        "KTH Royal Institute of Technology"
+      ]
+    },
+    {
+      "value": "KU Leuven",
+      "synonyms": [
+        "KU Leuven"
+      ]
+    },
+    {
+      "value": "Kampala International School",
+      "synonyms": [
+        "Kampala International School"
+      ]
+    },
+    {
+      "value": "Karachi American School",
+      "synonyms": [
+        "Karachi American School"
+      ]
+    },
+    {
+      "value": "Karlsruhe Institute of Technology",
+      "synonyms": [
+        "Karlsruhe Institute of Technology"
+      ]
+    },
+    {
+      "value": "Kazakhstan International School",
+      "synonyms": [
+        "Kazakhstan International School"
+      ]
+    },
+    {
+      "value": "Keck Graduate Institute of Applied Life Sciences",
+      "synonyms": [
+        "Keck Graduate Institute of Applied Life Sciences"
+      ]
+    },
+    {
+      "value": "Keele University",
+      "synonyms": [
+        "Keele University"
+      ]
+    },
+    {
+      "value": "Khartoum American School",
+      "synonyms": [
+        "Khartoum American School"
+      ]
+    },
+    {
+      "value": "Khartoum International Community School",
+      "synonyms": [
+        "Khartoum International Community School"
+      ]
+    },
+    {
+      "value": "Kheireddine Tunisian International School",
+      "synonyms": [
+        "Kheireddine Tunisian International School"
+      ]
+    },
+    {
+      "value": "King Fahd University of Petroleum \u0026 Minerals",
+      "synonyms": [
+        "King Fahd University of Petroleum \u0026 Minerals"
+      ]
+    },
+    {
+      "value": "King\u0027s Academy",
+      "synonyms": [
+        "King\u0027s Academy"
+      ]
+    },
+    {
+      "value": "King\u0027s College London",
+      "synonyms": [
+        "King\u0027s College London"
+      ]
+    },
+    {
+      "value": "Kings College",
+      "synonyms": [
+        "Kings College"
+      ]
+    },
+    {
+      "value": "Kingston University",
+      "synonyms": [
+        "Kingston University"
+      ]
+    },
+    {
+      "value": "Kingsworth International School",
+      "synonyms": [
+        "Kingsworth International School"
+      ]
+    },
+    {
+      "value": "Korea International School",
+      "synonyms": [
+        "Korea International School"
+      ]
+    },
+    {
+      "value": "Korea International School Jeju",
+      "synonyms": [
+        "Korea International School Jeju"
+      ]
+    },
+    {
+      "value": "Korea Kent Foreign School",
+      "synonyms": [
+        "Korea Kent Foreign School"
+      ]
+    },
+    {
+      "value": "Korea University",
+      "synonyms": [
+        "Korea University"
+      ]
+    },
+    {
+      "value": "Kristin School",
+      "synonyms": [
+        "Kristin School"
+      ]
+    },
+    {
+      "value": "Kumon Leysin Academy of Switzerland",
+      "synonyms": [
+        "Kumon Leysin Academy of Switzerland"
+      ]
+    },
+    {
+      "value": "Kuwait English School",
+      "synonyms": [
+        "Kuwait English School"
+      ]
+    },
+    {
+      "value": "Kyiv International School",
+      "synonyms": [
+        "Kyiv International School"
+      ]
+    },
+    {
+      "value": "Kyoto University",
+      "synonyms": [
+        "Kyoto University"
+      ]
+    },
+    {
+      "value": "Kyushu University",
+      "synonyms": [
+        "Kyushu University"
+      ]
+    },
+    {
+      "value": "La Sierra University",
+      "synonyms": [
+        "La Sierra University"
+      ]
+    },
+    {
+      "value": "Laguna College of Art and Design",
+      "synonyms": [
+        "Laguna College of Art and Design"
+      ]
+    },
+    {
+      "value": "Lahore American School",
+      "synonyms": [
+        "Lahore American School"
+      ]
+    },
+    {
+      "value": "Lancaster University",
+      "synonyms": [
+        "Lancaster University"
+      ]
+    },
+    {
+      "value": "Le Bocage International School",
+      "synonyms": [
+        "Le Bocage International School"
+      ]
+    },
+    {
+      "value": "Lechwe Secondary School",
+      "synonyms": [
+        "Lechwe Secondary School"
+      ]
+    },
+    {
+      "value": "Leeds Beckett University",
+      "synonyms": [
+        "Leeds Beckett University"
+      ]
+    },
+    {
+      "value": "Leeds Trinity University",
+      "synonyms": [
+        "Leeds Trinity University"
+      ]
+    },
+    {
+      "value": "Leiden University",
+      "synonyms": [
+        "Leiden University"
+      ]
+    },
+    {
+      "value": "Leipzig International School",
+      "synonyms": [
+        "Leipzig International School"
+      ]
+    },
+    {
+      "value": "Lester B. Pearson College",
+      "synonyms": [
+        "Lester B. Pearson College"
+      ]
+    },
+    {
+      "value": "Leysin American School",
+      "synonyms": [
+        "Leysin American School"
+      ]
+    },
+    {
+      "value": "Liceo Mexicano Japones",
+      "synonyms": [
+        "Liceo Mexicano Japones"
+      ]
+    },
+    {
+      "value": "Life Pacific College",
+      "synonyms": [
+        "Life Pacific College"
+      ]
+    },
+    {
+      "value": "Lincoln Community School",
+      "synonyms": [
+        "Lincoln Community School"
+      ]
+    },
+    {
+      "value": "Lincoln International Academy",
+      "synonyms": [
+        "Lincoln International Academy"
+      ]
+    },
+    {
+      "value": "Lincoln University",
+      "synonyms": [
+        "Lincoln University"
+      ]
+    },
+    {
+      "value": "Liverpool Hope University",
+      "synonyms": [
+        "Liverpool Hope University"
+      ]
+    },
+    {
+      "value": "Liverpool John Moores University",
+      "synonyms": [
+        "Liverpool John Moores University"
+      ]
+    },
+    {
+      "value": "Lodge School",
+      "synonyms": [
+        "Lodge School"
+      ]
+    },
+    {
+      "value": "Loma Linda University",
+      "synonyms": [
+        "Loma Linda University"
+      ]
+    },
+    {
+      "value": "Lomonosov Moscow State University",
+      "synonyms": [
+        "Lomonosov Moscow State University"
+      ]
+    },
+    {
+      "value": "London Business School",
+      "synonyms": [
+        "London Business School"
+      ]
+    },
+    {
+      "value": "London Metropolitan University",
+      "synonyms": [
+        "London Metropolitan University"
+      ]
+    },
+    {
+      "value": "London School of Economics and Political Science",
+      "synonyms": [
+        "London School of Economics and Political Science"
+      ]
+    },
+    {
+      "value": "London School of Hygiene and Tropical Medicine",
+      "synonyms": [
+        "London School of Hygiene and Tropical Medicine"
+      ]
+    },
+    {
+      "value": "London South Bank University",
+      "synonyms": [
+        "London South Bank University"
+      ]
+    },
+    {
+      "value": "Los Angeles College of Music",
+      "synonyms": [
+        "Los Angeles College of Music"
+      ]
+    },
+    {
+      "value": "Loughborough University",
+      "synonyms": [
+        "Loughborough University"
+      ]
+    },
+    {
+      "value": "Loyola Marymount University",
+      "synonyms": [
+        "Loyola Marymount University"
+      ]
+    },
+    {
+      "value": "Lucaya International School",
+      "synonyms": [
+        "Lucaya International School"
+      ]
+    },
+    {
+      "value": "Ludwig-Maximilians-Universität München",
+      "synonyms": [
+        "Ludwig-Maximilians-Universität München"
+      ]
+    },
+    {
+      "value": "Lund University",
+      "synonyms": [
+        "Lund University"
+      ]
+    },
+    {
+      "value": "Lycée Franco-Mexicain",
+      "synonyms": [
+        "Lycée Franco-Mexicain"
+      ]
+    },
+    {
+      "value": "Lycée Français Charles de Gaulle",
+      "synonyms": [
+        "Lycée Français Charles de Gaulle"
+      ]
+    },
+    {
+      "value": "Lycée Français de Lomé",
+      "synonyms": [
+        "Lycée Français de Lomé"
+      ]
+    },
+    {
+      "value": "Lycée Français de Riga",
+      "synonyms": [
+        "Lycée Français de Riga"
+      ]
+    },
+    {
+      "value": "Lycée Français de Tamatave",
+      "synonyms": [
+        "Lycée Français de Tamatave"
+      ]
+    },
+    {
+      "value": "Lycée Français de Tananarive",
+      "synonyms": [
+        "Lycée Français de Tananarive"
+      ]
+    },
+    {
+      "value": "Lycée International Georges Duby",
+      "synonyms": [
+        "Lycée International Georges Duby"
+      ]
+    },
+    {
+      "value": "Lycée International de Saint Germain-en-Laye",
+      "synonyms": [
+        "Lycée International de Saint Germain-en-Laye"
+      ]
+    },
+    {
+      "value": "Lycée La Fontaine",
+      "synonyms": [
+        "Lycée La Fontaine"
+      ]
+    },
+    {
+      "value": "Lycée Pierre Mendès France",
+      "synonyms": [
+        "Lycée Pierre Mendès France"
+      ]
+    },
+    {
+      "value": "Lycée français Alexandre Yersin de Hanoi",
+      "synonyms": [
+        "Lycée français Alexandre Yersin de Hanoi"
+      ]
+    },
+    {
+      "value": "Lycée français de Sofia",
+      "synonyms": [
+        "Lycée français de Sofia"
+      ]
+    },
+    {
+      "value": "Lyford Cay International School",
+      "synonyms": [
+        "Lyford Cay International School"
+      ]
+    },
+    {
+      "value": "MEF International School Istanbul",
+      "synonyms": [
+        "MEF International School Istanbul"
+      ]
+    },
+    {
+      "value": "MSU",
+      "synonyms": [
+        "MSU"
+      ]
+    },
+    {
+      "value": "Maastricht University",
+      "synonyms": [
+        "Maastricht University"
+      ]
+    },
+    {
+      "value": "Manchester Metropolitan University",
+      "synonyms": [
+        "Manchester Metropolitan University"
+      ]
+    },
+    {
+      "value": "Markham College",
+      "synonyms": [
+        "Markham College"
+      ]
+    },
+    {
+      "value": "Marymount College",
+      "synonyms": [
+        "Marymount College"
+      ]
+    },
+    {
+      "value": "Marymount International School London",
+      "synonyms": [
+        "Marymount International School London"
+      ]
+    },
+    {
+      "value": "Marymount International School of Rome",
+      "synonyms": [
+        "Marymount International School of Rome"
+      ]
+    },
+    {
+      "value": "Marymount School",
+      "synonyms": [
+        "Marymount School"
+      ]
+    },
+    {
+      "value": "Massachusetts Institute of Technology",
+      "synonyms": [
+        "Massachusetts Institute of Technology"
+      ]
+    },
+    {
+      "value": "Master\u0027s College",
+      "synonyms": [
+        "Master\u0027s College"
+      ]
+    },
+    {
+      "value": "Maxwell International School",
+      "synonyms": [
+        "Maxwell International School"
+      ]
+    },
+    {
+      "value": "Mazapan School",
+      "synonyms": [
+        "Mazapan School"
+      ]
+    },
+    {
+      "value": "McGill University",
+      "synonyms": [
+        "McGill University"
+      ]
+    },
+    {
+      "value": "McMaster University",
+      "synonyms": [
+        "McMaster University"
+      ]
+    },
+    {
+      "value": "Medan International School",
+      "synonyms": [
+        "Medan International School"
+      ]
+    },
+    {
+      "value": "Menlo College",
+      "synonyms": [
+        "Menlo College"
+      ]
+    },
+    {
+      "value": "Meridian International School",
+      "synonyms": [
+        "Meridian International School"
+      ]
+    },
+    {
+      "value": "Michigan State University",
+      "synonyms": [
+        "Michigan State University"
+      ]
+    },
+    {
+      "value": "Middlesex University",
+      "synonyms": [
+        "Middlesex University"
+      ]
+    },
+    {
+      "value": "Mills College",
+      "synonyms": [
+        "Mills College"
+      ]
+    },
+    {
+      "value": "Miras International School",
+      "synonyms": [
+        "Miras International School"
+      ]
+    },
+    {
+      "value": "Mission San Jose High School",
+      "synonyms": [
+        "Mission San Jose High School"
+      ]
+    },
+    {
+      "value": "Modern American School",
+      "synonyms": [
+        "Modern American School"
+      ]
+    },
+    {
+      "value": "Monash University",
+      "synonyms": [
+        "Monash University"
+      ]
+    },
+    {
+      "value": "Mont\u0027 Kiara International School",
+      "synonyms": [
+        "Mont\u0027 Kiara International School"
+      ]
+    },
+    {
+      "value": "Monterey Institute of International Studies",
+      "synonyms": [
+        "Monterey Institute of International Studies"
+      ]
+    },
+    {
+      "value": "Moscow State University",
+      "synonyms": [
+        "Moscow State University"
+      ]
+    },
+    {
+      "value": "Mougins School",
+      "synonyms": [
+        "Mougins School"
+      ]
+    },
+    {
+      "value": "Mount St. Mary\u0027s College",
+      "synonyms": [
+        "Mount St. Mary\u0027s College"
+      ]
+    },
+    {
+      "value": "Mountainview International Christian School",
+      "synonyms": [
+        "Mountainview International Christian School"
+      ]
+    },
+    {
+      "value": "Munich International School",
+      "synonyms": [
+        "Munich International School"
+      ]
+    },
+    {
+      "value": "Myanmar International School",
+      "synonyms": [
+        "Myanmar International School"
+      ]
+    },
+    {
+      "value": "Nagoya University",
+      "synonyms": [
+        "Nagoya University"
+      ]
+    },
+    {
+      "value": "Nairobi Academy",
+      "synonyms": [
+        "Nairobi Academy"
+      ]
+    },
+    {
+      "value": "Nancy Campbell Collegiate Institute",
+      "synonyms": [
+        "Nancy Campbell Collegiate Institute"
+      ]
+    },
+    {
+      "value": "Nanjing University",
+      "synonyms": [
+        "Nanjing University"
+      ]
+    },
+    {
+      "value": "Nanyang Technological University",
+      "synonyms": [
+        "Nanyang Technological University"
+      ]
+    },
+    {
+      "value": "National Chiao Tung University",
+      "synonyms": [
+        "National Chiao Tung University"
+      ]
+    },
+    {
+      "value": "National Hispanic University",
+      "synonyms": [
+        "National Hispanic University"
+      ]
+    },
+    {
+      "value": "National Taiwan University",
+      "synonyms": [
+        "National Taiwan University"
+      ]
+    },
+    {
+      "value": "National Tsing Hua University",
+      "synonyms": [
+        "National Tsing Hua University"
+      ]
+    },
+    {
+      "value": "National University",
+      "synonyms": [
+        "National University"
+      ]
+    },
+    {
+      "value": "National University of Lesotho International School",
+      "synonyms": [
+        "National University of Lesotho International School"
+      ]
+    },
+    {
+      "value": "National University of Singapore",
+      "synonyms": [
+        "National University of Singapore"
+      ]
+    },
+    {
+      "value": "Network International School",
+      "synonyms": [
+        "Network International School"
+      ]
+    },
+    {
+      "value": "New English School",
+      "synonyms": [
+        "New English School"
+      ]
+    },
+    {
+      "value": "New Middle East International School",
+      "synonyms": [
+        "New Middle East International School"
+      ]
+    },
+    {
+      "value": "New School Rome",
+      "synonyms": [
+        "New School Rome"
+      ]
+    },
+    {
+      "value": "New York Film Academy",
+      "synonyms": [
+        "New York Film Academy"
+      ]
+    },
+    {
+      "value": "New York University",
+      "synonyms": [
+        "New York University"
+      ]
+    },
+    {
+      "value": "NewSchool of Architecture and Design",
+      "synonyms": [
+        "NewSchool of Architecture and Design"
+      ]
+    },
+    {
+      "value": "Newcastle University",
+      "synonyms": [
+        "Newcastle University"
+      ]
+    },
+    {
+      "value": "Newman University",
+      "synonyms": [
+        "Newman University"
+      ]
+    },
+    {
+      "value": "Newton College",
+      "synonyms": [
+        "Newton College"
+      ]
+    },
+    {
+      "value": "Newton International School",
+      "synonyms": [
+        "Newton International School"
+      ]
+    },
+    {
+      "value": "Nicaragua Christian Academy",
+      "synonyms": [
+        "Nicaragua Christian Academy"
+      ]
+    },
+    {
+      "value": "North Jakarta International School",
+      "synonyms": [
+        "North Jakarta International School"
+      ]
+    },
+    {
+      "value": "Northbridge International School Cambodia",
+      "synonyms": [
+        "Northbridge International School Cambodia"
+      ]
+    },
+    {
+      "value": "Northern Alberta Institute of Technology",
+      "synonyms": [
+        "Northern Alberta Institute of Technology"
+      ]
+    },
+    {
+      "value": "Northumbria University",
+      "synonyms": [
+        "Northumbria University"
+      ]
+    },
+    {
+      "value": "Northwestern Polytechnic University",
+      "synonyms": [
+        "Northwestern Polytechnic University"
+      ]
+    },
+    {
+      "value": "Northwestern University",
+      "synonyms": [
+        "Northwestern University"
+      ]
+    },
+    {
+      "value": "Norwich University of the Arts",
+      "synonyms": [
+        "Norwich University of the Arts"
+      ]
+    },
+    {
+      "value": "Notion International School",
+      "synonyms": [
+        "Notion International School"
+      ]
+    },
+    {
+      "value": "Notre Dame de Namur University",
+      "synonyms": [
+        "Notre Dame de Namur University"
+      ]
+    },
+    {
+      "value": "Notre-Dame International High School",
+      "synonyms": [
+        "Notre-Dame International High School"
+      ]
+    },
+    {
+      "value": "Nottingham Trent University",
+      "synonyms": [
+        "Nottingham Trent University"
+      ]
+    },
+    {
+      "value": "Nurorda International School",
+      "synonyms": [
+        "Nurorda International School"
+      ]
+    },
+    {
+      "value": "Occidental College",
+      "synonyms": [
+        "Occidental College"
+      ]
+    },
+    {
+      "value": "Oeiras International School",
+      "synonyms": [
+        "Oeiras International School"
+      ]
+    },
+    {
+      "value": "Olashore International School",
+      "synonyms": [
+        "Olashore International School"
+      ]
+    },
+    {
+      "value": "Oporto British School",
+      "synonyms": [
+        "Oporto British School"
+      ]
+    },
+    {
+      "value": "Osaka University",
+      "synonyms": [
+        "Osaka University"
+      ]
+    },
+    {
+      "value": "Oshwal Academy",
+      "synonyms": [
+        "Oshwal Academy"
+      ]
+    },
+    {
+      "value": "Oslo International School",
+      "synonyms": [
+        "Oslo International School"
+      ]
+    },
+    {
+      "value": "Otis College of Art and Design",
+      "synonyms": [
+        "Otis College of Art and Design"
+      ]
+    },
+    {
+      "value": "Oulu International School",
+      "synonyms": [
+        "Oulu International School"
+      ]
+    },
+    {
+      "value": "Our Own High School",
+      "synonyms": [
+        "Our Own High School"
+      ]
+    },
+    {
+      "value": "Oxford Brookes University",
+      "synonyms": [
+        "Oxford Brookes University"
+      ]
+    },
+    {
+      "value": "Oxford International School",
+      "synonyms": [
+        "Oxford International School"
+      ]
+    },
+    {
+      "value": "Oxford University",
+      "synonyms": [
+        "Oxford University"
+      ]
+    },
+    {
+      "value": "Pacific Oaks College",
+      "synonyms": [
+        "Pacific Oaks College"
+      ]
+    },
+    {
+      "value": "Pacific School of Religion",
+      "synonyms": [
+        "Pacific School of Religion"
+      ]
+    },
+    {
+      "value": "Pacific Union College",
+      "synonyms": [
+        "Pacific Union College"
+      ]
+    },
+    {
+      "value": "Pacifica Graduate Institute",
+      "synonyms": [
+        "Pacifica Graduate Institute"
+      ]
+    },
+    {
+      "value": "PakTurk International Schools and Colleges",
+      "synonyms": [
+        "PakTurk International Schools and Colleges"
+      ]
+    },
+    {
+      "value": "Pakistan International School",
+      "synonyms": [
+        "Pakistan International School"
+      ]
+    },
+    {
+      "value": "Pakistan School Muscat",
+      "synonyms": [
+        "Pakistan School Muscat"
+      ]
+    },
+    {
+      "value": "Palo Alto University",
+      "synonyms": [
+        "Palo Alto University"
+      ]
+    },
+    {
+      "value": "Pan American Christian Academy",
+      "synonyms": [
+        "Pan American Christian Academy"
+      ]
+    },
+    {
+      "value": "Park International School and College",
+      "synonyms": [
+        "Park International School and College"
+      ]
+    },
+    {
+      "value": "Park Lane International School",
+      "synonyms": [
+        "Park Lane International School"
+      ]
+    },
+    {
+      "value": "Patten University",
+      "synonyms": [
+        "Patten University"
+      ]
+    },
+    {
+      "value": "Pechersk School International",
+      "synonyms": [
+        "Pechersk School International"
+      ]
+    },
+    {
+      "value": "Peking University",
+      "synonyms": [
+        "Peking University"
+      ]
+    },
+    {
+      "value": "Pennsylvania State University",
+      "synonyms": [
+        "Pennsylvania State University"
+      ]
+    },
+    {
+      "value": "Peponi School",
+      "synonyms": [
+        "Peponi School"
+      ]
+    },
+    {
+      "value": "Pepperdine University",
+      "synonyms": [
+        "Pepperdine University"
+      ]
+    },
+    {
+      "value": "Peterson Schools",
+      "synonyms": [
+        "Peterson Schools"
+      ]
+    },
+    {
+      "value": "Philippine School Doha",
+      "synonyms": [
+        "Philippine School Doha"
+      ]
+    },
+    {
+      "value": "Pitzer College",
+      "synonyms": [
+        "Pitzer College"
+      ]
+    },
+    {
+      "value": "Pohang University of Science And Technology",
+      "synonyms": [
+        "Pohang University of Science And Technology"
+      ]
+    },
+    {
+      "value": "Point Loma Nazarene University",
+      "synonyms": [
+        "Point Loma Nazarene University"
+      ]
+    },
+    {
+      "value": "Politecnico di Milano",
+      "synonyms": [
+        "Politecnico di Milano"
+      ]
+    },
+    {
+      "value": "Pomona College",
+      "synonyms": [
+        "Pomona College"
+      ]
+    },
+    {
+      "value": "Pontificia Universidad Católica de Chile",
+      "synonyms": [
+        "Pontificia Universidad Católica de Chile"
+      ]
+    },
+    {
+      "value": "Port Said International School",
+      "synonyms": [
+        "Port Said International School"
+      ]
+    },
+    {
+      "value": "Prague British School",
+      "synonyms": [
+        "Prague British School"
+      ]
+    },
+    {
+      "value": "Prime School- International School",
+      "synonyms": [
+        "Prime School- International School"
+      ]
+    },
+    {
+      "value": "Princeton University",
+      "synonyms": [
+        "Princeton University"
+      ]
+    },
+    {
+      "value": "Providence Christian College",
+      "synonyms": [
+        "Providence Christian College"
+      ]
+    },
+    {
+      "value": "Purdue University",
+      "synonyms": [
+        "Purdue University"
+      ]
+    },
+    {
+      "value": "QSI International School of Tbilisi",
+      "synonyms": [
+        "QSI International School of Tbilisi"
+      ]
+    },
+    {
+      "value": "Qatar Academy",
+      "synonyms": [
+        "Qatar Academy"
+      ]
+    },
+    {
+      "value": "Qatar Canadian School",
+      "synonyms": [
+        "Qatar Canadian School"
+      ]
+    },
+    {
+      "value": "Qatar International School",
+      "synonyms": [
+        "Qatar International School"
+      ]
+    },
+    {
+      "value": "Queen Margaret University",
+      "synonyms": [
+        "Queen Margaret University"
+      ]
+    },
+    {
+      "value": "Queen Mary",
+      "synonyms": [
+        "Queen Mary"
+      ]
+    },
+    {
+      "value": "Queen Mary University of London",
+      "synonyms": [
+        "Queen Mary University of London"
+      ]
+    },
+    {
+      "value": "Queen\u0027s University Belfast",
+      "synonyms": [
+        "Queen\u0027s University Belfast"
+      ]
+    },
+    {
+      "value": "RWTH Aachen University",
+      "synonyms": [
+        "RWTH Aachen University"
+      ]
+    },
+    {
+      "value": "Rabat American School",
+      "synonyms": [
+        "Rabat American School"
+      ]
+    },
+    {
+      "value": "Radboud University",
+      "synonyms": [
+        "Radboud University"
+      ]
+    },
+    {
+      "value": "Raffles International Christian School",
+      "synonyms": [
+        "Raffles International Christian School"
+      ]
+    },
+    {
+      "value": "Rainbow International School",
+      "synonyms": [
+        "Rainbow International School"
+      ]
+    },
+    {
+      "value": "Ras Al Khaimah Academy",
+      "synonyms": [
+        "Ras Al Khaimah Academy"
+      ]
+    },
+    {
+      "value": "Red Cross Nordic United World College",
+      "synonyms": [
+        "Red Cross Nordic United World College"
+      ]
+    },
+    {
+      "value": "Regent\u0027s University London",
+      "synonyms": [
+        "Regent\u0027s University London"
+      ]
+    },
+    {
+      "value": "Renaissance International School Saigon",
+      "synonyms": [
+        "Renaissance International School Saigon"
+      ]
+    },
+    {
+      "value": "Ressu Comprehensive School",
+      "synonyms": [
+        "Ressu Comprehensive School"
+      ]
+    },
+    {
+      "value": "Reykjavik International School",
+      "synonyms": [
+        "Reykjavik International School"
+      ]
+    },
+    {
+      "value": "Rice University",
+      "synonyms": [
+        "Rice University"
+      ]
+    },
+    {
+      "value": "Riverside School",
+      "synonyms": [
+        "Riverside School"
+      ]
+    },
+    {
+      "value": "Robert College",
+      "synonyms": [
+        "Robert College"
+      ]
+    },
+    {
+      "value": "Roehampton University",
+      "synonyms": [
+        "Roehampton University"
+      ]
+    },
+    {
+      "value": "Rosslyn Academy",
+      "synonyms": [
+        "Rosslyn Academy"
+      ]
+    },
+    {
+      "value": "Rotterdam International Secondary School",
+      "synonyms": [
+        "Rotterdam International Secondary School"
+      ]
+    },
+    {
+      "value": "Royal Academy of Music",
+      "synonyms": [
+        "Royal Academy of Music"
+      ]
+    },
+    {
+      "value": "Royal Agricultural University",
+      "synonyms": [
+        "Royal Agricultural University"
+      ]
+    },
+    {
+      "value": "Royal Central School of Speech and Drama",
+      "synonyms": [
+        "Royal Central School of Speech and Drama"
+      ]
+    },
+    {
+      "value": "Royal Holloway",
+      "synonyms": [
+        "Royal Holloway"
+      ]
+    },
+    {
+      "value": "Royal Veterinary College",
+      "synonyms": [
+        "Royal Veterinary College"
+      ]
+    },
+    {
+      "value": "Ruprecht-Karls-Universitaet Heidelberg",
+      "synonyms": [
+        "Ruprecht-Karls-Universitaet Heidelberg"
+      ]
+    },
+    {
+      "value": "Rygaards International School",
+      "synonyms": [
+        "Rygaards International School"
+      ]
+    },
+    {
+      "value": "SHAPE High School",
+      "synonyms": [
+        "SHAPE High School"
+      ]
+    },
+    {
+      "value": "SIS Swiss International School",
+      "synonyms": [
+        "SIS Swiss International School"
+      ]
+    },
+    {
+      "value": "SOS Hermann Gmeiner International College",
+      "synonyms": [
+        "SOS Hermann Gmeiner International College"
+      ]
+    },
+    {
+      "value": "Sagesse High School",
+      "synonyms": [
+        "Sagesse High School"
+      ]
+    },
+    {
+      "value": "Sahel Academy",
+      "synonyms": [
+        "Sahel Academy"
+      ]
+    },
+    {
+      "value": "Saigon South International School",
+      "synonyms": [
+        "Saigon South International School"
+      ]
+    },
+    {
+      "value": "Saint Andrew\u0027s School",
+      "synonyms": [
+        "Saint Andrew\u0027s School"
+      ]
+    },
+    {
+      "value": "Saint Andrews International High School",
+      "synonyms": [
+        "Saint Andrews International High School"
+      ]
+    },
+    {
+      "value": "Saint Dominic\u0027s International School",
+      "synonyms": [
+        "Saint Dominic\u0027s International School"
+      ]
+    },
+    {
+      "value": "Saint Julian\u0027s School",
+      "synonyms": [
+        "Saint Julian\u0027s School"
+      ]
+    },
+    {
+      "value": "Saint Mary\u0027s College of California",
+      "synonyms": [
+        "Saint Mary\u0027s College of California"
+      ]
+    },
+    {
+      "value": "Saint Paul Preparatory School",
+      "synonyms": [
+        "Saint Paul Preparatory School"
+      ]
+    },
+    {
+      "value": "Sakhalin International School",
+      "synonyms": [
+        "Sakhalin International School"
+      ]
+    },
+    {
+      "value": "Samuel Merritt University",
+      "synonyms": [
+        "Samuel Merritt University"
+      ]
+    },
+    {
+      "value": "San Diego Christian College",
+      "synonyms": [
+        "San Diego Christian College"
+      ]
+    },
+    {
+      "value": "San Diego State University",
+      "synonyms": [
+        "San Diego State University"
+      ]
+    },
+    {
+      "value": "San Diego University for Integrative Studies",
+      "synonyms": [
+        "San Diego University for Integrative Studies"
+      ]
+    },
+    {
+      "value": "San Francisco Institute of Architecture",
+      "synonyms": [
+        "San Francisco Institute of Architecture"
+      ]
+    },
+    {
+      "value": "San Francisco State University",
+      "synonyms": [
+        "San Francisco State University"
+      ]
+    },
+    {
+      "value": "San Joaquin College of Law",
+      "synonyms": [
+        "San Joaquin College of Law"
+      ]
+    },
+    {
+      "value": "San José State University",
+      "synonyms": [
+        "San José State University"
+      ]
+    },
+    {
+      "value": "San Luis Rey College",
+      "synonyms": [
+        "San Luis Rey College"
+      ]
+    },
+    {
+      "value": "San Silvestre School",
+      "synonyms": [
+        "San Silvestre School"
+      ]
+    },
+    {
+      "value": "Sana\u0027a International School",
+      "synonyms": [
+        "Sana\u0027a International School"
+      ]
+    },
+    {
+      "value": "Sandy Elementary school",
+      "synonyms": [
+        "Sandy Elementary school"
+      ]
+    },
+    {
+      "value": "Santa Clara University",
+      "synonyms": [
+        "Santa Clara University"
+      ]
+    },
+    {
+      "value": "Santiago Christian School",
+      "synonyms": [
+        "Santiago Christian School"
+      ]
+    },
+    {
+      "value": "Santiago College",
+      "synonyms": [
+        "Santiago College"
+      ]
+    },
+    {
+      "value": "Saybrook University",
+      "synonyms": [
+        "Saybrook University"
+      ]
+    },
+    {
+      "value": "School of Oriental and African Studies",
+      "synonyms": [
+        "School of Oriental and African Studies"
+      ]
+    },
+    {
+      "value": "School of the Nations",
+      "synonyms": [
+        "School of the Nations"
+      ]
+    },
+    {
+      "value": "Schutz American School",
+      "synonyms": [
+        "Schutz American School"
+      ]
+    },
+    {
+      "value": "Scripps College",
+      "synonyms": [
+        "Scripps College"
+      ]
+    },
+    {
+      "value": "Sedbergh School",
+      "synonyms": [
+        "Sedbergh School"
+      ]
+    },
+    {
+      "value": "Sekolah Pelita Harapan",
+      "synonyms": [
+        "Sekolah Pelita Harapan"
+      ]
+    },
+    {
+      "value": "Seoul American High School",
+      "synonyms": [
+        "Seoul American High School"
+      ]
+    },
+    {
+      "value": "Seoul Foreign School",
+      "synonyms": [
+        "Seoul Foreign School"
+      ]
+    },
+    {
+      "value": "Seoul International School",
+      "synonyms": [
+        "Seoul International School"
+      ]
+    },
+    {
+      "value": "Seoul National University",
+      "synonyms": [
+        "Seoul National University"
+      ]
+    },
+    {
+      "value": "Shanghai Jiao Tong University",
+      "synonyms": [
+        "Shanghai Jiao Tong University"
+      ]
+    },
+    {
+      "value": "Sheffield Hallam University",
+      "synonyms": [
+        "Sheffield Hallam University"
+      ]
+    },
+    {
+      "value": "Sifundzani School",
+      "synonyms": [
+        "Sifundzani School"
+      ]
+    },
+    {
+      "value": "Sigtunaskolan Humanistiska Läroverket",
+      "synonyms": [
+        "Sigtunaskolan Humanistiska Läroverket"
+      ]
+    },
+    {
+      "value": "Silicon Valley University",
+      "synonyms": [
+        "Silicon Valley University"
+      ]
+    },
+    {
+      "value": "Simpson University",
+      "synonyms": [
+        "Simpson University"
+      ]
+    },
+    {
+      "value": "Soka University of America",
+      "synonyms": [
+        "Soka University of America"
+      ]
+    },
+    {
+      "value": "Sonoma State University",
+      "synonyms": [
+        "Sonoma State University"
+      ]
+    },
+    {
+      "value": "Soul Clinic International School",
+      "synonyms": [
+        "Soul Clinic International School"
+      ]
+    },
+    {
+      "value": "Southampton Solent University",
+      "synonyms": [
+        "Southampton Solent University"
+      ]
+    },
+    {
+      "value": "Southbank International School",
+      "synonyms": [
+        "Southbank International School"
+      ]
+    },
+    {
+      "value": "Southern California Institute of Architecture",
+      "synonyms": [
+        "Southern California Institute of Architecture"
+      ]
+    },
+    {
+      "value": "Southern States University",
+      "synonyms": [
+        "Southern States University"
+      ]
+    },
+    {
+      "value": "St Clare\u0027s International School",
+      "synonyms": [
+        "St Clare\u0027s International School"
+      ]
+    },
+    {
+      "value": "St George\u0027s University of London",
+      "synonyms": [
+        "St George\u0027s University of London"
+      ]
+    },
+    {
+      "value": "St Lawrence College",
+      "synonyms": [
+        "St Lawrence College"
+      ]
+    },
+    {
+      "value": "St Mary\u0027s University",
+      "synonyms": [
+        "St Mary\u0027s University"
+      ]
+    },
+    {
+      "value": "St. Andrew\u0027s College",
+      "synonyms": [
+        "St. Andrew\u0027s College"
+      ]
+    },
+    {
+      "value": "St. Andrews School",
+      "synonyms": [
+        "St. Andrews School"
+      ]
+    },
+    {
+      "value": "St. Anthony\u0027s College",
+      "synonyms": [
+        "St. Anthony\u0027s College"
+      ]
+    },
+    {
+      "value": "St. Catherine\u0027s British Embassy School",
+      "synonyms": [
+        "St. Catherine\u0027s British Embassy School"
+      ]
+    },
+    {
+      "value": "St. George\u0027s Austrian High School",
+      "synonyms": [
+        "St. George\u0027s Austrian High School"
+      ]
+    },
+    {
+      "value": "St. George\u0027s School",
+      "synonyms": [
+        "St. George\u0027s School"
+      ]
+    },
+    {
+      "value": "St. John\u0027s International School",
+      "synonyms": [
+        "St. John\u0027s International School"
+      ]
+    },
+    {
+      "value": "St. Michael\u0027s College",
+      "synonyms": [
+        "St. Michael\u0027s College"
+      ]
+    },
+    {
+      "value": "St. Peter\u0027s School",
+      "synonyms": [
+        "St. Peter\u0027s School"
+      ]
+    },
+    {
+      "value": "Staffordshire University",
+      "synonyms": [
+        "Staffordshire University"
+      ]
+    },
+    {
+      "value": "Stanford University",
+      "synonyms": [
+        "Stanford University"
+      ]
+    },
+    {
+      "value": "Stanstead College",
+      "synonyms": [
+        "Stanstead College"
+      ]
+    },
+    {
+      "value": "Starr King School for the Ministry",
+      "synonyms": [
+        "Starr King School for the Ministry"
+      ]
+    },
+    {
+      "value": "Stockholm International School",
+      "synonyms": [
+        "Stockholm International School"
+      ]
+    },
+    {
+      "value": "Stockholm University",
+      "synonyms": [
+        "Stockholm University"
+      ]
+    },
+    {
+      "value": "Sultan\u0027s School",
+      "synonyms": [
+        "Sultan\u0027s School"
+      ]
+    },
+    {
+      "value": "Sungkyunkwan University",
+      "synonyms": [
+        "Sungkyunkwan University"
+      ]
+    },
+    {
+      "value": "Surabaya International School",
+      "synonyms": [
+        "Surabaya International School"
+      ]
+    },
+    {
+      "value": "Swansea University",
+      "synonyms": [
+        "Swansea University"
+      ]
+    },
+    {
+      "value": "Tangier Anglo-Moroccan School",
+      "synonyms": [
+        "Tangier Anglo-Moroccan School"
+      ]
+    },
+    {
+      "value": "Technical University of Denmark",
+      "synonyms": [
+        "Technical University of Denmark"
+      ]
+    },
+    {
+      "value": "Technical University of Munich",
+      "synonyms": [
+        "Technical University of Munich"
+      ]
+    },
+    {
+      "value": "Technische Universität Berlin",
+      "synonyms": [
+        "Technische Universität Berlin"
+      ]
+    },
+    {
+      "value": "Teesside University",
+      "synonyms": [
+        "Teesside University"
+      ]
+    },
+    {
+      "value": "Tema International School",
+      "synonyms": [
+        "Tema International School"
+      ]
+    },
+    {
+      "value": "Tenby International School",
+      "synonyms": [
+        "Tenby International School"
+      ]
+    },
+    {
+      "value": "Texas A\u0026M University",
+      "synonyms": [
+        "Texas A\u0026M University"
+      ]
+    },
+    {
+      "value": "The Art Institute of California - San Francisco",
+      "synonyms": [
+        "The Art Institute of California - San Francisco"
+      ]
+    },
+    {
+      "value": "The Arts University Bournemouth",
+      "synonyms": [
+        "The Arts University Bournemouth"
+      ]
+    },
+    {
+      "value": "The Australian National University",
+      "synonyms": [
+        "The Australian National University"
+      ]
+    },
+    {
+      "value": "The Cambridge School Doha",
+      "synonyms": [
+        "The Cambridge School Doha"
+      ]
+    },
+    {
+      "value": "The Cantillon Institute for Entrepreneurship",
+      "synonyms": [
+        "The Cantillon Institute for Entrepreneurship"
+      ]
+    },
+    {
+      "value": "The Chinese University of Hong Kong",
+      "synonyms": [
+        "The Chinese University of Hong Kong"
+      ]
+    },
+    {
+      "value": "The Hebrew University of Jerusalem",
+      "synonyms": [
+        "The Hebrew University of Jerusalem"
+      ]
+    },
+    {
+      "value": "The Hong Kong Polytechnic University",
+      "synonyms": [
+        "The Hong Kong Polytechnic University"
+      ]
+    },
+    {
+      "value": "The Hong Kong University of Science and Technology",
+      "synonyms": [
+        "The Hong Kong University of Science and Technology"
+      ]
+    },
+    {
+      "value": "The Ohio State University",
+      "synonyms": [
+        "The Ohio State University"
+      ]
+    },
+    {
+      "value": "The Open University",
+      "synonyms": [
+        "The Open University"
+      ]
+    },
+    {
+      "value": "The Robert Gordon University",
+      "synonyms": [
+        "The Robert Gordon University"
+      ]
+    },
+    {
+      "value": "The University of Adelaide",
+      "synonyms": [
+        "The University of Adelaide"
+      ]
+    },
+    {
+      "value": "The University of Auckland",
+      "synonyms": [
+        "The University of Auckland"
+      ]
+    },
+    {
+      "value": "The University of Edinburgh",
+      "synonyms": [
+        "The University of Edinburgh"
+      ]
+    },
+    {
+      "value": "The University of Exeter",
+      "synonyms": [
+        "The University of Exeter"
+      ]
+    },
+    {
+      "value": "The University of Hong Kong",
+      "synonyms": [
+        "The University of Hong Kong"
+      ]
+    },
+    {
+      "value": "The University of Manchester",
+      "synonyms": [
+        "The University of Manchester"
+      ]
+    },
+    {
+      "value": "The University of Melbourne",
+      "synonyms": [
+        "The University of Melbourne"
+      ]
+    },
+    {
+      "value": "The University of New South Wales",
+      "synonyms": [
+        "The University of New South Wales"
+      ]
+    },
+    {
+      "value": "The University of Nottingham",
+      "synonyms": [
+        "The University of Nottingham"
+      ]
+    },
+    {
+      "value": "The University of Queensland",
+      "synonyms": [
+        "The University of Queensland"
+      ]
+    },
+    {
+      "value": "The University of Sheffield",
+      "synonyms": [
+        "The University of Sheffield"
+      ]
+    },
+    {
+      "value": "The University of Sydney",
+      "synonyms": [
+        "The University of Sydney"
+      ]
+    },
+    {
+      "value": "The University of Tokyo",
+      "synonyms": [
+        "The University of Tokyo"
+      ]
+    },
+    {
+      "value": "The University of Warwick",
+      "synonyms": [
+        "The University of Warwick"
+      ]
+    },
+    {
+      "value": "The University of Western Australia",
+      "synonyms": [
+        "The University of Western Australia"
+      ]
+    },
+    {
+      "value": "The University of Western Ontario",
+      "synonyms": [
+        "The University of Western Ontario"
+      ]
+    },
+    {
+      "value": "The Wingate School",
+      "synonyms": [
+        "The Wingate School"
+      ]
+    },
+    {
+      "value": "Thomas Aquinas College",
+      "synonyms": [
+        "Thomas Aquinas College"
+      ]
+    },
+    {
+      "value": "Thomas Mann Gymnasium / Deutsche Schule Budapest",
+      "synonyms": [
+        "Thomas Mann Gymnasium / Deutsche Schule Budapest"
+      ]
+    },
+    {
+      "value": "Tohoku University",
+      "synonyms": [
+        "Tohoku University"
+      ]
+    },
+    {
+      "value": "Tokyo Institute of Technology",
+      "synonyms": [
+        "Tokyo Institute of Technology"
+      ]
+    },
+    {
+      "value": "Toronto French School",
+      "synonyms": [
+        "Toronto French School"
+      ]
+    },
+    {
+      "value": "Touro University California",
+      "synonyms": [
+        "Touro University California"
+      ]
+    },
+    {
+      "value": "Townshend International School",
+      "synonyms": [
+        "Townshend International School"
+      ]
+    },
+    {
+      "value": "Trident University International",
+      "synonyms": [
+        "Trident University International"
+      ]
+    },
+    {
+      "value": "Trinity College Dublin",
+      "synonyms": [
+        "Trinity College Dublin"
+      ]
+    },
+    {
+      "value": "Tsinghua University",
+      "synonyms": [
+        "Tsinghua University"
+      ]
+    },
+    {
+      "value": "Turku International School",
+      "synonyms": [
+        "Turku International School"
+      ]
+    },
+    {
+      "value": "UCL",
+      "synonyms": [
+        "UCL"
+      ]
+    },
+    {
+      "value": "Ulster University",
+      "synonyms": [
+        "Ulster University"
+      ]
+    },
+    {
+      "value": "United Nations International School of Hanoi",
+      "synonyms": [
+        "United Nations International School of Hanoi"
+      ]
+    },
+    {
+      "value": "United World College Maastricht",
+      "synonyms": [
+        "United World College Maastricht"
+      ]
+    },
+    {
+      "value": "United World College of Costa Rica",
+      "synonyms": [
+        "United World College of Costa Rica"
+      ]
+    },
+    {
+      "value": "Unity High School",
+      "synonyms": [
+        "Unity High School"
+      ]
+    },
+    {
+      "value": "Universidad Nacional Autónoma de México",
+      "synonyms": [
+        "Universidad Nacional Autónoma de México"
+      ]
+    },
+    {
+      "value": "Universidad de Buenos Aires",
+      "synonyms": [
+        "Universidad de Buenos Aires"
+      ]
+    },
+    {
+      "value": "Universidad de Chile",
+      "synonyms": [
+        "Universidad de Chile"
+      ]
+    },
+    {
+      "value": "Universidade Estadual de Campinas",
+      "synonyms": [
+        "Universidade Estadual de Campinas"
+      ]
+    },
+    {
+      "value": "Universidade de São Paulo",
+      "synonyms": [
+        "Universidade de São Paulo"
+      ]
+    },
+    {
+      "value": "Universiti Malaya",
+      "synonyms": [
+        "Universiti Malaya"
+      ]
+    },
+    {
+      "value": "University College Birmingham[3]",
+      "synonyms": [
+        "University College Birmingham[3]"
+      ]
+    },
+    {
+      "value": "University College Dublin",
+      "synonyms": [
+        "University College Dublin"
+      ]
+    },
+    {
+      "value": "University College London",
+      "synonyms": [
+        "University College London"
+      ]
+    },
+    {
+      "value": "University of Aberdeen",
+      "synonyms": [
+        "University of Aberdeen"
+      ]
+    },
+    {
+      "value": "University of Alberta",
+      "synonyms": [
+        "University of Alberta"
+      ]
+    },
+    {
+      "value": "University of Amsterdam",
+      "synonyms": [
+        "University of Amsterdam"
+      ]
+    },
+    {
+      "value": "University of Antelope Valley",
+      "synonyms": [
+        "University of Antelope Valley"
+      ]
+    },
+    {
+      "value": "University of Barcelona",
+      "synonyms": [
+        "University of Barcelona"
+      ]
+    },
+    {
+      "value": "University of Basel",
+      "synonyms": [
+        "University of Basel"
+      ]
+    },
+    {
+      "value": "University of Bath",
+      "synonyms": [
+        "University of Bath"
+      ]
+    },
+    {
+      "value": "University of Bedfordshire",
+      "synonyms": [
+        "University of Bedfordshire"
+      ]
+    },
+    {
+      "value": "University of Bergen",
+      "synonyms": [
+        "University of Bergen"
+      ]
+    },
+    {
+      "value": "University of Bern",
+      "synonyms": [
+        "University of Bern"
+      ]
+    },
+    {
+      "value": "University of Birmingham",
+      "synonyms": [
+        "University of Birmingham"
+      ]
+    },
+    {
+      "value": "University of Bologna",
+      "synonyms": [
+        "University of Bologna"
+      ]
+    },
+    {
+      "value": "University of Bolton",
+      "synonyms": [
+        "University of Bolton"
+      ]
+    },
+    {
+      "value": "University of Bradford",
+      "synonyms": [
+        "University of Bradford"
+      ]
+    },
+    {
+      "value": "University of Brighton",
+      "synonyms": [
+        "University of Brighton"
+      ]
+    },
+    {
+      "value": "University of Bristol",
+      "synonyms": [
+        "University of Bristol"
+      ]
+    },
+    {
+      "value": "University of British Columbia",
+      "synonyms": [
+        "University of British Columbia"
+      ]
+    },
+    {
+      "value": "University of Buckingham",
+      "synonyms": [
+        "University of Buckingham"
+      ]
+    },
+    {
+      "value": "University of Calgary",
+      "synonyms": [
+        "University of Calgary"
+      ]
+    },
+    {
+      "value": "University of California",
+      "synonyms": [
+        "University of California"
+      ]
+    },
+    {
+      "value": "University of California Davis",
+      "synonyms": [
+        "University of California Davis"
+      ]
+    },
+    {
+      "value": "University of California Irvine",
+      "synonyms": [
+        "University of California Irvine"
+      ]
+    },
+    {
+      "value": "University of California Los Angeles",
+      "synonyms": [
+        "University of California Los Angeles"
+      ]
+    },
+    {
+      "value": "University of California Merced",
+      "synonyms": [
+        "University of California Merced"
+      ]
+    },
+    {
+      "value": "University of California Riverside",
+      "synonyms": [
+        "University of California Riverside"
+      ]
+    },
+    {
+      "value": "University of California San Diego",
+      "synonyms": [
+        "University of California San Diego"
+      ]
+    },
+    {
+      "value": "University of California Santa Barbara",
+      "synonyms": [
+        "University of California Santa Barbara"
+      ]
+    },
+    {
+      "value": "University of California Santa Cruz",
+      "synonyms": [
+        "University of California Santa Cruz"
+      ]
+    },
+    {
+      "value": "University of Cambridge",
+      "synonyms": [
+        "University of Cambridge"
+      ]
+    },
+    {
+      "value": "University of Cape Town",
+      "synonyms": [
+        "University of Cape Town"
+      ]
+    },
+    {
+      "value": "University of Central Lancashire",
+      "synonyms": [
+        "University of Central Lancashire"
+      ]
+    },
+    {
+      "value": "University of Chester",
+      "synonyms": [
+        "University of Chester"
+      ]
+    },
+    {
+      "value": "University of Chicago",
+      "synonyms": [
+        "University of Chicago"
+      ]
+    },
+    {
+      "value": "University of Chichester",
+      "synonyms": [
+        "University of Chichester"
+      ]
+    },
+    {
+      "value": "University of Colorado Boulder",
+      "synonyms": [
+        "University of Colorado Boulder"
+      ]
+    },
+    {
+      "value": "University of Copenhagen",
+      "synonyms": [
+        "University of Copenhagen"
+      ]
+    },
+    {
+      "value": "University of Cumbria",
+      "synonyms": [
+        "University of Cumbria"
+      ]
+    },
+    {
+      "value": "University of Derby",
+      "synonyms": [
+        "University of Derby"
+      ]
+    },
+    {
+      "value": "University of Dundee",
+      "synonyms": [
+        "University of Dundee"
+      ]
+    },
+    {
+      "value": "University of East Anglia",
+      "synonyms": [
+        "University of East Anglia"
+      ]
+    },
+    {
+      "value": "University of East London",
+      "synonyms": [
+        "University of East London"
+      ]
+    },
+    {
+      "value": "University of Edinburgh",
+      "synonyms": [
+        "University of Edinburgh"
+      ]
+    },
+    {
+      "value": "University of Essex",
+      "synonyms": [
+        "University of Essex"
+      ]
+    },
+    {
+      "value": "University of Exeter",
+      "synonyms": [
+        "University of Exeter"
+      ]
+    },
+    {
+      "value": "University of Florida",
+      "synonyms": [
+        "University of Florida"
+      ]
+    },
+    {
+      "value": "University of Geneva",
+      "synonyms": [
+        "University of Geneva"
+      ]
+    },
+    {
+      "value": "University of Glasgow",
+      "synonyms": [
+        "University of Glasgow"
+      ]
+    },
+    {
+      "value": "University of Gloucestershire",
+      "synonyms": [
+        "University of Gloucestershire"
+      ]
+    },
+    {
+      "value": "University of Greenwich",
+      "synonyms": [
+        "University of Greenwich"
+      ]
+    },
+    {
+      "value": "University of Groningen",
+      "synonyms": [
+        "University of Groningen"
+      ]
+    },
+    {
+      "value": "University of Helsinki",
+      "synonyms": [
+        "University of Helsinki"
+      ]
+    },
+    {
+      "value": "University of Hertfordshire",
+      "synonyms": [
+        "University of Hertfordshire"
+      ]
+    },
+    {
+      "value": "University of Huddersfield",
+      "synonyms": [
+        "University of Huddersfield"
+      ]
+    },
+    {
+      "value": "University of Hull",
+      "synonyms": [
+        "University of Hull"
+      ]
+    },
+    {
+      "value": "University of Illinois",
+      "synonyms": [
+        "University of Illinois"
+      ]
+    },
+    {
+      "value": "University of Illinois at Urbana-Champaign",
+      "synonyms": [
+        "University of Illinois at Urbana-Champaign"
+      ]
+    },
+    {
+      "value": "University of Kent",
+      "synonyms": [
+        "University of Kent"
+      ]
+    },
+    {
+      "value": "University of La Verne",
+      "synonyms": [
+        "University of La Verne"
+      ]
+    },
+    {
+      "value": "University of Lausanne",
+      "synonyms": [
+        "University of Lausanne"
+      ]
+    },
+    {
+      "value": "University of Law",
+      "synonyms": [
+        "University of Law"
+      ]
+    },
+    {
+      "value": "University of Leeds",
+      "synonyms": [
+        "University of Leeds"
+      ]
+    },
+    {
+      "value": "University of Leicester",
+      "synonyms": [
+        "University of Leicester"
+      ]
+    },
+    {
+      "value": "University of Lincoln",
+      "synonyms": [
+        "University of Lincoln"
+      ]
+    },
+    {
+      "value": "University of Liverpool",
+      "synonyms": [
+        "University of Liverpool"
+      ]
+    },
+    {
+      "value": "University of London",
+      "synonyms": [
+        "University of London"
+      ]
+    },
+    {
+      "value": "University of Manchester",
+      "synonyms": [
+        "University of Manchester"
+      ]
+    },
+    {
+      "value": "University of Maryland",
+      "synonyms": [
+        "University of Maryland"
+      ]
+    },
+    {
+      "value": "University of Michigan",
+      "synonyms": [
+        "University of Michigan"
+      ]
+    },
+    {
+      "value": "University of Minnesota",
+      "synonyms": [
+        "University of Minnesota"
+      ]
+    },
+    {
+      "value": "University of North Carolina",
+      "synonyms": [
+        "University of North Carolina"
+      ]
+    },
+    {
+      "value": "University of Northampton",
+      "synonyms": [
+        "University of Northampton"
+      ]
+    },
+    {
+      "value": "University of Northern California",
+      "synonyms": [
+        "University of Northern California"
+      ]
+    },
+    {
+      "value": "University of Nottingham",
+      "synonyms": [
+        "University of Nottingham"
+      ]
+    },
+    {
+      "value": "University of Oslo",
+      "synonyms": [
+        "University of Oslo"
+      ]
+    },
+    {
+      "value": "University of Otago",
+      "synonyms": [
+        "University of Otago"
+      ]
+    },
+    {
+      "value": "University of Oxford",
+      "synonyms": [
+        "University of Oxford"
+      ]
+    },
+    {
+      "value": "University of Paris-Sud",
+      "synonyms": [
+        "University of Paris-Sud"
+      ]
+    },
+    {
+      "value": "University of Pennsylvania",
+      "synonyms": [
+        "University of Pennsylvania"
+      ]
+    },
+    {
+      "value": "University of Pittsburgh",
+      "synonyms": [
+        "University of Pittsburgh"
+      ]
+    },
+    {
+      "value": "University of Plymouth",
+      "synonyms": [
+        "University of Plymouth"
+      ]
+    },
+    {
+      "value": "University of Portsmouth",
+      "synonyms": [
+        "University of Portsmouth"
+      ]
+    },
+    {
+      "value": "University of Reading",
+      "synonyms": [
+        "University of Reading"
+      ]
+    },
+    {
+      "value": "University of Redlands",
+      "synonyms": [
+        "University of Redlands"
+      ]
+    },
+    {
+      "value": "University of Rochester",
+      "synonyms": [
+        "University of Rochester"
+      ]
+    },
+    {
+      "value": "University of Salford",
+      "synonyms": [
+        "University of Salford"
+      ]
+    },
+    {
+      "value": "University of San Diego",
+      "synonyms": [
+        "University of San Diego"
+      ]
+    },
+    {
+      "value": "University of San Francisco",
+      "synonyms": [
+        "University of San Francisco"
+      ]
+    },
+    {
+      "value": "University of Science and Technology of China",
+      "synonyms": [
+        "University of Science and Technology of China"
+      ]
+    },
+    {
+      "value": "University of Sheffield",
+      "synonyms": [
+        "University of Sheffield"
+      ]
+    },
+    {
+      "value": "University of South Wales",
+      "synonyms": [
+        "University of South Wales"
+      ]
+    },
+    {
+      "value": "University of Southampton",
+      "synonyms": [
+        "University of Southampton"
+      ]
+    },
+    {
+      "value": "University of Southern California",
+      "synonyms": [
+        "University of Southern California"
+      ]
+    },
+    {
+      "value": "University of St Andrews",
+      "synonyms": [
+        "University of St Andrews"
+      ]
+    },
+    {
+      "value": "University of St Mark \u0026 St John",
+      "synonyms": [
+        "University of St Mark \u0026 St John"
+      ]
+    },
+    {
+      "value": "University of Stirling",
+      "synonyms": [
+        "University of Stirling"
+      ]
+    },
+    {
+      "value": "University of Strathclyde",
+      "synonyms": [
+        "University of Strathclyde"
+      ]
+    },
+    {
+      "value": "University of Suffolk",
+      "synonyms": [
+        "University of Suffolk"
+      ]
+    },
+    {
+      "value": "University of Sunderland",
+      "synonyms": [
+        "University of Sunderland"
+      ]
+    },
+    {
+      "value": "University of Surrey",
+      "synonyms": [
+        "University of Surrey"
+      ]
+    },
+    {
+      "value": "University of Sussex",
+      "synonyms": [
+        "University of Sussex"
+      ]
+    },
+    {
+      "value": "University of Technology Sydney",
+      "synonyms": [
+        "University of Technology Sydney"
+      ]
+    },
+    {
+      "value": "University of Texas at Austin",
+      "synonyms": [
+        "University of Texas at Austin"
+      ]
+    },
+    {
+      "value": "University of Toronto",
+      "synonyms": [
+        "University of Toronto"
+      ]
+    },
+    {
+      "value": "University of Twente",
+      "synonyms": [
+        "University of Twente"
+      ]
+    },
+    {
+      "value": "University of Vienna",
+      "synonyms": [
+        "University of Vienna"
+      ]
+    },
+    {
+      "value": "University of Virginia",
+      "synonyms": [
+        "University of Virginia"
+      ]
+    },
+    {
+      "value": "University of Wales",
+      "synonyms": [
+        "University of Wales"
+      ]
+    },
+    {
+      "value": "University of Warwick",
+      "synonyms": [
+        "University of Warwick"
+      ]
+    },
+    {
+      "value": "University of Washington",
+      "synonyms": [
+        "University of Washington"
+      ]
+    },
+    {
+      "value": "University of Waterloo",
+      "synonyms": [
+        "University of Waterloo"
+      ]
+    },
+    {
+      "value": "University of West London",
+      "synonyms": [
+        "University of West London"
+      ]
+    },
+    {
+      "value": "University of West Los Angeles",
+      "synonyms": [
+        "University of West Los Angeles"
+      ]
+    },
+    {
+      "value": "University of Westminster",
+      "synonyms": [
+        "University of Westminster"
+      ]
+    },
+    {
+      "value": "University of Winchester",
+      "synonyms": [
+        "University of Winchester"
+      ]
+    },
+    {
+      "value": "University of Wisconsin-Madison",
+      "synonyms": [
+        "University of Wisconsin-Madison"
+      ]
+    },
+    {
+      "value": "University of Wolverhampton",
+      "synonyms": [
+        "University of Wolverhampton"
+      ]
+    },
+    {
+      "value": "University of Worcester",
+      "synonyms": [
+        "University of Worcester"
+      ]
+    },
+    {
+      "value": "University of York",
+      "synonyms": [
+        "University of York"
+      ]
+    },
+    {
+      "value": "University of Zurich",
+      "synonyms": [
+        "University of Zurich"
+      ]
+    },
+    {
+      "value": "University of the Arts London",
+      "synonyms": [
+        "University of the Arts London"
+      ]
+    },
+    {
+      "value": "University of the Highlands \u0026 Islands",
+      "synonyms": [
+        "University of the Highlands \u0026 Islands"
+      ]
+    },
+    {
+      "value": "University of the Pacific",
+      "synonyms": [
+        "University of the Pacific"
+      ]
+    },
+    {
+      "value": "University of the West",
+      "synonyms": [
+        "University of the West"
+      ]
+    },
+    {
+      "value": "University of the West of England",
+      "synonyms": [
+        "University of the West of England"
+      ]
+    },
+    {
+      "value": "University of the West of Scotland",
+      "synonyms": [
+        "University of the West of Scotland"
+      ]
+    },
+    {
+      "value": "Université Catholique de Louvain",
+      "synonyms": [
+        "Université Catholique de Louvain"
+      ]
+    },
+    {
+      "value": "Université Pierre et Marie Curie",
+      "synonyms": [
+        "Université Pierre et Marie Curie"
+      ]
+    },
+    {
+      "value": "Université de Montréal",
+      "synonyms": [
+        "Université de Montréal"
+      ]
+    },
+    {
+      "value": "Uppsala University",
+      "synonyms": [
+        "Uppsala University"
+      ]
+    },
+    {
+      "value": "Uruguayan American School",
+      "synonyms": [
+        "Uruguayan American School"
+      ]
+    },
+    {
+      "value": "Utrecht University",
+      "synonyms": [
+        "Utrecht University"
+      ]
+    },
+    {
+      "value": "Vale Verde International School",
+      "synonyms": [
+        "Vale Verde International School"
+      ]
+    },
+    {
+      "value": "Vanguard University of Southern California",
+      "synonyms": [
+        "Vanguard University of Southern California"
+      ]
+    },
+    {
+      "value": "Vavoua International School",
+      "synonyms": [
+        "Vavoua International School"
+      ]
+    },
+    {
+      "value": "Vienna University of Technology",
+      "synonyms": [
+        "Vienna University of Technology"
+      ]
+    },
+    {
+      "value": "Vientiane International School",
+      "synonyms": [
+        "Vientiane International School"
+      ]
+    },
+    {
+      "value": "Vilamoura International School",
+      "synonyms": [
+        "Vilamoura International School"
+      ]
+    },
+    {
+      "value": "Villa St. Jean International School",
+      "synonyms": [
+        "Villa St. Jean International School"
+      ]
+    },
+    {
+      "value": "Vision International School",
+      "synonyms": [
+        "Vision International School"
+      ]
+    },
+    {
+      "value": "Vrije Universiteit Amsterdam",
+      "synonyms": [
+        "Vrije Universiteit Amsterdam"
+      ]
+    },
+    {
+      "value": "Vrije Universiteit Brussel",
+      "synonyms": [
+        "Vrije Universiteit Brussel"
+      ]
+    },
+    {
+      "value": "Wageningen University",
+      "synonyms": [
+        "Wageningen University"
+      ]
+    },
+    {
+      "value": "Walworth Barbour American International School in Israel",
+      "synonyms": [
+        "Walworth Barbour American International School in Israel"
+      ]
+    },
+    {
+      "value": "Washington University in St. Louis",
+      "synonyms": [
+        "Washington University in St. Louis"
+      ]
+    },
+    {
+      "value": "Waterford Kamhlaba United World College",
+      "synonyms": [
+        "Waterford Kamhlaba United World College"
+      ]
+    },
+    {
+      "value": "Wesley International School",
+      "synonyms": [
+        "Wesley International School"
+      ]
+    },
+    {
+      "value": "Western Seminary Sacramento Campus",
+      "synonyms": [
+        "Western Seminary Sacramento Campus"
+      ]
+    },
+    {
+      "value": "Western Seminary San Jose Campus",
+      "synonyms": [
+        "Western Seminary San Jose Campus"
+      ]
+    },
+    {
+      "value": "Western University of Health Sciences",
+      "synonyms": [
+        "Western University of Health Sciences"
+      ]
+    },
+    {
+      "value": "Westminster School",
+      "synonyms": [
+        "Westminster School"
+      ]
+    },
+    {
+      "value": "Westmont College",
+      "synonyms": [
+        "Westmont College"
+      ]
+    },
+    {
+      "value": "Whittier College",
+      "synonyms": [
+        "Whittier College"
+      ]
+    },
+    {
+      "value": "William Jessup University",
+      "synonyms": [
+        "William Jessup University"
+      ]
+    },
+    {
+      "value": "Windhoek International School",
+      "synonyms": [
+        "Windhoek International School"
+      ]
+    },
+    {
+      "value": "Woodbury University",
+      "synonyms": [
+        "Woodbury University"
+      ]
+    },
+    {
+      "value": "World International School",
+      "synonyms": [
+        "World International School"
+      ]
+    },
+    {
+      "value": "Yale University",
+      "synonyms": [
+        "Yale University"
+      ]
+    },
+    {
+      "value": "Yanbu International School",
+      "synonyms": [
+        "Yanbu International School"
+      ]
+    },
+    {
+      "value": "Yangon International Educare Center",
+      "synonyms": [
+        "Yangon International Educare Center"
+      ]
+    },
+    {
+      "value": "Yangon International School",
+      "synonyms": [
+        "Yangon International School"
+      ]
+    },
+    {
+      "value": "Yogyakarta International School",
+      "synonyms": [
+        "Yogyakarta International School"
+      ]
+    },
+    {
+      "value": "Yongsan International School of Seoul",
+      "synonyms": [
+        "Yongsan International School of Seoul"
+      ]
+    },
+    {
+      "value": "Yonsei University",
+      "synonyms": [
+        "Yonsei University"
+      ]
+    },
+    {
+      "value": "York School",
+      "synonyms": [
+        "York School"
+      ]
+    },
+    {
+      "value": "York St John University",
+      "synonyms": [
+        "York St John University"
+      ]
+    },
+    {
+      "value": "Zaman International School",
+      "synonyms": [
+        "Zaman International School"
+      ]
+    },
+    {
+      "value": "Zaytuna College",
+      "synonyms": [
+        "Zaytuna College"
+      ]
+    },
+    {
+      "value": "Zhejiang University",
+      "synonyms": [
+        "Zhejiang University"
+      ]
+    },
+    {
+      "value": "Zlatarski International School",
+      "synonyms": [
+        "Zlatarski International School"
+      ]
+    },
+    {
+      "value": "Zurich International School",
+      "synonyms": [
+        "Zurich International School"
+      ]
+    },
+    {
+      "value": "elc International school",
+      "synonyms": [
+        "elc International school"
+      ]
+    },
+    {
+      "value": "École Marie Brosset",
+      "synonyms": [
+        "École Marie Brosset"
+      ]
+    },
+    {
+      "value": "École Normale Supérieure de Lyon",
+      "synonyms": [
+        "École Normale Supérieure de Lyon"
+      ]
+    },
+    {
+      "value": "École nouvelle de la Suisse romande",
+      "synonyms": [
+        "École nouvelle de la Suisse romande"
+      ]
+    },
+    {
+      "value": "Établissement Français d\u0027Enseignement Montaigne",
+      "synonyms": [
+        "Établissement Français d\u0027Enseignement Montaigne"
+      ]
+    },
+    {
+      "value": "Østerbro International School",
+      "synonyms": [
+        "Østerbro International School"
+      ]
+    },
+    {
+      "value": "Üsküdar American Academy",
+      "synonyms": [
+        "Üsküdar American Academy"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}

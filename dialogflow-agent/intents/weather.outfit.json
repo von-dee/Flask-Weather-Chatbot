@@ -1,0 +1,417 @@
+{
+  "userSays": [
+    {
+      "id": "84c8977e-f044-45e2-bb13-25e9c702d940",
+      "data": [
+        {
+          "text": "should I wear my "
+        },
+        {
+          "text": "gloves",
+          "alias": "outfit",
+          "meta": "@outfit",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Aspen",
+          "alias": "address",
+          "meta": "@address",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fa7076b6-a86f-410d-b96a-87f442745f1a",
+      "data": [
+        {
+          "text": "do I need "
+        },
+        {
+          "text": "sunglasses",
+          "alias": "outfit",
+          "meta": "@outfit",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e4fea9f2-f432-4dd1-9003-93905629b11f",
+      "data": [
+        {
+          "text": "should I wear "
+        },
+        {
+          "text": "sunglasses",
+          "alias": "outfit",
+          "meta": "@outfit",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b63ba5c1-cded-46b1-af85-21c23a27881c",
+      "data": [
+        {
+          "text": "will I need an "
+        },
+        {
+          "text": "umbrella",
+          "alias": "outfit",
+          "meta": "@outfit",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3fcecd68-debd-44a1-8be0-3ec37d7dcac7",
+      "data": [
+        {
+          "text": "should I take a "
+        },
+        {
+          "text": "jacket",
+          "alias": "outfit",
+          "meta": "@outfit",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ec8471fd-6716-41b6-9353-c5497b2cb6c5",
+      "data": [
+        {
+          "text": "should I wear a "
+        },
+        {
+          "text": "jacket",
+          "alias": "outfit",
+          "meta": "@outfit",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date-time",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "746f9426-effc-406a-94ce-eb40c9def5df",
+      "data": [
+        {
+          "text": "will I need an "
+        },
+        {
+          "text": "umbrella",
+          "alias": "outfit",
+          "meta": "@outfit",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this weekend",
+          "alias": "date-time",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d67a38ff-ef57-4f03-b09f-e7f2f3eb7256",
+      "data": [
+        {
+          "text": "should I take "
+        },
+        {
+          "text": "sunglasses",
+          "alias": "outfit",
+          "meta": "@outfit",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date-time",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b005f3e6-2427-46c5-9527-1de300be1afd",
+      "data": [
+        {
+          "text": "should I wear "
+        },
+        {
+          "text": "sunglasses",
+          "alias": "outfit",
+          "meta": "@outfit",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "Milan",
+          "alias": "address",
+          "meta": "@address",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ee6ba2b3-57a7-4151-ac7b-48eda19e1860",
+      "data": [
+        {
+          "text": "will I need an "
+        },
+        {
+          "text": "umbrella",
+          "alias": "outfit",
+          "meta": "@outfit",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "London",
+          "alias": "address",
+          "meta": "@address",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7e8815a0-7022-4a8d-b18c-78bd06fada1e",
+      "data": [
+        {
+          "text": "should I wear my "
+        },
+        {
+          "text": "coat",
+          "alias": "outfit",
+          "meta": "@outfit",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "81b2823f-6aa2-46a4-939a-55e98cf633de",
+      "data": [
+        {
+          "text": "should I take a "
+        },
+        {
+          "text": "jacket",
+          "alias": "outfit",
+          "meta": "@outfit",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "Moscow",
+          "alias": "address",
+          "meta": "@address",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c50a926f-2a83-44e8-ad67-5ab20925bbfd",
+      "data": [
+        {
+          "text": "should I wear "
+        },
+        {
+          "text": "sunglasses",
+          "alias": "outfit",
+          "meta": "@outfit",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date-time",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "California",
+          "alias": "address",
+          "meta": "@address",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f93e5513-9184-4b40-91ac-b9561cb9d10d",
+      "data": [
+        {
+          "text": "will I need an "
+        },
+        {
+          "text": "umbrella",
+          "alias": "outfit",
+          "meta": "@outfit",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "Paris",
+          "alias": "address",
+          "meta": "@address",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this weekend",
+          "alias": "date-time",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0ad3ad0c-5432-4006-b007-1863696e0fcf",
+      "data": [
+        {
+          "text": "should I take a "
+        },
+        {
+          "text": "jacket",
+          "alias": "outfit",
+          "meta": "@outfit",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "Prague",
+          "alias": "address",
+          "meta": "@address",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "June 20",
+          "alias": "date-time",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "ff8c944a-219f-49d5-9572-3c1f0dfd44ce",
+  "name": "weather.outfit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "weather.outfit",
+      "affectedContexts": [
+        {
+          "name": "weather",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "dataType": "@outfit",
+          "name": "outfit",
+          "value": "$outfit"
+        },
+        {
+          "dataType": "@address",
+          "name": "address",
+          "value": "$address",
+          "prompts": [],
+          "defaultValue": "#weather.address"
+        },
+        {
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "prompts": [],
+          "defaultValue": "#weather.date-time"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

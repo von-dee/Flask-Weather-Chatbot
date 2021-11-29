@@ -1,0 +1,51 @@
+{
+  "id": "1fe4cab6-e39e-4d32-9eb3-9b02345c3e6a",
+  "name": "continent",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Africa",
+      "synonyms": [
+        "Africa"
+      ]
+    },
+    {
+      "value": "Antarctica",
+      "synonyms": [
+        "Antarctica"
+      ]
+    },
+    {
+      "value": "Asia",
+      "synonyms": [
+        "Asia"
+      ]
+    },
+    {
+      "value": "Australia",
+      "synonyms": [
+        "Australia"
+      ]
+    },
+    {
+      "value": "Europe",
+      "synonyms": [
+        "Europe"
+      ]
+    },
+    {
+      "value": "North America",
+      "synonyms": [
+        "North America"
+      ]
+    },
+    {
+      "value": "South America",
+      "synonyms": [
+        "South Amercia"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

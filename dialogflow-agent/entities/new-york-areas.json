@@ -1,0 +1,2727 @@
+{
+  "id": "89c98943-1f0d-4617-b88d-00df1c376b52",
+  "name": "new-york-areas",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Admiral\u0027s Row",
+      "synonyms": [
+        "Admiral\u0027s Row"
+      ]
+    },
+    {
+      "value": "Allerton",
+      "synonyms": [
+        "Allerton"
+      ]
+    },
+    {
+      "value": "Alphabet City",
+      "synonyms": [
+        "Alphabet City"
+      ]
+    },
+    {
+      "value": "Alphabet City and Loisaida",
+      "synonyms": [
+        "Alphabet City and Loisaida"
+      ]
+    },
+    {
+      "value": "Annadale",
+      "synonyms": [
+        "Annadale"
+      ]
+    },
+    {
+      "value": "Arden Heights",
+      "synonyms": [
+        "Arden Heights"
+      ]
+    },
+    {
+      "value": "Arlington",
+      "synonyms": [
+        "Arlington"
+      ]
+    },
+    {
+      "value": "Arrochar",
+      "synonyms": [
+        "Arrochar"
+      ]
+    },
+    {
+      "value": "Arverne",
+      "synonyms": [
+        "Arverne"
+      ]
+    },
+    {
+      "value": "Astor Row",
+      "synonyms": [
+        "Astor Row"
+      ]
+    },
+    {
+      "value": "Astoria",
+      "synonyms": [
+        "Astoria"
+      ]
+    },
+    {
+      "value": "Astoria Heights",
+      "synonyms": [
+        "Astoria Heights"
+      ]
+    },
+    {
+      "value": "Auburndale",
+      "synonyms": [
+        "Auburndale"
+      ]
+    },
+    {
+      "value": "Barren Island",
+      "synonyms": [
+        "Barren Island"
+      ]
+    },
+    {
+      "value": "Bath Beach",
+      "synonyms": [
+        "Bath Beach"
+      ]
+    },
+    {
+      "value": "Battery Park City",
+      "synonyms": [
+        "Battery Park City"
+      ]
+    },
+    {
+      "value": "Bay Ridge",
+      "synonyms": [
+        "Bay Ridge"
+      ]
+    },
+    {
+      "value": "Bay Terrace",
+      "synonyms": [
+        "Bay Terrace"
+      ]
+    },
+    {
+      "value": "Baychester",
+      "synonyms": [
+        "Baychester"
+      ]
+    },
+    {
+      "value": "Bayside",
+      "synonyms": [
+        "Bayside"
+      ]
+    },
+    {
+      "value": "Bayswater",
+      "synonyms": [
+        "Bayswater"
+      ]
+    },
+    {
+      "value": "Bedford–Stuyvesant",
+      "synonyms": [
+        "Bedford–Stuyvesant"
+      ]
+    },
+    {
+      "value": "Bedford",
+      "synonyms": [
+        "Bedford"
+      ]
+    },
+    {
+      "value": "Bedford Park",
+      "synonyms": [
+        "Bedford Park"
+      ]
+    },
+    {
+      "value": "Bedford-Stuyvesant",
+      "synonyms": [
+        "Bedford-Stuyvesant"
+      ]
+    },
+    {
+      "value": "Beechhurst",
+      "synonyms": [
+        "Beechhurst"
+      ]
+    },
+    {
+      "value": "Bellaire",
+      "synonyms": [
+        "Bellaire"
+      ]
+    },
+    {
+      "value": "Belle Harbor",
+      "synonyms": [
+        "Belle Harbor"
+      ]
+    },
+    {
+      "value": "Bellerose",
+      "synonyms": [
+        "Bellerose"
+      ]
+    },
+    {
+      "value": "Belmont",
+      "synonyms": [
+        "Belmont"
+      ]
+    },
+    {
+      "value": "Bensonhurst",
+      "synonyms": [
+        "Bensonhurst"
+      ]
+    },
+    {
+      "value": "Bergen Beach",
+      "synonyms": [
+        "Bergen Beach"
+      ]
+    },
+    {
+      "value": "Bergen Beach and Georgetown",
+      "synonyms": [
+        "Bergen Beach and Georgetown"
+      ]
+    },
+    {
+      "value": "Beverley Square East",
+      "synonyms": [
+        "Beverley Square East"
+      ]
+    },
+    {
+      "value": "Beverley Square West",
+      "synonyms": [
+        "Beverley Square West"
+      ]
+    },
+    {
+      "value": "Beverley Squares",
+      "synonyms": [
+        "Beverley Squares"
+      ]
+    },
+    {
+      "value": "Blissville",
+      "synonyms": [
+        "Blissville"
+      ]
+    },
+    {
+      "value": "Bloomfield",
+      "synonyms": [
+        "Bloomfield"
+      ]
+    },
+    {
+      "value": "Boerum Hill",
+      "synonyms": [
+        "Boerum Hill"
+      ]
+    },
+    {
+      "value": "Borough Park",
+      "synonyms": [
+        "Borough Park"
+      ]
+    },
+    {
+      "value": "Bowery",
+      "synonyms": [
+        "Bowery"
+      ]
+    },
+    {
+      "value": "Breezy Point",
+      "synonyms": [
+        "Breezy Point"
+      ]
+    },
+    {
+      "value": "Briarwood",
+      "synonyms": [
+        "Briarwood"
+      ]
+    },
+    {
+      "value": "Bridge Plaza/RAMBO",
+      "synonyms": [
+        "Bridge Plaza/RAMBO"
+      ]
+    },
+    {
+      "value": "Brighton Beach",
+      "synonyms": [
+        "Brighton Beach"
+      ]
+    },
+    {
+      "value": "Brighton Heights",
+      "synonyms": [
+        "Brighton Heights"
+      ]
+    },
+    {
+      "value": "Broad Channel",
+      "synonyms": [
+        "Broad Channel"
+      ]
+    },
+    {
+      "value": "Broadway-Flushing",
+      "synonyms": [
+        "Broadway-Flushing"
+      ]
+    },
+    {
+      "value": "Bronx",
+      "synonyms": [
+        "Bronx"
+      ]
+    },
+    {
+      "value": "Bronx River",
+      "synonyms": [
+        "Bronx River"
+      ]
+    },
+    {
+      "value": "Bronxdale",
+      "synonyms": [
+        "Bronxdale"
+      ]
+    },
+    {
+      "value": "Bronxwood",
+      "synonyms": [
+        "Bronxwood"
+      ]
+    },
+    {
+      "value": "Brookdale",
+      "synonyms": [
+        "Brookdale"
+      ]
+    },
+    {
+      "value": "Brooklyn",
+      "synonyms": [
+        "Brooklyn"
+      ]
+    },
+    {
+      "value": "Brooklyn Heights",
+      "synonyms": [
+        "Brooklyn Heights"
+      ]
+    },
+    {
+      "value": "Brooklyn Navy Yard",
+      "synonyms": [
+        "Brooklyn Navy Yard"
+      ]
+    },
+    {
+      "value": "Brookville",
+      "synonyms": [
+        "Brookville"
+      ]
+    },
+    {
+      "value": "Brownsville",
+      "synonyms": [
+        "Brownsville"
+      ]
+    },
+    {
+      "value": "Bruckner",
+      "synonyms": [
+        "Bruckner"
+      ]
+    },
+    {
+      "value": "Bulls Head",
+      "synonyms": [
+        "Bulls Head"
+      ]
+    },
+    {
+      "value": "Bushwick",
+      "synonyms": [
+        "Bushwick"
+      ]
+    },
+    {
+      "value": "Cadman Plaza",
+      "synonyms": [
+        "Cadman Plaza"
+      ]
+    },
+    {
+      "value": "Cambria Heights",
+      "synonyms": [
+        "Cambria Heights"
+      ]
+    },
+    {
+      "value": "Canarsie",
+      "synonyms": [
+        "Canarsie"
+      ]
+    },
+    {
+      "value": "Canarsie Pol",
+      "synonyms": [
+        "Canarsie Pol"
+      ]
+    },
+    {
+      "value": "Carnegie Hill",
+      "synonyms": [
+        "Carnegie Hill"
+      ]
+    },
+    {
+      "value": "Carroll Gardens",
+      "synonyms": [
+        "Carroll Gardens"
+      ]
+    },
+    {
+      "value": "Castle Hill",
+      "synonyms": [
+        "Castle Hill"
+      ]
+    },
+    {
+      "value": "Castleton",
+      "synonyms": [
+        "Castleton"
+      ]
+    },
+    {
+      "value": "Castleton Corners",
+      "synonyms": [
+        "Castleton Corners"
+      ]
+    },
+    {
+      "value": "Central Harlem",
+      "synonyms": [
+        "Central Harlem"
+      ]
+    },
+    {
+      "value": "Central Riverdale",
+      "synonyms": [
+        "Central Riverdale"
+      ]
+    },
+    {
+      "value": "Charleston",
+      "synonyms": [
+        "Charleston"
+      ]
+    },
+    {
+      "value": "Chelsea",
+      "synonyms": [
+        "Chelsea"
+      ]
+    },
+    {
+      "value": "Chimney Sweeps Islands",
+      "synonyms": [
+        "Chimney Sweeps Islands"
+      ]
+    },
+    {
+      "value": "Chinatown",
+      "synonyms": [
+        "Chinatown"
+      ]
+    },
+    {
+      "value": "City Island",
+      "synonyms": [
+        "City Island"
+      ]
+    },
+    {
+      "value": "City Line",
+      "synonyms": [
+        "City Line"
+      ]
+    },
+    {
+      "value": "Civic Center",
+      "synonyms": [
+        "Civic Center"
+      ]
+    },
+    {
+      "value": "Clason Point",
+      "synonyms": [
+        "Clason Point"
+      ]
+    },
+    {
+      "value": "Clifton",
+      "synonyms": [
+        "Clifton"
+      ]
+    },
+    {
+      "value": "Clinton Hill",
+      "synonyms": [
+        "Clinton Hill"
+      ]
+    },
+    {
+      "value": "Co-op City",
+      "synonyms": [
+        "Co-op City"
+      ]
+    },
+    {
+      "value": "Cobble Hill",
+      "synonyms": [
+        "Cobble Hill"
+      ]
+    },
+    {
+      "value": "College Point",
+      "synonyms": [
+        "College Point"
+      ]
+    },
+    {
+      "value": "Columbia Street Waterfront District",
+      "synonyms": [
+        "Columbia Street Waterfront District"
+      ]
+    },
+    {
+      "value": "Columbus Circle",
+      "synonyms": [
+        "Columbus Circle"
+      ]
+    },
+    {
+      "value": "Concord",
+      "synonyms": [
+        "Concord"
+      ]
+    },
+    {
+      "value": "Coney Island",
+      "synonyms": [
+        "Coney Island"
+      ]
+    },
+    {
+      "value": "Cooperative Village",
+      "synonyms": [
+        "Cooperative Village"
+      ]
+    },
+    {
+      "value": "Corona",
+      "synonyms": [
+        "Corona"
+      ]
+    },
+    {
+      "value": "Country Club",
+      "synonyms": [
+        "Country Club"
+      ]
+    },
+    {
+      "value": "Crotona Park East",
+      "synonyms": [
+        "Crotona Park East"
+      ]
+    },
+    {
+      "value": "Crown Heights",
+      "synonyms": [
+        "Crown Heights"
+      ]
+    },
+    {
+      "value": "Cypress Hills",
+      "synonyms": [
+        "Cypress Hills"
+      ]
+    },
+    {
+      "value": "Diamond District",
+      "synonyms": [
+        "Diamond District"
+      ]
+    },
+    {
+      "value": "Ditmars",
+      "synonyms": [
+        "Ditmars"
+      ]
+    },
+    {
+      "value": "Ditmas Park",
+      "synonyms": [
+        "Ditmas Park"
+      ]
+    },
+    {
+      "value": "Dongan Hills",
+      "synonyms": [
+        "Dongan Hills"
+      ]
+    },
+    {
+      "value": "Douglaston",
+      "synonyms": [
+        "Douglaston"
+      ]
+    },
+    {
+      "value": "Downtown Bronx",
+      "synonyms": [
+        "Downtown Bronx"
+      ]
+    },
+    {
+      "value": "Downtown Brooklyn",
+      "synonyms": [
+        "Downtown Brooklyn"
+      ]
+    },
+    {
+      "value": "Downtown Flushing",
+      "synonyms": [
+        "Downtown Flushing"
+      ]
+    },
+    {
+      "value": "Downtown Manhattan",
+      "synonyms": [
+        "Downtown Manhattan"
+      ]
+    },
+    {
+      "value": "DUMBO",
+      "synonyms": [
+        "DUMBO"
+      ]
+    },
+    {
+      "value": "Dutch Kills",
+      "synonyms": [
+        "Dutch Kills"
+      ]
+    },
+    {
+      "value": "Dyker Heights",
+      "synonyms": [
+        "Dyker Heights"
+      ]
+    },
+    {
+      "value": "East Bronx",
+      "synonyms": [
+        "East Bronx"
+      ]
+    },
+    {
+      "value": "East Elmhurst",
+      "synonyms": [
+        "East Elmhurst"
+      ]
+    },
+    {
+      "value": "East Flatbush",
+      "synonyms": [
+        "East Flatbush"
+      ]
+    },
+    {
+      "value": "East Harlem",
+      "synonyms": [
+        "East Harlem"
+      ]
+    },
+    {
+      "value": "East New York",
+      "synonyms": [
+        "East New York"
+      ]
+    },
+    {
+      "value": "East Tremont",
+      "synonyms": [
+        "East Tremont"
+      ]
+    },
+    {
+      "value": "East Village",
+      "synonyms": [
+        "East Village"
+      ]
+    },
+    {
+      "value": "East Williamsburg",
+      "synonyms": [
+        "East Williamsburg"
+      ]
+    },
+    {
+      "value": "Eastchester",
+      "synonyms": [
+        "Eastchester"
+      ]
+    },
+    {
+      "value": "Edenwald",
+      "synonyms": [
+        "Edenwald"
+      ]
+    },
+    {
+      "value": "Edgemere",
+      "synonyms": [
+        "Edgemere"
+      ]
+    },
+    {
+      "value": "Edgewater Park",
+      "synonyms": [
+        "Edgewater Park"
+      ]
+    },
+    {
+      "value": "Egbertville",
+      "synonyms": [
+        "Egbertville"
+      ]
+    },
+    {
+      "value": "Electchester",
+      "synonyms": [
+        "Electchester"
+      ]
+    },
+    {
+      "value": "Ellis Island",
+      "synonyms": [
+        "Ellis Island"
+      ]
+    },
+    {
+      "value": "Elm Park",
+      "synonyms": [
+        "Elm Park"
+      ]
+    },
+    {
+      "value": "Elmhurst",
+      "synonyms": [
+        "Elmhurst"
+      ]
+    },
+    {
+      "value": "Eltingville",
+      "synonyms": [
+        "Eltingville"
+      ]
+    },
+    {
+      "value": "Emerson Hill",
+      "synonyms": [
+        "Emerson Hill"
+      ]
+    },
+    {
+      "value": "Far Rockaway",
+      "synonyms": [
+        "Far Rockaway"
+      ]
+    },
+    {
+      "value": "Farragut",
+      "synonyms": [
+        "Farragut"
+      ]
+    },
+    {
+      "value": "Fieldston",
+      "synonyms": [
+        "Fieldston"
+      ]
+    },
+    {
+      "value": "Financial District",
+      "synonyms": [
+        "Financial District"
+      ]
+    },
+    {
+      "value": "Fiske Terrace",
+      "synonyms": [
+        "Fiske Terrace"
+      ]
+    },
+    {
+      "value": "Five Points",
+      "synonyms": [
+        "Five Points"
+      ]
+    },
+    {
+      "value": "Flatbush",
+      "synonyms": [
+        "Flatbush"
+      ]
+    },
+    {
+      "value": "Flatiron District",
+      "synonyms": [
+        "Flatiron District"
+      ]
+    },
+    {
+      "value": "Flatlands",
+      "synonyms": [
+        "Flatlands"
+      ]
+    },
+    {
+      "value": "Floral Park",
+      "synonyms": [
+        "Floral Park"
+      ]
+    },
+    {
+      "value": "Flower District",
+      "synonyms": [
+        "Flower District"
+      ]
+    },
+    {
+      "value": "Flushing",
+      "synonyms": [
+        "Flushing"
+      ]
+    },
+    {
+      "value": "Fordham",
+      "synonyms": [
+        "Fordham"
+      ]
+    },
+    {
+      "value": "Forest Hills",
+      "synonyms": [
+        "Forest Hills"
+      ]
+    },
+    {
+      "value": "Forest Hills Gardens",
+      "synonyms": [
+        "Forest Hills Gardens"
+      ]
+    },
+    {
+      "value": "Fort George",
+      "synonyms": [
+        "Fort George"
+      ]
+    },
+    {
+      "value": "Fort Greene",
+      "synonyms": [
+        "Fort Greene"
+      ]
+    },
+    {
+      "value": "Fort Totten",
+      "synonyms": [
+        "Fort Totten"
+      ]
+    },
+    {
+      "value": "Fort Wadsworth",
+      "synonyms": [
+        "Fort Wadsworth"
+      ]
+    },
+    {
+      "value": "Foxhurst",
+      "synonyms": [
+        "Foxhurst"
+      ]
+    },
+    {
+      "value": "Fresh Meadows",
+      "synonyms": [
+        "Fresh Meadows"
+      ]
+    },
+    {
+      "value": "Fresh Pond",
+      "synonyms": [
+        "Fresh Pond"
+      ]
+    },
+    {
+      "value": "Fulton Ferry",
+      "synonyms": [
+        "Fulton Ferry"
+      ]
+    },
+    {
+      "value": "Garment District",
+      "synonyms": [
+        "Garment District"
+      ]
+    },
+    {
+      "value": "Georgetown",
+      "synonyms": [
+        "Georgetown"
+      ]
+    },
+    {
+      "value": "Gerritsen Beach",
+      "synonyms": [
+        "Gerritsen Beach"
+      ]
+    },
+    {
+      "value": "Glen Oaks",
+      "synonyms": [
+        "Glen Oaks"
+      ]
+    },
+    {
+      "value": "Glendale",
+      "synonyms": [
+        "Glendale"
+      ]
+    },
+    {
+      "value": "Governors Island",
+      "synonyms": [
+        "Governors Island"
+      ]
+    },
+    {
+      "value": "Gowanus",
+      "synonyms": [
+        "Gowanus"
+      ]
+    },
+    {
+      "value": "Gramercy Park",
+      "synonyms": [
+        "Gramercy Park"
+      ]
+    },
+    {
+      "value": "Graniteville",
+      "synonyms": [
+        "Graniteville"
+      ]
+    },
+    {
+      "value": "Grant City",
+      "synonyms": [
+        "Grant City"
+      ]
+    },
+    {
+      "value": "Grasmere",
+      "synonyms": [
+        "Grasmere"
+      ]
+    },
+    {
+      "value": "Gravesend",
+      "synonyms": [
+        "Gravesend"
+      ]
+    },
+    {
+      "value": "Great Kills",
+      "synonyms": [
+        "Great Kills"
+      ]
+    },
+    {
+      "value": "Greenpoint",
+      "synonyms": [
+        "Greenpoint"
+      ]
+    },
+    {
+      "value": "Greenridge",
+      "synonyms": [
+        "Greenridge"
+      ]
+    },
+    {
+      "value": "Greenwich Village",
+      "synonyms": [
+        "Greenwich Village"
+      ]
+    },
+    {
+      "value": "Greenwood Heights",
+      "synonyms": [
+        "Greenwood Heights"
+      ]
+    },
+    {
+      "value": "Grymes Hill",
+      "synonyms": [
+        "Grymes Hill"
+      ]
+    },
+    {
+      "value": "Hamilton Beach",
+      "synonyms": [
+        "Hamilton Beach"
+      ]
+    },
+    {
+      "value": "Hamilton Heights",
+      "synonyms": [
+        "Hamilton Heights"
+      ]
+    },
+    {
+      "value": "Hamilton Park",
+      "synonyms": [
+        "Hamilton Park"
+      ]
+    },
+    {
+      "value": "Hammels",
+      "synonyms": [
+        "Hammels"
+      ]
+    },
+    {
+      "value": "Harding Park",
+      "synonyms": [
+        "Harding Park"
+      ]
+    },
+    {
+      "value": "Harlem",
+      "synonyms": [
+        "Harlem"
+      ]
+    },
+    {
+      "value": "Hart Island",
+      "synonyms": [
+        "Hart Island"
+      ]
+    },
+    {
+      "value": "Heartland Village",
+      "synonyms": [
+        "Heartland Village"
+      ]
+    },
+    {
+      "value": "Hell\u0027s Kitchen",
+      "synonyms": [
+        "Hell\u0027s Kitchen"
+      ]
+    },
+    {
+      "value": "Herald Square",
+      "synonyms": [
+        "Herald Square"
+      ]
+    },
+    {
+      "value": "High Island",
+      "synonyms": [
+        "High Island"
+      ]
+    },
+    {
+      "value": "Highbridge",
+      "synonyms": [
+        "Highbridge"
+      ]
+    },
+    {
+      "value": "Highland Park",
+      "synonyms": [
+        "Highland Park"
+      ]
+    },
+    {
+      "value": "Hillcrest",
+      "synonyms": [
+        "Hillcrest"
+      ]
+    },
+    {
+      "value": "Hoffman Island",
+      "synonyms": [
+        "Hoffman Island"
+      ]
+    },
+    {
+      "value": "Hog Island",
+      "synonyms": [
+        "Hog Island"
+      ]
+    },
+    {
+      "value": "Hollis",
+      "synonyms": [
+        "Hollis"
+      ]
+    },
+    {
+      "value": "Hollis Hills",
+      "synonyms": [
+        "Hollis Hills"
+      ]
+    },
+    {
+      "value": "Holliswood",
+      "synonyms": [
+        "Holliswood"
+      ]
+    },
+    {
+      "value": "Homecrest",
+      "synonyms": [
+        "Homecrest"
+      ]
+    },
+    {
+      "value": "Howard Beach",
+      "synonyms": [
+        "Howard Beach"
+      ]
+    },
+    {
+      "value": "Howard Park",
+      "synonyms": [
+        "Howard Park"
+      ]
+    },
+    {
+      "value": "Hudson Heights",
+      "synonyms": [
+        "Hudson Heights"
+      ]
+    },
+    {
+      "value": "Hudson Hill",
+      "synonyms": [
+        "Hudson Hill"
+      ]
+    },
+    {
+      "value": "Hudson Yards",
+      "synonyms": [
+        "Hudson Yards"
+      ]
+    },
+    {
+      "value": "Huguenot",
+      "synonyms": [
+        "Huguenot"
+      ]
+    },
+    {
+      "value": "Hunter Island",
+      "synonyms": [
+        "Hunter Island"
+      ]
+    },
+    {
+      "value": "Hunters Point",
+      "synonyms": [
+        "Hunters Point"
+      ]
+    },
+    {
+      "value": "Hunts Point",
+      "synonyms": [
+        "Hunts Point"
+      ]
+    },
+    {
+      "value": "Indian Village",
+      "synonyms": [
+        "Indian Village"
+      ]
+    },
+    {
+      "value": "Inwood",
+      "synonyms": [
+        "Inwood"
+      ]
+    },
+    {
+      "value": "Isle of Meadows",
+      "synonyms": [
+        "Isle of Meadows"
+      ]
+    },
+    {
+      "value": "Jackson Heights",
+      "synonyms": [
+        "Jackson Heights"
+      ]
+    },
+    {
+      "value": "Jamaica",
+      "synonyms": [
+        "Jamaica"
+      ]
+    },
+    {
+      "value": "Jamaica Center",
+      "synonyms": [
+        "Jamaica Center"
+      ]
+    },
+    {
+      "value": "Jamaica Estates",
+      "synonyms": [
+        "Jamaica Estates"
+      ]
+    },
+    {
+      "value": "Jamaica Hills",
+      "synonyms": [
+        "Jamaica Hills"
+      ]
+    },
+    {
+      "value": "Kensington",
+      "synonyms": [
+        "Kensington"
+      ]
+    },
+    {
+      "value": "Kew Gardens",
+      "synonyms": [
+        "Kew Gardens"
+      ]
+    },
+    {
+      "value": "Kew Gardens Hills",
+      "synonyms": [
+        "Kew Gardens Hills"
+      ]
+    },
+    {
+      "value": "Kingsbridge",
+      "synonyms": [
+        "Kingsbridge"
+      ]
+    },
+    {
+      "value": "Kingsbridge Heights",
+      "synonyms": [
+        "Kingsbridge Heights"
+      ]
+    },
+    {
+      "value": "Kips Bay",
+      "synonyms": [
+        "Kips Bay"
+      ]
+    },
+    {
+      "value": "Koreatown",
+      "synonyms": [
+        "Koreatown"
+      ]
+    },
+    {
+      "value": "Laconia",
+      "synonyms": [
+        "Laconia"
+      ]
+    },
+    {
+      "value": "Laurelton",
+      "synonyms": [
+        "Laurelton"
+      ]
+    },
+    {
+      "value": "Le Petit Senegal",
+      "synonyms": [
+        "Le Petit Senegal"
+      ]
+    },
+    {
+      "value": "LeFrak City",
+      "synonyms": [
+        "LeFrak City"
+      ]
+    },
+    {
+      "value": "Lenox Hill",
+      "synonyms": [
+        "Lenox Hill"
+      ]
+    },
+    {
+      "value": "Liberty Island",
+      "synonyms": [
+        "Liberty Island"
+      ]
+    },
+    {
+      "value": "Lighthouse Hill",
+      "synonyms": [
+        "Lighthouse Hill"
+      ]
+    },
+    {
+      "value": "Lincoln Square",
+      "synonyms": [
+        "Lincoln Square"
+      ]
+    },
+    {
+      "value": "Linden Hill",
+      "synonyms": [
+        "Linden Hill"
+      ]
+    },
+    {
+      "value": "Lindenwood",
+      "synonyms": [
+        "Lindenwood"
+      ]
+    },
+    {
+      "value": "Little Brazil",
+      "synonyms": [
+        "Little Brazil"
+      ]
+    },
+    {
+      "value": "Little Egypt",
+      "synonyms": [
+        "Little Egypt"
+      ]
+    },
+    {
+      "value": "Little Germany",
+      "synonyms": [
+        "Little Germany"
+      ]
+    },
+    {
+      "value": "Little Italy",
+      "synonyms": [
+        "Little Italy"
+      ]
+    },
+    {
+      "value": "Little Neck",
+      "synonyms": [
+        "Little Neck"
+      ]
+    },
+    {
+      "value": "Little Poland",
+      "synonyms": [
+        "Little Poland"
+      ]
+    },
+    {
+      "value": "Little Syria",
+      "synonyms": [
+        "Little Syria"
+      ]
+    },
+    {
+      "value": "Livingston",
+      "synonyms": [
+        "Livingston"
+      ]
+    },
+    {
+      "value": "Long Island City",
+      "synonyms": [
+        "Long Island City"
+      ]
+    },
+    {
+      "value": "Longwood",
+      "synonyms": [
+        "Longwood"
+      ]
+    },
+    {
+      "value": "Lower East Side",
+      "synonyms": [
+        "Lower East Side"
+      ]
+    },
+    {
+      "value": "Madison",
+      "synonyms": [
+        "Madison"
+      ]
+    },
+    {
+      "value": "Madison Square",
+      "synonyms": [
+        "Madison Square"
+      ]
+    },
+    {
+      "value": "Malba",
+      "synonyms": [
+        "Malba"
+      ]
+    },
+    {
+      "value": "Manhattan",
+      "synonyms": [
+        "Manhattan"
+      ]
+    },
+    {
+      "value": "Manhattan Beach",
+      "synonyms": [
+        "Manhattan Beach"
+      ]
+    },
+    {
+      "value": "Manhattan Valley",
+      "synonyms": [
+        "Manhattan Valley"
+      ]
+    },
+    {
+      "value": "Manhattanville",
+      "synonyms": [
+        "Manhattanville"
+      ]
+    },
+    {
+      "value": "Manor Heights",
+      "synonyms": [
+        "Manor Heights"
+      ]
+    },
+    {
+      "value": "Mapleton",
+      "synonyms": [
+        "Mapleton"
+      ]
+    },
+    {
+      "value": "Marble Hill",
+      "synonyms": [
+        "Marble Hill"
+      ]
+    },
+    {
+      "value": "Marcus Garvey Park",
+      "synonyms": [
+        "Marcus Garvey Park"
+      ]
+    },
+    {
+      "value": "Marine Park",
+      "synonyms": [
+        "Marine Park"
+      ]
+    },
+    {
+      "value": "Mariners Harbor",
+      "synonyms": [
+        "Mariners Harbor"
+      ]
+    },
+    {
+      "value": "Maspeth",
+      "synonyms": [
+        "Maspeth"
+      ]
+    },
+    {
+      "value": "Mau Mau Island",
+      "synonyms": [
+        "Mau Mau Island"
+      ]
+    },
+    {
+      "value": "Meadowmere",
+      "synonyms": [
+        "Meadowmere"
+      ]
+    },
+    {
+      "value": "Meatpacking District",
+      "synonyms": [
+        "Meatpacking District"
+      ]
+    },
+    {
+      "value": "Meiers Corners",
+      "synonyms": [
+        "Meiers Corners"
+      ]
+    },
+    {
+      "value": "Melrose",
+      "synonyms": [
+        "Melrose"
+      ]
+    },
+    {
+      "value": "Middle Village",
+      "synonyms": [
+        "Middle Village"
+      ]
+    },
+    {
+      "value": "Midland Beach",
+      "synonyms": [
+        "Midland Beach"
+      ]
+    },
+    {
+      "value": "Midtown",
+      "synonyms": [
+        "Midtown"
+      ]
+    },
+    {
+      "value": "Midtown East",
+      "synonyms": [
+        "Midtown East"
+      ]
+    },
+    {
+      "value": "Midtown West",
+      "synonyms": [
+        "Midtown West"
+      ]
+    },
+    {
+      "value": "Midwood",
+      "synonyms": [
+        "Midwood"
+      ]
+    },
+    {
+      "value": "Mill Basin",
+      "synonyms": [
+        "Mill Basin"
+      ]
+    },
+    {
+      "value": "Mill Rock",
+      "synonyms": [
+        "Mill Rock"
+      ]
+    },
+    {
+      "value": "Morningside Heights",
+      "synonyms": [
+        "Morningside Heights"
+      ]
+    },
+    {
+      "value": "Morris Heights",
+      "synonyms": [
+        "Morris Heights"
+      ]
+    },
+    {
+      "value": "Morris Park",
+      "synonyms": [
+        "Morris Park"
+      ]
+    },
+    {
+      "value": "Morrisania",
+      "synonyms": [
+        "Morrisania"
+      ]
+    },
+    {
+      "value": "Mott Haven",
+      "synonyms": [
+        "Mott Haven"
+      ]
+    },
+    {
+      "value": "Mount Eden",
+      "synonyms": [
+        "Mount Eden"
+      ]
+    },
+    {
+      "value": "Mount Hope",
+      "synonyms": [
+        "Mount Hope"
+      ]
+    },
+    {
+      "value": "Murray Hill",
+      "synonyms": [
+        "Murray Hill"
+      ]
+    },
+    {
+      "value": "Neponsit",
+      "synonyms": [
+        "Neponsit"
+      ]
+    },
+    {
+      "value": "New Brighton",
+      "synonyms": [
+        "New Brighton"
+      ]
+    },
+    {
+      "value": "New Dorp",
+      "synonyms": [
+        "New Dorp"
+      ]
+    },
+    {
+      "value": "New Lots",
+      "synonyms": [
+        "New Lots"
+      ]
+    },
+    {
+      "value": "New Springville",
+      "synonyms": [
+        "New Springville"
+      ]
+    },
+    {
+      "value": "New Utrecht",
+      "synonyms": [
+        "New Utrecht"
+      ]
+    },
+    {
+      "value": "NoHo",
+      "synonyms": [
+        "NoHo"
+      ]
+    },
+    {
+      "value": "Nolita",
+      "synonyms": [
+        "Nolita"
+      ]
+    },
+    {
+      "value": "NoMad",
+      "synonyms": [
+        "NoMad"
+      ]
+    },
+    {
+      "value": "North Bronx",
+      "synonyms": [
+        "North Bronx"
+      ]
+    },
+    {
+      "value": "North Brother Island",
+      "synonyms": [
+        "North Brother Island"
+      ]
+    },
+    {
+      "value": "North Corona",
+      "synonyms": [
+        "North Corona"
+      ]
+    },
+    {
+      "value": "North Riverdale",
+      "synonyms": [
+        "North Riverdale"
+      ]
+    },
+    {
+      "value": "North Shore Towers",
+      "synonyms": [
+        "North Shore Towers"
+      ]
+    },
+    {
+      "value": "Norwood",
+      "synonyms": [
+        "Norwood"
+      ]
+    },
+    {
+      "value": "Oakland Gardens",
+      "synonyms": [
+        "Oakland Gardens"
+      ]
+    },
+    {
+      "value": "Oakwood",
+      "synonyms": [
+        "Oakwood"
+      ]
+    },
+    {
+      "value": "Ocean Breeze",
+      "synonyms": [
+        "Ocean Breeze"
+      ]
+    },
+    {
+      "value": "Ocean Hill",
+      "synonyms": [
+        "Ocean Hill"
+      ]
+    },
+    {
+      "value": "Ocean Parkway",
+      "synonyms": [
+        "Ocean Parkway"
+      ]
+    },
+    {
+      "value": "Old Howard Beach",
+      "synonyms": [
+        "Old Howard Beach"
+      ]
+    },
+    {
+      "value": "Old Place",
+      "synonyms": [
+        "Old Place"
+      ]
+    },
+    {
+      "value": "Old Town",
+      "synonyms": [
+        "Old Town"
+      ]
+    },
+    {
+      "value": "Olinville",
+      "synonyms": [
+        "Olinville"
+      ]
+    },
+    {
+      "value": "Orchard Beach",
+      "synonyms": [
+        "Orchard Beach"
+      ]
+    },
+    {
+      "value": "Ozone Park",
+      "synonyms": [
+        "Ozone Park"
+      ]
+    },
+    {
+      "value": "Pacific Park/Atlantic Yards",
+      "synonyms": [
+        "Pacific Park/Atlantic Yards"
+      ]
+    },
+    {
+      "value": "Park Slope",
+      "synonyms": [
+        "Park Slope"
+      ]
+    },
+    {
+      "value": "Park Versailles",
+      "synonyms": [
+        "Park Versailles"
+      ]
+    },
+    {
+      "value": "Parkchester",
+      "synonyms": [
+        "Parkchester"
+      ]
+    },
+    {
+      "value": "Pelham Bay",
+      "synonyms": [
+        "Pelham Bay"
+      ]
+    },
+    {
+      "value": "Pelham Bay Park",
+      "synonyms": [
+        "Pelham Bay Park"
+      ]
+    },
+    {
+      "value": "Pelham Gardens",
+      "synonyms": [
+        "Pelham Gardens"
+      ]
+    },
+    {
+      "value": "Pelham Parkway",
+      "synonyms": [
+        "Pelham Parkway"
+      ]
+    },
+    {
+      "value": "Peter Cooper Village",
+      "synonyms": [
+        "Peter Cooper Village"
+      ]
+    },
+    {
+      "value": "Photo District",
+      "synonyms": [
+        "Photo District"
+      ]
+    },
+    {
+      "value": "Pigtown",
+      "synonyms": [
+        "Pigtown"
+      ]
+    },
+    {
+      "value": "Pleasant Plains",
+      "synonyms": [
+        "Pleasant Plains"
+      ]
+    },
+    {
+      "value": "Plum Beach",
+      "synonyms": [
+        "Plum Beach"
+      ]
+    },
+    {
+      "value": "Plumb Beach",
+      "synonyms": [
+        "Plumb Beach"
+      ]
+    },
+    {
+      "value": "Pomonok",
+      "synonyms": [
+        "Pomonok"
+      ]
+    },
+    {
+      "value": "Port Morris",
+      "synonyms": [
+        "Port Morris"
+      ]
+    },
+    {
+      "value": "Port Richmond",
+      "synonyms": [
+        "Port Richmond"
+      ]
+    },
+    {
+      "value": "Prall\u0027s Island",
+      "synonyms": [
+        "Prall\u0027s Island"
+      ]
+    },
+    {
+      "value": "Prince\u0027s Bay",
+      "synonyms": [
+        "Prince\u0027s Bay"
+      ]
+    },
+    {
+      "value": "Prospect Heights",
+      "synonyms": [
+        "Prospect Heights"
+      ]
+    },
+    {
+      "value": "Prospect Lefferts Gardens",
+      "synonyms": [
+        "Prospect Lefferts Gardens"
+      ]
+    },
+    {
+      "value": "Prospect Park area",
+      "synonyms": [
+        "Prospect Park area"
+      ]
+    },
+    {
+      "value": "Prospect Park South",
+      "synonyms": [
+        "Prospect Park South"
+      ]
+    },
+    {
+      "value": "Queens",
+      "synonyms": [
+        "Queens"
+      ]
+    },
+    {
+      "value": "Queens Village",
+      "synonyms": [
+        "Queens Village"
+      ]
+    },
+    {
+      "value": "Queensboro Hill",
+      "synonyms": [
+        "Queensboro Hill"
+      ]
+    },
+    {
+      "value": "Queensbridge",
+      "synonyms": [
+        "Queensbridge"
+      ]
+    },
+    {
+      "value": "Queensview",
+      "synonyms": [
+        "Queensview"
+      ]
+    },
+    {
+      "value": "Queensview West",
+      "synonyms": [
+        "Queensview West"
+      ]
+    },
+    {
+      "value": "Radio Row",
+      "synonyms": [
+        "Radio Row"
+      ]
+    },
+    {
+      "value": "Ramblersville",
+      "synonyms": [
+        "Ramblersville"
+      ]
+    },
+    {
+      "value": "RAMBO",
+      "synonyms": [
+        "RAMBO"
+      ]
+    },
+    {
+      "value": "Randall Manor",
+      "synonyms": [
+        "Randall Manor"
+      ]
+    },
+    {
+      "value": "Randalls and Wards Islands",
+      "synonyms": [
+        "Randalls and Wards Islands"
+      ]
+    },
+    {
+      "value": "Rat Island",
+      "synonyms": [
+        "Rat Island"
+      ]
+    },
+    {
+      "value": "Ravenswood",
+      "synonyms": [
+        "Ravenswood"
+      ]
+    },
+    {
+      "value": "Red Hook",
+      "synonyms": [
+        "Red Hook"
+      ]
+    },
+    {
+      "value": "Rego Park",
+      "synonyms": [
+        "Rego Park"
+      ]
+    },
+    {
+      "value": "Richmond Hill",
+      "synonyms": [
+        "Richmond Hill"
+      ]
+    },
+    {
+      "value": "Richmond Valley",
+      "synonyms": [
+        "Richmond Valley"
+      ]
+    },
+    {
+      "value": "Richmondtown",
+      "synonyms": [
+        "Richmondtown"
+      ]
+    },
+    {
+      "value": "Ridgewood",
+      "synonyms": [
+        "Ridgewood"
+      ]
+    },
+    {
+      "value": "Rikers Island",
+      "synonyms": [
+        "Rikers Island"
+      ]
+    },
+    {
+      "value": "Riverdale",
+      "synonyms": [
+        "Riverdale"
+      ]
+    },
+    {
+      "value": "Rochdale Village",
+      "synonyms": [
+        "Rochdale Village"
+      ]
+    },
+    {
+      "value": "Rockaway Beach",
+      "synonyms": [
+        "Rockaway Beach"
+      ]
+    },
+    {
+      "value": "Rockaway Park",
+      "synonyms": [
+        "Rockaway Park"
+      ]
+    },
+    {
+      "value": "Rockefeller Center",
+      "synonyms": [
+        "Rockefeller Center"
+      ]
+    },
+    {
+      "value": "Rockwood Park",
+      "synonyms": [
+        "Rockwood Park"
+      ]
+    },
+    {
+      "value": "Roosevelt Island",
+      "synonyms": [
+        "Roosevelt Island"
+      ]
+    },
+    {
+      "value": "Rose Hill",
+      "synonyms": [
+        "Rose Hill"
+      ]
+    },
+    {
+      "value": "Rosebank",
+      "synonyms": [
+        "Rosebank"
+      ]
+    },
+    {
+      "value": "Rosedale",
+      "synonyms": [
+        "Rosedale"
+      ]
+    },
+    {
+      "value": "Rossville",
+      "synonyms": [
+        "Rossville"
+      ]
+    },
+    {
+      "value": "Roxbury",
+      "synonyms": [
+        "Roxbury"
+      ]
+    },
+    {
+      "value": "Ruffle Bar",
+      "synonyms": [
+        "Ruffle Bar"
+      ]
+    },
+    {
+      "value": "Rulers Bar Hassock",
+      "synonyms": [
+        "Rulers Bar Hassock"
+      ]
+    },
+    {
+      "value": "Saint Albans",
+      "synonyms": [
+        "Saint Albans"
+      ]
+    },
+    {
+      "value": "Sandy Ground",
+      "synonyms": [
+        "Sandy Ground"
+      ]
+    },
+    {
+      "value": "Schuylerville",
+      "synonyms": [
+        "Schuylerville"
+      ]
+    },
+    {
+      "value": "Sea Gate",
+      "synonyms": [
+        "Sea Gate"
+      ]
+    },
+    {
+      "value": "Seagate",
+      "synonyms": [
+        "Seagate"
+      ]
+    },
+    {
+      "value": "Seaside",
+      "synonyms": [
+        "Seaside"
+      ]
+    },
+    {
+      "value": "Sheepshead Bay",
+      "synonyms": [
+        "Sheepshead Bay"
+      ]
+    },
+    {
+      "value": "Sheepshead Bay and Madison",
+      "synonyms": [
+        "Sheepshead Bay and Madison"
+      ]
+    },
+    {
+      "value": "Shooters Island",
+      "synonyms": [
+        "Shooters Island"
+      ]
+    },
+    {
+      "value": "Shore Acres",
+      "synonyms": [
+        "Shore Acres"
+      ]
+    },
+    {
+      "value": "Silver Lake",
+      "synonyms": [
+        "Silver Lake"
+      ]
+    },
+    {
+      "value": "SoHa",
+      "synonyms": [
+        "SoHa"
+      ]
+    },
+    {
+      "value": "SoHo",
+      "synonyms": [
+        "SoHo"
+      ]
+    },
+    {
+      "value": "Soundview",
+      "synonyms": [
+        "Soundview"
+      ]
+    },
+    {
+      "value": "South Beach",
+      "synonyms": [
+        "South Beach"
+      ]
+    },
+    {
+      "value": "South Bronx",
+      "synonyms": [
+        "South Bronx"
+      ]
+    },
+    {
+      "value": "South Brooklyn",
+      "synonyms": [
+        "South Brooklyn"
+      ]
+    },
+    {
+      "value": "South Brother Island",
+      "synonyms": [
+        "South Brother Island"
+      ]
+    },
+    {
+      "value": "South Jamaica",
+      "synonyms": [
+        "South Jamaica"
+      ]
+    },
+    {
+      "value": "South Ozone Park",
+      "synonyms": [
+        "South Ozone Park"
+      ]
+    },
+    {
+      "value": "South Park Slope",
+      "synonyms": [
+        "South Park Slope"
+      ]
+    },
+    {
+      "value": "South Street Seaport Historical District",
+      "synonyms": [
+        "South Street Seaport Historical District"
+      ]
+    },
+    {
+      "value": "Spring Creek",
+      "synonyms": [
+        "Spring Creek"
+      ]
+    },
+    {
+      "value": "Springfield Gardens",
+      "synonyms": [
+        "Springfield Gardens"
+      ]
+    },
+    {
+      "value": "Spuyten Duyvil",
+      "synonyms": [
+        "Spuyten Duyvil"
+      ]
+    },
+    {
+      "value": "St. George",
+      "synonyms": [
+        "St. George"
+      ]
+    },
+    {
+      "value": "Stapleton",
+      "synonyms": [
+        "Stapleton"
+      ]
+    },
+    {
+      "value": "Stapleton Heights",
+      "synonyms": [
+        "Stapleton Heights"
+      ]
+    },
+    {
+      "value": "Starrett City",
+      "synonyms": [
+        "Starrett City"
+      ]
+    },
+    {
+      "value": "Staten Island",
+      "synonyms": [
+        "Staten Island"
+      ]
+    },
+    {
+      "value": "Strivers\u0027 Row",
+      "synonyms": [
+        "Strivers\u0027 Row"
+      ]
+    },
+    {
+      "value": "Stuyvesant Heights",
+      "synonyms": [
+        "Stuyvesant Heights"
+      ]
+    },
+    {
+      "value": "Stuyvesant Square",
+      "synonyms": [
+        "Stuyvesant Square"
+      ]
+    },
+    {
+      "value": "Stuyvesant Town",
+      "synonyms": [
+        "Stuyvesant Town"
+      ]
+    },
+    {
+      "value": "Sugar Hill",
+      "synonyms": [
+        "Sugar Hill"
+      ]
+    },
+    {
+      "value": "Sunnyside",
+      "synonyms": [
+        "Sunnyside"
+      ]
+    },
+    {
+      "value": "Sunnyside Gardens",
+      "synonyms": [
+        "Sunnyside Gardens"
+      ]
+    },
+    {
+      "value": "Sunset Industrial Park",
+      "synonyms": [
+        "Sunset Industrial Park"
+      ]
+    },
+    {
+      "value": "Sunset Park",
+      "synonyms": [
+        "Sunset Park"
+      ]
+    },
+    {
+      "value": "Sutton Place",
+      "synonyms": [
+        "Sutton Place"
+      ]
+    },
+    {
+      "value": "Swinburne Island",
+      "synonyms": [
+        "Swinburne Island"
+      ]
+    },
+    {
+      "value": "Tenderloin",
+      "synonyms": [
+        "Tenderloin"
+      ]
+    },
+    {
+      "value": "The Blauzes",
+      "synonyms": [
+        "The Blauzes"
+      ]
+    },
+    {
+      "value": "The Hole",
+      "synonyms": [
+        "The Hole"
+      ]
+    },
+    {
+      "value": "The Hub",
+      "synonyms": [
+        "The Hub"
+      ]
+    },
+    {
+      "value": "The Pelham Islands",
+      "synonyms": [
+        "The Pelham Islands"
+      ]
+    },
+    {
+      "value": "Theater District",
+      "synonyms": [
+        "Theater District"
+      ]
+    },
+    {
+      "value": "Throggs Neck",
+      "synonyms": [
+        "Throggs Neck"
+      ]
+    },
+    {
+      "value": "Times Square",
+      "synonyms": [
+        "Times Square"
+      ]
+    },
+    {
+      "value": "Todt Hill",
+      "synonyms": [
+        "Todt Hill"
+      ]
+    },
+    {
+      "value": "Tompkinsville",
+      "synonyms": [
+        "Tompkinsville"
+      ]
+    },
+    {
+      "value": "Tottenville",
+      "synonyms": [
+        "Tottenville"
+      ]
+    },
+    {
+      "value": "Tottenville Beach",
+      "synonyms": [
+        "Tottenville Beach"
+      ]
+    },
+    {
+      "value": "Toy District",
+      "synonyms": [
+        "Toy District"
+      ]
+    },
+    {
+      "value": "Travis",
+      "synonyms": [
+        "Travis"
+      ]
+    },
+    {
+      "value": "Tremont",
+      "synonyms": [
+        "Tremont"
+      ]
+    },
+    {
+      "value": "Tribeca",
+      "synonyms": [
+        "Tribeca"
+      ]
+    },
+    {
+      "value": "Tudor City",
+      "synonyms": [
+        "Tudor City"
+      ]
+    },
+    {
+      "value": "Tudor Village",
+      "synonyms": [
+        "Tudor Village"
+      ]
+    },
+    {
+      "value": "Turtle Bay",
+      "synonyms": [
+        "Turtle Bay"
+      ]
+    },
+    {
+      "value": "Twin Island",
+      "synonyms": [
+        "Twin Island"
+      ]
+    },
+    {
+      "value": "Two Bridges",
+      "synonyms": [
+        "Two Bridges"
+      ]
+    },
+    {
+      "value": "U Thant Island",
+      "synonyms": [
+        "U Thant Island"
+      ]
+    },
+    {
+      "value": "Union Square",
+      "synonyms": [
+        "Union Square"
+      ]
+    },
+    {
+      "value": "Unionport",
+      "synonyms": [
+        "Unionport"
+      ]
+    },
+    {
+      "value": "University Heights",
+      "synonyms": [
+        "University Heights"
+      ]
+    },
+    {
+      "value": "Upper East Side",
+      "synonyms": [
+        "Upper East Side"
+      ]
+    },
+    {
+      "value": "Upper Manhattan",
+      "synonyms": [
+        "Upper Manhattan"
+      ]
+    },
+    {
+      "value": "Upper West Side",
+      "synonyms": [
+        "Upper West Side"
+      ]
+    },
+    {
+      "value": "Utopia",
+      "synonyms": [
+        "Utopia"
+      ]
+    },
+    {
+      "value": "Van Cortlandt Village",
+      "synonyms": [
+        "Van Cortlandt Village"
+      ]
+    },
+    {
+      "value": "Van Nest",
+      "synonyms": [
+        "Van Nest"
+      ]
+    },
+    {
+      "value": "Vinegar Hill",
+      "synonyms": [
+        "Vinegar Hill"
+      ]
+    },
+    {
+      "value": "Wakefield",
+      "synonyms": [
+        "Wakefield"
+      ]
+    },
+    {
+      "value": "Ward Hill",
+      "synonyms": [
+        "Ward Hill"
+      ]
+    },
+    {
+      "value": "Warnerville",
+      "synonyms": [
+        "Warnerville"
+      ]
+    },
+    {
+      "value": "Washington Heights",
+      "synonyms": [
+        "Washington Heights"
+      ]
+    },
+    {
+      "value": "Waterside Plaza",
+      "synonyms": [
+        "Waterside Plaza"
+      ]
+    },
+    {
+      "value": "Weeksville",
+      "synonyms": [
+        "Weeksville"
+      ]
+    },
+    {
+      "value": "West Bronx",
+      "synonyms": [
+        "West Bronx"
+      ]
+    },
+    {
+      "value": "West Farms",
+      "synonyms": [
+        "West Farms"
+      ]
+    },
+    {
+      "value": "West Harlem",
+      "synonyms": [
+        "West Harlem"
+      ]
+    },
+    {
+      "value": "West Midwood",
+      "synonyms": [
+        "West Midwood"
+      ]
+    },
+    {
+      "value": "West New Brighton",
+      "synonyms": [
+        "West New Brighton"
+      ]
+    },
+    {
+      "value": "West Village",
+      "synonyms": [
+        "West Village"
+      ]
+    },
+    {
+      "value": "Westchester Heights",
+      "synonyms": [
+        "Westchester Heights"
+      ]
+    },
+    {
+      "value": "Westchester Square",
+      "synonyms": [
+        "Westchester Square"
+      ]
+    },
+    {
+      "value": "Westerleigh",
+      "synonyms": [
+        "Westerleigh"
+      ]
+    },
+    {
+      "value": "White Sands",
+      "synonyms": [
+        "White Sands"
+      ]
+    },
+    {
+      "value": "Whitestone",
+      "synonyms": [
+        "Whitestone"
+      ]
+    },
+    {
+      "value": "Willets Point",
+      "synonyms": [
+        "Willets Point"
+      ]
+    },
+    {
+      "value": "Williamsbridge",
+      "synonyms": [
+        "Williamsbridge"
+      ]
+    },
+    {
+      "value": "Williamsburg",
+      "synonyms": [
+        "Williamsburg"
+      ]
+    },
+    {
+      "value": "Willowbrook",
+      "synonyms": [
+        "Willowbrook"
+      ]
+    },
+    {
+      "value": "Windsor Terrace",
+      "synonyms": [
+        "Windsor Terrace"
+      ]
+    },
+    {
+      "value": "Wingate",
+      "synonyms": [
+        "Wingate"
+      ]
+    },
+    {
+      "value": "Woodhaven",
+      "synonyms": [
+        "Woodhaven"
+      ]
+    },
+    {
+      "value": "Woodlawn",
+      "synonyms": [
+        "Woodlawn"
+      ]
+    },
+    {
+      "value": "Woodrow",
+      "synonyms": [
+        "Woodrow"
+      ]
+    },
+    {
+      "value": "Woodside",
+      "synonyms": [
+        "Woodside"
+      ]
+    },
+    {
+      "value": "Woodstock",
+      "synonyms": [
+        "Woodstock"
+      ]
+    },
+    {
+      "value": "Wyckoff Heights",
+      "synonyms": [
+        "Wyckoff Heights"
+      ]
+    },
+    {
+      "value": "Yorkville",
+      "synonyms": [
+        "Yorkville"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

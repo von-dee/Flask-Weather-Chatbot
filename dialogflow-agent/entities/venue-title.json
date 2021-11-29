@@ -1,0 +1,105 @@
+{
+  "id": "6614dd89-9c4c-42cc-852d-36143a42b10d",
+  "name": "venue-title",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "@venue-accomodation-title",
+      "synonyms": [
+        "@venue-accomodation-title"
+      ]
+    },
+    {
+      "value": "@venue-arts-entertainment-title",
+      "synonyms": [
+        "@venue-arts-entertainment-title"
+      ]
+    },
+    {
+      "value": "@venue-automotive-title",
+      "synonyms": [
+        "@venue-automotive-title"
+      ]
+    },
+    {
+      "value": "@venue-beauty-title",
+      "synonyms": [
+        "@venue-beauty-title"
+      ]
+    },
+    {
+      "value": "@venue-eating-out-title",
+      "synonyms": [
+        "@venue-eating-out-title"
+      ]
+    },
+    {
+      "value": "@venue-education-title",
+      "synonyms": [
+        "@venue-education-title"
+      ]
+    },
+    {
+      "value": "@venue-local-service-title",
+      "synonyms": [
+        "@venue-local-service-title"
+      ]
+    },
+    {
+      "value": "@venue-medical-title",
+      "synonyms": [
+        "@venue-medical-title"
+      ]
+    },
+    {
+      "value": "@venue-nightlife-title",
+      "synonyms": [
+        "@venue-nightlife-title"
+      ]
+    },
+    {
+      "value": "@venue-outdoor-title",
+      "synonyms": [
+        "@venue-outdoor-title"
+      ]
+    },
+    {
+      "value": "@venue-shopping-title",
+      "synonyms": [
+        "@venue-shopping-title"
+      ]
+    },
+    {
+      "value": "@venue-sport-title",
+      "synonyms": [
+        "@venue-sport-title"
+      ]
+    },
+    {
+      "value": "@venue-tourist-attraction-title",
+      "synonyms": [
+        "@venue-tourist-attraction-title"
+      ]
+    },
+    {
+      "value": "@airport",
+      "synonyms": [
+        "@airport"
+      ]
+    },
+    {
+      "value": "@company-name",
+      "synonyms": [
+        "@company-name"
+      ]
+    },
+    {
+      "value": "@building",
+      "synonyms": [
+        "@building"
+      ]
+    }
+  ],
+  "isEnum": true,
+  "automatedExpansion": false
+}

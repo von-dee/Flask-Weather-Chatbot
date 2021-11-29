@@ -1,0 +1,1120 @@
+{
+  "id": "7482ca5d-ee1a-48d0-8bd0-9d8d2689a511",
+  "name": "venue-shopping-title",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "1 Utama",
+      "synonyms": [
+        "1 Utama"
+      ]
+    },
+    {
+      "value": "1512 Barber Shop",
+      "synonyms": [
+        "1512 Barber Shop"
+      ]
+    },
+    {
+      "value": "Alto Palermo",
+      "synonyms": [
+        "Alto Palermo"
+      ]
+    },
+    {
+      "value": "Ambience Mall",
+      "synonyms": [
+        "Ambience Mall"
+      ]
+    },
+    {
+      "value": "Aqua Surf Shop",
+      "synonyms": [
+        "Aqua Surf Shop"
+      ]
+    },
+    {
+      "value": "Aventura Mall",
+      "synonyms": [
+        "Aventura Mall"
+      ]
+    },
+    {
+      "value": "Avenues Mall",
+      "synonyms": [
+        "Avenues Mall"
+      ]
+    },
+    {
+      "value": "Azalea Boutique",
+      "synonyms": [
+        "Azalea Boutique"
+      ]
+    },
+    {
+      "value": "Bawadi Mall",
+      "synonyms": [
+        "Bawadi Mall"
+      ]
+    },
+    {
+      "value": "Berjaya Times Square",
+      "synonyms": [
+        "Berjaya Times Square"
+      ]
+    },
+    {
+      "value": "Best Collateral Mission District",
+      "synonyms": [
+        "Best Collateral Mission District"
+      ]
+    },
+    {
+      "value": "Best Collateral San Francisco Pawn Shop",
+      "synonyms": [
+        "Best Collateral San Francisco Pawn Shop"
+      ]
+    },
+    {
+      "value": "Bicycle Habitat",
+      "synonyms": [
+        "Bicycle Habitat"
+      ]
+    },
+    {
+      "value": "Blackwell\u0027s Bookshop",
+      "synonyms": [
+        "Blackwell\u0027s Bookshop"
+      ]
+    },
+    {
+      "value": "Bob\u0027s Donuts",
+      "synonyms": [
+        "Bob\u0027s Donuts"
+      ]
+    },
+    {
+      "value": "Bottle Apostle",
+      "synonyms": [
+        "Bottle Apostle"
+      ]
+    },
+    {
+      "value": "Bow Wow",
+      "synonyms": [
+        "Bow Wow"
+      ]
+    },
+    {
+      "value": "Britex Fabrics",
+      "synonyms": [
+        "Britex Fabrics"
+      ]
+    },
+    {
+      "value": "Buckingham Palace Road Shop",
+      "synonyms": [
+        "Buckingham Palace Road Shop"
+      ]
+    },
+    {
+      "value": "Bullring Birmingham Centre",
+      "synonyms": [
+        "Bullring Birmingham Centre"
+      ]
+    },
+    {
+      "value": "Burlington Arcade",
+      "synonyms": [
+        "Burlington Arcade"
+      ]
+    },
+    {
+      "value": "CambridgeSide Galleria",
+      "synonyms": [
+        "CambridgeSide Galleria"
+      ]
+    },
+    {
+      "value": "Camden Passage",
+      "synonyms": [
+        "Camden Passage"
+      ]
+    },
+    {
+      "value": "CameraWorld Ltd",
+      "synonyms": [
+        "CameraWorld Ltd"
+      ]
+    },
+    {
+      "value": "Cass Art",
+      "synonyms": [
+        "Cass Art"
+      ]
+    },
+    {
+      "value": "CentralWorld",
+      "synonyms": [
+        "CentralWorld"
+      ]
+    },
+    {
+      "value": "Centro Comercial Aricanduva",
+      "synonyms": [
+        "Centro Comercial Aricanduva"
+      ]
+    },
+    {
+      "value": "Centro Comercial Sambil",
+      "synonyms": [
+        "Centro Comercial Sambil"
+      ]
+    },
+    {
+      "value": "Centro Comercial SantafÈ",
+      "synonyms": [
+        "Centro Comercial SantafÈ"
+      ]
+    },
+    {
+      "value": "Chanel",
+      "synonyms": [
+        "Chanel"
+      ]
+    },
+    {
+      "value": "City Smoke shop",
+      "synonyms": [
+        "City Smoke shop"
+      ]
+    },
+    {
+      "value": "Community Thrift",
+      "synonyms": [
+        "Community Thrift"
+      ]
+    },
+    {
+      "value": "Crocker Galleria",
+      "synonyms": [
+        "Crocker Galleria"
+      ]
+    },
+    {
+      "value": "Crossroads Trading Co.",
+      "synonyms": [
+        "Crossroads Trading Co."
+      ]
+    },
+    {
+      "value": "Cure Thrift Shop",
+      "synonyms": [
+        "Cure Thrift Shop"
+      ]
+    },
+    {
+      "value": "DLF Emporio",
+      "synonyms": [
+        "DLF Emporio"
+      ]
+    },
+    {
+      "value": "Danny\u0027s Cycles Upper East Side",
+      "synonyms": [
+        "Danny\u0027s Cycles Upper East Side"
+      ]
+    },
+    {
+      "value": "Del Amo Fashion Center",
+      "synonyms": [
+        "Del Amo Fashion Center"
+      ]
+    },
+    {
+      "value": "Disney Store",
+      "synonyms": [
+        "Disney Store"
+      ]
+    },
+    {
+      "value": "Dubai Mall",
+      "synonyms": [
+        "Dubai Mall"
+      ]
+    },
+    {
+      "value": "Dudley Perkins Co",
+      "synonyms": [
+        "Dudley Perkins Co"
+      ]
+    },
+    {
+      "value": "Eatons Center",
+      "synonyms": [
+        "Eatons Center"
+      ]
+    },
+    {
+      "value": "Embarcadero Center",
+      "synonyms": [
+        "Embarcadero Center"
+      ]
+    },
+    {
+      "value": "Fars Shopping Complex",
+      "synonyms": [
+        "Fars Shopping Complex"
+      ]
+    },
+    {
+      "value": "Festival Mall",
+      "synonyms": [
+        "Festival Mall"
+      ]
+    },
+    {
+      "value": "Floris",
+      "synonyms": [
+        "Floris"
+      ]
+    },
+    {
+      "value": "Forum Mall",
+      "synonyms": [
+        "Forum Mall"
+      ]
+    },
+    {
+      "value": "Foyles",
+      "synonyms": [
+        "Foyles"
+      ]
+    },
+    {
+      "value": "Fragrance Shop",
+      "synonyms": [
+        "Fragrance Shop"
+      ]
+    },
+    {
+      "value": "Fred Perry",
+      "synonyms": [
+        "Fred Perry"
+      ]
+    },
+    {
+      "value": "Gamescape",
+      "synonyms": [
+        "Gamescape"
+      ]
+    },
+    {
+      "value": "Ghirardelli",
+      "synonyms": [
+        "Ghirardelli"
+      ]
+    },
+    {
+      "value": "Ghirardelli Chocolate",
+      "synonyms": [
+        "Ghirardelli Chocolate"
+      ]
+    },
+    {
+      "value": "Giants Dugout",
+      "synonyms": [
+        "Giants Dugout"
+      ]
+    },
+    {
+      "value": "Giants Dugout Stores",
+      "synonyms": [
+        "Giants Dugout Stores"
+      ]
+    },
+    {
+      "value": "Golden Terraces Mall",
+      "synonyms": [
+        "Golden Terraces Mall"
+      ]
+    },
+    {
+      "value": "Goorin Bros. Hat Shop",
+      "synonyms": [
+        "Goorin Bros. Hat Shop"
+      ]
+    },
+    {
+      "value": "Grand Canal Shoppes",
+      "synonyms": [
+        "Grand Canal Shoppes"
+      ]
+    },
+    {
+      "value": "Grand Indonesia",
+      "synonyms": [
+        "Grand Indonesia"
+      ]
+    },
+    {
+      "value": "Grand Slam",
+      "synonyms": [
+        "Grand Slam"
+      ]
+    },
+    {
+      "value": "Greenbelt Ayala Center Greenbelt",
+      "synonyms": [
+        "Greenbelt Ayala Center Greenbelt"
+      ]
+    },
+    {
+      "value": "Guitar Center",
+      "synonyms": [
+        "Guitar Center"
+      ]
+    },
+    {
+      "value": "Halloween Adventure",
+      "synonyms": [
+        "Halloween Adventure"
+      ]
+    },
+    {
+      "value": "Hamleys",
+      "synonyms": [
+        "Hamleys"
+      ]
+    },
+    {
+      "value": "Harrods",
+      "synonyms": [
+        "Harrods"
+      ]
+    },
+    {
+      "value": "High Street Phoenix",
+      "synonyms": [
+        "High Street Phoenix"
+      ]
+    },
+    {
+      "value": "Hobgoblin Music London",
+      "synonyms": [
+        "Hobgoblin Music London"
+      ]
+    },
+    {
+      "value": "Honour Shop",
+      "synonyms": [
+        "Honour Shop"
+      ]
+    },
+    {
+      "value": "Housing Works Thrift Shops",
+      "synonyms": [
+        "Housing Works Thrift Shops"
+      ]
+    },
+    {
+      "value": "Hungerford Bridge",
+      "synonyms": [
+        "Hungerford Bridge"
+      ]
+    },
+    {
+      "value": "ImagiKnit",
+      "synonyms": [
+        "ImagiKnit"
+      ]
+    },
+    {
+      "value": "Isfahan City Center",
+      "synonyms": [
+        "Isfahan City Center"
+      ]
+    },
+    {
+      "value": "Istanbul Cevahir",
+      "synonyms": [
+        "Istanbul Cevahir"
+      ]
+    },
+    {
+      "value": "It\u0027s Always Christmas in New York",
+      "synonyms": [
+        "It\u0027s Always Christmas in New York"
+      ]
+    },
+    {
+      "value": "J.Crew",
+      "synonyms": [
+        "J.Crew"
+      ]
+    },
+    {
+      "value": "Jamuna Future Park",
+      "synonyms": [
+        "Jamuna Future Park"
+      ]
+    },
+    {
+      "value": "Jean Shop",
+      "synonyms": [
+        "Jean Shop"
+      ]
+    },
+    {
+      "value": "Kate Spade New York",
+      "synonyms": [
+        "Kate Spade New York"
+      ]
+    },
+    {
+      "value": "King of Prussia Mall",
+      "synonyms": [
+        "King of Prussia Mall"
+      ]
+    },
+    {
+      "value": "Kitai Gorod GUM",
+      "synonyms": [
+        "Kitai Gorod GUM"
+      ]
+    },
+    {
+      "value": "Kith",
+      "synonyms": [
+        "Kith"
+      ]
+    },
+    {
+      "value": "Kmart",
+      "synonyms": [
+        "Kmart"
+      ]
+    },
+    {
+      "value": "Kraft Kraft",
+      "synonyms": [
+        "Kraft Kraft"
+      ]
+    },
+    {
+      "value": "L F Stores New York Inc",
+      "synonyms": [
+        "L F Stores New York Inc"
+      ]
+    },
+    {
+      "value": "Laird Hatters",
+      "synonyms": [
+        "Laird Hatters"
+      ]
+    },
+    {
+      "value": "Leadenhall Market",
+      "synonyms": [
+        "Leadenhall Market"
+      ]
+    },
+    {
+      "value": "Leytonstone Furniture \u0026 Electrical Store",
+      "synonyms": [
+        "Leytonstone Furniture \u0026 Electrical Store"
+      ]
+    },
+    {
+      "value": "London Designer Outlet",
+      "synonyms": [
+        "London Designer Outlet"
+      ]
+    },
+    {
+      "value": "Lost Coast Outfitters",
+      "synonyms": [
+        "Lost Coast Outfitters"
+      ]
+    },
+    {
+      "value": "Lovely Bride",
+      "synonyms": [
+        "Lovely Bride"
+      ]
+    },
+    {
+      "value": "M\u0026M\u0027s World",
+      "synonyms": [
+        "M\u0026M\u0027s World"
+      ]
+    },
+    {
+      "value": "Mal Artha Gading",
+      "synonyms": [
+        "Mal Artha Gading"
+      ]
+    },
+    {
+      "value": "Mall of America",
+      "synonyms": [
+        "Mall of America"
+      ]
+    },
+    {
+      "value": "Metreon",
+      "synonyms": [
+        "Metreon"
+      ]
+    },
+    {
+      "value": "MetroCentre",
+      "synonyms": [
+        "MetroCentre"
+      ]
+    },
+    {
+      "value": "Micycle",
+      "synonyms": [
+        "Micycle"
+      ]
+    },
+    {
+      "value": "Mid Valley Megamall",
+      "synonyms": [
+        "Mid Valley Megamall"
+      ]
+    },
+    {
+      "value": "Mike\u0027s Bikes of San Francisco",
+      "synonyms": [
+        "Mike\u0027s Bikes of San Francisco"
+      ]
+    },
+    {
+      "value": "Misdirections Magic Shop",
+      "synonyms": [
+        "Misdirections Magic Shop"
+      ]
+    },
+    {
+      "value": "Monk Vintage Thrift Shop",
+      "synonyms": [
+        "Monk Vintage Thrift Shop"
+      ]
+    },
+    {
+      "value": "Monocle Shop",
+      "synonyms": [
+        "Monocle Shop"
+      ]
+    },
+    {
+      "value": "Morocco Mall",
+      "synonyms": [
+        "Morocco Mall"
+      ]
+    },
+    {
+      "value": "Moto Guild",
+      "synonyms": [
+        "Moto Guild"
+      ]
+    },
+    {
+      "value": "Murdock London Shoreditch",
+      "synonyms": [
+        "Murdock London Shoreditch"
+      ]
+    },
+    {
+      "value": "Museum of London Shop",
+      "synonyms": [
+        "Museum of London Shop"
+      ]
+    },
+    {
+      "value": "My Flower Shop",
+      "synonyms": [
+        "My Flower Shop"
+      ]
+    },
+    {
+      "value": "NFL/College Shop",
+      "synonyms": [
+        "NFL/College Shop"
+      ]
+    },
+    {
+      "value": "New Era Flagship Store",
+      "synonyms": [
+        "New Era Flagship Store"
+      ]
+    },
+    {
+      "value": "New South China Mall",
+      "synonyms": [
+        "New South China Mall"
+      ]
+    },
+    {
+      "value": "New York \u0026 Company",
+      "synonyms": [
+        "New York \u0026 Company"
+      ]
+    },
+    {
+      "value": "New York Golf Center",
+      "synonyms": [
+        "New York Golf Center"
+      ]
+    },
+    {
+      "value": "Nigel Rayment Hat Shop",
+      "synonyms": [
+        "Nigel Rayment Hat Shop"
+      ]
+    },
+    {
+      "value": "Nordstrom Rack Downtown",
+      "synonyms": [
+        "Nordstrom Rack Downtown"
+      ]
+    },
+    {
+      "value": "Northpoint Centre",
+      "synonyms": [
+        "Northpoint Centre"
+      ]
+    },
+    {
+      "value": "OAK",
+      "synonyms": [
+        "OAK"
+      ]
+    },
+    {
+      "value": "Oak NYC",
+      "synonyms": [
+        "Oak NYC"
+      ]
+    },
+    {
+      "value": "On Your Bike",
+      "synonyms": [
+        "On Your Bike"
+      ]
+    },
+    {
+      "value": "Oxfam Shop",
+      "synonyms": [
+        "Oxfam Shop"
+      ]
+    },
+    {
+      "value": "Panamericana Multiplaza",
+      "synonyms": [
+        "Panamericana Multiplaza"
+      ]
+    },
+    {
+      "value": "Paul A Young Fine Chocolates",
+      "synonyms": [
+        "Paul A Young Fine Chocolates"
+      ]
+    },
+    {
+      "value": "Paul Smith",
+      "synonyms": [
+        "Paul Smith"
+      ]
+    },
+    {
+      "value": "Paul Smith Sale Shop",
+      "synonyms": [
+        "Paul Smith Sale Shop"
+      ]
+    },
+    {
+      "value": "Paul Smith Soho",
+      "synonyms": [
+        "Paul Smith Soho"
+      ]
+    },
+    {
+      "value": "Planet Organic",
+      "synonyms": [
+        "Planet Organic"
+      ]
+    },
+    {
+      "value": "Public Bikes",
+      "synonyms": [
+        "Public Bikes"
+      ]
+    },
+    {
+      "value": "Queens Center",
+      "synonyms": [
+        "Queens Center"
+      ]
+    },
+    {
+      "value": "REI",
+      "synonyms": [
+        "REI"
+      ]
+    },
+    {
+      "value": "Rainbow Station",
+      "synonyms": [
+        "Rainbow Station"
+      ]
+    },
+    {
+      "value": "Rare Device",
+      "synonyms": [
+        "Rare Device"
+      ]
+    },
+    {
+      "value": "Rokit",
+      "synonyms": [
+        "Rokit"
+      ]
+    },
+    {
+      "value": "Rokit Camden",
+      "synonyms": [
+        "Rokit Camden"
+      ]
+    },
+    {
+      "value": "Running Company",
+      "synonyms": [
+        "Running Company"
+      ]
+    },
+    {
+      "value": "SFMOMA Store at SFO",
+      "synonyms": [
+        "SFMOMA Store at SFO"
+      ]
+    },
+    {
+      "value": "SHoP Architects",
+      "synonyms": [
+        "SHoP Architects"
+      ]
+    },
+    {
+      "value": "SM City Cebu",
+      "synonyms": [
+        "SM City Cebu"
+      ]
+    },
+    {
+      "value": "SM City North EDSA",
+      "synonyms": [
+        "SM City North EDSA"
+      ]
+    },
+    {
+      "value": "SM Mall of Asia",
+      "synonyms": [
+        "SM Mall of Asia"
+      ]
+    },
+    {
+      "value": "SM Megamall",
+      "synonyms": [
+        "SM Megamall"
+      ]
+    },
+    {
+      "value": "San Francisco Archery Shop",
+      "synonyms": [
+        "San Francisco Archery Shop"
+      ]
+    },
+    {
+      "value": "San Francisco Brewcraft",
+      "synonyms": [
+        "San Francisco Brewcraft"
+      ]
+    },
+    {
+      "value": "San Francisco Gold Buyer",
+      "synonyms": [
+        "San Francisco Gold Buyer"
+      ]
+    },
+    {
+      "value": "San Francisco Premium Outlet",
+      "synonyms": [
+        "San Francisco Premium Outlet"
+      ]
+    },
+    {
+      "value": "San Francisco Wine Trading Company",
+      "synonyms": [
+        "San Francisco Wine Trading Company"
+      ]
+    },
+    {
+      "value": "Saturdays NYC Perry St",
+      "synonyms": [
+        "Saturdays NYC Perry St"
+      ]
+    },
+    {
+      "value": "Selfridges \u0026 Co",
+      "synonyms": [
+        "Selfridges \u0026 Co"
+      ]
+    },
+    {
+      "value": "Seraphine Maternity Soho New York Store",
+      "synonyms": [
+        "Seraphine Maternity Soho New York Store"
+      ]
+    },
+    {
+      "value": "Snow+Rock",
+      "synonyms": [
+        "Snow+Rock"
+      ]
+    },
+    {
+      "value": "South Coast Plaza",
+      "synonyms": [
+        "South Coast Plaza"
+      ]
+    },
+    {
+      "value": "Sports Basement Bryant St.",
+      "synonyms": [
+        "Sports Basement Bryant St."
+      ]
+    },
+    {
+      "value": "Sports Basement Presidio",
+      "synonyms": [
+        "Sports Basement Presidio"
+      ]
+    },
+    {
+      "value": "Stonestown Galleria",
+      "synonyms": [
+        "Stonestown Galleria"
+      ]
+    },
+    {
+      "value": "Stratford Centre",
+      "synonyms": [
+        "Stratford Centre"
+      ]
+    },
+    {
+      "value": "Sunway Pyramid",
+      "synonyms": [
+        "Sunway Pyramid"
+      ]
+    },
+    {
+      "value": "Super Runners Shop",
+      "synonyms": [
+        "Super Runners Shop"
+      ]
+    },
+    {
+      "value": "Tannen\u0027s Magic",
+      "synonyms": [
+        "Tannen\u0027s Magic"
+      ]
+    },
+    {
+      "value": "TechShop ",
+      "synonyms": [
+        "TechShop "
+      ]
+    },
+    {
+      "value": "Teokath of London",
+      "synonyms": [
+        "Teokath of London"
+      ]
+    },
+    {
+      "value": "The Berwick Street Cloth Shop",
+      "synonyms": [
+        "The Berwick Street Cloth Shop"
+      ]
+    },
+    {
+      "value": "The Conran Shop",
+      "synonyms": [
+        "The Conran Shop"
+      ]
+    },
+    {
+      "value": "The Conran Shop Ltd",
+      "synonyms": [
+        "The Conran Shop Ltd"
+      ]
+    },
+    {
+      "value": "The Futon Shop",
+      "synonyms": [
+        "The Futon Shop"
+      ]
+    },
+    {
+      "value": "The Hat Shop",
+      "synonyms": [
+        "The Hat Shop"
+      ]
+    },
+    {
+      "value": "The Jug Shop",
+      "synonyms": [
+        "The Jug Shop"
+      ]
+    },
+    {
+      "value": "The National Gallery Shop",
+      "synonyms": [
+        "The National Gallery Shop"
+      ]
+    },
+    {
+      "value": "The Plaza Boutique",
+      "synonyms": [
+        "The Plaza Boutique"
+      ]
+    },
+    {
+      "value": "The Shops at Columbus Circle",
+      "synonyms": [
+        "The Shops at Columbus Circle"
+      ]
+    },
+    {
+      "value": "The Whisky Exchange",
+      "synonyms": [
+        "The Whisky Exchange"
+      ]
+    },
+    {
+      "value": "The Whisky Shop",
+      "synonyms": [
+        "The Whisky Shop"
+      ]
+    },
+    {
+      "value": "The Wok Shop",
+      "synonyms": [
+        "The Wok Shop"
+      ]
+    },
+    {
+      "value": "Timbuk2",
+      "synonyms": [
+        "Timbuk2"
+      ]
+    },
+    {
+      "value": "Tory Burch",
+      "synonyms": [
+        "Tory Burch"
+      ]
+    },
+    {
+      "value": "Town Shop",
+      "synonyms": [
+        "Town Shop"
+      ]
+    },
+    {
+      "value": "Union Street Coffee Roastery",
+      "synonyms": [
+        "Union Street Coffee Roastery"
+      ]
+    },
+    {
+      "value": "Valencia Cyclery",
+      "synonyms": [
+        "Valencia Cyclery"
+      ]
+    },
+    {
+      "value": "Vapor Smoke Shop",
+      "synonyms": [
+        "Vapor Smoke Shop"
+      ]
+    },
+    {
+      "value": "Vintage Inc",
+      "synonyms": [
+        "Vintage Inc"
+      ]
+    },
+    {
+      "value": "Walmart",
+      "synonyms": [
+        "Walmart",
+        "Walmar"
+      ]
+    },
+    {
+      "value": "West Edmonton Mall",
+      "synonyms": [
+        "West Edmonton Mall"
+      ]
+    },
+    {
+      "value": "Westfield London Shopping Centre",
+      "synonyms": [
+        "Westfield London Shopping Centre"
+      ]
+    },
+    {
+      "value": "Westfield San Francisco Centre",
+      "synonyms": [
+        "Westfield San Francisco Centre"
+      ]
+    },
+    {
+      "value": "Westfield Stratford City",
+      "synonyms": [
+        "Westfield Stratford City"
+      ]
+    },
+    {
+      "value": "Whiteleys",
+      "synonyms": [
+        "Whiteleys"
+      ]
+    },
+    {
+      "value": "Wynn Esplanade",
+      "synonyms": [
+        "Wynn Esplanade"
+      ]
+    },
+    {
+      "value": "Yankees Clubhouse",
+      "synonyms": [
+        "Yankees Clubhouse"
+      ]
+    },
+    {
+      "value": "Zhengjia Plaza",
+      "synonyms": [
+        "Zhengjia Plaza"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}

@@ -1,0 +1,186 @@
+{
+  "id": "109f9a30-3154-4304-a107-e3de288bbb7f",
+  "name": "venue-medical-type",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "medical spa",
+      "synonyms": [
+        "medical spa",
+        "medical spas"
+      ]
+    },
+    {
+      "value": "internalmed",
+      "synonyms": [
+        "internalmed",
+        "internal medicine"
+      ]
+    },
+    {
+      "value": "medcenter",
+      "synonyms": [
+        "medcenter",
+        "medical center",
+        "medcenter",
+        "medical centers"
+      ]
+    },
+    {
+      "value": "traditional chinese medicine",
+      "synonyms": [
+        "traditional chinese medicine",
+        "chinese medicine"
+      ]
+    },
+    {
+      "value": "urgent care",
+      "synonyms": [
+        "urgent care"
+      ]
+    },
+    {
+      "value": "pharmacy",
+      "synonyms": [
+        "pharmacy",
+        "drug store",
+        "drug stores",
+        "pharmacy shop",
+        "pharmacy shops"
+      ]
+    },
+    {
+      "value": "hospital",
+      "synonyms": [
+        "hospital",
+        "hospitals"
+      ]
+    },
+    {
+      "value": "veterinary hospital",
+      "synonyms": [
+        "vet",
+        "veterinary hospital",
+        "vet hospital",
+        "vet hospitals",
+        "veterinary hospitals",
+        "veterinary clinic"
+      ]
+    },
+    {
+      "value": "rush hospital",
+      "synonyms": [
+        "rush hospital"
+      ]
+    },
+    {
+      "value": "wheel chair rental",
+      "synonyms": [
+        "wheel chair rental"
+      ]
+    },
+    {
+      "value": "optical store",
+      "synonyms": [
+        "opticians",
+        "eyewear and opticians",
+        "eyewear",
+        "optical store"
+      ]
+    },
+    {
+      "value": "dentist",
+      "synonyms": [
+        "dentists",
+        "Oral Surgeons",
+        "dentist",
+        "dental clinic",
+        "Cosmetic Dentists",
+        "dental office"
+      ]
+    },
+    {
+      "value": "doctor",
+      "synonyms": [
+        "doctor",
+        "doctors"
+      ]
+    },
+    {
+      "value": "allergist",
+      "synonyms": [
+        "allergist",
+        "allergists"
+      ]
+    },
+    {
+      "value": "medical transportation",
+      "synonyms": [
+        "medical transportation"
+      ]
+    },
+    {
+      "value": "sports medicine",
+      "synonyms": [
+        "sports medicine"
+      ]
+    },
+    {
+      "value": "laser eye surgery",
+      "synonyms": [
+        "laser eye surgery"
+      ]
+    },
+    {
+      "value": "orthodontist",
+      "synonyms": [
+        "orthodontist",
+        "orthodontists"
+      ]
+    },
+    {
+      "value": "orthopedist",
+      "synonyms": [
+        "orthopedist",
+        "orthopedists"
+      ]
+    },
+    {
+      "value": "osteopathic physician",
+      "synonyms": [
+        "osteopathic physician",
+        "osteopathic physicians"
+      ]
+    },
+    {
+      "value": "physical therapy",
+      "synonyms": [
+        "physical therapy"
+      ]
+    },
+    {
+      "value": "physician",
+      "synonyms": [
+        "physician",
+        "physicians",
+        "physician assistant"
+      ]
+    },
+    {
+      "value": "pediatric dentist",
+      "synonyms": [
+        "pediatric dentist",
+        "pediatric dentists"
+      ]
+    },
+    {
+      "value": "pediatrician",
+      "synonyms": [
+        "pediatrician",
+        "pediatricians"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

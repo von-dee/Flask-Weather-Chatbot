@@ -1,0 +1,447 @@
+{
+  "id": "5bb9bc99-182a-49cf-bb94-2598e032e490",
+  "name": "venue-automotive-chain",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "7-Eleven brand gasoline",
+      "synonyms": [
+        "7-Eleven brand gasoline"
+      ]
+    },
+    {
+      "value": "76",
+      "synonyms": [
+        "76"
+      ]
+    },
+    {
+      "value": "ARCO",
+      "synonyms": [
+        "ARCO"
+      ]
+    },
+    {
+      "value": "Advance Auto",
+      "synonyms": [
+        "Advance Auto"
+      ]
+    },
+    {
+      "value": "Advance Auto Parts",
+      "synonyms": [
+        "Advance Auto Parts"
+      ]
+    },
+    {
+      "value": "Allen Tire Company",
+      "synonyms": [
+        "Allen Tire Company"
+      ]
+    },
+    {
+      "value": "Amoco",
+      "synonyms": [
+        "Amoco"
+      ]
+    },
+    {
+      "value": "Auto Parts Warehouse",
+      "synonyms": [
+        "Auto Parts Warehouse"
+      ]
+    },
+    {
+      "value": "Auto Zone",
+      "synonyms": [
+        "Auto Zone"
+      ]
+    },
+    {
+      "value": "AutoZone",
+      "synonyms": [
+        "AutoZone"
+      ]
+    },
+    {
+      "value": "BP",
+      "synonyms": [
+        "BP"
+      ]
+    },
+    {
+      "value": "BP Amoco",
+      "synonyms": [
+        "BP Amoco"
+      ]
+    },
+    {
+      "value": "Belle Tire",
+      "synonyms": [
+        "Belle Tire"
+      ]
+    },
+    {
+      "value": "Big Brand Tire and Service",
+      "synonyms": [
+        "Big Brand Tire and Service"
+      ]
+    },
+    {
+      "value": "Big O Tires",
+      "synonyms": [
+        "Big O Tires"
+      ]
+    },
+    {
+      "value": "British Petroleum",
+      "synonyms": [
+        "British Petroleum"
+      ]
+    },
+    {
+      "value": "CSK Auto",
+      "synonyms": [
+        "CSK Auto"
+      ]
+    },
+    {
+      "value": "Canadian Tire",
+      "synonyms": [
+        "Canadian Tire"
+      ]
+    },
+    {
+      "value": "Carquest",
+      "synonyms": [
+        "Carquest"
+      ]
+    },
+    {
+      "value": "Chevron",
+      "synonyms": [
+        "Chevron"
+      ]
+    },
+    {
+      "value": "Chief Auto Parts",
+      "synonyms": [
+        "Chief Auto Parts"
+      ]
+    },
+    {
+      "value": "Citgo",
+      "synonyms": [
+        "Citgo"
+      ]
+    },
+    {
+      "value": "Clark Brands",
+      "synonyms": [
+        "Clark Brands"
+      ]
+    },
+    {
+      "value": "Conoco",
+      "synonyms": [
+        "Conoco"
+      ]
+    },
+    {
+      "value": "Discount Tire",
+      "synonyms": [
+        "Discount Tire"
+      ]
+    },
+    {
+      "value": "Exxon",
+      "synonyms": [
+        "Exxon"
+      ]
+    },
+    {
+      "value": "Fastrac",
+      "synonyms": [
+        "Fastrac"
+      ]
+    },
+    {
+      "value": "Flying J",
+      "synonyms": [
+        "Flying J"
+      ]
+    },
+    {
+      "value": "G I Joe s",
+      "synonyms": [
+        "G I Joe s"
+      ]
+    },
+    {
+      "value": "Gas City",
+      "synonyms": [
+        "Gas City"
+      ]
+    },
+    {
+      "value": "Getty",
+      "synonyms": [
+        "Getty"
+      ]
+    },
+    {
+      "value": "Gulf",
+      "synonyms": [
+        "Gulf"
+      ]
+    },
+    {
+      "value": "Hess",
+      "synonyms": [
+        "Hess"
+      ]
+    },
+    {
+      "value": "Irving Oil",
+      "synonyms": [
+        "Irving Oil"
+      ]
+    },
+    {
+      "value": "JC Whitney",
+      "synonyms": [
+        "JC Whitney"
+      ]
+    },
+    {
+      "value": "Jegs High Performance",
+      "synonyms": [
+        "Jegs High Performance"
+      ]
+    },
+    {
+      "value": "KOI Auto Parts",
+      "synonyms": [
+        "KOI Auto Parts"
+      ]
+    },
+    {
+      "value": "Kroger brand gasoline",
+      "synonyms": [
+        "Kroger brand gasoline"
+      ]
+    },
+    {
+      "value": "LKQ Corporation",
+      "synonyms": [
+        "LKQ Corporation"
+      ]
+    },
+    {
+      "value": "Les Schwab Tire Centers",
+      "synonyms": [
+        "Les Schwab Tire Centers"
+      ]
+    },
+    {
+      "value": "Lukoil",
+      "synonyms": [
+        "Lukoil"
+      ]
+    },
+    {
+      "value": "Marathon",
+      "synonyms": [
+        "Marathon"
+      ]
+    },
+    {
+      "value": "Marathon Oil",
+      "synonyms": [
+        "Marathon Oil"
+      ]
+    },
+    {
+      "value": "Maverik Country Stores",
+      "synonyms": [
+        "Maverik Country Stores"
+      ]
+    },
+    {
+      "value": "McQuay-Norris",
+      "synonyms": [
+        "McQuay-Norris"
+      ]
+    },
+    {
+      "value": "Mobil",
+      "synonyms": [
+        "Mobil"
+      ]
+    },
+    {
+      "value": "Murphy USA",
+      "synonyms": [
+        "Murphy USA"
+      ]
+    },
+    {
+      "value": "NAPA",
+      "synonyms": [
+        "NAPA"
+      ]
+    },
+    {
+      "value": "National Automotive Parts Association",
+      "synonyms": [
+        "National Automotive Parts Association"
+      ]
+    },
+    {
+      "value": "O Reilly Automotive",
+      "synonyms": [
+        "O Reilly Automotive"
+      ]
+    },
+    {
+      "value": "O\u0027Reilly",
+      "synonyms": [
+        "O\u0027Reilly"
+      ]
+    },
+    {
+      "value": "Pep Boys",
+      "synonyms": [
+        "Pep Boys"
+      ]
+    },
+    {
+      "value": "Pfadt Race Engineering",
+      "synonyms": [
+        "Pfadt Race Engineering"
+      ]
+    },
+    {
+      "value": "Phillips 66",
+      "synonyms": [
+        "Phillips 66"
+      ]
+    },
+    {
+      "value": "Pilot",
+      "synonyms": [
+        "Pilot"
+      ]
+    },
+    {
+      "value": "RaceTrac",
+      "synonyms": [
+        "RaceTrac"
+      ]
+    },
+    {
+      "value": "Raceway",
+      "synonyms": [
+        "Raceway"
+      ]
+    },
+    {
+      "value": "Sheetz",
+      "synonyms": [
+        "Sheetz"
+      ]
+    },
+    {
+      "value": "Shell",
+      "synonyms": [
+        "Shell"
+      ]
+    },
+    {
+      "value": "Sinclair",
+      "synonyms": [
+        "Sinclair"
+      ]
+    },
+    {
+      "value": "Speedway",
+      "synonyms": [
+        "Speedway"
+      ]
+    },
+    {
+      "value": "Sprint Foods",
+      "synonyms": [
+        "Sprint Foods"
+      ]
+    },
+    {
+      "value": "Summit Racing Equipment",
+      "synonyms": [
+        "Summit Racing Equipment"
+      ]
+    },
+    {
+      "value": "Sunoco",
+      "synonyms": [
+        "Sunoco"
+      ]
+    },
+    {
+      "value": "Super Shops",
+      "synonyms": [
+        "Super Shops"
+      ]
+    },
+    {
+      "value": "Tesco Petrol Filling Station",
+      "synonyms": [
+        "Tesco Petrol Filling Station"
+      ]
+    },
+    {
+      "value": "Texaco",
+      "synonyms": [
+        "Texaco"
+      ]
+    },
+    {
+      "value": "Trak Auto",
+      "synonyms": [
+        "Trak Auto"
+      ]
+    },
+    {
+      "value": "VIP Parts Tires and Service",
+      "synonyms": [
+        "VIP Parts Tires and Service"
+      ]
+    },
+    {
+      "value": "Valero",
+      "synonyms": [
+        "Valero"
+      ]
+    },
+    {
+      "value": "Wawa",
+      "synonyms": [
+        "Wawa"
+      ]
+    },
+    {
+      "value": "Western Auto",
+      "synonyms": [
+        "Western Auto"
+      ]
+    },
+    {
+      "value": "Winston Tire Company",
+      "synonyms": [
+        "Winston Tire Company"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}

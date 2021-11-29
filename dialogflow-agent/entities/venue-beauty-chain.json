@@ -1,0 +1,471 @@
+{
+  "id": "660e0b2a-095c-43f8-8183-5ff525ae9dd1",
+  "name": "venue-beauty-chain",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Ace of Cuts Barber Shop",
+      "synonyms": [
+        "Ace of Cuts Barber Shop"
+      ]
+    },
+    {
+      "value": "Arrojo Studio",
+      "synonyms": [
+        "Arrojo Studio"
+      ]
+    },
+    {
+      "value": "Asanda Aveda Spa Lounge",
+      "synonyms": [
+        "Asanda Aveda Spa Lounge"
+      ]
+    },
+    {
+      "value": "Astor Place Hairstylists",
+      "synonyms": [
+        "Astor Place Hairstylists"
+      ]
+    },
+    {
+      "value": "Aveda Institute",
+      "synonyms": [
+        "Aveda Institute"
+      ]
+    },
+    {
+      "value": "BDry Blow Bar",
+      "synonyms": [
+        "BDry Blow Bar"
+      ]
+    },
+    {
+      "value": "Bleu Sur Bleu Salon",
+      "synonyms": [
+        "Bleu Sur Bleu Salon"
+      ]
+    },
+    {
+      "value": "Blondi’s Hair Salon",
+      "synonyms": [
+        "Blondi’s Hair Salon"
+      ]
+    },
+    {
+      "value": "Bloomie Nails",
+      "synonyms": [
+        "Bloomie Nails"
+      ]
+    },
+    {
+      "value": "Brush",
+      "synonyms": [
+        "Brush"
+      ]
+    },
+    {
+      "value": "Bumble and Bumble",
+      "synonyms": [
+        "Bumble and Bumble"
+      ]
+    },
+    {
+      "value": "Casablanca Hair Salon",
+      "synonyms": [
+        "Casablanca Hair Salon"
+      ]
+    },
+    {
+      "value": "Chris Chase",
+      "synonyms": [
+        "Chris Chase"
+      ]
+    },
+    {
+      "value": "Christo Fifth Avenue",
+      "synonyms": [
+        "Christo Fifth Avenue"
+      ]
+    },
+    {
+      "value": "Cinderella Hair Castle",
+      "synonyms": [
+        "Cinderella Hair Castle"
+      ]
+    },
+    {
+      "value": "Cleo Spa \u0026 Salon",
+      "synonyms": [
+        "Cleo Spa \u0026 Salon"
+      ]
+    },
+    {
+      "value": "Coiffeur",
+      "synonyms": [
+        "Coiffeur"
+      ]
+    },
+    {
+      "value": "Contesta Rock Hair NYC",
+      "synonyms": [
+        "Contesta Rock Hair NYC"
+      ]
+    },
+    {
+      "value": "Cowlicks Japan",
+      "synonyms": [
+        "Cowlicks Japan"
+      ]
+    },
+    {
+      "value": "Cozy’s Cuts For Kids",
+      "synonyms": [
+        "Cozy’s Cuts For Kids"
+      ]
+    },
+    {
+      "value": "Cutting Edge Salon",
+      "synonyms": [
+        "Cutting Edge Salon"
+      ]
+    },
+    {
+      "value": "Davidov Hair \u0026 Spa",
+      "synonyms": [
+        "Davidov Hair \u0026 Spa"
+      ]
+    },
+    {
+      "value": "Delacqua Salon \u0026 Spa",
+      "synonyms": [
+        "Delacqua Salon \u0026 Spa"
+      ]
+    },
+    {
+      "value": "Dramatics NYC",
+      "synonyms": [
+        "Dramatics NYC"
+      ]
+    },
+    {
+      "value": "Drybar",
+      "synonyms": [
+        "Drybar"
+      ]
+    },
+    {
+      "value": "Eurostyle Hair Salon",
+      "synonyms": [
+        "Eurostyle Hair Salon"
+      ]
+    },
+    {
+      "value": "Fabio Doti Salon",
+      "synonyms": [
+        "Fabio Doti Salon"
+      ]
+    },
+    {
+      "value": "Fox \u0026 Jane Salon",
+      "synonyms": [
+        "Fox \u0026 Jane Salon"
+      ]
+    },
+    {
+      "value": "Fox \u0026 Jane",
+      "synonyms": [
+        "Fox \u0026 Jane"
+      ]
+    },
+    {
+      "value": "Frank’s Hairstylist",
+      "synonyms": [
+        "Frank’s Hairstylist"
+      ]
+    },
+    {
+      "value": "GS Blow Dry Bar - Midtown",
+      "synonyms": [
+        "GS Blow Dry Bar - Midtown"
+      ]
+    },
+    {
+      "value": "GiGi Salon Styling Studio - Aveda Concept Salon",
+      "synonyms": [
+        "GiGi Salon Styling Studio - Aveda Concept Salon"
+      ]
+    },
+    {
+      "value": "Glenn Jason Hair Design",
+      "synonyms": [
+        "Glenn Jason Hair Design"
+      ]
+    },
+    {
+      "value": "Hair \u0026 Co BKLYN",
+      "synonyms": [
+        "Hair \u0026 Co BKLYN"
+      ]
+    },
+    {
+      "value": "Hair Bar",
+      "synonyms": [
+        "Hair Bar"
+      ]
+    },
+    {
+      "value": "Hair Bar NYC",
+      "synonyms": [
+        "Hair Bar NYC"
+      ]
+    },
+    {
+      "value": "Hair Craft Studio By Ray",
+      "synonyms": [
+        "Hair Craft Studio By Ray"
+      ]
+    },
+    {
+      "value": "Hair Farfalla",
+      "synonyms": [
+        "Hair Farfalla"
+      ]
+    },
+    {
+      "value": "Hello Beautiful Salon",
+      "synonyms": [
+        "Hello Beautiful Salon"
+      ]
+    },
+    {
+      "value": "Jean Louis David",
+      "synonyms": [
+        "Jean Louis David"
+      ]
+    },
+    {
+      "value": "Jeffrey Stein Salons",
+      "synonyms": [
+        "Jeffrey Stein Salons"
+      ]
+    },
+    {
+      "value": "Joli Beauty Bar",
+      "synonyms": [
+        "Joli Beauty Bar"
+      ]
+    },
+    {
+      "value": "Kim Sun Young",
+      "synonyms": [
+        "Kim Sun Young"
+      ]
+    },
+    {
+      "value": "Kinetix Spa Salon",
+      "synonyms": [
+        "Kinetix Spa Salon"
+      ]
+    },
+    {
+      "value": "Lilys Hair Studio",
+      "synonyms": [
+        "Lilys Hair Studio"
+      ]
+    },
+    {
+      "value": "Manhattan Barber Shop Unisex",
+      "synonyms": [
+        "Manhattan Barber Shop Unisex"
+      ]
+    },
+    {
+      "value": "Natura Spa",
+      "synonyms": [
+        "Natura Spa"
+      ]
+    },
+    {
+      "value": "Neighborhood Barber",
+      "synonyms": [
+        "Neighborhood Barber"
+      ]
+    },
+    {
+      "value": "New Image Hair Design",
+      "synonyms": [
+        "New Image Hair Design"
+      ]
+    },
+    {
+      "value": "Nica \u0026 Sam",
+      "synonyms": [
+        "Nica \u0026 Sam"
+      ]
+    },
+    {
+      "value": "No. 2 Beauty Hair Salon",
+      "synonyms": [
+        "No. 2 Beauty Hair Salon"
+      ]
+    },
+    {
+      "value": "Premium Barber Shop",
+      "synonyms": [
+        "Premium Barber Shop"
+      ]
+    },
+    {
+      "value": "Reamir \u0026 Co Barber Shop Upper West Side",
+      "synonyms": [
+        "Reamir \u0026 Co Barber Shop Upper West Side"
+      ]
+    },
+    {
+      "value": "Reamir Barber Shop Central Park West",
+      "synonyms": [
+        "Reamir Barber Shop Central Park West"
+      ]
+    },
+    {
+      "value": "Reamir Barber Shop East Side",
+      "synonyms": [
+        "Reamir Barber Shop East Side"
+      ]
+    },
+    {
+      "value": "Red Chair Salon",
+      "synonyms": [
+        "Red Chair Salon"
+      ]
+    },
+    {
+      "value": "Redge Salon",
+      "synonyms": [
+        "Redge Salon"
+      ]
+    },
+    {
+      "value": "Roots Radicals Salon",
+      "synonyms": [
+        "Roots Radicals Salon"
+      ]
+    },
+    {
+      "value": "Salon Black \u0026 Blue",
+      "synonyms": [
+        "Salon Black \u0026 Blue"
+      ]
+    },
+    {
+      "value": "Salon Loba",
+      "synonyms": [
+        "Salon Loba"
+      ]
+    },
+    {
+      "value": "Salon SCK",
+      "synonyms": [
+        "Salon SCK"
+      ]
+    },
+    {
+      "value": "Salon Wave",
+      "synonyms": [
+        "Salon Wave"
+      ]
+    },
+    {
+      "value": "Sam and Chris Hair Salon",
+      "synonyms": [
+        "Sam and Chris Hair Salon"
+      ]
+    },
+    {
+      "value": "Scott J. Aveda Salon \u0026 Spa Morningside Heights",
+      "synonyms": [
+        "Scott J. Aveda Salon \u0026 Spa Morningside Heights"
+      ]
+    },
+    {
+      "value": "Scott J. Aveda Salon - Upper West Side",
+      "synonyms": [
+        "Scott J. Aveda Salon - Upper West Side"
+      ]
+    },
+    {
+      "value": "Shear Bliss",
+      "synonyms": [
+        "Shear Bliss"
+      ]
+    },
+    {
+      "value": "Spiff",
+      "synonyms": [
+        "Spiff"
+      ]
+    },
+    {
+      "value": "Supercuts",
+      "synonyms": [
+        "Supercuts"
+      ]
+    },
+    {
+      "value": "Swing Organic Salon",
+      "synonyms": [
+        "Swing Organic Salon"
+      ]
+    },
+    {
+      "value": "The Last Tangle",
+      "synonyms": [
+        "The Last Tangle"
+      ]
+    },
+    {
+      "value": "Tokuyama Salon",
+      "synonyms": [
+        "Tokuyama Salon"
+      ]
+    },
+    {
+      "value": "Tres Jordan Hair Designs",
+      "synonyms": [
+        "Tres Jordan Hair Designs"
+      ]
+    },
+    {
+      "value": "Val El Salon and Spa",
+      "synonyms": [
+        "Val El Salon and Spa"
+      ]
+    },
+    {
+      "value": "WOON",
+      "synonyms": [
+        "WOON"
+      ]
+    },
+    {
+      "value": "WS Hairstyling",
+      "synonyms": [
+        "WS Hairstyling"
+      ]
+    },
+    {
+      "value": "Whistle",
+      "synonyms": [
+        "Whistle"
+      ]
+    },
+    {
+      "value": "Y Gallery Salo",
+      "synonyms": [
+        "Y Gallery Salo"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}

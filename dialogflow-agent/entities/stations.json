@@ -1,0 +1,537 @@
+{
+  "id": "a33517d7-0756-4271-86c3-d8cfff159a80",
+  "name": "stations",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Akihabara Station",
+      "synonyms": [
+        "Akihabara Station"
+      ]
+    },
+    {
+      "value": "Ayase Station",
+      "synonyms": [
+        "Ayase Station"
+      ]
+    },
+    {
+      "value": "Berlin Hauptbahnhof",
+      "synonyms": [
+        "Berlin Hauptbahnhof"
+      ]
+    },
+    {
+      "value": "Birmingham New Street Station",
+      "synonyms": [
+        "Birmingham New Street Station"
+      ]
+    },
+    {
+      "value": "Brighton Station",
+      "synonyms": [
+        "Brighton Station"
+      ]
+    },
+    {
+      "value": "Chhatrapati Shivaji Terminus",
+      "synonyms": [
+        "Chhatrapati Shivaji Terminus"
+      ]
+    },
+    {
+      "value": "Clapham Junction Station",
+      "synonyms": [
+        "Clapham Junction Station"
+      ]
+    },
+    {
+      "value": "Daimon-Hamamatsucho Station",
+      "synonyms": [
+        "Daimon-Hamamatsucho Station"
+      ]
+    },
+    {
+      "value": "East Croydon Station",
+      "synonyms": [
+        "East Croydon Station"
+      ]
+    },
+    {
+      "value": "Edinburgh Waverley Station",
+      "synonyms": [
+        "Edinburgh Waverley Station"
+      ]
+    },
+    {
+      "value": "Fresh Pond Road",
+      "synonyms": [
+        "Fresh Pond Road"
+      ]
+    },
+    {
+      "value": "Fujisawa Station",
+      "synonyms": [
+        "Fujisawa Station"
+      ]
+    },
+    {
+      "value": "Funabashi Station",
+      "synonyms": [
+        "Funabashi Station"
+      ]
+    },
+    {
+      "value": "Gara de Sud",
+      "synonyms": [
+        "Gara de Sud"
+      ]
+    },
+    {
+      "value": "Gare de Chatele Station",
+      "synonyms": [
+        "Gare de Chatele Station"
+      ]
+    },
+    {
+      "value": "Gare du Nord",
+      "synonyms": [
+        "Gare du Nord"
+      ]
+    },
+    {
+      "value": "Gatwick Airport Station",
+      "synonyms": [
+        "Gatwick Airport Station"
+      ]
+    },
+    {
+      "value": "Glasgow Central Station",
+      "synonyms": [
+        "Glasgow Central Station"
+      ]
+    },
+    {
+      "value": "Glasgow Queen Street Station",
+      "synonyms": [
+        "Glasgow Queen Street Station"
+      ]
+    },
+    {
+      "value": "Gotanda Station",
+      "synonyms": [
+        "Gotanda Station"
+      ]
+    },
+    {
+      "value": "Grand Central Terminal",
+      "synonyms": [
+        "Grand Central Terminal"
+      ]
+    },
+    {
+      "value": "Hakata Station",
+      "synonyms": [
+        "Hakata Station"
+      ]
+    },
+    {
+      "value": "Hamburg Central Station",
+      "synonyms": [
+        "Hamburg Central Station"
+      ]
+    },
+    {
+      "value": "Highbury and Islington Station",
+      "synonyms": [
+        "Highbury and Islington Station"
+      ]
+    },
+    {
+      "value": "Iidabashi Station",
+      "synonyms": [
+        "Iidabashi Station"
+      ]
+    },
+    {
+      "value": "Ikebukuro Station",
+      "synonyms": [
+        "Ikebukuro Station"
+      ]
+    },
+    {
+      "value": "Jakarta Kota Station",
+      "synonyms": [
+        "Jakarta Kota Station"
+      ]
+    },
+    {
+      "value": "Kamata Station",
+      "synonyms": [
+        "Kamata Station"
+      ]
+    },
+    {
+      "value": "Kaneyama Station",
+      "synonyms": [
+        "Kaneyama Station"
+      ]
+    },
+    {
+      "value": "Kashiwa Station",
+      "synonyms": [
+        "Kashiwa Station"
+      ]
+    },
+    {
+      "value": "Kawasaki Station",
+      "synonyms": [
+        "Kawasaki Station"
+      ]
+    },
+    {
+      "value": "Kichijoji Station",
+      "synonyms": [
+        "Kichijoji Station"
+      ]
+    },
+    {
+      "value": "Kita-Senju Station",
+      "synonyms": [
+        "Kita-Senju Station"
+      ]
+    },
+    {
+      "value": "Kyobashi Station",
+      "synonyms": [
+        "Kyobashi Station"
+      ]
+    },
+    {
+      "value": "Kyoto Station",
+      "synonyms": [
+        "Kyoto Station"
+      ]
+    },
+    {
+      "value": "Leeds Station",
+      "synonyms": [
+        "Leeds Station"
+      ]
+    },
+    {
+      "value": "Leipzig Hauptbahnhof",
+      "synonyms": [
+        "Leipzig Hauptbahnhof"
+      ]
+    },
+    {
+      "value": "Liverpool Central Station",
+      "synonyms": [
+        "Liverpool Central Station"
+      ]
+    },
+    {
+      "value": "Liverpool Lime Street Station",
+      "synonyms": [
+        "Liverpool Lime Street Station"
+      ]
+    },
+    {
+      "value": "London Blackfriars Station",
+      "synonyms": [
+        "London Blackfriars Station"
+      ]
+    },
+    {
+      "value": "London Bridge Station",
+      "synonyms": [
+        "London Bridge Station"
+      ]
+    },
+    {
+      "value": "London Cannon Street Station",
+      "synonyms": [
+        "London Cannon Street Station"
+      ]
+    },
+    {
+      "value": "London Charing Cross Station",
+      "synonyms": [
+        "London Charing Cross Station"
+      ]
+    },
+    {
+      "value": "London Euston Station",
+      "synonyms": [
+        "London Euston Station"
+      ]
+    },
+    {
+      "value": "London Fenchurch Street Station",
+      "synonyms": [
+        "London Fenchurch Street Station"
+      ]
+    },
+    {
+      "value": "London King\u0027s Cross Station",
+      "synonyms": [
+        "London King\u0027s Cross Station"
+      ]
+    },
+    {
+      "value": "London Liverpool Street Station",
+      "synonyms": [
+        "London Liverpool Street Station"
+      ]
+    },
+    {
+      "value": "London Marylebone Station",
+      "synonyms": [
+        "London Marylebone Station"
+      ]
+    },
+    {
+      "value": "London Paddington Station",
+      "synonyms": [
+        "London Paddington Station"
+      ]
+    },
+    {
+      "value": "London St Pancras Station",
+      "synonyms": [
+        "London St Pancras Station"
+      ]
+    },
+    {
+      "value": "London Victoria Station",
+      "synonyms": [
+        "London Victoria Station"
+      ]
+    },
+    {
+      "value": "London Waterloo Station",
+      "synonyms": [
+        "London Waterloo Station"
+      ]
+    },
+    {
+      "value": "Machida Station",
+      "synonyms": [
+        "Machida Station"
+      ]
+    },
+    {
+      "value": "Manchester Piccadilly Station",
+      "synonyms": [
+        "Manchester Piccadilly Station"
+      ]
+    },
+    {
+      "value": "Meguro Station",
+      "synonyms": [
+        "Meguro Station"
+      ]
+    },
+    {
+      "value": "Musashikosugi Station",
+      "synonyms": [
+        "Musashikosugi Station"
+      ]
+    },
+    {
+      "value": "Nagoya Station",
+      "synonyms": [
+        "Nagoya Station"
+      ]
+    },
+    {
+      "value": "Nakameguro Station",
+      "synonyms": [
+        "Nakameguro Station"
+      ]
+    },
+    {
+      "value": "Nakano Station",
+      "synonyms": [
+        "Nakano Station"
+      ]
+    },
+    {
+      "value": "Namba Station",
+      "synonyms": [
+        "Namba Station"
+      ]
+    },
+    {
+      "value": "Nishi-Funabashi Station",
+      "synonyms": [
+        "Nishi-Funabashi Station"
+      ]
+    },
+    {
+      "value": "Nishi-Nippori Station",
+      "synonyms": [
+        "Nishi-Nippori Station"
+      ]
+    },
+    {
+      "value": "Oimachi Station",
+      "synonyms": [
+        "Oimachi Station"
+      ]
+    },
+    {
+      "value": "Omiya Station",
+      "synonyms": [
+        "Omiya Station"
+      ]
+    },
+    {
+      "value": "Oshiage Station",
+      "synonyms": [
+        "Oshiage Station"
+      ]
+    },
+    {
+      "value": "Reading Station",
+      "synonyms": [
+        "Reading Station"
+      ]
+    },
+    {
+      "value": "Roma Termini Station",
+      "synonyms": [
+        "Roma Termini Station"
+      ]
+    },
+    {
+      "value": "Sannomiya Station",
+      "synonyms": [
+        "Sannomiya Station"
+      ]
+    },
+    {
+      "value": "Shibuya Station",
+      "synonyms": [
+        "Shibuya Station"
+      ]
+    },
+    {
+      "value": "Shinagawa Station",
+      "synonyms": [
+        "Shinagawa Station"
+      ]
+    },
+    {
+      "value": "Shinbashi Station",
+      "synonyms": [
+        "Shinbashi Station"
+      ]
+    },
+    {
+      "value": "Shinjuku Station",
+      "synonyms": [
+        "Shinjuku Station"
+      ]
+    },
+    {
+      "value": "Stratford Station",
+      "synonyms": [
+        "Stratford Station"
+      ]
+    },
+    {
+      "value": "Tachikawa Station",
+      "synonyms": [
+        "Tachikawa Station"
+      ]
+    },
+    {
+      "value": "Taipei Railway Station",
+      "synonyms": [
+        "Taipei Railway Station"
+      ]
+    },
+    {
+      "value": "Takadanobaba Station",
+      "synonyms": [
+        "Takadanobaba Station"
+      ]
+    },
+    {
+      "value": "Tamachi-Mita Station",
+      "synonyms": [
+        "Tamachi-Mita Station"
+      ]
+    },
+    {
+      "value": "Tennouji Station",
+      "synonyms": [
+        "Tennouji Station"
+      ]
+    },
+    {
+      "value": "Tokyo Station",
+      "synonyms": [
+        "Tokyo Station"
+      ]
+    },
+    {
+      "value": "Tsuruhashi Station",
+      "synonyms": [
+        "Tsuruhashi Station"
+      ]
+    },
+    {
+      "value": "Ueno Station",
+      "synonyms": [
+        "Ueno Station"
+      ]
+    },
+    {
+      "value": "Umeda Station",
+      "synonyms": [
+        "Umeda Station"
+      ]
+    },
+    {
+      "value": "Vauxhall Station",
+      "synonyms": [
+        "Vauxhall Station"
+      ]
+    },
+    {
+      "value": "Wimbledon Station",
+      "synonyms": [
+        "Wimbledon Station"
+      ]
+    },
+    {
+      "value": "Yokohama Station",
+      "synonyms": [
+        "Yokohama Station"
+      ]
+    },
+    {
+      "value": "Yoyogi-Uehara Station",
+      "synonyms": [
+        "Yoyogi-Uehara Station"
+      ]
+    },
+    {
+      "value": "Yurakucho-Hibiya Station",
+      "synonyms": [
+        "Yurakucho-Hibiya Station"
+      ]
+    },
+    {
+      "value": "Zurich Hauptbahnhof",
+      "synonyms": [
+        "Zurich Hauptbahnhof"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}

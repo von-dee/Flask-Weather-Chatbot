@@ -1,0 +1,774 @@
+{
+  "id": "7e7dfd04-9bdc-491d-be31-de82265dff4b",
+  "name": "paris-areas",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "École-Militaire",
+      "synonyms": [
+        "École-Militaire",
+        "École-Militaire"
+      ]
+    },
+    {
+      "value": "Élysée",
+      "synonyms": [
+        "Élysée"
+      ]
+    },
+    {
+      "value": "Épinettes",
+      "synonyms": [
+        "Épinettes"
+      ]
+    },
+    {
+      "value": "Île de la Cité",
+      "synonyms": [
+        "Île de la Cité"
+      ]
+    },
+    {
+      "value": "Île Saint-Louis",
+      "synonyms": [
+        "Île Saint-Louis",
+        "Île Saint-Louis"
+      ]
+    },
+    {
+      "value": "Amérique",
+      "synonyms": [
+        "Amérique"
+      ]
+    },
+    {
+      "value": "Archives",
+      "synonyms": [
+        "Archives"
+      ]
+    },
+    {
+      "value": "Arsenal",
+      "synonyms": [
+        "Arsenal"
+      ]
+    },
+    {
+      "value": "Arts-et-Métiers",
+      "synonyms": [
+        "Arts-et-Métiers",
+        "Arts-et-Métiers"
+      ]
+    },
+    {
+      "value": "Auteuil",
+      "synonyms": [
+        "Auteuil"
+      ]
+    },
+    {
+      "value": "Batignolles",
+      "synonyms": [
+        "Batignolles"
+      ]
+    },
+    {
+      "value": "Batignolles-Monceau",
+      "synonyms": [
+        "Batignolles-Monceau",
+        "Batignolles-Monceau"
+      ]
+    },
+    {
+      "value": "Bel-Air",
+      "synonyms": [
+        "Bel-Air",
+        "Bel-Air"
+      ]
+    },
+    {
+      "value": "Belleville",
+      "synonyms": [
+        "Belleville"
+      ]
+    },
+    {
+      "value": "Bercy",
+      "synonyms": [
+        "Bercy"
+      ]
+    },
+    {
+      "value": "Bonne-Nouvelle",
+      "synonyms": [
+        "Bonne-Nouvelle",
+        "Bonne-Nouvelle"
+      ]
+    },
+    {
+      "value": "Bourse",
+      "synonyms": [
+        "Bourse"
+      ]
+    },
+    {
+      "value": "Butte-Montmartre",
+      "synonyms": [
+        "Butte-Montmartre",
+        "Butte-Montmartre"
+      ]
+    },
+    {
+      "value": "Buttes-Chaumont",
+      "synonyms": [
+        "Buttes-Chaumont",
+        "Buttes-Chaumont"
+      ]
+    },
+    {
+      "value": "Chaillot",
+      "synonyms": [
+        "Chaillot"
+      ]
+    },
+    {
+      "value": "Champs-Élysées",
+      "synonyms": [
+        "Champs-Élysées",
+        "Champs-Élysées"
+      ]
+    },
+    {
+      "value": "Charonne",
+      "synonyms": [
+        "Charonne"
+      ]
+    },
+    {
+      "value": "Chaussée-d\u0027Antin",
+      "synonyms": [
+        "Chaussée-d\u0027Antin",
+        "Chaussée-d\u0027Antin"
+      ]
+    },
+    {
+      "value": "Cité des Fleurs",
+      "synonyms": [
+        "Cité des Fleurs"
+      ]
+    },
+    {
+      "value": "Clignancourt",
+      "synonyms": [
+        "Clignancourt"
+      ]
+    },
+    {
+      "value": "Combat",
+      "synonyms": [
+        "Combat"
+      ]
+    },
+    {
+      "value": "Cour des miracles",
+      "synonyms": [
+        "Cour des miracles"
+      ]
+    },
+    {
+      "value": "Croulebarbe",
+      "synonyms": [
+        "Croulebarbe"
+      ]
+    },
+    {
+      "value": "Enfants-Rouges",
+      "synonyms": [
+        "Enfants-Rouges",
+        "Enfants-Rouges"
+      ]
+    },
+    {
+      "value": "Entrepôt",
+      "synonyms": [
+        "Entrepôt"
+      ]
+    },
+    {
+      "value": "Europe",
+      "synonyms": [
+        "Europe"
+      ]
+    },
+    {
+      "value": "Faubourg Saint-Antoine",
+      "synonyms": [
+        "Faubourg Saint-Antoine",
+        "Faubourg Saint-Antoine"
+      ]
+    },
+    {
+      "value": "Faubourg Saint-Germain",
+      "synonyms": [
+        "Faubourg Saint-Germain",
+        "Faubourg Saint-Germain"
+      ]
+    },
+    {
+      "value": "Faubourg-du-Roule",
+      "synonyms": [
+        "Faubourg-du-Roule",
+        "Faubourg-du-Roule"
+      ]
+    },
+    {
+      "value": "Faubourg-Montmartre",
+      "synonyms": [
+        "Faubourg-Montmartre",
+        "Faubourg-Montmartre"
+      ]
+    },
+    {
+      "value": "Folie-Méricourt",
+      "synonyms": [
+        "Folie-Méricourt",
+        "Folie-Méricourt"
+      ]
+    },
+    {
+      "value": "Front de Seine",
+      "synonyms": [
+        "Front de Seine"
+      ]
+    },
+    {
+      "value": "Gaillon",
+      "synonyms": [
+        "Gaillon"
+      ]
+    },
+    {
+      "value": "Gobelins",
+      "synonyms": [
+        "Gobelins"
+      ]
+    },
+    {
+      "value": "Goutte d\u0027Or",
+      "synonyms": [
+        "Goutte d\u0027Or"
+      ]
+    },
+    {
+      "value": "Goutte-d\u0027Or",
+      "synonyms": [
+        "Goutte-d\u0027Or",
+        "Goutte-d\u0027Or"
+      ]
+    },
+    {
+      "value": "Grandes-Carrières",
+      "synonyms": [
+        "Grandes-Carrières",
+        "Grandes-Carrières"
+      ]
+    },
+    {
+      "value": "Grenelle",
+      "synonyms": [
+        "Grenelle"
+      ]
+    },
+    {
+      "value": "Gros-Caillou",
+      "synonyms": [
+        "Gros-Caillou",
+        "Gros-Caillou"
+      ]
+    },
+    {
+      "value": "Hôpital-Saint-Louis",
+      "synonyms": [
+        "Hôpital-Saint-Louis",
+        "Hôpital-Saint-Louis"
+      ]
+    },
+    {
+      "value": "Hôtel-de-Ville",
+      "synonyms": [
+        "Hôtel-de-Ville",
+        "Hôtel-de-Ville"
+      ]
+    },
+    {
+      "value": "Jardin de Tivoli",
+      "synonyms": [
+        "Jardin de Tivoli"
+      ]
+    },
+    {
+      "value": "Jardin-des-Plantes",
+      "synonyms": [
+        "Jardin-des-Plantes",
+        "Jardin-des-Plantes"
+      ]
+    },
+    {
+      "value": "Javel",
+      "synonyms": [
+        "Javel"
+      ]
+    },
+    {
+      "value": "La Chapelle",
+      "synonyms": [
+        "La Chapelle"
+      ]
+    },
+    {
+      "value": "La Défense",
+      "synonyms": [
+        "La Défense"
+      ]
+    },
+    {
+      "value": "La Gare",
+      "synonyms": [
+        "La Gare"
+      ]
+    },
+    {
+      "value": "La Madeleine",
+      "synonyms": [
+        "La Madeleine"
+      ]
+    },
+    {
+      "value": "La Muette",
+      "synonyms": [
+        "La Muette"
+      ]
+    },
+    {
+      "value": "La Roquette",
+      "synonyms": [
+        "La Roquette"
+      ]
+    },
+    {
+      "value": "La Villette",
+      "synonyms": [
+        "La Villette"
+      ]
+    },
+    {
+      "value": "Latin Quarter",
+      "synonyms": [
+        "Latin Quarter"
+      ]
+    },
+    {
+      "value": "Le Marais",
+      "synonyms": [
+        "Le Marais"
+      ]
+    },
+    {
+      "value": "Les Halles",
+      "synonyms": [
+        "Les Halles"
+      ]
+    },
+    {
+      "value": "Les Invalides",
+      "synonyms": [
+        "Les Invalides"
+      ]
+    },
+    {
+      "value": "Les Ternes",
+      "synonyms": [
+        "Les Ternes"
+      ]
+    },
+    {
+      "value": "Louvre",
+      "synonyms": [
+        "Louvre"
+      ]
+    },
+    {
+      "value": "Luxembourg",
+      "synonyms": [
+        "Luxembourg"
+      ]
+    },
+    {
+      "value": "Ménilmontant",
+      "synonyms": [
+        "Ménilmontant"
+      ]
+    },
+    {
+      "value": "Mail",
+      "synonyms": [
+        "Mail"
+      ]
+    },
+    {
+      "value": "Maison-Blanche",
+      "synonyms": [
+        "Maison-Blanche",
+        "Maison Blanche"
+      ]
+    },
+    {
+      "value": "Monnaie",
+      "synonyms": [
+        "Monnaie"
+      ]
+    },
+    {
+      "value": "Montmartre",
+      "synonyms": [
+        "Montmartre"
+      ]
+    },
+    {
+      "value": "Montparnasse",
+      "synonyms": [
+        "Montparnasse"
+      ]
+    },
+    {
+      "value": "Necker",
+      "synonyms": [
+        "Necker"
+      ]
+    },
+    {
+      "value": "Notre-Dame",
+      "synonyms": [
+        "Notre-Dame",
+        "Notre Dame"
+      ]
+    },
+    {
+      "value": "Notre-Dame-des-Champs",
+      "synonyms": [
+        "Notre-Dame-des-Champs",
+        "Notre Dame des Champs"
+      ]
+    },
+    {
+      "value": "Observatoire",
+      "synonyms": [
+        "Observatoire"
+      ]
+    },
+    {
+      "value": "Odéon",
+      "synonyms": [
+        "Odéon"
+      ]
+    },
+    {
+      "value": "Opéra",
+      "synonyms": [
+        "Opéra"
+      ]
+    },
+    {
+      "value": "Père-Lachaise",
+      "synonyms": [
+        "Père-Lachaise",
+        "Père Lachaise"
+      ]
+    },
+    {
+      "value": "Palais-Bourbon",
+      "synonyms": [
+        "Palais-Bourbon",
+        "Palais Bourbon"
+      ]
+    },
+    {
+      "value": "Palais-Royal",
+      "synonyms": [
+        "Palais-Royal",
+        "Palais Royal"
+      ]
+    },
+    {
+      "value": "Panthéon",
+      "synonyms": [
+        "Panthéon"
+      ]
+    },
+    {
+      "value": "Parc Montsouris",
+      "synonyms": [
+        "Parc Montsouris"
+      ]
+    },
+    {
+      "value": "Paris Rive Gauche",
+      "synonyms": [
+        "Paris Rive Gauche"
+      ]
+    },
+    {
+      "value": "Passy",
+      "synonyms": [
+        "Passy"
+      ]
+    },
+    {
+      "value": "Petit-Montrouge",
+      "synonyms": [
+        "Petit-Montrouge",
+        "Petit Montrouge"
+      ]
+    },
+    {
+      "value": "Picpus",
+      "synonyms": [
+        "Picpus"
+      ]
+    },
+    {
+      "value": "Place-Vendôme",
+      "synonyms": [
+        "Place-Vendôme",
+        "Place Vendôme"
+      ]
+    },
+    {
+      "value": "Plaine Monceau",
+      "synonyms": [
+        "Plaine Monceau"
+      ]
+    },
+    {
+      "value": "Plaisance",
+      "synonyms": [
+        "Plaisance"
+      ]
+    },
+    {
+      "value": "Pont-de-Flandres",
+      "synonyms": [
+        "Pont-de-Flandres",
+        "Pont de Flandres"
+      ]
+    },
+    {
+      "value": "Popincourt",
+      "synonyms": [
+        "Popincourt"
+      ]
+    },
+    {
+      "value": "Porte-Dauphine",
+      "synonyms": [
+        "Porte-Dauphine",
+        "Porte Dauphine"
+      ]
+    },
+    {
+      "value": "Porte-Saint-Denis",
+      "synonyms": [
+        "Porte-Saint-Denis",
+        "Porte Saint Denis"
+      ]
+    },
+    {
+      "value": "Porte-Saint-Martin",
+      "synonyms": [
+        "Porte-Saint-Martin",
+        "Porte Saint Martin"
+      ]
+    },
+    {
+      "value": "Quartier Asiatique",
+      "synonyms": [
+        "Quartier Asiatique"
+      ]
+    },
+    {
+      "value": "Quartier de La Chapelle",
+      "synonyms": [
+        "Quartier de La Chapelle"
+      ]
+    },
+    {
+      "value": "Quartier des Grandes-Carrières",
+      "synonyms": [
+        "Quartier des Grandes-Carrières",
+        "Quartier des Grandes Carrières"
+      ]
+    },
+    {
+      "value": "Quartier Pigalle",
+      "synonyms": [
+        "Quartier Pigalle"
+      ]
+    },
+    {
+      "value": "Quartier Saint-Victor",
+      "synonyms": [
+        "Quartier Saint-Victor",
+        "Quartier Saint Victor"
+      ]
+    },
+    {
+      "value": "Quinze-Vingts",
+      "synonyms": [
+        "Quinze-Vingts",
+        "Quinze Vingts"
+      ]
+    },
+    {
+      "value": "Reuilly",
+      "synonyms": [
+        "Reuilly"
+      ]
+    },
+    {
+      "value": "Rochechouart",
+      "synonyms": [
+        "Rochechouart"
+      ]
+    },
+    {
+      "value": "Saint-Ambroise",
+      "synonyms": [
+        "Saint-Ambroise",
+        "Saint Ambroise"
+      ]
+    },
+    {
+      "value": "Saint-Fargeau",
+      "synonyms": [
+        "Saint-Fargeau",
+        "Saint Fargeau"
+      ]
+    },
+    {
+      "value": "Saint-Georges",
+      "synonyms": [
+        "Saint-Georges",
+        "Saint Georges"
+      ]
+    },
+    {
+      "value": "Saint-Germain-des-Prés",
+      "synonyms": [
+        "Saint-Germain-des-Prés",
+        "Saint Germain des Prés"
+      ]
+    },
+    {
+      "value": "Saint-Germain-l\u0027Auxerrois",
+      "synonyms": [
+        "Saint-Germain-l\u0027Auxerrois",
+        "Saint Germain l\u0027Auxerrois"
+      ]
+    },
+    {
+      "value": "Saint-Gervais",
+      "synonyms": [
+        "Saint-Gervais",
+        "Saint Gervais"
+      ]
+    },
+    {
+      "value": "Saint-Lambert",
+      "synonyms": [
+        "Saint-Lambert",
+        "Saint Lambert"
+      ]
+    },
+    {
+      "value": "Saint-Merri",
+      "synonyms": [
+        "Saint-Merri",
+        "Saint Merri"
+      ]
+    },
+    {
+      "value": "Saint-Thomas-d\u0027Aquin",
+      "synonyms": [
+        "Saint-Thomas-d\u0027Aquin",
+        "Saint Thomas d\u0027Aquin"
+      ]
+    },
+    {
+      "value": "Saint-Vincent-de-Paul",
+      "synonyms": [
+        "Saint-Vincent-de-Paul",
+        "Saint Vincent de Paul"
+      ]
+    },
+    {
+      "value": "Sainte-Avoye",
+      "synonyms": [
+        "Sainte-Avoye",
+        "Sainte Avoye"
+      ]
+    },
+    {
+      "value": "Sainte-Marguerite",
+      "synonyms": [
+        "Sainte-Marguerite",
+        "Sainte Marguerite"
+      ]
+    },
+    {
+      "value": "Salpêtrière",
+      "synonyms": [
+        "Salpêtrière"
+      ]
+    },
+    {
+      "value": "Sorbonne",
+      "synonyms": [
+        "Sorbonne"
+      ]
+    },
+    {
+      "value": "Temple",
+      "synonyms": [
+        "Temple"
+      ]
+    },
+    {
+      "value": "Trocadéro",
+      "synonyms": [
+        "Trocadéro",
+        "Trocadero"
+      ]
+    },
+    {
+      "value": "Val-de-Grâce",
+      "synonyms": [
+        "Val-de-Grâce",
+        "Val de Grâce"
+      ]
+    },
+    {
+      "value": "Vaugirard",
+      "synonyms": [
+        "Vaugirard"
+      ]
+    },
+    {
+      "value": "Vivienne",
+      "synonyms": [
+        "Vivienne"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

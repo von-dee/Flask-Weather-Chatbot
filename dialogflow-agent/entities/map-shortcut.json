@@ -1,0 +1,54 @@
+{
+  "id": "5db43d39-08aa-4239-8d81-c1fb3e590c9f",
+  "name": "map-shortcut",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "kindergarten",
+      "synonyms": [
+        "kindergarten"
+      ]
+    },
+    {
+      "value": "school",
+      "synonyms": [
+        "school"
+      ]
+    },
+    {
+      "value": "mom\u0027s home",
+      "synonyms": [
+        "mom\u0027s home"
+      ]
+    },
+    {
+      "value": "vet hospital",
+      "synonyms": [
+        "vet hospital"
+      ]
+    },
+    {
+      "value": "home",
+      "synonyms": [
+        "home",
+        "my place",
+        "my house"
+      ]
+    },
+    {
+      "value": "work",
+      "synonyms": [
+        "work",
+        "office"
+      ]
+    },
+    {
+      "value": "grocery store",
+      "synonyms": [
+        "grocery store"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

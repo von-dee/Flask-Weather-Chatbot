@@ -1,0 +1,567 @@
+{
+  "id": "aba48bdf-69e4-4cbe-bcc8-ad04c41924be",
+  "name": "venue-sport-title",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "24 Hour Fitness",
+      "synonyms": [
+        "24 Hour Fitness"
+      ]
+    },
+    {
+      "value": "24 Hour Fitness Active",
+      "synonyms": [
+        "24 Hour Fitness Active"
+      ]
+    },
+    {
+      "value": "24 Hour Fitness Sport",
+      "synonyms": [
+        "24 Hour Fitness Sport"
+      ]
+    },
+    {
+      "value": "24 Hour Fitness Super Sport",
+      "synonyms": [
+        "24 Hour Fitness Super Sport"
+      ]
+    },
+    {
+      "value": "Active Sports Clubs",
+      "synonyms": [
+        "Active Sports Clubs"
+      ]
+    },
+    {
+      "value": "Advanced Wellness",
+      "synonyms": [
+        "Advanced Wellness"
+      ]
+    },
+    {
+      "value": "Anytime Fitness",
+      "synonyms": [
+        "Anytime Fitness"
+      ]
+    },
+    {
+      "value": "Aquilla Health \u0026 Fitness Club",
+      "synonyms": [
+        "Aquilla Health \u0026 Fitness Club"
+      ]
+    },
+    {
+      "value": "Ascend Body",
+      "synonyms": [
+        "Ascend Body"
+      ]
+    },
+    {
+      "value": "Bakar Fitness \u0026 Recreation Center",
+      "synonyms": [
+        "Bakar Fitness \u0026 Recreation Center"
+      ]
+    },
+    {
+      "value": "Baker Street London Gym Fitness First",
+      "synonyms": [
+        "Baker Street London Gym Fitness First"
+      ]
+    },
+    {
+      "value": "Bare Hills",
+      "synonyms": [
+        "Bare Hills"
+      ]
+    },
+    {
+      "value": "Basecamp Fitness",
+      "synonyms": [
+        "Basecamp Fitness"
+      ]
+    },
+    {
+      "value": "Berkeley Square Gym Fitness First",
+      "synonyms": [
+        "Berkeley Square Gym Fitness First"
+      ]
+    },
+    {
+      "value": "Black Diamond Enterprises Fitness Center",
+      "synonyms": [
+        "Black Diamond Enterprises Fitness Center"
+      ]
+    },
+    {
+      "value": "Body Builders Gym",
+      "synonyms": [
+        "Body Builders Gym"
+      ]
+    },
+    {
+      "value": "Brixton London Gym Fitness First",
+      "synonyms": [
+        "Brixton London Gym Fitness First"
+      ]
+    },
+    {
+      "value": "Broadgate London Gym Fitness First",
+      "synonyms": [
+        "Broadgate London Gym Fitness First"
+      ]
+    },
+    {
+      "value": "Camden London Gym Fitness First",
+      "synonyms": [
+        "Camden London Gym Fitness First"
+      ]
+    },
+    {
+      "value": "City Sports Club",
+      "synonyms": [
+        "City Sports Club"
+      ]
+    },
+    {
+      "value": "Club Baltimore Gym",
+      "synonyms": [
+        "Club Baltimore Gym"
+      ]
+    },
+    {
+      "value": "Dolphin Square Fitness Club",
+      "synonyms": [
+        "Dolphin Square Fitness Club"
+      ]
+    },
+    {
+      "value": "Ealing Squash and Fitness",
+      "synonyms": [
+        "Ealing Squash and Fitness"
+      ]
+    },
+    {
+      "value": "Embarcadero Center",
+      "synonyms": [
+        "Embarcadero Center"
+      ]
+    },
+    {
+      "value": "Embarcadero Ymca",
+      "synonyms": [
+        "Embarcadero Ymca"
+      ]
+    },
+    {
+      "value": "Energie Fitness Club",
+      "synonyms": [
+        "Energie Fitness Club"
+      ]
+    },
+    {
+      "value": "Energie Fitness Club Forest Hill",
+      "synonyms": [
+        "Energie Fitness Club Forest Hill"
+      ]
+    },
+    {
+      "value": "Energize Fitness",
+      "synonyms": [
+        "Energize Fitness"
+      ]
+    },
+    {
+      "value": "Equinox Pine Street",
+      "synonyms": [
+        "Equinox Pine Street"
+      ]
+    },
+    {
+      "value": "Equinox Sports Club San Francisco",
+      "synonyms": [
+        "Equinox Sports Club San Francisco"
+      ]
+    },
+    {
+      "value": "Equinox Union Street",
+      "synonyms": [
+        "Equinox Union Street"
+      ]
+    },
+    {
+      "value": "Equinox West La",
+      "synonyms": [
+        "Equinox West La"
+      ]
+    },
+    {
+      "value": "Equinox Westwood",
+      "synonyms": [
+        "Equinox Westwood"
+      ]
+    },
+    {
+      "value": "Esporta Health \u0026 Fitness Club",
+      "synonyms": [
+        "Esporta Health \u0026 Fitness Club"
+      ]
+    },
+    {
+      "value": "Federal Fitness Center",
+      "synonyms": [
+        "Federal Fitness Center"
+      ]
+    },
+    {
+      "value": "Fitbernalfit",
+      "synonyms": [
+        "Fitbernalfit"
+      ]
+    },
+    {
+      "value": "Fitness Depot",
+      "synonyms": [
+        "Fitness Depot"
+      ]
+    },
+    {
+      "value": "Fitness Sf Castro",
+      "synonyms": [
+        "Fitness Sf Castro"
+      ]
+    },
+    {
+      "value": "Gainsborough Health \u0026 Fitness Club",
+      "synonyms": [
+        "Gainsborough Health \u0026 Fitness Club"
+      ]
+    },
+    {
+      "value": "Gracechurch Street Gym Fitness First",
+      "synonyms": [
+        "Gracechurch Street Gym Fitness First"
+      ]
+    },
+    {
+      "value": "Harrow Gym Fitness First",
+      "synonyms": [
+        "Harrow Gym Fitness First"
+      ]
+    },
+    {
+      "value": "Hollywood Gym",
+      "synonyms": [
+        "Hollywood Gym"
+      ]
+    },
+    {
+      "value": "Horizons Leisure Club",
+      "synonyms": [
+        "Horizons Leisure Club"
+      ]
+    },
+    {
+      "value": "K-one Fitness",
+      "synonyms": [
+        "K-one Fitness"
+      ]
+    },
+    {
+      "value": "Kingsbury Gym Fitness First",
+      "synonyms": [
+        "Kingsbury Gym Fitness First"
+      ]
+    },
+    {
+      "value": "Koret Health and Recreation Center",
+      "synonyms": [
+        "Koret Health and Recreation Center"
+      ]
+    },
+    {
+      "value": "La Fitness",
+      "synonyms": [
+        "La Fitness"
+      ]
+    },
+    {
+      "value": "Ladies Gym and Health Club",
+      "synonyms": [
+        "Ladies Gym and Health Club"
+      ]
+    },
+    {
+      "value": "Lalanne Fitness Crossfit",
+      "synonyms": [
+        "Lalanne Fitness Crossfit"
+      ]
+    },
+    {
+      "value": "Lax by Puregym London Wall",
+      "synonyms": [
+        "Lax by Puregym London Wall"
+      ]
+    },
+    {
+      "value": "Leyton Mills Gym Fitness First",
+      "synonyms": [
+        "Leyton Mills Gym Fitness First"
+      ]
+    },
+    {
+      "value": "Live Fit Gym",
+      "synonyms": [
+        "Live Fit Gym"
+      ]
+    },
+    {
+      "value": "London Bridge Cottons Gym Fitness First",
+      "synonyms": [
+        "London Bridge Cottons Gym Fitness First"
+      ]
+    },
+    {
+      "value": "London Monument Gym Fitness First",
+      "synonyms": [
+        "London Monument Gym Fitness First"
+      ]
+    },
+    {
+      "value": "Los Angeles Athletic Club",
+      "synonyms": [
+        "Los Angeles Athletic Club"
+      ]
+    },
+    {
+      "value": "Meridian Fitness Greenwich",
+      "synonyms": [
+        "Meridian Fitness Greenwich"
+      ]
+    },
+    {
+      "value": "Mission Cliffs",
+      "synonyms": [
+        "Mission Cliffs"
+      ]
+    },
+    {
+      "value": "Mission Recreation Center",
+      "synonyms": [
+        "Mission Recreation Center"
+      ]
+    },
+    {
+      "value": "Nuffield Health City Fitness",
+      "synonyms": [
+        "Nuffield Health City Fitness"
+      ]
+    },
+    {
+      "value": "Nuffield Health Norbury Fitness",
+      "synonyms": [
+        "Nuffield Health Norbury Fitness"
+      ]
+    },
+    {
+      "value": "Nuffield Health Paddington Fitness",
+      "synonyms": [
+        "Nuffield Health Paddington Fitness"
+      ]
+    },
+    {
+      "value": "Pacific Heights Health Club",
+      "synonyms": [
+        "Pacific Heights Health Club"
+      ]
+    },
+    {
+      "value": "Phoenix Fitness Centre",
+      "synonyms": [
+        "Phoenix Fitness Centre"
+      ]
+    },
+    {
+      "value": "Planet Fitness",
+      "synonyms": [
+        "Planet Fitness"
+      ]
+    },
+    {
+      "value": "Puregym London Bayswater",
+      "synonyms": [
+        "Puregym London Bayswater"
+      ]
+    },
+    {
+      "value": "Qmotion",
+      "synonyms": [
+        "Qmotion"
+      ]
+    },
+    {
+      "value": "Raise the Bar Fitness",
+      "synonyms": [
+        "Raise the Bar Fitness"
+      ]
+    },
+    {
+      "value": "Raw Fitness London",
+      "synonyms": [
+        "Raw Fitness London"
+      ]
+    },
+    {
+      "value": "Roehampton Sport \u0026 Fitness Centre",
+      "synonyms": [
+        "Roehampton Sport \u0026 Fitness Centre"
+      ]
+    },
+    {
+      "value": "Rowclub",
+      "synonyms": [
+        "Rowclub"
+      ]
+    },
+    {
+      "value": "San Francisco Crossfit",
+      "synonyms": [
+        "San Francisco Crossfit"
+      ]
+    },
+    {
+      "value": "Shepherd\u0027s Bush Gym Fitness First",
+      "synonyms": [
+        "Shepherd\u0027s Bush Gym Fitness First"
+      ]
+    },
+    {
+      "value": "South Kensington London Gym Fitness First",
+      "synonyms": [
+        "South Kensington London Gym Fitness First"
+      ]
+    },
+    {
+      "value": "St Pauls London Gym Fitness First",
+      "synonyms": [
+        "St Pauls London Gym Fitness First"
+      ]
+    },
+    {
+      "value": "Studio City Fitness Gym",
+      "synonyms": [
+        "Studio City Fitness Gym"
+      ]
+    },
+    {
+      "value": "Studiomix",
+      "synonyms": [
+        "Studiomix"
+      ]
+    },
+    {
+      "value": "Sunset Gym",
+      "synonyms": [
+        "Sunset Gym"
+      ]
+    },
+    {
+      "value": "The Bay Club Company",
+      "synonyms": [
+        "The Bay Club Company"
+      ]
+    },
+    {
+      "value": "The Fitness Club Ltd",
+      "synonyms": [
+        "The Fitness Club Ltd"
+      ]
+    },
+    {
+      "value": "The Gym La",
+      "synonyms": [
+        "The Gym La"
+      ]
+    },
+    {
+      "value": "The Printworks Health Club \u0026 Spa",
+      "synonyms": [
+        "The Printworks Health Club \u0026 Spa"
+      ]
+    },
+    {
+      "value": "The Village Fitness Center",
+      "synonyms": [
+        "The Village Fitness Center"
+      ]
+    },
+    {
+      "value": "Third Space",
+      "synonyms": [
+        "Third Space"
+      ]
+    },
+    {
+      "value": "Third Space Marylebone",
+      "synonyms": [
+        "Third Space Marylebone"
+      ]
+    },
+    {
+      "value": "Titan Fitness Centre",
+      "synonyms": [
+        "Titan Fitness Centre"
+      ]
+    },
+    {
+      "value": "Tokei Martial Arts and Fitness Centre",
+      "synonyms": [
+        "Tokei Martial Arts and Fitness Centre"
+      ]
+    },
+    {
+      "value": "Toluca Lake Tennis and Fitness Club",
+      "synonyms": [
+        "Toluca Lake Tennis and Fitness Club"
+      ]
+    },
+    {
+      "value": "Uclu Bloomsbury Fitness",
+      "synonyms": [
+        "Uclu Bloomsbury Fitness"
+      ]
+    },
+    {
+      "value": "Universal Fitness Club",
+      "synonyms": [
+        "Universal Fitness Club"
+      ]
+    },
+    {
+      "value": "Usa Fitness \u0026 Spa",
+      "synonyms": [
+        "Usa Fitness \u0026 Spa"
+      ]
+    },
+    {
+      "value": "Virgin Active West London",
+      "synonyms": [
+        "Virgin Active West London"
+      ]
+    },
+    {
+      "value": "Westway Sports \u0026 Fitness Centre",
+      "synonyms": [
+        "Westway Sports \u0026 Fitness Centre"
+      ]
+    },
+    {
+      "value": "Wimbledon Racquets and Fitness Club",
+      "synonyms": [
+        "Wimbledon Racquets and Fitness Club"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}

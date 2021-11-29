@@ -1,0 +1,162 @@
+{
+  "id": "9c532db9-79d9-4b35-9aeb-f7ef6f48bf86",
+  "name": "venue-shopping-type",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "bookstore",
+      "synonyms": [
+        "bookstore",
+        "book store",
+        "bookstores",
+        "book stores",
+        "comic books"
+      ]
+    },
+    {
+      "value": "candy store",
+      "synonyms": [
+        "candy store",
+        "candy stores",
+        "chocolatiers shops",
+        "chocolatiers shop",
+        "candy shop",
+        "candy shops"
+      ]
+    },
+    {
+      "value": "convenience store",
+      "synonyms": [
+        "convenience store",
+        "convenience stores"
+      ]
+    },
+    {
+      "value": "cosmetics store",
+      "synonyms": [
+        "cosmetics store",
+        "cosmetics shop",
+        "cosmetics stores",
+        "cosmetics shops",
+        "cosmetics beauty supply"
+      ]
+    },
+    {
+      "value": "department store",
+      "synonyms": [
+        "department store",
+        "department stores"
+      ]
+    },
+    {
+      "value": "discount store",
+      "synonyms": [
+        "discount store",
+        "discount stores"
+      ]
+    },
+    {
+      "value": "electronics",
+      "synonyms": [
+        "electronics"
+      ]
+    },
+    {
+      "value": "furniture store",
+      "synonyms": [
+        "furniture store",
+        "furniture stores"
+      ]
+    },
+    {
+      "value": "gift shop",
+      "synonyms": [
+        "gift shop",
+        "gift shops"
+      ]
+    },
+    {
+      "value": "grocery store",
+      "synonyms": [
+        "grocery store",
+        "grocery shop",
+        "grocery",
+        "grocery stores",
+        "grocery shops"
+      ]
+    },
+    {
+      "value": "mall",
+      "synonyms": [
+        "mall",
+        "malls"
+      ]
+    },
+    {
+      "value": "market",
+      "synonyms": [
+        "market",
+        "markets"
+      ]
+    },
+    {
+      "value": "mattress discounters",
+      "synonyms": [
+        "mattress discounters"
+      ]
+    },
+    {
+      "value": "pet shop",
+      "synonyms": [
+        "pet shop",
+        "pet shops"
+      ]
+    },
+    {
+      "value": "shop",
+      "synonyms": [
+        "shop",
+        "shops"
+      ]
+    },
+    {
+      "value": "shopping center",
+      "synonyms": [
+        "shopping center",
+        "shopping centers",
+        "shopping store",
+        "shopping stores"
+      ]
+    },
+    {
+      "value": "store",
+      "synonyms": [
+        "store",
+        "stores"
+      ]
+    },
+    {
+      "value": "supermarket",
+      "synonyms": [
+        "supermarket",
+        "supermarkets"
+      ]
+    },
+    {
+      "value": "tobacco shop",
+      "synonyms": [
+        "tobacco shop",
+        "tobacco shops"
+      ]
+    },
+    {
+      "value": "toy store",
+      "synonyms": [
+        "toy store",
+        "toy stores"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

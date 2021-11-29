@@ -1,0 +1,1641 @@
+{
+  "id": "16fa1752-c42b-4670-9f89-83c6d6e5e1ee",
+  "name": "adm-division-fr",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Île-de-France",
+      "synonyms": [
+        "Île-de-France"
+      ]
+    },
+    {
+      "value": "Provence-Alpes-Côte d\u0027Azur",
+      "synonyms": [
+        "Provence-Alpes-Côte d\u0027Azur"
+      ]
+    },
+    {
+      "value": "Brittany",
+      "synonyms": [
+        "Brittany"
+      ]
+    },
+    {
+      "value": "Bourgogne-Franche-Comté",
+      "synonyms": [
+        "Bourgogne-Franche-Comté"
+      ]
+    },
+    {
+      "value": "Nord",
+      "synonyms": [
+        "Nord"
+      ]
+    },
+    {
+      "value": "Centre-Val de Loire",
+      "synonyms": [
+        "Centre-Val de Loire"
+      ]
+    },
+    {
+      "value": "Paris",
+      "synonyms": [
+        "Paris"
+      ]
+    },
+    {
+      "value": "Bouches-du-Rhône",
+      "synonyms": [
+        "Bouches-du-Rhône"
+      ]
+    },
+    {
+      "value": "Hauts-de-Seine",
+      "synonyms": [
+        "Hauts-de-Seine"
+      ]
+    },
+    {
+      "value": "Seine-Saint-Denis",
+      "synonyms": [
+        "Seine-Saint-Denis"
+      ]
+    },
+    {
+      "value": "Gironde",
+      "synonyms": [
+        "Gironde"
+      ]
+    },
+    {
+      "value": "Pas-de-Calais",
+      "synonyms": [
+        "Pas-de-Calais"
+      ]
+    },
+    {
+      "value": "Yvelines",
+      "synonyms": [
+        "Yvelines"
+      ]
+    },
+    {
+      "value": "Seine-et-Marne",
+      "synonyms": [
+        "Seine-et-Marne"
+      ]
+    },
+    {
+      "value": "Val-de-Marne",
+      "synonyms": [
+        "Val-de-Marne"
+      ]
+    },
+    {
+      "value": "Loire-Atlantique",
+      "synonyms": [
+        "Loire-Atlantique"
+      ]
+    },
+    {
+      "value": "Metropolis of Lyon",
+      "synonyms": [
+        "Metropolis of Lyon"
+      ]
+    },
+    {
+      "value": "Seine-Maritime",
+      "synonyms": [
+        "Seine-Maritime"
+      ]
+    },
+    {
+      "value": "Essonne",
+      "synonyms": [
+        "Essonne"
+      ]
+    },
+    {
+      "value": "Val-d\u0027Oise",
+      "synonyms": [
+        "Val-d\u0027Oise"
+      ]
+    },
+    {
+      "value": "Bas-Rhin",
+      "synonyms": [
+        "Bas-Rhin"
+      ]
+    },
+    {
+      "value": "Alpes-Maritimes",
+      "synonyms": [
+        "Alpes-Maritimes"
+      ]
+    },
+    {
+      "value": "Hérault",
+      "synonyms": [
+        "Hérault"
+      ]
+    },
+    {
+      "value": "Moselle",
+      "synonyms": [
+        "Moselle"
+      ]
+    },
+    {
+      "value": "Var",
+      "synonyms": [
+        "Var"
+      ]
+    },
+    {
+      "value": "Ille-et-Vilaine",
+      "synonyms": [
+        "Ille-et-Vilaine"
+      ]
+    },
+    {
+      "value": "Finistère",
+      "synonyms": [
+        "Finistère"
+      ]
+    },
+    {
+      "value": "Oise",
+      "synonyms": [
+        "Oise"
+      ]
+    },
+    {
+      "value": "Maine-et-Loire",
+      "synonyms": [
+        "Maine-et-Loire"
+      ]
+    },
+    {
+      "value": "Haute-Savoie",
+      "synonyms": [
+        "Haute-Savoie"
+      ]
+    },
+    {
+      "value": "Loire",
+      "synonyms": [
+        "Loire"
+      ]
+    },
+    {
+      "value": "Haut-Rhin",
+      "synonyms": [
+        "Haut-Rhin"
+      ]
+    },
+    {
+      "value": "Meurthe-et-Moselle",
+      "synonyms": [
+        "Meurthe-et-Moselle"
+      ]
+    },
+    {
+      "value": "Morbihan",
+      "synonyms": [
+        "Morbihan"
+      ]
+    },
+    {
+      "value": "Gard",
+      "synonyms": [
+        "Gard"
+      ]
+    },
+    {
+      "value": "Calvados",
+      "synonyms": [
+        "Calvados"
+      ]
+    },
+    {
+      "value": "Pyrénées-Atlantiques",
+      "synonyms": [
+        "Pyrénées-Atlantiques"
+      ]
+    },
+    {
+      "value": "Vendée",
+      "synonyms": [
+        "Vendée"
+      ]
+    },
+    {
+      "value": "Puy-de-Dôme",
+      "synonyms": [
+        "Puy-de-Dôme"
+      ]
+    },
+    {
+      "value": "Charente-Maritime",
+      "synonyms": [
+        "Charente-Maritime"
+      ]
+    },
+    {
+      "value": "Ain",
+      "synonyms": [
+        "Ain"
+      ]
+    },
+    {
+      "value": "Indre-et-Loire",
+      "synonyms": [
+        "Indre-et-Loire"
+      ]
+    },
+    {
+      "value": "Côtes-d\u0027Armor",
+      "synonyms": [
+        "Côtes-d\u0027Armor"
+      ]
+    },
+    {
+      "value": "Eure",
+      "synonyms": [
+        "Eure"
+      ]
+    },
+    {
+      "value": "Somme",
+      "synonyms": [
+        "Somme"
+      ]
+    },
+    {
+      "value": "Sarthe",
+      "synonyms": [
+        "Sarthe"
+      ]
+    },
+    {
+      "value": "Marne",
+      "synonyms": [
+        "Marne"
+      ]
+    },
+    {
+      "value": "Saône-et-Loire",
+      "synonyms": [
+        "Saône-et-Loire"
+      ]
+    },
+    {
+      "value": "Vaucluse",
+      "synonyms": [
+        "Vaucluse"
+      ]
+    },
+    {
+      "value": "Aisne",
+      "synonyms": [
+        "Aisne"
+      ]
+    },
+    {
+      "value": "Doubs",
+      "synonyms": [
+        "Doubs"
+      ]
+    },
+    {
+      "value": "Côte-d\u0027Or",
+      "synonyms": [
+        "Côte-d\u0027Or"
+      ]
+    },
+    {
+      "value": "Drôme",
+      "synonyms": [
+        "Drôme"
+      ]
+    },
+    {
+      "value": "Lyon",
+      "synonyms": [
+        "Lyon"
+      ]
+    },
+    {
+      "value": "Manche",
+      "synonyms": [
+        "Manche"
+      ]
+    },
+    {
+      "value": "Rhône",
+      "synonyms": [
+        "Rhône"
+      ]
+    },
+    {
+      "value": "Toulouse",
+      "synonyms": [
+        "Toulouse"
+      ]
+    },
+    {
+      "value": "Pyrénées-Orientales",
+      "synonyms": [
+        "Pyrénées-Orientales"
+      ]
+    },
+    {
+      "value": "Eure-et-Loir",
+      "synonyms": [
+        "Eure-et-Loir"
+      ]
+    },
+    {
+      "value": "Vienne",
+      "synonyms": [
+        "Vienne"
+      ]
+    },
+    {
+      "value": "Savoie",
+      "synonyms": [
+        "Savoie"
+      ]
+    },
+    {
+      "value": "Dordogne",
+      "synonyms": [
+        "Dordogne"
+      ]
+    },
+    {
+      "value": "Landes",
+      "synonyms": [
+        "Landes"
+      ]
+    },
+    {
+      "value": "Vosges",
+      "synonyms": [
+        "Vosges"
+      ]
+    },
+    {
+      "value": "Tarn",
+      "synonyms": [
+        "Tarn"
+      ]
+    },
+    {
+      "value": "Haute-Vienne",
+      "synonyms": [
+        "Haute-Vienne"
+      ]
+    },
+    {
+      "value": "Deux-Sèvres",
+      "synonyms": [
+        "Deux-Sèvres"
+      ]
+    },
+    {
+      "value": "Aude",
+      "synonyms": [
+        "Aude"
+      ]
+    },
+    {
+      "value": "Charente",
+      "synonyms": [
+        "Charente"
+      ]
+    },
+    {
+      "value": "Allier",
+      "synonyms": [
+        "Allier"
+      ]
+    },
+    {
+      "value": "Nice",
+      "synonyms": [
+        "Nice"
+      ]
+    },
+    {
+      "value": "Yonne",
+      "synonyms": [
+        "Yonne"
+      ]
+    },
+    {
+      "value": "Loir-et-Cher",
+      "synonyms": [
+        "Loir-et-Cher"
+      ]
+    },
+    {
+      "value": "Lot-et-Garonne",
+      "synonyms": [
+        "Lot-et-Garonne"
+      ]
+    },
+    {
+      "value": "Cher",
+      "synonyms": [
+        "Cher"
+      ]
+    },
+    {
+      "value": "Mayenne",
+      "synonyms": [
+        "Mayenne"
+      ]
+    },
+    {
+      "value": "Aube",
+      "synonyms": [
+        "Aube"
+      ]
+    },
+    {
+      "value": "Nantes",
+      "synonyms": [
+        "Nantes"
+      ]
+    },
+    {
+      "value": "Orne",
+      "synonyms": [
+        "Orne"
+      ]
+    },
+    {
+      "value": "Ardennes",
+      "synonyms": [
+        "Ardennes"
+      ]
+    },
+    {
+      "value": "French Polynesia",
+      "synonyms": [
+        "French Polynesia"
+      ]
+    },
+    {
+      "value": "Aveyron",
+      "synonyms": [
+        "Aveyron"
+      ]
+    },
+    {
+      "value": "Montpellier",
+      "synonyms": [
+        "Montpellier"
+      ]
+    },
+    {
+      "value": "Jura",
+      "synonyms": [
+        "Jura"
+      ]
+    },
+    {
+      "value": "Bordeaux",
+      "synonyms": [
+        "Bordeaux"
+      ]
+    },
+    {
+      "value": "Tarn-et-Garonne",
+      "synonyms": [
+        "Tarn-et-Garonne"
+      ]
+    },
+    {
+      "value": "Haute-Saône",
+      "synonyms": [
+        "Haute-Saône"
+      ]
+    },
+    {
+      "value": "Hautes-Pyrénées",
+      "synonyms": [
+        "Hautes-Pyrénées"
+      ]
+    },
+    {
+      "value": "Lille",
+      "synonyms": [
+        "Lille"
+      ]
+    },
+    {
+      "value": "Haute-Loire",
+      "synonyms": [
+        "Haute-Loire"
+      ]
+    },
+    {
+      "value": "Nièvre",
+      "synonyms": [
+        "Nièvre"
+      ]
+    },
+    {
+      "value": "Rennes",
+      "synonyms": [
+        "Rennes"
+      ]
+    },
+    {
+      "value": "Meuse",
+      "synonyms": [
+        "Meuse"
+      ]
+    },
+    {
+      "value": "Gers",
+      "synonyms": [
+        "Gers"
+      ]
+    },
+    {
+      "value": "Haute-Marne",
+      "synonyms": [
+        "Haute-Marne"
+      ]
+    },
+    {
+      "value": "Lot",
+      "synonyms": [
+        "Lot"
+      ]
+    },
+    {
+      "value": "Haute-Corse",
+      "synonyms": [
+        "Haute-Corse"
+      ]
+    },
+    {
+      "value": "Alpes-de-Haute-Provence",
+      "synonyms": [
+        "Alpes-de-Haute-Provence"
+      ]
+    },
+    {
+      "value": "Dijon",
+      "synonyms": [
+        "Dijon"
+      ]
+    },
+    {
+      "value": "Angers",
+      "synonyms": [
+        "Angers"
+      ]
+    },
+    {
+      "value": "Cantal",
+      "synonyms": [
+        "Cantal"
+      ]
+    },
+    {
+      "value": "Corse-du-Sud",
+      "synonyms": [
+        "Corse-du-Sud"
+      ]
+    },
+    {
+      "value": "Le Mans",
+      "synonyms": [
+        "Le Mans"
+      ]
+    },
+    {
+      "value": "Territoire de Belfort",
+      "synonyms": [
+        "Territoire de Belfort"
+      ]
+    },
+    {
+      "value": "Saint-Denis",
+      "synonyms": [
+        "Saint-Denis"
+      ]
+    },
+    {
+      "value": "Aix-en-Provence",
+      "synonyms": [
+        "Aix-en-Provence"
+      ]
+    },
+    {
+      "value": "Brest",
+      "synonyms": [
+        "Brest"
+      ]
+    },
+    {
+      "value": "Hautes-Alpes",
+      "synonyms": [
+        "Hautes-Alpes"
+      ]
+    },
+    {
+      "value": "Creuse",
+      "synonyms": [
+        "Creuse"
+      ]
+    },
+    {
+      "value": "Mulhouse",
+      "synonyms": [
+        "Mulhouse"
+      ]
+    },
+    {
+      "value": "Fort-de-France",
+      "synonyms": [
+        "Fort-de-France"
+      ]
+    },
+    {
+      "value": "Pau",
+      "synonyms": [
+        "Pau"
+      ]
+    },
+    {
+      "value": "La Rochelle",
+      "synonyms": [
+        "La Rochelle"
+      ]
+    },
+    {
+      "value": "Calais",
+      "synonyms": [
+        "Calais"
+      ]
+    },
+    {
+      "value": "Bourges",
+      "synonyms": [
+        "Bourges"
+      ]
+    },
+    {
+      "value": "Ajaccio",
+      "synonyms": [
+        "Ajaccio"
+      ]
+    },
+    {
+      "value": "Sens",
+      "synonyms": [
+        "Sens"
+      ]
+    },
+    {
+      "value": "Saint-Quentin",
+      "synonyms": [
+        "Saint-Quentin"
+      ]
+    },
+    {
+      "value": "Hyères",
+      "synonyms": [
+        "Hyères"
+      ]
+    },
+    {
+      "value": "Beauvais",
+      "synonyms": [
+        "Beauvais"
+      ]
+    },
+    {
+      "value": "Arles",
+      "synonyms": [
+        "Arles"
+      ]
+    },
+    {
+      "value": "Blois",
+      "synonyms": [
+        "Blois"
+      ]
+    },
+    {
+      "value": "Saint-Brieuc",
+      "synonyms": [
+        "Saint-Brieuc"
+      ]
+    },
+    {
+      "value": "Bastia",
+      "synonyms": [
+        "Bastia"
+      ]
+    },
+    {
+      "value": "Boulogne-sur-Mer",
+      "synonyms": [
+        "Boulogne-sur-Mer"
+      ]
+    },
+    {
+      "value": "Douai",
+      "synonyms": [
+        "Douai"
+      ]
+    },
+    {
+      "value": "Cherbourg-Octeville",
+      "synonyms": [
+        "Cherbourg-Octeville"
+      ]
+    },
+    {
+      "value": "Haguenau",
+      "synonyms": [
+        "Haguenau"
+      ]
+    },
+    {
+      "value": "La Ciotat",
+      "synonyms": [
+        "La Ciotat"
+      ]
+    },
+    {
+      "value": "Mâcon",
+      "synonyms": [
+        "Mâcon"
+      ]
+    },
+    {
+      "value": "Rillieux-la-Pape",
+      "synonyms": [
+        "Rillieux-la-Pape"
+      ]
+    },
+    {
+      "value": "Saint-Cloud",
+      "synonyms": [
+        "Saint-Cloud"
+      ]
+    },
+    {
+      "value": "Orange",
+      "synonyms": [
+        "Orange"
+      ]
+    },
+    {
+      "value": "Soissons",
+      "synonyms": [
+        "Soissons"
+      ]
+    },
+    {
+      "value": "Décines-Charpieu",
+      "synonyms": [
+        "Décines-Charpieu"
+      ]
+    },
+    {
+      "value": "Vaugirard",
+      "synonyms": [
+        "Vaugirard"
+      ]
+    },
+    {
+      "value": "Cavaillon",
+      "synonyms": [
+        "Cavaillon"
+      ]
+    },
+    {
+      "value": "Biarritz",
+      "synonyms": [
+        "Biarritz"
+      ]
+    },
+    {
+      "value": "Champs-sur-Marne",
+      "synonyms": [
+        "Champs-sur-Marne"
+      ]
+    },
+    {
+      "value": "Abbeville",
+      "synonyms": [
+        "Abbeville"
+      ]
+    },
+    {
+      "value": "Dole",
+      "synonyms": [
+        "Dole"
+      ]
+    },
+    {
+      "value": "Frontignan",
+      "synonyms": [
+        "Frontignan"
+      ]
+    },
+    {
+      "value": "Beaune",
+      "synonyms": [
+        "Beaune"
+      ]
+    },
+    {
+      "value": "Sarreguemines",
+      "synonyms": [
+        "Sarreguemines"
+      ]
+    },
+    {
+      "value": "Saint-Louis",
+      "synonyms": [
+        "Saint-Louis"
+      ]
+    },
+    {
+      "value": "Mont-Saint-Aignan",
+      "synonyms": [
+        "Mont-Saint-Aignan"
+      ]
+    },
+    {
+      "value": "Saint-Lô",
+      "synonyms": [
+        "Saint-Lô"
+      ]
+    },
+    {
+      "value": "Maurepas",
+      "synonyms": [
+        "Maurepas"
+      ]
+    },
+    {
+      "value": "Bagnols-sur-Cèze",
+      "synonyms": [
+        "Bagnols-sur-Cèze"
+      ]
+    },
+    {
+      "value": "Lingolsheim",
+      "synonyms": [
+        "Lingolsheim"
+      ]
+    },
+    {
+      "value": "Bischheim",
+      "synonyms": [
+        "Bischheim"
+      ]
+    },
+    {
+      "value": "Éragny",
+      "synonyms": [
+        "Éragny"
+      ]
+    },
+    {
+      "value": "Brignoles",
+      "synonyms": [
+        "Brignoles"
+      ]
+    },
+    {
+      "value": "Wittenheim",
+      "synonyms": [
+        "Wittenheim"
+      ]
+    },
+    {
+      "value": "Ambérieu-en-Bugey",
+      "synonyms": [
+        "Ambérieu-en-Bugey"
+      ]
+    },
+    {
+      "value": "Chenôve",
+      "synonyms": [
+        "Chenôve"
+      ]
+    },
+    {
+      "value": "Freyming-Merlebach",
+      "synonyms": [
+        "Freyming-Merlebach"
+      ]
+    },
+    {
+      "value": "Granville",
+      "synonyms": [
+        "Granville"
+      ]
+    },
+    {
+      "value": "Kingersheim",
+      "synonyms": [
+        "Kingersheim"
+      ]
+    },
+    {
+      "value": "Bischwiller",
+      "synonyms": [
+        "Bischwiller"
+      ]
+    },
+    {
+      "value": "Riedisheim",
+      "synonyms": [
+        "Riedisheim"
+      ]
+    },
+    {
+      "value": "Ostwald",
+      "synonyms": [
+        "Ostwald"
+      ]
+    },
+    {
+      "value": "Mende",
+      "synonyms": [
+        "Mende"
+      ]
+    },
+    {
+      "value": "Cernay",
+      "synonyms": [
+        "Cernay"
+      ]
+    },
+    {
+      "value": "Porto-Vecchio",
+      "synonyms": [
+        "Porto-Vecchio"
+      ]
+    },
+    {
+      "value": "Guebwiller",
+      "synonyms": [
+        "Guebwiller"
+      ]
+    },
+    {
+      "value": "Allonnes, Sarthe",
+      "synonyms": [
+        "Allonnes, Sarthe"
+      ]
+    },
+    {
+      "value": "Hoenheim",
+      "synonyms": [
+        "Hoenheim"
+      ]
+    },
+    {
+      "value": "Dinan",
+      "synonyms": [
+        "Dinan"
+      ]
+    },
+    {
+      "value": "Wittelsheim",
+      "synonyms": [
+        "Wittelsheim"
+      ]
+    },
+    {
+      "value": "Tarare",
+      "synonyms": [
+        "Tarare"
+      ]
+    },
+    {
+      "value": "Chevigny-Saint-Sauveur",
+      "synonyms": [
+        "Chevigny-Saint-Sauveur"
+      ]
+    },
+    {
+      "value": "Mouans-Sartoux",
+      "synonyms": [
+        "Mouans-Sartoux"
+      ]
+    },
+    {
+      "value": "Villers-Cotterêts",
+      "synonyms": [
+        "Villers-Cotterêts"
+      ]
+    },
+    {
+      "value": "Brumath",
+      "synonyms": [
+        "Brumath"
+      ]
+    },
+    {
+      "value": "Louvres",
+      "synonyms": [
+        "Louvres"
+      ]
+    },
+    {
+      "value": "Dombasle-sur-Meurthe",
+      "synonyms": [
+        "Dombasle-sur-Meurthe"
+      ]
+    },
+    {
+      "value": "Pfastatt",
+      "synonyms": [
+        "Pfastatt"
+      ]
+    },
+    {
+      "value": "Molsheim",
+      "synonyms": [
+        "Molsheim"
+      ]
+    },
+    {
+      "value": "Fontaine-lès-Dijon",
+      "synonyms": [
+        "Fontaine-lès-Dijon"
+      ]
+    },
+    {
+      "value": "Saint-Jean-de-Maurienne",
+      "synonyms": [
+        "Saint-Jean-de-Maurienne"
+      ]
+    },
+    {
+      "value": "Malzéville",
+      "synonyms": [
+        "Malzéville"
+      ]
+    },
+    {
+      "value": "Vern-sur-Seiche",
+      "synonyms": [
+        "Vern-sur-Seiche"
+      ]
+    },
+    {
+      "value": "Thann",
+      "synonyms": [
+        "Thann"
+      ]
+    },
+    {
+      "value": "Champagnole",
+      "synonyms": [
+        "Champagnole"
+      ]
+    },
+    {
+      "value": "Saint-Maixent-l\u0027École",
+      "synonyms": [
+        "Saint-Maixent-l\u0027École"
+      ]
+    },
+    {
+      "value": "Auxonne",
+      "synonyms": [
+        "Auxonne"
+      ]
+    },
+    {
+      "value": "Bagnères-de-Bigorre",
+      "synonyms": [
+        "Bagnères-de-Bigorre"
+      ]
+    },
+    {
+      "value": "Wintzenheim",
+      "synonyms": [
+        "Wintzenheim"
+      ]
+    },
+    {
+      "value": "Ensisheim",
+      "synonyms": [
+        "Ensisheim"
+      ]
+    },
+    {
+      "value": "Corte",
+      "synonyms": [
+        "Corte"
+      ]
+    },
+    {
+      "value": "Soultz-Haut-Rhin",
+      "synonyms": [
+        "Soultz-Haut-Rhin"
+      ]
+    },
+    {
+      "value": "Barr",
+      "synonyms": [
+        "Barr"
+      ]
+    },
+    {
+      "value": "Luxeuil-les-Bains",
+      "synonyms": [
+        "Luxeuil-les-Bains"
+      ]
+    },
+    {
+      "value": "Huningue",
+      "synonyms": [
+        "Huningue"
+      ]
+    },
+    {
+      "value": "Auvers-sur-Oise",
+      "synonyms": [
+        "Auvers-sur-Oise"
+      ]
+    },
+    {
+      "value": "Eckbolsheim",
+      "synonyms": [
+        "Eckbolsheim"
+      ]
+    },
+    {
+      "value": "Saint-Mandrier-sur-Mer",
+      "synonyms": [
+        "Saint-Mandrier-sur-Mer"
+      ]
+    },
+    {
+      "value": "Neufchâteau",
+      "synonyms": [
+        "Neufchâteau"
+      ]
+    },
+    {
+      "value": "Lutterbach",
+      "synonyms": [
+        "Lutterbach"
+      ]
+    },
+    {
+      "value": "Ploudalmézeau",
+      "synonyms": [
+        "Ploudalmézeau"
+      ]
+    },
+    {
+      "value": "Saint Pierre and Miquelon",
+      "synonyms": [
+        "Saint Pierre and Miquelon"
+      ]
+    },
+    {
+      "value": "Longueau",
+      "synonyms": [
+        "Longueau"
+      ]
+    },
+    {
+      "value": "Altkirch",
+      "synonyms": [
+        "Altkirch"
+      ]
+    },
+    {
+      "value": "Saint-Gervais-les-Bains",
+      "synonyms": [
+        "Saint-Gervais-les-Bains"
+      ]
+    },
+    {
+      "value": "Benfeld",
+      "synonyms": [
+        "Benfeld"
+      ]
+    },
+    {
+      "value": "Wasselonne",
+      "synonyms": [
+        "Wasselonne"
+      ]
+    },
+    {
+      "value": "Nuits-Saint-Georges",
+      "synonyms": [
+        "Nuits-Saint-Georges"
+      ]
+    },
+    {
+      "value": "Longuyon",
+      "synonyms": [
+        "Longuyon"
+      ]
+    },
+    {
+      "value": "Genlis",
+      "synonyms": [
+        "Genlis"
+      ]
+    },
+    {
+      "value": "Châtillon-sur-Seine",
+      "synonyms": [
+        "Châtillon-sur-Seine"
+      ]
+    },
+    {
+      "value": "Reichshoffen",
+      "synonyms": [
+        "Reichshoffen"
+      ]
+    },
+    {
+      "value": "Montbard",
+      "synonyms": [
+        "Montbard"
+      ]
+    },
+    {
+      "value": "Horbourg-Wihr",
+      "synonyms": [
+        "Horbourg-Wihr"
+      ]
+    },
+    {
+      "value": "Sainte-Marie-aux-Mines",
+      "synonyms": [
+        "Sainte-Marie-aux-Mines"
+      ]
+    },
+    {
+      "value": "Guise",
+      "synonyms": [
+        "Guise"
+      ]
+    },
+    {
+      "value": "Ablon-sur-Seine",
+      "synonyms": [
+        "Ablon-sur-Seine"
+      ]
+    },
+    {
+      "value": "Beaucouzé",
+      "synonyms": [
+        "Beaucouzé"
+      ]
+    },
+    {
+      "value": "Mundolsheim",
+      "synonyms": [
+        "Mundolsheim"
+      ]
+    },
+    {
+      "value": "Ribeauvillé",
+      "synonyms": [
+        "Ribeauvillé"
+      ]
+    },
+    {
+      "value": "Blaye",
+      "synonyms": [
+        "Blaye"
+      ]
+    },
+    {
+      "value": "Munster",
+      "synonyms": [
+        "Munster"
+      ]
+    },
+    {
+      "value": "Le Touquet-Paris-Plage",
+      "synonyms": [
+        "Le Touquet-Paris-Plage"
+      ]
+    },
+    {
+      "value": "Paron",
+      "synonyms": [
+        "Paron"
+      ]
+    },
+    {
+      "value": "Friville-Escarbotin",
+      "synonyms": [
+        "Friville-Escarbotin"
+      ]
+    },
+    {
+      "value": "Jargeau",
+      "synonyms": [
+        "Jargeau"
+      ]
+    },
+    {
+      "value": "Camon",
+      "synonyms": [
+        "Camon"
+      ]
+    },
+    {
+      "value": "Is-sur-Tille",
+      "synonyms": [
+        "Is-sur-Tille"
+      ]
+    },
+    {
+      "value": "Reichstett",
+      "synonyms": [
+        "Reichstett"
+      ]
+    },
+    {
+      "value": "Semur-en-Auxois",
+      "synonyms": [
+        "Semur-en-Auxois"
+      ]
+    },
+    {
+      "value": "Bergues",
+      "synonyms": [
+        "Bergues"
+      ]
+    },
+    {
+      "value": "Modane",
+      "synonyms": [
+        "Modane"
+      ]
+    },
+    {
+      "value": "Caissargues",
+      "synonyms": [
+        "Caissargues"
+      ]
+    },
+    {
+      "value": "Saint-Cézaire-sur-Siagne",
+      "synonyms": [
+        "Saint-Cézaire-sur-Siagne"
+      ]
+    },
+    {
+      "value": "Fontvieille",
+      "synonyms": [
+        "Fontvieille"
+      ]
+    },
+    {
+      "value": "Crèvecœur-le-Grand",
+      "synonyms": [
+        "Crèvecœur-le-Grand"
+      ]
+    },
+    {
+      "value": "Issenheim",
+      "synonyms": [
+        "Issenheim"
+      ]
+    },
+    {
+      "value": "Puiseux-en-France",
+      "synonyms": [
+        "Puiseux-en-France"
+      ]
+    },
+    {
+      "value": "Mireval",
+      "synonyms": [
+        "Mireval"
+      ]
+    },
+    {
+      "value": "Rostrenen",
+      "synonyms": [
+        "Rostrenen"
+      ]
+    },
+    {
+      "value": "Mayet",
+      "synonyms": [
+        "Mayet"
+      ]
+    },
+    {
+      "value": "Gevrey-Chambertin",
+      "synonyms": [
+        "Gevrey-Chambertin"
+      ]
+    },
+    {
+      "value": "Salses-le-Château",
+      "synonyms": [
+        "Salses-le-Château"
+      ]
+    },
+    {
+      "value": "Boves",
+      "synonyms": [
+        "Boves"
+      ]
+    },
+    {
+      "value": "Batz-sur-Mer",
+      "synonyms": [
+        "Batz-sur-Mer"
+      ]
+    },
+    {
+      "value": "Venarey-les-Laumes",
+      "synonyms": [
+        "Venarey-les-Laumes"
+      ]
+    },
+    {
+      "value": "Saint-Maximin",
+      "synonyms": [
+        "Saint-Maximin"
+      ]
+    },
+    {
+      "value": "Équihen-Plage",
+      "synonyms": [
+        "Équihen-Plage"
+      ]
+    },
+    {
+      "value": "Saint-Valery-sur-Somme",
+      "synonyms": [
+        "Saint-Valery-sur-Somme"
+      ]
+    },
+    {
+      "value": "Crouy",
+      "synonyms": [
+        "Crouy"
+      ]
+    },
+    {
+      "value": "Salins-les-Bains",
+      "synonyms": [
+        "Salins-les-Bains"
+      ]
+    },
+    {
+      "value": "Feuquières-en-Vimeu",
+      "synonyms": [
+        "Feuquières-en-Vimeu"
+      ]
+    },
+    {
+      "value": "Brazey-en-Plaine",
+      "synonyms": [
+        "Brazey-en-Plaine"
+      ]
+    },
+    {
+      "value": "Poix-de-Picardie",
+      "synonyms": [
+        "Poix-de-Picardie"
+      ]
+    },
+    {
+      "value": "Remoulins",
+      "synonyms": [
+        "Remoulins"
+      ]
+    },
+    {
+      "value": "Saint-Amarin",
+      "synonyms": [
+        "Saint-Amarin"
+      ]
+    },
+    {
+      "value": "Urt",
+      "synonyms": [
+        "Urt"
+      ]
+    },
+    {
+      "value": "Cintré",
+      "synonyms": [
+        "Cintré"
+      ]
+    },
+    {
+      "value": "Châteaumeillant",
+      "synonyms": [
+        "Châteaumeillant"
+      ]
+    },
+    {
+      "value": "Florac",
+      "synonyms": [
+        "Florac"
+      ]
+    },
+    {
+      "value": "Verny",
+      "synonyms": [
+        "Verny"
+      ]
+    },
+    {
+      "value": "Salies-du-Salat",
+      "synonyms": [
+        "Salies-du-Salat"
+      ]
+    },
+    {
+      "value": "Saint-Palais",
+      "synonyms": [
+        "Saint-Palais"
+      ]
+    },
+    {
+      "value": "Ladoix-Serrigny",
+      "synonyms": [
+        "Ladoix-Serrigny"
+      ]
+    },
+    {
+      "value": "Couternon",
+      "synonyms": [
+        "Couternon"
+      ]
+    },
+    {
+      "value": "Artenay",
+      "synonyms": [
+        "Artenay"
+      ]
+    },
+    {
+      "value": "Vers-Pont-du-Gard",
+      "synonyms": [
+        "Vers-Pont-du-Gard"
+      ]
+    },
+    {
+      "value": "Cuffies",
+      "synonyms": [
+        "Cuffies"
+      ]
+    },
+    {
+      "value": "Saint-Aubin",
+      "synonyms": [
+        "Saint-Aubin"
+      ]
+    },
+    {
+      "value": "Saint-Germer-de-Fly",
+      "synonyms": [
+        "Saint-Germer-de-Fly"
+      ]
+    },
+    {
+      "value": "Roisel",
+      "synonyms": [
+        "Roisel"
+      ]
+    },
+    {
+      "value": "Langrune-sur-Mer",
+      "synonyms": [
+        "Langrune-sur-Mer"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

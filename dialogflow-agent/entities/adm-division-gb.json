@@ -1,0 +1,477 @@
+{
+  "id": "5ec86655-1def-4057-8b80-24230fe6a84a",
+  "name": "adm-division-gb",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "England",
+      "synonyms": [
+        "England"
+      ]
+    },
+    {
+      "value": "Northern Ireland",
+      "synonyms": [
+        "Northern Ireland"
+      ]
+    },
+    {
+      "value": "Scotland",
+      "synonyms": [
+        "Scotland"
+      ]
+    },
+    {
+      "value": "Wales",
+      "synonyms": [
+        "Wales"
+      ]
+    },
+    {
+      "value": "Greater London",
+      "synonyms": [
+        "Greater London"
+      ]
+    },
+    {
+      "value": "East of England",
+      "synonyms": [
+        "East of England"
+      ]
+    },
+    {
+      "value": "West Midlands",
+      "synonyms": [
+        "West Midlands"
+      ]
+    },
+    {
+      "value": "North East England",
+      "synonyms": [
+        "North East England"
+      ]
+    },
+    {
+      "value": "East Midlands",
+      "synonyms": [
+        "East Midlands"
+      ]
+    },
+    {
+      "value": "North West England",
+      "synonyms": [
+        "North West England"
+      ]
+    },
+    {
+      "value": "South East England",
+      "synonyms": [
+        "South East England"
+      ]
+    },
+    {
+      "value": "Yorkshire and the Humber",
+      "synonyms": [
+        "Yorkshire and the Humber"
+      ]
+    },
+    {
+      "value": "South West England",
+      "synonyms": [
+        "South West England"
+      ]
+    },
+    {
+      "value": "Armagh, Banbridge and Craigavon",
+      "synonyms": [
+        "Armagh, Banbridge and Craigavon"
+      ]
+    },
+    {
+      "value": "Ards and North Down",
+      "synonyms": [
+        "Ards and North Down"
+      ]
+    },
+    {
+      "value": "Lisburn and Castlereagh",
+      "synonyms": [
+        "Lisburn and Castlereagh"
+      ]
+    },
+    {
+      "value": "Mid and East Antrim",
+      "synonyms": [
+        "Mid and East Antrim"
+      ]
+    },
+    {
+      "value": "Derry City and Strabane",
+      "synonyms": [
+        "Derry City and Strabane"
+      ]
+    },
+    {
+      "value": "Belfast city council district",
+      "synonyms": [
+        "Belfast city council district"
+      ]
+    },
+    {
+      "value": "Antrim and Newtownabbey",
+      "synonyms": [
+        "Antrim and Newtownabbey"
+      ]
+    },
+    {
+      "value": "Fermanagh and Omagh",
+      "synonyms": [
+        "Fermanagh and Omagh"
+      ]
+    },
+    {
+      "value": "Mid-Ulster",
+      "synonyms": [
+        "Mid-Ulster"
+      ]
+    },
+    {
+      "value": "Causeway Coast and Glens",
+      "synonyms": [
+        "Causeway Coast and Glens"
+      ]
+    },
+    {
+      "value": "Newry, Mourne and Down",
+      "synonyms": [
+        "Newry, Mourne and Down"
+      ]
+    },
+    {
+      "value": "Outer Hebrides",
+      "synonyms": [
+        "Outer Hebrides"
+      ]
+    },
+    {
+      "value": "Dumfries and Galloway",
+      "synonyms": [
+        "Dumfries and Galloway"
+      ]
+    },
+    {
+      "value": "Angus",
+      "synonyms": [
+        "Angus"
+      ]
+    },
+    {
+      "value": "Argyll and Bute",
+      "synonyms": [
+        "Argyll and Bute"
+      ]
+    },
+    {
+      "value": "Fife",
+      "synonyms": [
+        "Fife"
+      ]
+    },
+    {
+      "value": "Inverclyde",
+      "synonyms": [
+        "Inverclyde"
+      ]
+    },
+    {
+      "value": "Perth and Kinross",
+      "synonyms": [
+        "Perth and Kinross"
+      ]
+    },
+    {
+      "value": "Aberdeen",
+      "synonyms": [
+        "Aberdeen"
+      ]
+    },
+    {
+      "value": "Stirling",
+      "synonyms": [
+        "Stirling"
+      ]
+    },
+    {
+      "value": "Shetland",
+      "synonyms": [
+        "Shetland"
+      ]
+    },
+    {
+      "value": "Highland",
+      "synonyms": [
+        "Highland"
+      ]
+    },
+    {
+      "value": "Falkirk",
+      "synonyms": [
+        "Falkirk"
+      ]
+    },
+    {
+      "value": "Moray",
+      "synonyms": [
+        "Moray"
+      ]
+    },
+    {
+      "value": "Glasgow",
+      "synonyms": [
+        "Glasgow"
+      ]
+    },
+    {
+      "value": "East Lothian",
+      "synonyms": [
+        "East Lothian"
+      ]
+    },
+    {
+      "value": "Aberdeenshire",
+      "synonyms": [
+        "Aberdeenshire"
+      ]
+    },
+    {
+      "value": "West Dunbartonshire",
+      "synonyms": [
+        "West Dunbartonshire"
+      ]
+    },
+    {
+      "value": "Midlothian",
+      "synonyms": [
+        "Midlothian"
+      ]
+    },
+    {
+      "value": "Clackmannanshire",
+      "synonyms": [
+        "Clackmannanshire"
+      ]
+    },
+    {
+      "value": "North Ayrshire",
+      "synonyms": [
+        "North Ayrshire"
+      ]
+    },
+    {
+      "value": "East Dunbartonshire",
+      "synonyms": [
+        "East Dunbartonshire"
+      ]
+    },
+    {
+      "value": "Scottish Borders",
+      "synonyms": [
+        "Scottish Borders"
+      ]
+    },
+    {
+      "value": "South Lanarkshire",
+      "synonyms": [
+        "South Lanarkshire"
+      ]
+    },
+    {
+      "value": "Edinburgh",
+      "synonyms": [
+        "Edinburgh"
+      ]
+    },
+    {
+      "value": "Renfrewshire",
+      "synonyms": [
+        "Renfrewshire"
+      ]
+    },
+    {
+      "value": "West Lothian",
+      "synonyms": [
+        "West Lothian"
+      ]
+    },
+    {
+      "value": "North Lanarkshire",
+      "synonyms": [
+        "North Lanarkshire"
+      ]
+    },
+    {
+      "value": "Orkney Islands",
+      "synonyms": [
+        "Orkney Islands"
+      ]
+    },
+    {
+      "value": "City of Dundee",
+      "synonyms": [
+        "City of Dundee"
+      ]
+    },
+    {
+      "value": "East Renfrewshire",
+      "synonyms": [
+        "East Renfrewshire"
+      ]
+    },
+    {
+      "value": "South Ayrshire",
+      "synonyms": [
+        "South Ayrshire"
+      ]
+    },
+    {
+      "value": "East Ayrshire",
+      "synonyms": [
+        "East Ayrshire"
+      ]
+    },
+    {
+      "value": "Cardiff",
+      "synonyms": [
+        "Cardiff"
+      ]
+    },
+    {
+      "value": "Blaenau Gwent",
+      "synonyms": [
+        "Blaenau Gwent"
+      ]
+    },
+    {
+      "value": "Bridgend County Borough",
+      "synonyms": [
+        "Bridgend County Borough"
+      ]
+    },
+    {
+      "value": "Newport",
+      "synonyms": [
+        "Newport"
+      ]
+    },
+    {
+      "value": "Ceredigion",
+      "synonyms": [
+        "Ceredigion"
+      ]
+    },
+    {
+      "value": "Gwynedd",
+      "synonyms": [
+        "Gwynedd"
+      ]
+    },
+    {
+      "value": "Anglesey",
+      "synonyms": [
+        "Anglesey"
+      ]
+    },
+    {
+      "value": "Denbighshire",
+      "synonyms": [
+        "Denbighshire"
+      ]
+    },
+    {
+      "value": "Flintshire",
+      "synonyms": [
+        "Flintshire"
+      ]
+    },
+    {
+      "value": "Carmarthenshire",
+      "synonyms": [
+        "Carmarthenshire"
+      ]
+    },
+    {
+      "value": "Swansea",
+      "synonyms": [
+        "Swansea"
+      ]
+    },
+    {
+      "value": "Caerphilly County Borough",
+      "synonyms": [
+        "Caerphilly County Borough"
+      ]
+    },
+    {
+      "value": "Conwy County Borough",
+      "synonyms": [
+        "Conwy County Borough"
+      ]
+    },
+    {
+      "value": "Rhondda Cynon Taf",
+      "synonyms": [
+        "Rhondda Cynon Taf"
+      ]
+    },
+    {
+      "value": "Torfaen",
+      "synonyms": [
+        "Torfaen"
+      ]
+    },
+    {
+      "value": "Vale of Glamorgan",
+      "synonyms": [
+        "Vale of Glamorgan"
+      ]
+    },
+    {
+      "value": "Powys",
+      "synonyms": [
+        "Powys"
+      ]
+    },
+    {
+      "value": "Merthyr Tydfil",
+      "synonyms": [
+        "Merthyr Tydfil"
+      ]
+    },
+    {
+      "value": "Pembrokeshire",
+      "synonyms": [
+        "Pembrokeshire"
+      ]
+    },
+    {
+      "value": "Monmouthshire",
+      "synonyms": [
+        "Monmouthshire"
+      ]
+    },
+    {
+      "value": "Wrexham County Borough",
+      "synonyms": [
+        "Wrexham County Borough"
+      ]
+    },
+    {
+      "value": "Neath Port Talbot",
+      "synonyms": [
+        "Neath Port Talbot"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

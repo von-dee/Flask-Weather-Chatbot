@@ -1,0 +1,2000 @@
+{
+  "id": "5ff394d1-353c-4ed0-bed4-46daba443d44",
+  "name": "adm-division-de",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Ahrweiler",
+      "synonyms": [
+        "Ahrweiler"
+      ]
+    },
+    {
+      "value": "Aichach-Friedberg",
+      "synonyms": [
+        "Aichach-Friedberg"
+      ]
+    },
+    {
+      "value": "Alb-Donau",
+      "synonyms": [
+        "Alb-Donau"
+      ]
+    },
+    {
+      "value": "Altötting",
+      "synonyms": [
+        "Altötting"
+      ]
+    },
+    {
+      "value": "Altenburger Land",
+      "synonyms": [
+        "Altenburger Land"
+      ]
+    },
+    {
+      "value": "Altenkirchen",
+      "synonyms": [
+        "Altenkirchen"
+      ]
+    },
+    {
+      "value": "Altmarkkreis Salzwedel",
+      "synonyms": [
+        "Altmarkkreis Salzwedel"
+      ]
+    },
+    {
+      "value": "Alzey-Worms",
+      "synonyms": [
+        "Alzey-Worms"
+      ]
+    },
+    {
+      "value": "Amberg-Sulzbach",
+      "synonyms": [
+        "Amberg-Sulzbach"
+      ]
+    },
+    {
+      "value": "Ammerland",
+      "synonyms": [
+        "Ammerland"
+      ]
+    },
+    {
+      "value": "Anhalt-Bitterfeld",
+      "synonyms": [
+        "Anhalt-Bitterfeld"
+      ]
+    },
+    {
+      "value": "Ansbach",
+      "synonyms": [
+        "Ansbach"
+      ]
+    },
+    {
+      "value": "Aschaffenburg",
+      "synonyms": [
+        "Aschaffenburg"
+      ]
+    },
+    {
+      "value": "Augsburg",
+      "synonyms": [
+        "Augsburg"
+      ]
+    },
+    {
+      "value": "Aurich",
+      "synonyms": [
+        "Aurich"
+      ]
+    },
+    {
+      "value": "Böblingen",
+      "synonyms": [
+        "Böblingen"
+      ]
+    },
+    {
+      "value": "Börde",
+      "synonyms": [
+        "Börde"
+      ]
+    },
+    {
+      "value": "Bad Dürkheim",
+      "synonyms": [
+        "Bad Dürkheim"
+      ]
+    },
+    {
+      "value": "Bad Kissingen",
+      "synonyms": [
+        "Bad Kissingen"
+      ]
+    },
+    {
+      "value": "Bad Kreuznach",
+      "synonyms": [
+        "Bad Kreuznach"
+      ]
+    },
+    {
+      "value": "Bad Tölz-Wolfratshausen",
+      "synonyms": [
+        "Bad Tölz-Wolfratshausen"
+      ]
+    },
+    {
+      "value": "Baden-Württemberg",
+      "synonyms": [
+        "Baden-Württemberg"
+      ]
+    },
+    {
+      "value": "Bamberg",
+      "synonyms": [
+        "Bamberg"
+      ]
+    },
+    {
+      "value": "Barnim",
+      "synonyms": [
+        "Barnim"
+      ]
+    },
+    {
+      "value": "Bautzen",
+      "synonyms": [
+        "Bautzen"
+      ]
+    },
+    {
+      "value": "Bavaria",
+      "synonyms": [
+        "Bavaria"
+      ]
+    },
+    {
+      "value": "Bayreuth",
+      "synonyms": [
+        "Bayreuth"
+      ]
+    },
+    {
+      "value": "Berchtesgadener Land",
+      "synonyms": [
+        "Berchtesgadener Land"
+      ]
+    },
+    {
+      "value": "Bergstraße",
+      "synonyms": [
+        "Bergstraße"
+      ]
+    },
+    {
+      "value": "Bernkastel-Wittlich",
+      "synonyms": [
+        "Bernkastel-Wittlich"
+      ]
+    },
+    {
+      "value": "Biberach",
+      "synonyms": [
+        "Biberach"
+      ]
+    },
+    {
+      "value": "Birkenfeld",
+      "synonyms": [
+        "Birkenfeld"
+      ]
+    },
+    {
+      "value": "Bodensee",
+      "synonyms": [
+        "Bodensee"
+      ]
+    },
+    {
+      "value": "Bodenseekreis",
+      "synonyms": [
+        "Bodenseekreis"
+      ]
+    },
+    {
+      "value": "Borken",
+      "synonyms": [
+        "Borken"
+      ]
+    },
+    {
+      "value": "Brandenburg",
+      "synonyms": [
+        "Brandenburg"
+      ]
+    },
+    {
+      "value": "Breisgau-Hochschwarzwald",
+      "synonyms": [
+        "Breisgau-Hochschwarzwald"
+      ]
+    },
+    {
+      "value": "Burgenlandkreis",
+      "synonyms": [
+        "Burgenlandkreis"
+      ]
+    },
+    {
+      "value": "Calw",
+      "synonyms": [
+        "Calw"
+      ]
+    },
+    {
+      "value": "Celle",
+      "synonyms": [
+        "Celle"
+      ]
+    },
+    {
+      "value": "Cham",
+      "synonyms": [
+        "Cham"
+      ]
+    },
+    {
+      "value": "Cleves",
+      "synonyms": [
+        "Cleves"
+      ]
+    },
+    {
+      "value": "Cloppenburg",
+      "synonyms": [
+        "Cloppenburg"
+      ]
+    },
+    {
+      "value": "Coburg",
+      "synonyms": [
+        "Coburg"
+      ]
+    },
+    {
+      "value": "Cochem-Zell",
+      "synonyms": [
+        "Cochem-Zell"
+      ]
+    },
+    {
+      "value": "Coesfeld",
+      "synonyms": [
+        "Coesfeld"
+      ]
+    },
+    {
+      "value": "County of Bentheim",
+      "synonyms": [
+        "County of Bentheim"
+      ]
+    },
+    {
+      "value": "Cuxhaven",
+      "synonyms": [
+        "Cuxhaven"
+      ]
+    },
+    {
+      "value": "Düren",
+      "synonyms": [
+        "Düren"
+      ]
+    },
+    {
+      "value": "Dachau",
+      "synonyms": [
+        "Dachau"
+      ]
+    },
+    {
+      "value": "Dahme-Spreewald",
+      "synonyms": [
+        "Dahme-Spreewald"
+      ]
+    },
+    {
+      "value": "Darmstadt",
+      "synonyms": [
+        "Darmstadt"
+      ]
+    },
+    {
+      "value": "Darmstadt-Dieburg",
+      "synonyms": [
+        "Darmstadt-Dieburg"
+      ]
+    },
+    {
+      "value": "Deggendorf",
+      "synonyms": [
+        "Deggendorf"
+      ]
+    },
+    {
+      "value": "Diepholz",
+      "synonyms": [
+        "Diepholz"
+      ]
+    },
+    {
+      "value": "Dillingen",
+      "synonyms": [
+        "Dillingen"
+      ]
+    },
+    {
+      "value": "Dingolfing-Landau",
+      "synonyms": [
+        "Dingolfing-Landau"
+      ]
+    },
+    {
+      "value": "Dithmarschen",
+      "synonyms": [
+        "Dithmarschen"
+      ]
+    },
+    {
+      "value": "Donau-Ries",
+      "synonyms": [
+        "Donau-Ries"
+      ]
+    },
+    {
+      "value": "Donnersbergkreis",
+      "synonyms": [
+        "Donnersbergkreis"
+      ]
+    },
+    {
+      "value": "Ebersberg",
+      "synonyms": [
+        "Ebersberg"
+      ]
+    },
+    {
+      "value": "Eichsfeld",
+      "synonyms": [
+        "Eichsfeld"
+      ]
+    },
+    {
+      "value": "Eichstätt",
+      "synonyms": [
+        "Eichstätt"
+      ]
+    },
+    {
+      "value": "Eifelkreis Bitburg-Prüm",
+      "synonyms": [
+        "Eifelkreis Bitburg-Prüm"
+      ]
+    },
+    {
+      "value": "Elbe-Elster",
+      "synonyms": [
+        "Elbe-Elster"
+      ]
+    },
+    {
+      "value": "Emmendingen",
+      "synonyms": [
+        "Emmendingen"
+      ]
+    },
+    {
+      "value": "Emsland",
+      "synonyms": [
+        "Emsland"
+      ]
+    },
+    {
+      "value": "Ennepe-Ruhr-Kreis",
+      "synonyms": [
+        "Ennepe-Ruhr-Kreis"
+      ]
+    },
+    {
+      "value": "Enz",
+      "synonyms": [
+        "Enz"
+      ]
+    },
+    {
+      "value": "Enzkreis",
+      "synonyms": [
+        "Enzkreis"
+      ]
+    },
+    {
+      "value": "Erding",
+      "synonyms": [
+        "Erding"
+      ]
+    },
+    {
+      "value": "Erlangen-Höchstadt",
+      "synonyms": [
+        "Erlangen-Höchstadt"
+      ]
+    },
+    {
+      "value": "Erzgebirgskreis",
+      "synonyms": [
+        "Erzgebirgskreis"
+      ]
+    },
+    {
+      "value": "Esslingen",
+      "synonyms": [
+        "Esslingen"
+      ]
+    },
+    {
+      "value": "Euskirchen",
+      "synonyms": [
+        "Euskirchen"
+      ]
+    },
+    {
+      "value": "Fürstenfeldbruck",
+      "synonyms": [
+        "Fürstenfeldbruck"
+      ]
+    },
+    {
+      "value": "Fürth",
+      "synonyms": [
+        "Fürth"
+      ]
+    },
+    {
+      "value": "Forchheim",
+      "synonyms": [
+        "Forchheim"
+      ]
+    },
+    {
+      "value": "Free Hanseatic City of Bremen",
+      "synonyms": [
+        "Free Hanseatic City of Bremen",
+        "State of Bremen",
+        "Bremen State",
+        "Land Bremen"
+      ]
+    },
+    {
+      "value": "Free Hanseatic City of Hamburg",
+      "synonyms": [
+        "Free Hanseatic City of Hamburg\",,\"State of Hamburg",
+        "Hamburg State",
+        "Land Hamburg"
+      ]
+    },
+    {
+      "value": "Freising",
+      "synonyms": [
+        "Freising"
+      ]
+    },
+    {
+      "value": "Freudenstadt",
+      "synonyms": [
+        "Freudenstadt"
+      ]
+    },
+    {
+      "value": "Freyung-Grafenau",
+      "synonyms": [
+        "Freyung-Grafenau"
+      ]
+    },
+    {
+      "value": "Friesland",
+      "synonyms": [
+        "Friesland"
+      ]
+    },
+    {
+      "value": "Fulda",
+      "synonyms": [
+        "Fulda"
+      ]
+    },
+    {
+      "value": "Göppingen",
+      "synonyms": [
+        "Göppingen"
+      ]
+    },
+    {
+      "value": "Görlitz",
+      "synonyms": [
+        "Görlitz"
+      ]
+    },
+    {
+      "value": "Göttingen",
+      "synonyms": [
+        "Göttingen"
+      ]
+    },
+    {
+      "value": "Günzburg",
+      "synonyms": [
+        "Günzburg"
+      ]
+    },
+    {
+      "value": "Gütersloh",
+      "synonyms": [
+        "Gütersloh"
+      ]
+    },
+    {
+      "value": "Garmisch-Partenkirchen",
+      "synonyms": [
+        "Garmisch-Partenkirchen"
+      ]
+    },
+    {
+      "value": "Germersheim",
+      "synonyms": [
+        "Germersheim"
+      ]
+    },
+    {
+      "value": "Gießen",
+      "synonyms": [
+        "Gießen"
+      ]
+    },
+    {
+      "value": "Gifhorn",
+      "synonyms": [
+        "Gifhorn"
+      ]
+    },
+    {
+      "value": "Goslar",
+      "synonyms": [
+        "Goslar"
+      ]
+    },
+    {
+      "value": "Gotha",
+      "synonyms": [
+        "Gotha"
+      ]
+    },
+    {
+      "value": "Grafschaft Bentheim",
+      "synonyms": [
+        "Grafschaft Bentheim"
+      ]
+    },
+    {
+      "value": "Greiz",
+      "synonyms": [
+        "Greiz"
+      ]
+    },
+    {
+      "value": "Groß-Gerau",
+      "synonyms": [
+        "Groß-Gerau"
+      ]
+    },
+    {
+      "value": "Höxter",
+      "synonyms": [
+        "Höxter"
+      ]
+    },
+    {
+      "value": "Haßberge",
+      "synonyms": [
+        "Haßberge"
+      ]
+    },
+    {
+      "value": "Hamelin-Pyrmont",
+      "synonyms": [
+        "Hamelin-Pyrmont"
+      ]
+    },
+    {
+      "value": "Hanover Region",
+      "synonyms": [
+        "Hanover Region"
+      ]
+    },
+    {
+      "value": "Harburg",
+      "synonyms": [
+        "Harburg"
+      ]
+    },
+    {
+      "value": "Harz",
+      "synonyms": [
+        "Harz"
+      ]
+    },
+    {
+      "value": "Hassberge",
+      "synonyms": [
+        "Hassberge"
+      ]
+    },
+    {
+      "value": "Havelland",
+      "synonyms": [
+        "Havelland"
+      ]
+    },
+    {
+      "value": "Heidekreis",
+      "synonyms": [
+        "Heidekreis"
+      ]
+    },
+    {
+      "value": "Heidenheim",
+      "synonyms": [
+        "Heidenheim"
+      ]
+    },
+    {
+      "value": "Heilbronn",
+      "synonyms": [
+        "Heilbronn"
+      ]
+    },
+    {
+      "value": "Heinsberg",
+      "synonyms": [
+        "Heinsberg"
+      ]
+    },
+    {
+      "value": "Helmstedt",
+      "synonyms": [
+        "Helmstedt"
+      ]
+    },
+    {
+      "value": "Herford",
+      "synonyms": [
+        "Herford"
+      ]
+    },
+    {
+      "value": "Hersfeld-Rotenburg",
+      "synonyms": [
+        "Hersfeld-Rotenburg"
+      ]
+    },
+    {
+      "value": "Herzogtum Lauenburg",
+      "synonyms": [
+        "Herzogtum Lauenburg"
+      ]
+    },
+    {
+      "value": "Hesse",
+      "synonyms": [
+        "Hesse"
+      ]
+    },
+    {
+      "value": "Hildburghausen",
+      "synonyms": [
+        "Hildburghausen"
+      ]
+    },
+    {
+      "value": "Hildesheim",
+      "synonyms": [
+        "Hildesheim"
+      ]
+    },
+    {
+      "value": "Hochsauerland",
+      "synonyms": [
+        "Hochsauerland"
+      ]
+    },
+    {
+      "value": "Hochtaunuskreis",
+      "synonyms": [
+        "Hochtaunuskreis"
+      ]
+    },
+    {
+      "value": "Hof",
+      "synonyms": [
+        "Hof"
+      ]
+    },
+    {
+      "value": "Hohenlohe",
+      "synonyms": [
+        "Hohenlohe"
+      ]
+    },
+    {
+      "value": "Holzminden",
+      "synonyms": [
+        "Holzminden"
+      ]
+    },
+    {
+      "value": "Ilm-Kreis",
+      "synonyms": [
+        "Ilm-Kreis"
+      ]
+    },
+    {
+      "value": "Jerichower Land",
+      "synonyms": [
+        "Jerichower Land"
+      ]
+    },
+    {
+      "value": "Kaiserslautern",
+      "synonyms": [
+        "Kaiserslautern"
+      ]
+    },
+    {
+      "value": "Karlsruhe",
+      "synonyms": [
+        "Karlsruhe"
+      ]
+    },
+    {
+      "value": "Kassel",
+      "synonyms": [
+        "Kassel"
+      ]
+    },
+    {
+      "value": "Kelheim",
+      "synonyms": [
+        "Kelheim"
+      ]
+    },
+    {
+      "value": "Kitzingen",
+      "synonyms": [
+        "Kitzingen"
+      ]
+    },
+    {
+      "value": "Konstanz",
+      "synonyms": [
+        "Konstanz"
+      ]
+    },
+    {
+      "value": "Kronach",
+      "synonyms": [
+        "Kronach"
+      ]
+    },
+    {
+      "value": "Kulmbach",
+      "synonyms": [
+        "Kulmbach"
+      ]
+    },
+    {
+      "value": "Kusel",
+      "synonyms": [
+        "Kusel"
+      ]
+    },
+    {
+      "value": "Kyffhäuserkreis",
+      "synonyms": [
+        "Kyffhäuserkreis"
+      ]
+    },
+    {
+      "value": "Lörrach",
+      "synonyms": [
+        "Lörrach"
+      ]
+    },
+    {
+      "value": "Lüchow-Dannenberg",
+      "synonyms": [
+        "Lüchow-Dannenberg"
+      ]
+    },
+    {
+      "value": "Lüneburg",
+      "synonyms": [
+        "Lüneburg"
+      ]
+    },
+    {
+      "value": "Lahn-Dill",
+      "synonyms": [
+        "Lahn-Dill"
+      ]
+    },
+    {
+      "value": "Lahn-Dill-Kreis",
+      "synonyms": [
+        "Lahn-Dill-Kreis"
+      ]
+    },
+    {
+      "value": "Landkreis Rostock",
+      "synonyms": [
+        "Landkreis Rostock"
+      ]
+    },
+    {
+      "value": "Landsberg",
+      "synonyms": [
+        "Landsberg"
+      ]
+    },
+    {
+      "value": "Landshut",
+      "synonyms": [
+        "Landshut"
+      ]
+    },
+    {
+      "value": "Leer",
+      "synonyms": [
+        "Leer"
+      ]
+    },
+    {
+      "value": "Leipzig",
+      "synonyms": [
+        "Leipzig"
+      ]
+    },
+    {
+      "value": "Lichtenfels",
+      "synonyms": [
+        "Lichtenfels"
+      ]
+    },
+    {
+      "value": "Limburg-Weilburg",
+      "synonyms": [
+        "Limburg-Weilburg"
+      ]
+    },
+    {
+      "value": "Lindau",
+      "synonyms": [
+        "Lindau"
+      ]
+    },
+    {
+      "value": "Lippe",
+      "synonyms": [
+        "Lippe"
+      ]
+    },
+    {
+      "value": "Lower Bavaria",
+      "synonyms": [
+        "Lower Bavaria"
+      ]
+    },
+    {
+      "value": "Lower Franconia",
+      "synonyms": [
+        "Lower Franconia"
+      ]
+    },
+    {
+      "value": "Lower Saxony",
+      "synonyms": [
+        "Lower Saxony"
+      ]
+    },
+    {
+      "value": "Ludwigsburg",
+      "synonyms": [
+        "Ludwigsburg"
+      ]
+    },
+    {
+      "value": "Ludwigslust-Parchim",
+      "synonyms": [
+        "Ludwigslust-Parchim"
+      ]
+    },
+    {
+      "value": "Märkisch-Oderland",
+      "synonyms": [
+        "Märkisch-Oderland"
+      ]
+    },
+    {
+      "value": "Märkischer Kreis",
+      "synonyms": [
+        "Märkischer Kreis"
+      ]
+    },
+    {
+      "value": "Mühldorf",
+      "synonyms": [
+        "Mühldorf"
+      ]
+    },
+    {
+      "value": "München",
+      "synonyms": [
+        "München"
+      ]
+    },
+    {
+      "value": "Main-Kinzig",
+      "synonyms": [
+        "Main-Kinzig"
+      ]
+    },
+    {
+      "value": "Main-Kinzig-Kreis",
+      "synonyms": [
+        "Main-Kinzig-Kreis"
+      ]
+    },
+    {
+      "value": "Main-Spessart",
+      "synonyms": [
+        "Main-Spessart"
+      ]
+    },
+    {
+      "value": "Main-Tauber",
+      "synonyms": [
+        "Main-Tauber"
+      ]
+    },
+    {
+      "value": "Main-Taunus",
+      "synonyms": [
+        "Main-Taunus"
+      ]
+    },
+    {
+      "value": "Main-Taunus-Kreis",
+      "synonyms": [
+        "Main-Taunus-Kreis"
+      ]
+    },
+    {
+      "value": "Mainz-Bingen",
+      "synonyms": [
+        "Mainz-Bingen"
+      ]
+    },
+    {
+      "value": "Mansfeld-Südharz",
+      "synonyms": [
+        "Mansfeld-Südharz"
+      ]
+    },
+    {
+      "value": "Marburg-Biedenkopf",
+      "synonyms": [
+        "Marburg-Biedenkopf"
+      ]
+    },
+    {
+      "value": "Mayen-Koblenz",
+      "synonyms": [
+        "Mayen-Koblenz"
+      ]
+    },
+    {
+      "value": "Mecklenburg-Vorpommern",
+      "synonyms": [
+        "Mecklenburg-Vorpommern"
+      ]
+    },
+    {
+      "value": "Mecklenburgische Seenplatte",
+      "synonyms": [
+        "Mecklenburgische Seenplatte"
+      ]
+    },
+    {
+      "value": "Meißen",
+      "synonyms": [
+        "Meißen"
+      ]
+    },
+    {
+      "value": "Merzig-Wadern",
+      "synonyms": [
+        "Merzig-Wadern"
+      ]
+    },
+    {
+      "value": "Mettmann",
+      "synonyms": [
+        "Mettmann"
+      ]
+    },
+    {
+      "value": "Middle Franconia",
+      "synonyms": [
+        "Middle Franconia"
+      ]
+    },
+    {
+      "value": "Miesbach",
+      "synonyms": [
+        "Miesbach"
+      ]
+    },
+    {
+      "value": "Miltenberg",
+      "synonyms": [
+        "Miltenberg"
+      ]
+    },
+    {
+      "value": "Minden-Lübbecke",
+      "synonyms": [
+        "Minden-Lübbecke"
+      ]
+    },
+    {
+      "value": "Mittelsachsen",
+      "synonyms": [
+        "Mittelsachsen"
+      ]
+    },
+    {
+      "value": "Nürnberger Land",
+      "synonyms": [
+        "Nürnberger Land"
+      ]
+    },
+    {
+      "value": "Neckar-Odenwald",
+      "synonyms": [
+        "Neckar-Odenwald"
+      ]
+    },
+    {
+      "value": "Neckar-Odenwald-Kreis",
+      "synonyms": [
+        "Neckar-Odenwald-Kreis"
+      ]
+    },
+    {
+      "value": "Neu-Ulm",
+      "synonyms": [
+        "Neu-Ulm"
+      ]
+    },
+    {
+      "value": "Neuburg-Schrobenhausen",
+      "synonyms": [
+        "Neuburg-Schrobenhausen"
+      ]
+    },
+    {
+      "value": "Neumarkt",
+      "synonyms": [
+        "Neumarkt"
+      ]
+    },
+    {
+      "value": "Neunkirchen",
+      "synonyms": [
+        "Neunkirchen"
+      ]
+    },
+    {
+      "value": "Neustadt",
+      "synonyms": [
+        "Neustadt"
+      ]
+    },
+    {
+      "value": "Neuwied",
+      "synonyms": [
+        "Neuwied"
+      ]
+    },
+    {
+      "value": "Nienburg",
+      "synonyms": [
+        "Nienburg"
+      ]
+    },
+    {
+      "value": "Nordfriesland",
+      "synonyms": [
+        "Nordfriesland"
+      ]
+    },
+    {
+      "value": "Nordhausen",
+      "synonyms": [
+        "Nordhausen"
+      ]
+    },
+    {
+      "value": "Nordsachsen",
+      "synonyms": [
+        "Nordsachsen"
+      ]
+    },
+    {
+      "value": "Nordwestmecklenburg",
+      "synonyms": [
+        "Nordwestmecklenburg"
+      ]
+    },
+    {
+      "value": "North Rhine-Westphalia",
+      "synonyms": [
+        "North Rhine-Westphalia"
+      ]
+    },
+    {
+      "value": "Northeim",
+      "synonyms": [
+        "Northeim"
+      ]
+    },
+    {
+      "value": "Oberallgäu",
+      "synonyms": [
+        "Oberallgäu"
+      ]
+    },
+    {
+      "value": "Oberbergischer Kreis",
+      "synonyms": [
+        "Oberbergischer Kreis"
+      ]
+    },
+    {
+      "value": "Oberhavel",
+      "synonyms": [
+        "Oberhavel"
+      ]
+    },
+    {
+      "value": "Oberspreewald-Lausitz",
+      "synonyms": [
+        "Oberspreewald-Lausitz"
+      ]
+    },
+    {
+      "value": "Odenwaldkreis",
+      "synonyms": [
+        "Odenwaldkreis"
+      ]
+    },
+    {
+      "value": "Oder-Spree",
+      "synonyms": [
+        "Oder-Spree"
+      ]
+    },
+    {
+      "value": "Offenbach",
+      "synonyms": [
+        "Offenbach"
+      ]
+    },
+    {
+      "value": "Oldenburg",
+      "synonyms": [
+        "Oldenburg"
+      ]
+    },
+    {
+      "value": "Olpe",
+      "synonyms": [
+        "Olpe"
+      ]
+    },
+    {
+      "value": "Ortenaukreis",
+      "synonyms": [
+        "Ortenaukreis"
+      ]
+    },
+    {
+      "value": "Osnabrück",
+      "synonyms": [
+        "Osnabrück"
+      ]
+    },
+    {
+      "value": "Ostalbkreis",
+      "synonyms": [
+        "Ostalbkreis"
+      ]
+    },
+    {
+      "value": "Ostallgäu",
+      "synonyms": [
+        "Ostallgäu"
+      ]
+    },
+    {
+      "value": "Osterholz",
+      "synonyms": [
+        "Osterholz"
+      ]
+    },
+    {
+      "value": "Osterode",
+      "synonyms": [
+        "Osterode"
+      ]
+    },
+    {
+      "value": "Ostholstein",
+      "synonyms": [
+        "Ostholstein"
+      ]
+    },
+    {
+      "value": "Ostprignitz-Ruppin",
+      "synonyms": [
+        "Ostprignitz-Ruppin"
+      ]
+    },
+    {
+      "value": "Paderborn",
+      "synonyms": [
+        "Paderborn"
+      ]
+    },
+    {
+      "value": "Passau",
+      "synonyms": [
+        "Passau"
+      ]
+    },
+    {
+      "value": "Peine",
+      "synonyms": [
+        "Peine"
+      ]
+    },
+    {
+      "value": "Pfaffenhofen",
+      "synonyms": [
+        "Pfaffenhofen"
+      ]
+    },
+    {
+      "value": "Pinneberg",
+      "synonyms": [
+        "Pinneberg"
+      ]
+    },
+    {
+      "value": "Plön",
+      "synonyms": [
+        "Plön"
+      ]
+    },
+    {
+      "value": "Potsdam-Mittelmark",
+      "synonyms": [
+        "Potsdam-Mittelmark"
+      ]
+    },
+    {
+      "value": "Prignitz",
+      "synonyms": [
+        "Prignitz"
+      ]
+    },
+    {
+      "value": "Rastatt",
+      "synonyms": [
+        "Rastatt"
+      ]
+    },
+    {
+      "value": "Ravensburg",
+      "synonyms": [
+        "Ravensburg"
+      ]
+    },
+    {
+      "value": "Recklinghausen",
+      "synonyms": [
+        "Recklinghausen"
+      ]
+    },
+    {
+      "value": "Regen",
+      "synonyms": [
+        "Regen"
+      ]
+    },
+    {
+      "value": "Regensburg",
+      "synonyms": [
+        "Regensburg"
+      ]
+    },
+    {
+      "value": "Rems-Murr",
+      "synonyms": [
+        "Rems-Murr"
+      ]
+    },
+    {
+      "value": "Rems-Murr-Kreis",
+      "synonyms": [
+        "Rems-Murr-Kreis"
+      ]
+    },
+    {
+      "value": "Rendsburg-Eckernförde",
+      "synonyms": [
+        "Rendsburg-Eckernförde"
+      ]
+    },
+    {
+      "value": "Reutlingen",
+      "synonyms": [
+        "Reutlingen"
+      ]
+    },
+    {
+      "value": "Rhön-Grabfeld",
+      "synonyms": [
+        "Rhön-Grabfeld"
+      ]
+    },
+    {
+      "value": "Rhein-Erft-Kreis",
+      "synonyms": [
+        "Rhein-Erft-Kreis"
+      ]
+    },
+    {
+      "value": "Rhein-Hunsrück",
+      "synonyms": [
+        "Rhein-Hunsrück"
+      ]
+    },
+    {
+      "value": "Rhein-Lahn",
+      "synonyms": [
+        "Rhein-Lahn"
+      ]
+    },
+    {
+      "value": "Rhein-Neckar",
+      "synonyms": [
+        "Rhein-Neckar"
+      ]
+    },
+    {
+      "value": "Rhein-Neckar-Kreis",
+      "synonyms": [
+        "Rhein-Neckar-Kreis"
+      ]
+    },
+    {
+      "value": "Rhein-Pfalz-Kreis",
+      "synonyms": [
+        "Rhein-Pfalz-Kreis"
+      ]
+    },
+    {
+      "value": "Rhein-Sieg",
+      "synonyms": [
+        "Rhein-Sieg"
+      ]
+    },
+    {
+      "value": "Rheingau-Taunus",
+      "synonyms": [
+        "Rheingau-Taunus"
+      ]
+    },
+    {
+      "value": "Rheingau-Taunus-Kreis",
+      "synonyms": [
+        "Rheingau-Taunus-Kreis"
+      ]
+    },
+    {
+      "value": "Rheinisch-Bergischer Kreis",
+      "synonyms": [
+        "Rheinisch-Bergischer Kreis"
+      ]
+    },
+    {
+      "value": "Rheinkreis Neuss",
+      "synonyms": [
+        "Rheinkreis Neuss"
+      ]
+    },
+    {
+      "value": "Rhineland-Palatinate",
+      "synonyms": [
+        "Rhineland-Palatinate"
+      ]
+    },
+    {
+      "value": "Rosenheim",
+      "synonyms": [
+        "Rosenheim"
+      ]
+    },
+    {
+      "value": "Rostock",
+      "synonyms": [
+        "Rostock"
+      ]
+    },
+    {
+      "value": "Rotenburg",
+      "synonyms": [
+        "Rotenburg"
+      ]
+    },
+    {
+      "value": "Roth",
+      "synonyms": [
+        "Roth"
+      ]
+    },
+    {
+      "value": "Rottal-Inn",
+      "synonyms": [
+        "Rottal-Inn"
+      ]
+    },
+    {
+      "value": "Rottweil",
+      "synonyms": [
+        "Rottweil"
+      ]
+    },
+    {
+      "value": "Sächsische Schweiz-Osterzgebirge",
+      "synonyms": [
+        "Sächsische Schweiz-Osterzgebirge"
+      ]
+    },
+    {
+      "value": "Sömmerda",
+      "synonyms": [
+        "Sömmerda"
+      ]
+    },
+    {
+      "value": "Südliche Weinstraße",
+      "synonyms": [
+        "Südliche Weinstraße"
+      ]
+    },
+    {
+      "value": "Südwestpfalz",
+      "synonyms": [
+        "Südwestpfalz"
+      ]
+    },
+    {
+      "value": "Saale-Holzland",
+      "synonyms": [
+        "Saale-Holzland"
+      ]
+    },
+    {
+      "value": "Saale-Orla",
+      "synonyms": [
+        "Saale-Orla"
+      ]
+    },
+    {
+      "value": "Saalekreis",
+      "synonyms": [
+        "Saalekreis"
+      ]
+    },
+    {
+      "value": "Saalfeld-Rudolstadt",
+      "synonyms": [
+        "Saalfeld-Rudolstadt"
+      ]
+    },
+    {
+      "value": "Saarland",
+      "synonyms": [
+        "Saarland"
+      ]
+    },
+    {
+      "value": "Saarlouis",
+      "synonyms": [
+        "Saarlouis"
+      ]
+    },
+    {
+      "value": "Saarpfalz",
+      "synonyms": [
+        "Saarpfalz"
+      ]
+    },
+    {
+      "value": "Salzlandkreis",
+      "synonyms": [
+        "Salzlandkreis"
+      ]
+    },
+    {
+      "value": "Sankt Wendel",
+      "synonyms": [
+        "Sankt Wendel"
+      ]
+    },
+    {
+      "value": "Saxony",
+      "synonyms": [
+        "Saxony"
+      ]
+    },
+    {
+      "value": "Saxony-Anhalt",
+      "synonyms": [
+        "Saxony-Anhalt"
+      ]
+    },
+    {
+      "value": "Schaumburg",
+      "synonyms": [
+        "Schaumburg"
+      ]
+    },
+    {
+      "value": "Schleswig-Flensburg",
+      "synonyms": [
+        "Schleswig-Flensburg"
+      ]
+    },
+    {
+      "value": "Schleswig-Holstein",
+      "synonyms": [
+        "Schleswig-Holstein"
+      ]
+    },
+    {
+      "value": "Schmalkalden-Meiningen",
+      "synonyms": [
+        "Schmalkalden-Meiningen"
+      ]
+    },
+    {
+      "value": "Schwäbisch Hall",
+      "synonyms": [
+        "Schwäbisch Hall"
+      ]
+    },
+    {
+      "value": "Schwalm-Eder",
+      "synonyms": [
+        "Schwalm-Eder"
+      ]
+    },
+    {
+      "value": "Schwalm-Eder-Kreis",
+      "synonyms": [
+        "Schwalm-Eder-Kreis"
+      ]
+    },
+    {
+      "value": "Schwandorf",
+      "synonyms": [
+        "Schwandorf"
+      ]
+    },
+    {
+      "value": "Schwarzwald-Baar",
+      "synonyms": [
+        "Schwarzwald-Baar"
+      ]
+    },
+    {
+      "value": "Schwarzwald-Baar-Kreis",
+      "synonyms": [
+        "Schwarzwald-Baar-Kreis"
+      ]
+    },
+    {
+      "value": "Schweinfurt",
+      "synonyms": [
+        "Schweinfurt"
+      ]
+    },
+    {
+      "value": "Segeberg",
+      "synonyms": [
+        "Segeberg"
+      ]
+    },
+    {
+      "value": "Siegen-Wittgenstein",
+      "synonyms": [
+        "Siegen-Wittgenstein"
+      ]
+    },
+    {
+      "value": "Sigmaringen",
+      "synonyms": [
+        "Sigmaringen"
+      ]
+    },
+    {
+      "value": "Soest",
+      "synonyms": [
+        "Soest"
+      ]
+    },
+    {
+      "value": "Sonneberg",
+      "synonyms": [
+        "Sonneberg"
+      ]
+    },
+    {
+      "value": "Spree-Neiße",
+      "synonyms": [
+        "Spree-Neiße"
+      ]
+    },
+    {
+      "value": "Stade",
+      "synonyms": [
+        "Stade"
+      ]
+    },
+    {
+      "value": "Starnberg",
+      "synonyms": [
+        "Starnberg"
+      ]
+    },
+    {
+      "value": "Steinburg",
+      "synonyms": [
+        "Steinburg"
+      ]
+    },
+    {
+      "value": "Steinfurt",
+      "synonyms": [
+        "Steinfurt"
+      ]
+    },
+    {
+      "value": "Stendal",
+      "synonyms": [
+        "Stendal"
+      ]
+    },
+    {
+      "value": "Stormarn",
+      "synonyms": [
+        "Stormarn"
+      ]
+    },
+    {
+      "value": "Straubing-Bogen",
+      "synonyms": [
+        "Straubing-Bogen"
+      ]
+    },
+    {
+      "value": "Swabia",
+      "synonyms": [
+        "Swabia"
+      ]
+    },
+    {
+      "value": "Tübingen",
+      "synonyms": [
+        "Tübingen"
+      ]
+    },
+    {
+      "value": "Teltow-Fläming",
+      "synonyms": [
+        "Teltow-Fläming"
+      ]
+    },
+    {
+      "value": "Thuringia",
+      "synonyms": [
+        "Thuringia"
+      ]
+    },
+    {
+      "value": "Tirschenreuth",
+      "synonyms": [
+        "Tirschenreuth"
+      ]
+    },
+    {
+      "value": "Traunstein",
+      "synonyms": [
+        "Traunstein"
+      ]
+    },
+    {
+      "value": "Trier-Saarburg",
+      "synonyms": [
+        "Trier-Saarburg"
+      ]
+    },
+    {
+      "value": "Tuttlingen",
+      "synonyms": [
+        "Tuttlingen"
+      ]
+    },
+    {
+      "value": "Uckermark",
+      "synonyms": [
+        "Uckermark"
+      ]
+    },
+    {
+      "value": "Uelzen",
+      "synonyms": [
+        "Uelzen"
+      ]
+    },
+    {
+      "value": "Unna",
+      "synonyms": [
+        "Unna"
+      ]
+    },
+    {
+      "value": "Unstrut-Hainich",
+      "synonyms": [
+        "Unstrut-Hainich"
+      ]
+    },
+    {
+      "value": "Unterallgäu",
+      "synonyms": [
+        "Unterallgäu"
+      ]
+    },
+    {
+      "value": "Upper Bavaria",
+      "synonyms": [
+        "Upper Bavaria"
+      ]
+    },
+    {
+      "value": "Upper Franconia",
+      "synonyms": [
+        "Upper Franconia"
+      ]
+    },
+    {
+      "value": "Upper Palatinate",
+      "synonyms": [
+        "Upper Palatinate"
+      ]
+    },
+    {
+      "value": "Vechta",
+      "synonyms": [
+        "Vechta"
+      ]
+    },
+    {
+      "value": "Verden",
+      "synonyms": [
+        "Verden"
+      ]
+    },
+    {
+      "value": "Viersen",
+      "synonyms": [
+        "Viersen"
+      ]
+    },
+    {
+      "value": "Vogelsbergkreis",
+      "synonyms": [
+        "Vogelsbergkreis"
+      ]
+    },
+    {
+      "value": "Vogtlandkreis",
+      "synonyms": [
+        "Vogtlandkreis"
+      ]
+    },
+    {
+      "value": "Vorpommern-Greifswald",
+      "synonyms": [
+        "Vorpommern-Greifswald"
+      ]
+    },
+    {
+      "value": "Vorpommern-Rügen",
+      "synonyms": [
+        "Vorpommern-Rügen"
+      ]
+    },
+    {
+      "value": "Vulkaneifel",
+      "synonyms": [
+        "Vulkaneifel"
+      ]
+    },
+    {
+      "value": "Würzburg",
+      "synonyms": [
+        "Würzburg"
+      ]
+    },
+    {
+      "value": "Waldeck-Frankenberg",
+      "synonyms": [
+        "Waldeck-Frankenberg"
+      ]
+    },
+    {
+      "value": "Waldshut",
+      "synonyms": [
+        "Waldshut"
+      ]
+    },
+    {
+      "value": "Warendorf",
+      "synonyms": [
+        "Warendorf"
+      ]
+    },
+    {
+      "value": "Wartburgkreis",
+      "synonyms": [
+        "Wartburgkreis"
+      ]
+    },
+    {
+      "value": "Weißenburg-Gunzenhausen",
+      "synonyms": [
+        "Weißenburg-Gunzenhausen"
+      ]
+    },
+    {
+      "value": "Weilheim-Schongau",
+      "synonyms": [
+        "Weilheim-Schongau"
+      ]
+    },
+    {
+      "value": "Weimarer Land",
+      "synonyms": [
+        "Weimarer Land"
+      ]
+    },
+    {
+      "value": "Weissenburg-Gunzenhausen",
+      "synonyms": [
+        "Weissenburg-Gunzenhausen"
+      ]
+    },
+    {
+      "value": "Werra-Meißner",
+      "synonyms": [
+        "Werra-Meißner"
+      ]
+    },
+    {
+      "value": "Werra-Meißner-Kreis",
+      "synonyms": [
+        "Werra-Meißner-Kreis"
+      ]
+    },
+    {
+      "value": "Wesel",
+      "synonyms": [
+        "Wesel"
+      ]
+    },
+    {
+      "value": "Wesermarsch",
+      "synonyms": [
+        "Wesermarsch"
+      ]
+    },
+    {
+      "value": "Westerwaldkreis",
+      "synonyms": [
+        "Westerwaldkreis"
+      ]
+    },
+    {
+      "value": "Wetteraukreis",
+      "synonyms": [
+        "Wetteraukreis"
+      ]
+    },
+    {
+      "value": "Wittenberg",
+      "synonyms": [
+        "Wittenberg"
+      ]
+    },
+    {
+      "value": "Wittmund",
+      "synonyms": [
+        "Wittmund"
+      ]
+    },
+    {
+      "value": "Wolfenbüttel",
+      "synonyms": [
+        "Wolfenbüttel"
+      ]
+    },
+    {
+      "value": "Wunsiedel",
+      "synonyms": [
+        "Wunsiedel"
+      ]
+    },
+    {
+      "value": "Zollernalbkreis",
+      "synonyms": [
+        "Zollernalbkreis"
+      ]
+    },
+    {
+      "value": "Zwickau",
+      "synonyms": [
+        "Zwickau"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

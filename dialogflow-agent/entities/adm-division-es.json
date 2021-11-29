@@ -1,0 +1,484 @@
+{
+  "id": "09833118-920e-47fe-b558-71eb1417772f",
+  "name": "adm-division-es",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Galicia",
+      "synonyms": [
+        "Galicia"
+      ]
+    },
+    {
+      "value": "Asturias",
+      "synonyms": [
+        "Asturias"
+      ]
+    },
+    {
+      "value": "Cantabria",
+      "synonyms": [
+        "Cantabria"
+      ]
+    },
+    {
+      "value": "Basque Country",
+      "synonyms": [
+        "Basque Country"
+      ]
+    },
+    {
+      "value": "Navarre",
+      "synonyms": [
+        "Navarre"
+      ]
+    },
+    {
+      "value": "Aragon",
+      "synonyms": [
+        "Aragon"
+      ]
+    },
+    {
+      "value": "Catalonia",
+      "synonyms": [
+        "Catalonia"
+      ]
+    },
+    {
+      "value": "Valencian Country",
+      "synonyms": [
+        "Valencian Country"
+      ]
+    },
+    {
+      "value": "La Rioja",
+      "synonyms": [
+        "La Rioja"
+      ]
+    },
+    {
+      "value": "Castile and León",
+      "synonyms": [
+        "Castile and León"
+      ]
+    },
+    {
+      "value": "Castile-La Mancha",
+      "synonyms": [
+        "Castile-La Mancha"
+      ]
+    },
+    {
+      "value": "Community of Madrid",
+      "synonyms": [
+        "Community of Madrid"
+      ]
+    },
+    {
+      "value": "Balearic Islands",
+      "synonyms": [
+        "Balearic Islands"
+      ]
+    },
+    {
+      "value": "Region of Murcia",
+      "synonyms": [
+        "Region of Murcia"
+      ]
+    },
+    {
+      "value": "Extremadura",
+      "synonyms": [
+        "Extremadura"
+      ]
+    },
+    {
+      "value": "Andalusia",
+      "synonyms": [
+        "Andalusia"
+      ]
+    },
+    {
+      "value": "Canary Islands",
+      "synonyms": [
+        "Canary Islands"
+      ]
+    },
+    {
+      "value": "Ceuta",
+      "synonyms": [
+        "Ceuta"
+      ]
+    },
+    {
+      "value": "Melilla",
+      "synonyms": [
+        "Melilla"
+      ]
+    },
+    {
+      "value": "Girona",
+      "synonyms": [
+        "Girona",
+        "Girona Province"
+      ]
+    },
+    {
+      "value": "Lleida",
+      "synonyms": [
+        "Lleida",
+        "Lleida Province"
+      ]
+    },
+    {
+      "value": "Ciudad Real",
+      "synonyms": [
+        "Ciudad Real",
+        "Ciudad Real Province"
+      ]
+    },
+    {
+      "value": "Córdoba",
+      "synonyms": [
+        "Córdoba",
+        "Córdoba Province"
+      ]
+    },
+    {
+      "value": "Cuenca",
+      "synonyms": [
+        "Cuenca",
+        "Cuenca Province"
+      ]
+    },
+    {
+      "value": "Zamora",
+      "synonyms": [
+        "Zamora",
+        "Zamora Province"
+      ]
+    },
+    {
+      "value": "Biscay",
+      "synonyms": [
+        "Biscay"
+      ]
+    },
+    {
+      "value": "Barcelona",
+      "synonyms": [
+        "Barcelona",
+        "Barcelona Province"
+      ]
+    },
+    {
+      "value": "Murcia",
+      "synonyms": [
+        "Murcia",
+        "Region of Murcia"
+      ]
+    },
+    {
+      "value": "Alicante",
+      "synonyms": [
+        "Alicante",
+        "Alicante Province"
+      ]
+    },
+    {
+      "value": "Ávila",
+      "synonyms": [
+        "Ávila",
+        "Ávila Province"
+      ]
+    },
+    {
+      "value": "Castellón",
+      "synonyms": [
+        "Castellón",
+        "Castellón Province"
+      ]
+    },
+    {
+      "value": "Huesca",
+      "synonyms": [
+        "Huesca",
+        "Huesca Province"
+      ]
+    },
+    {
+      "value": "Toledo",
+      "synonyms": [
+        "Toledo",
+        "Toledo Province"
+      ]
+    },
+    {
+      "value": "A Coruña",
+      "synonyms": [
+        "A Coruña",
+        "A Coruña Province"
+      ]
+    },
+    {
+      "value": "Almería",
+      "synonyms": [
+        "Almería",
+        "Almería Province"
+      ]
+    },
+    {
+      "value": "Cádiz",
+      "synonyms": [
+        "Cádiz",
+        "Cádiz Province"
+      ]
+    },
+    {
+      "value": "Gipuzkoa",
+      "synonyms": [
+        "Gipuzkoa"
+      ]
+    },
+    {
+      "value": "Jaén",
+      "synonyms": [
+        "Jaén",
+        "Jaén Province"
+      ]
+    },
+    {
+      "value": "Pontevedra",
+      "synonyms": [
+        "Pontevedra",
+        "Pontevedra Province"
+      ]
+    },
+    {
+      "value": "Santa Cruz de Tenerife",
+      "synonyms": [
+        "Santa Cruz de Tenerife",
+        "Santa Cruz de Tenerife Province"
+      ]
+    },
+    {
+      "value": "Albacete",
+      "synonyms": [
+        "Albacete",
+        "Albacete Province"
+      ]
+    },
+    {
+      "value": "Valencia",
+      "synonyms": [
+        "Valencia",
+        "Valencia Province"
+      ]
+    },
+    {
+      "value": "Granada",
+      "synonyms": [
+        "Granada",
+        "Granada Province"
+      ]
+    },
+    {
+      "value": "Salamanca",
+      "synonyms": [
+        "Salamanca",
+        "Salamanca Province"
+      ]
+    },
+    {
+      "value": "Valladolid",
+      "synonyms": [
+        "Valladolid",
+        "Valladolid Province"
+      ]
+    },
+    {
+      "value": "Málaga",
+      "synonyms": [
+        "Málaga",
+        "Málaga Province"
+      ]
+    },
+    {
+      "value": "Tarragona",
+      "synonyms": [
+        "Tarragona",
+        "Tarragona Province"
+      ]
+    },
+    {
+      "value": "Calatayud",
+      "synonyms": [
+        "Calatayud",
+        "Province of Calatayud"
+      ]
+    },
+    {
+      "value": "Játiva",
+      "synonyms": [
+        "Játiva",
+        "Province of Játiva"
+      ]
+    },
+    {
+      "value": "Guadalajara",
+      "synonyms": [
+        "Guadalajara",
+        "Guadalajara Province"
+      ]
+    },
+    {
+      "value": "Soria",
+      "synonyms": [
+        "Soria",
+        "Soria Province"
+      ]
+    },
+    {
+      "value": "Zaragoza",
+      "synonyms": [
+        "Zaragoza",
+        "Zaragoza Province"
+      ]
+    },
+    {
+      "value": "Álava",
+      "synonyms": [
+        "Álava",
+        "Álava Province"
+      ]
+    },
+    {
+      "value": "Badajoz",
+      "synonyms": [
+        "Badajoz",
+        "Badajoz Province"
+      ]
+    },
+    {
+      "value": "Cáceres",
+      "synonyms": [
+        "Cáceres",
+        "Cáceres Province"
+      ]
+    },
+    {
+      "value": "Huelva",
+      "synonyms": [
+        "Huelva",
+        "Huelva Province"
+      ]
+    },
+    {
+      "value": "Las Palmas",
+      "synonyms": [
+        "Las Palmas",
+        "Las Palmas Province"
+      ]
+    },
+    {
+      "value": "Lugo",
+      "synonyms": [
+        "Lugo",
+        "Lugo Province"
+      ]
+    },
+    {
+      "value": "Ourense",
+      "synonyms": [
+        "Ourense",
+        "Ourense Province"
+      ]
+    },
+    {
+      "value": "Seville",
+      "synonyms": [
+        "Seville",
+        "Seville Province"
+      ]
+    },
+    {
+      "value": "Santa Fe de Nuevo México",
+      "synonyms": [
+        "Santa Fe de Nuevo México"
+      ]
+    },
+    {
+      "value": "Teruel",
+      "synonyms": [
+        "Teruel",
+        "Teruel Province"
+      ]
+    },
+    {
+      "value": "Palencia",
+      "synonyms": [
+        "Palencia",
+        "Palencia Province"
+      ]
+    },
+    {
+      "value": "Segovia",
+      "synonyms": [
+        "Segovia",
+        "Segovia Province"
+      ]
+    },
+    {
+      "value": "Burgos",
+      "synonyms": [
+        "Burgos",
+        "Burgos Province"
+      ]
+    },
+    {
+      "value": "León",
+      "synonyms": [
+        "León",
+        "León Province"
+      ]
+    },
+    {
+      "value": "Murcia",
+      "synonyms": [
+        "Murcia",
+        "Murcia Province"
+      ]
+    },
+    {
+      "value": "Oviedo",
+      "synonyms": [
+        "Oviedo",
+        "Oviedo Province"
+      ]
+    },
+    {
+      "value": "Santander",
+      "synonyms": [
+        "Santander",
+        "Province of Santander"
+      ]
+    },
+    {
+      "value": "Cartagena",
+      "synonyms": [
+        "Cartagena",
+        "Province of Cartagena"
+      ]
+    },
+    {
+      "value": "Logroño",
+      "synonyms": [
+        "Logroño",
+        "Province of Logroño"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": "026a3804-cd90-49c6-ad63-64b0fc3379cc",
+  "name": "subadmin-area",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "@london-areas",
+      "synonyms": [
+        "@london-areas"
+      ]
+    },
+    {
+      "value": "@paris-areas",
+      "synonyms": [
+        "@paris-areas"
+      ]
+    },
+    {
+      "value": "@new-york-areas",
+      "synonyms": [
+        "@new-york-areas"
+      ]
+    },
+    {
+      "value": "@stations",
+      "synonyms": [
+        "@stations"
+      ]
+    },
+    {
+      "value": "@paris-metro-stations",
+      "synonyms": [
+        "@paris-metro-stations"
+      ]
+    },
+    {
+      "value": "@moscow-metro-stations",
+      "synonyms": [
+        "@moscow-metro-stations"
+      ]
+    },
+    {
+      "value": "@subadm-division-us",
+      "synonyms": [
+        "@subadm-division-us"
+      ]
+    }
+  ],
+  "isEnum": true,
+  "automatedExpansion": false
+}

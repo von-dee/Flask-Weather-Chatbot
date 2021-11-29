@@ -1,0 +1,255 @@
+{
+  "id": "c7d9ce89-73b3-4914-95d5-eeb77b5d60af",
+  "name": "venue-medical-chain",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "BioScrip",
+      "synonyms": [
+        "BioScrip"
+      ]
+    },
+    {
+      "value": "Brunet",
+      "synonyms": [
+        "Brunet"
+      ]
+    },
+    {
+      "value": "CVS",
+      "synonyms": [
+        "CVS"
+      ]
+    },
+    {
+      "value": "CVS Health",
+      "synonyms": [
+        "CVS Health"
+      ]
+    },
+    {
+      "value": "CVS Pharmacy",
+      "synonyms": [
+        "CVS Pharmacy"
+      ]
+    },
+    {
+      "value": "Costco",
+      "synonyms": [
+        "Costco"
+      ]
+    },
+    {
+      "value": "DRUGStore Pharmacy",
+      "synonyms": [
+        "DRUGStore Pharmacy"
+      ]
+    },
+    {
+      "value": "Dignity Health",
+      "synonyms": [
+        "Dignity Health"
+      ]
+    },
+    {
+      "value": "Duane Reade Inc",
+      "synonyms": [
+        "Duane Reade Inc"
+      ]
+    },
+    {
+      "value": "Familiprix",
+      "synonyms": [
+        "Familiprix"
+      ]
+    },
+    {
+      "value": "Fred\u0027s Inc",
+      "synonyms": [
+        "Fred\u0027s Inc"
+      ]
+    },
+    {
+      "value": "GNC Corporation",
+      "synonyms": [
+        "GNC Corporation"
+      ]
+    },
+    {
+      "value": "Houston Hospital",
+      "synonyms": [
+        "Houston Hospital"
+      ]
+    },
+    {
+      "value": "Houston Methodist Hospital",
+      "synonyms": [
+        "Houston Methodist Hospital"
+      ]
+    },
+    {
+      "value": "Jean Coutu",
+      "synonyms": [
+        "Jean Coutu"
+      ]
+    },
+    {
+      "value": "Katz Group of Companies",
+      "synonyms": [
+        "Katz Group of Companies"
+      ]
+    },
+    {
+      "value": "Lawtons",
+      "synonyms": [
+        "Lawtons"
+      ]
+    },
+    {
+      "value": "Lloyds Pharmacy",
+      "synonyms": [
+        "Lloyds Pharmacy"
+      ]
+    },
+    {
+      "value": "London Drugs",
+      "synonyms": [
+        "London Drugs"
+      ]
+    },
+    {
+      "value": "Medicine Shoppe International Inc",
+      "synonyms": [
+        "Medicine Shoppe International Inc"
+      ]
+    },
+    {
+      "value": "Meijer",
+      "synonyms": [
+        "Meijer"
+      ]
+    },
+    {
+      "value": "PharmaChoice",
+      "synonyms": [
+        "PharmaChoice"
+      ]
+    },
+    {
+      "value": "Pharmacies",
+      "synonyms": [
+        "Pharmacies"
+      ]
+    },
+    {
+      "value": "Pharmaprix",
+      "synonyms": [
+        "Pharmaprix"
+      ]
+    },
+    {
+      "value": "Pharmasave",
+      "synonyms": [
+        "Pharmasave"
+      ]
+    },
+    {
+      "value": "Proxim",
+      "synonyms": [
+        "Proxim"
+      ]
+    },
+    {
+      "value": "Rexall",
+      "synonyms": [
+        "Rexall"
+      ]
+    },
+    {
+      "value": "Rite Aid Corporation",
+      "synonyms": [
+        "Rite Aid Corporation"
+      ]
+    },
+    {
+      "value": "ShopKo Stores",
+      "synonyms": [
+        "ShopKo Stores"
+      ]
+    },
+    {
+      "value": "Shoppers Drug Mart",
+      "synonyms": [
+        "Shoppers Drug Mart"
+      ]
+    },
+    {
+      "value": "SpartanNash",
+      "synonyms": [
+        "SpartanNash"
+      ]
+    },
+    {
+      "value": "Supervalu Pharmacies",
+      "synonyms": [
+        "Supervalu Pharmacies"
+      ]
+    },
+    {
+      "value": "Tenet Healthcare Corporation",
+      "synonyms": [
+        "Tenet Healthcare Corporation"
+      ]
+    },
+    {
+      "value": "The Vitamin Shoppe",
+      "synonyms": [
+        "The Vitamin Shoppe"
+      ]
+    },
+    {
+      "value": "Uniprix",
+      "synonyms": [
+        "Uniprix"
+      ]
+    },
+    {
+      "value": "Value Drug Company",
+      "synonyms": [
+        "Value Drug Company"
+      ]
+    },
+    {
+      "value": "Value Drug Mart",
+      "synonyms": [
+        "Value Drug Mart"
+      ]
+    },
+    {
+      "value": "Walgreen",
+      "synonyms": [
+        "Walgreen"
+      ]
+    },
+    {
+      "value": "Walgreens",
+      "synonyms": [
+        "Walgreens"
+      ]
+    },
+    {
+      "value": "Walgreens Pharmacy",
+      "synonyms": [
+        "Walgreens Pharmacy"
+      ]
+    },
+    {
+      "value": "Webb\u0027s Family Pharmacy",
+      "synonyms": [
+        "Webb\u0027s Family Pharmacy"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}

@@ -1,0 +1,1515 @@
+{
+  "id": "29b388e0-c1d7-4bd4-a6c9-fad996bf0a1e",
+  "name": "venue-travel-chain",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "AAA Vacations",
+      "synonyms": [
+        "AAA Vacations"
+      ]
+    },
+    {
+      "value": "AFRICAExperts by Goway",
+      "synonyms": [
+        "AFRICAExperts by Goway"
+      ]
+    },
+    {
+      "value": "AHI International",
+      "synonyms": [
+        "AHI International"
+      ]
+    },
+    {
+      "value": "ATG Oxford",
+      "synonyms": [
+        "ATG Oxford"
+      ]
+    },
+    {
+      "value": "Abercrombie \u0026 Kent",
+      "synonyms": [
+        "Abercrombie \u0026 Kent"
+      ]
+    },
+    {
+      "value": "Abercrombie \u0026 Kent USA, LLC",
+      "synonyms": [
+        "Abercrombie \u0026 Kent USA, LLC"
+      ]
+    },
+    {
+      "value": "Adventures by Disney",
+      "synonyms": [
+        "Adventures by Disney"
+      ]
+    },
+    {
+      "value": "Aeromexico Vacations",
+      "synonyms": [
+        "Aeromexico Vacations"
+      ]
+    },
+    {
+      "value": "African Travel",
+      "synonyms": [
+        "African Travel"
+      ]
+    },
+    {
+      "value": "Air New Zealand Vacations",
+      "synonyms": [
+        "Air New Zealand Vacations"
+      ]
+    },
+    {
+      "value": "Air by Pleasant",
+      "synonyms": [
+        "Air by Pleasant"
+      ]
+    },
+    {
+      "value": "Alexander+Roberts",
+      "synonyms": [
+        "Alexander+Roberts"
+      ]
+    },
+    {
+      "value": "All About Tours, Inc.",
+      "synonyms": [
+        "All About Tours, Inc."
+      ]
+    },
+    {
+      "value": "Alumni Holidays",
+      "synonyms": [
+        "Alumni Holidays"
+      ]
+    },
+    {
+      "value": "America As You Like It",
+      "synonyms": [
+        "America As You Like It"
+      ]
+    },
+    {
+      "value": "American Council for International Studies",
+      "synonyms": [
+        "American Council for International Studies"
+      ]
+    },
+    {
+      "value": "American Holidays",
+      "synonyms": [
+        "American Holidays"
+      ]
+    },
+    {
+      "value": "American Sky",
+      "synonyms": [
+        "American Sky"
+      ]
+    },
+    {
+      "value": "Archers Tours",
+      "synonyms": [
+        "Archers Tours"
+      ]
+    },
+    {
+      "value": "Asia Answers",
+      "synonyms": [
+        "Asia Answers"
+      ]
+    },
+    {
+      "value": "Asia by Goway",
+      "synonyms": [
+        "Asia by Goway"
+      ]
+    },
+    {
+      "value": "Austin Adventures",
+      "synonyms": [
+        "Austin Adventures"
+      ]
+    },
+    {
+      "value": "Australian Pacific Touring",
+      "synonyms": [
+        "Australian Pacific Touring"
+      ]
+    },
+    {
+      "value": "Avalon Waterways",
+      "synonyms": [
+        "Avalon Waterways"
+      ]
+    },
+    {
+      "value": "Avanti Destinations",
+      "synonyms": [
+        "Avanti Destinations"
+      ]
+    },
+    {
+      "value": "Back-Roads Touring Co",
+      "synonyms": [
+        "Back-Roads Touring Co"
+      ]
+    },
+    {
+      "value": "Bellini Travel",
+      "synonyms": [
+        "Bellini Travel"
+      ]
+    },
+    {
+      "value": "Blue Sky Tours",
+      "synonyms": [
+        "Blue Sky Tours"
+      ]
+    },
+    {
+      "value": "Bon Voyage",
+      "synonyms": [
+        "Bon Voyage"
+      ]
+    },
+    {
+      "value": "Boston, MA 02111",
+      "synonyms": [
+        "Boston, MA 02111"
+      ]
+    },
+    {
+      "value": "Boxwood Tours",
+      "synonyms": [
+        "Boxwood Tours"
+      ]
+    },
+    {
+      "value": "Brendan Vacations",
+      "synonyms": [
+        "Brendan Vacations"
+      ]
+    },
+    {
+      "value": "Bridgewater Travel",
+      "synonyms": [
+        "Bridgewater Travel"
+      ]
+    },
+    {
+      "value": "Brightspark Travel USA",
+      "synonyms": [
+        "Brightspark Travel USA"
+      ]
+    },
+    {
+      "value": "CIE Tours International",
+      "synonyms": [
+        "CIE Tours International"
+      ]
+    },
+    {
+      "value": "CW Safaris",
+      "synonyms": [
+        "CW Safaris"
+      ]
+    },
+    {
+      "value": "California Vacations",
+      "synonyms": [
+        "California Vacations"
+      ]
+    },
+    {
+      "value": "Captain\u0027s Choice",
+      "synonyms": [
+        "Captain\u0027s Choice"
+      ]
+    },
+    {
+      "value": "Celtic Tours World Vacations",
+      "synonyms": [
+        "Celtic Tours World Vacations"
+      ]
+    },
+    {
+      "value": "China Travel Service Inc.",
+      "synonyms": [
+        "China Travel Service Inc."
+      ]
+    },
+    {
+      "value": "Citalia Holidays",
+      "synonyms": [
+        "Citalia Holidays"
+      ]
+    },
+    {
+      "value": "Classic Collection",
+      "synonyms": [
+        "Classic Collection"
+      ]
+    },
+    {
+      "value": "Classic Vacations",
+      "synonyms": [
+        "Classic Vacations"
+      ]
+    },
+    {
+      "value": "Collette",
+      "synonyms": [
+        "Collette"
+      ]
+    },
+    {
+      "value": "Collette Explorations",
+      "synonyms": [
+        "Collette Explorations"
+      ]
+    },
+    {
+      "value": "Colletts Mountain Holidays",
+      "synonyms": [
+        "Colletts Mountain Holidays"
+      ]
+    },
+    {
+      "value": "Complete North America",
+      "synonyms": [
+        "Complete North America"
+      ]
+    },
+    {
+      "value": "Contiki",
+      "synonyms": [
+        "Contiki"
+      ]
+    },
+    {
+      "value": "Cosmos Tours and Cruises",
+      "synonyms": [
+        "Cosmos Tours and Cruises"
+      ]
+    },
+    {
+      "value": "Cottages to Castles",
+      "synonyms": [
+        "Cottages to Castles"
+      ]
+    },
+    {
+      "value": "Country Walkers",
+      "synonyms": [
+        "Country Walkers"
+      ]
+    },
+    {
+      "value": "Cox and Kings - The Americas",
+      "synonyms": [
+        "Cox and Kings - The Americas"
+      ]
+    },
+    {
+      "value": "Cresta Holidays",
+      "synonyms": [
+        "Cresta Holidays"
+      ]
+    },
+    {
+      "value": "Crusader Travel",
+      "synonyms": [
+        "Crusader Travel"
+      ]
+    },
+    {
+      "value": "DH Enterprise \u0026 Associates Inc.",
+      "synonyms": [
+        "DH Enterprise \u0026 Associates Inc."
+      ]
+    },
+    {
+      "value": "Delta Vacations",
+      "synonyms": [
+        "Delta Vacations"
+      ]
+    },
+    {
+      "value": "Design Holidays",
+      "synonyms": [
+        "Design Holidays"
+      ]
+    },
+    {
+      "value": "Destination America",
+      "synonyms": [
+        "Destination America"
+      ]
+    },
+    {
+      "value": "Destinations Downunder By Goway",
+      "synonyms": [
+        "Destinations Downunder By Goway"
+      ]
+    },
+    {
+      "value": "Destinology",
+      "synonyms": [
+        "Destinology"
+      ]
+    },
+    {
+      "value": "Discovery Tours by Gate 1",
+      "synonyms": [
+        "Discovery Tours by Gate 1"
+      ]
+    },
+    {
+      "value": "Down Under Answers",
+      "synonyms": [
+        "Down Under Answers"
+      ]
+    },
+    {
+      "value": "EF College Break",
+      "synonyms": [
+        "EF College Break"
+      ]
+    },
+    {
+      "value": "EF College Study Tours",
+      "synonyms": [
+        "EF College Study Tours"
+      ]
+    },
+    {
+      "value": "EF Educational Tours",
+      "synonyms": [
+        "EF Educational Tours"
+      ]
+    },
+    {
+      "value": "EF Explore America",
+      "synonyms": [
+        "EF Explore America"
+      ]
+    },
+    {
+      "value": "EF Institute for Cultural Exchange",
+      "synonyms": [
+        "EF Institute for Cultural Exchange"
+      ]
+    },
+    {
+      "value": "Elegant Resorts",
+      "synonyms": [
+        "Elegant Resorts"
+      ]
+    },
+    {
+      "value": "Encore Tours",
+      "synonyms": [
+        "Encore Tours"
+      ]
+    },
+    {
+      "value": "Essential Italy",
+      "synonyms": [
+        "Essential Italy"
+      ]
+    },
+    {
+      "value": "Europe Express",
+      "synonyms": [
+        "Europe Express"
+      ]
+    },
+    {
+      "value": "Expert to Italy",
+      "synonyms": [
+        "Expert to Italy"
+      ]
+    },
+    {
+      "value": "Expressions",
+      "synonyms": [
+        "Expressions"
+      ]
+    },
+    {
+      "value": "Exsus Travel",
+      "synonyms": [
+        "Exsus Travel"
+      ]
+    },
+    {
+      "value": "Fathom Travel",
+      "synonyms": [
+        "Fathom Travel"
+      ]
+    },
+    {
+      "value": "Fax: 617.936.3118",
+      "synonyms": [
+        "Fax: 617.936.3118"
+      ]
+    },
+    {
+      "value": "Ferrari Tours",
+      "synonyms": [
+        "Ferrari Tours"
+      ]
+    },
+    {
+      "value": "Flight Centre Travel Group",
+      "synonyms": [
+        "Flight Centre Travel Group"
+      ]
+    },
+    {
+      "value": "Footloose Sailing Charters",
+      "synonyms": [
+        "Footloose Sailing Charters"
+      ]
+    },
+    {
+      "value": "Funjet Vacations",
+      "synonyms": [
+        "Funjet Vacations"
+      ]
+    },
+    {
+      "value": "Funway Holidays",
+      "synonyms": [
+        "Funway Holidays"
+      ]
+    },
+    {
+      "value": "GOGO Vacations",
+      "synonyms": [
+        "GOGO Vacations"
+      ]
+    },
+    {
+      "value": "GTA Americas",
+      "synonyms": [
+        "GTA Americas"
+      ]
+    },
+    {
+      "value": "GTA Americas LLC",
+      "synonyms": [
+        "GTA Americas LLC"
+      ]
+    },
+    {
+      "value": "Gate 1 Travel",
+      "synonyms": [
+        "Gate 1 Travel"
+      ]
+    },
+    {
+      "value": "Global Consolidated Services",
+      "synonyms": [
+        "Global Consolidated Services"
+      ]
+    },
+    {
+      "value": "Globus",
+      "synonyms": [
+        "Globus"
+      ]
+    },
+    {
+      "value": "Globus Family of Brands",
+      "synonyms": [
+        "Globus Family of Brands"
+      ]
+    },
+    {
+      "value": "Go Ahead Tours",
+      "synonyms": [
+        "Go Ahead Tours"
+      ]
+    },
+    {
+      "value": "Go Play Tours",
+      "synonyms": [
+        "Go Play Tours"
+      ]
+    },
+    {
+      "value": "Go-Today",
+      "synonyms": [
+        "Go-Today"
+      ]
+    },
+    {
+      "value": "Goway Travel, Inc.",
+      "synonyms": [
+        "Goway Travel, Inc."
+      ]
+    },
+    {
+      "value": "Goway.com",
+      "synonyms": [
+        "Goway.com"
+      ]
+    },
+    {
+      "value": "GowayAir.com",
+      "synonyms": [
+        "GowayAir.com"
+      ]
+    },
+    {
+      "value": "GradCity",
+      "synonyms": [
+        "GradCity"
+      ]
+    },
+    {
+      "value": "Grand American Adventures",
+      "synonyms": [
+        "Grand American Adventures"
+      ]
+    },
+    {
+      "value": "Grand Circle Cruise Line",
+      "synonyms": [
+        "Grand Circle Cruise Line"
+      ]
+    },
+    {
+      "value": "Grand Circle LLC",
+      "synonyms": [
+        "Grand Circle LLC"
+      ]
+    },
+    {
+      "value": "Grand Circle Travel",
+      "synonyms": [
+        "Grand Circle Travel"
+      ]
+    },
+    {
+      "value": "Grand European Travel",
+      "synonyms": [
+        "Grand European Travel"
+      ]
+    },
+    {
+      "value": "Great Safaris",
+      "synonyms": [
+        "Great Safaris"
+      ]
+    },
+    {
+      "value": "Great Value Vacations",
+      "synonyms": [
+        "Great Value Vacations"
+      ]
+    },
+    {
+      "value": "GroupsOnly by Goway",
+      "synonyms": [
+        "GroupsOnly by Goway"
+      ]
+    },
+    {
+      "value": "Hays Faraway",
+      "synonyms": [
+        "Hays Faraway"
+      ]
+    },
+    {
+      "value": "Headwater Holidays",
+      "synonyms": [
+        "Headwater Holidays"
+      ]
+    },
+    {
+      "value": "Hedonistic Hiking",
+      "synonyms": [
+        "Hedonistic Hiking"
+      ]
+    },
+    {
+      "value": "Holiday Vacations",
+      "synonyms": [
+        "Holiday Vacations"
+      ]
+    },
+    {
+      "value": "Holland America Line",
+      "synonyms": [
+        "Holland America Line"
+      ]
+    },
+    {
+      "value": "Home in Italy",
+      "synonyms": [
+        "Home in Italy"
+      ]
+    },
+    {
+      "value": "Homeric Tours",
+      "synonyms": [
+        "Homeric Tours"
+      ]
+    },
+    {
+      "value": "Homeric Tours Inc.",
+      "synonyms": [
+        "Homeric Tours Inc."
+      ]
+    },
+    {
+      "value": "ITC Classics",
+      "synonyms": [
+        "ITC Classics"
+      ]
+    },
+    {
+      "value": "Ilios Travel",
+      "synonyms": [
+        "Ilios Travel"
+      ]
+    },
+    {
+      "value": "Insider Journeys",
+      "synonyms": [
+        "Insider Journeys"
+      ]
+    },
+    {
+      "value": "Insight Vacations",
+      "synonyms": [
+        "Insight Vacations"
+      ]
+    },
+    {
+      "value": "International Expeditions",
+      "synonyms": [
+        "International Expeditions"
+      ]
+    },
+    {
+      "value": "Invitation to Tuscany",
+      "synonyms": [
+        "Invitation to Tuscany"
+      ]
+    },
+    {
+      "value": "Islands in the Sun",
+      "synonyms": [
+        "Islands in the Sun"
+      ]
+    },
+    {
+      "value": "IslandsEscapes by Goway",
+      "synonyms": [
+        "IslandsEscapes by Goway"
+      ]
+    },
+    {
+      "value": "Italian Connection",
+      "synonyms": [
+        "Italian Connection"
+      ]
+    },
+    {
+      "value": "ItalyVacations.com",
+      "synonyms": [
+        "ItalyVacations.com"
+      ]
+    },
+    {
+      "value": "Jetsave",
+      "synonyms": [
+        "Jetsave"
+      ]
+    },
+    {
+      "value": "Journese",
+      "synonyms": [
+        "Journese"
+      ]
+    },
+    {
+      "value": "Journeys Connect",
+      "synonyms": [
+        "Journeys Connect"
+      ]
+    },
+    {
+      "value": "Journeys of Distinction",
+      "synonyms": [
+        "Journeys of Distinction"
+      ]
+    },
+    {
+      "value": "Jumpstreet Tours",
+      "synonyms": [
+        "Jumpstreet Tours"
+      ]
+    },
+    {
+      "value": "Just Sardinia",
+      "synonyms": [
+        "Just Sardinia"
+      ]
+    },
+    {
+      "value": "Kensington Tours",
+      "synonyms": [
+        "Kensington Tours"
+      ]
+    },
+    {
+      "value": "Kirker Holidays",
+      "synonyms": [
+        "Kirker Holidays"
+      ]
+    },
+    {
+      "value": "Kudu Travel",
+      "synonyms": [
+        "Kudu Travel"
+      ]
+    },
+    {
+      "value": "La Bella Toscana",
+      "synonyms": [
+        "La Bella Toscana"
+      ]
+    },
+    {
+      "value": "Landmark Trust",
+      "synonyms": [
+        "Landmark Trust"
+      ]
+    },
+    {
+      "value": "Latin America by Goway",
+      "synonyms": [
+        "Latin America by Goway"
+      ]
+    },
+    {
+      "value": "Le Boat",
+      "synonyms": [
+        "Le Boat"
+      ]
+    },
+    {
+      "value": "Learning Journeys",
+      "synonyms": [
+        "Learning Journeys"
+      ]
+    },
+    {
+      "value": "Lindblad Expeditions",
+      "synonyms": [
+        "Lindblad Expeditions"
+      ]
+    },
+    {
+      "value": "Lion World Travel",
+      "synonyms": [
+        "Lion World Travel"
+      ]
+    },
+    {
+      "value": "Long Travel",
+      "synonyms": [
+        "Long Travel"
+      ]
+    },
+    {
+      "value": "MGM Resorts Vacations",
+      "synonyms": [
+        "MGM Resorts Vacations"
+      ]
+    },
+    {
+      "value": "MLT Vacations LLC",
+      "synonyms": [
+        "MLT Vacations LLC"
+      ]
+    },
+    {
+      "value": "Majestic Vacations",
+      "synonyms": [
+        "Majestic Vacations"
+      ]
+    },
+    {
+      "value": "Major Travel",
+      "synonyms": [
+        "Major Travel"
+      ]
+    },
+    {
+      "value": "Mark Travel Corporation \u0026 Affiliated Companies",
+      "synonyms": [
+        "Mark Travel Corporation \u0026 Affiliated Companies"
+      ]
+    },
+    {
+      "value": "Marriott Vacation Club",
+      "synonyms": [
+        "Marriott Vacation Club"
+      ]
+    },
+    {
+      "value": "Mayflower Tours",
+      "synonyms": [
+        "Mayflower Tours"
+      ]
+    },
+    {
+      "value": "Member Since 2016",
+      "synonyms": [
+        "Member Since 2016"
+      ]
+    },
+    {
+      "value": "Monograms",
+      "synonyms": [
+        "Monograms"
+      ]
+    },
+    {
+      "value": "Montisi Magica",
+      "synonyms": [
+        "Montisi Magica"
+      ]
+    },
+    {
+      "value": "My America Holiday",
+      "synonyms": [
+        "My America Holiday"
+      ]
+    },
+    {
+      "value": "Oliver\u0027s Travels",
+      "synonyms": [
+        "Oliver\u0027s Travels"
+      ]
+    },
+    {
+      "value": "One Financial Center",
+      "synonyms": [
+        "One Financial Center"
+      ]
+    },
+    {
+      "value": "Overseas Adventure Travel",
+      "synonyms": [
+        "Overseas Adventure Travel"
+      ]
+    },
+    {
+      "value": "Pacific Delight Tours",
+      "synonyms": [
+        "Pacific Delight Tours"
+      ]
+    },
+    {
+      "value": "Pacific Delight Travel LLC",
+      "synonyms": [
+        "Pacific Delight Travel LLC"
+      ]
+    },
+    {
+      "value": "Painting in Italy",
+      "synonyms": [
+        "Painting in Italy"
+      ]
+    },
+    {
+      "value": "Peony Tours",
+      "synonyms": [
+        "Peony Tours"
+      ]
+    },
+    {
+      "value": "Perillo Tours",
+      "synonyms": [
+        "Perillo Tours"
+      ]
+    },
+    {
+      "value": "Peter Sommer Travels",
+      "synonyms": [
+        "Peter Sommer Travels"
+      ]
+    },
+    {
+      "value": "Phone: 855.517.1200",
+      "synonyms": [
+        "Phone: 855.517.1200"
+      ]
+    },
+    {
+      "value": "Pleasant Activities",
+      "synonyms": [
+        "Pleasant Activities"
+      ]
+    },
+    {
+      "value": "Pleasant Holidays",
+      "synonyms": [
+        "Pleasant Holidays"
+      ]
+    },
+    {
+      "value": "Pleasant Holidays LLC",
+      "synonyms": [
+        "Pleasant Holidays LLC"
+      ]
+    },
+    {
+      "value": "Premier Holidays",
+      "synonyms": [
+        "Premier Holidays"
+      ]
+    },
+    {
+      "value": "Princess Cruises and Tours",
+      "synonyms": [
+        "Princess Cruises and Tours"
+      ]
+    },
+    {
+      "value": "Profile Website",
+      "synonyms": [
+        "Profile Website"
+      ]
+    },
+    {
+      "value": "Qantas Vacations",
+      "synonyms": [
+        "Qantas Vacations"
+      ]
+    },
+    {
+      "value": "Quality Villas",
+      "synonyms": [
+        "Quality Villas"
+      ]
+    },
+    {
+      "value": "Quark Expeditions",
+      "synonyms": [
+        "Quark Expeditions"
+      ]
+    },
+    {
+      "value": "Rail Europe Inc.",
+      "synonyms": [
+        "Rail Europe Inc."
+      ]
+    },
+    {
+      "value": "Real Holidays",
+      "synonyms": [
+        "Real Holidays"
+      ]
+    },
+    {
+      "value": "Ritz Tours",
+      "synonyms": [
+        "Ritz Tours"
+      ]
+    },
+    {
+      "value": "SITA World Tours",
+      "synonyms": [
+        "SITA World Tours"
+      ]
+    },
+    {
+      "value": "Sardatur Holidays",
+      "synonyms": [
+        "Sardatur Holidays"
+      ]
+    },
+    {
+      "value": "Sardinian Places",
+      "synonyms": [
+        "Sardinian Places"
+      ]
+    },
+    {
+      "value": "Scenic Tours USA",
+      "synonyms": [
+        "Scenic Tours USA"
+      ]
+    },
+    {
+      "value": "Scenic Tours USA Inc.",
+      "synonyms": [
+        "Scenic Tours USA Inc."
+      ]
+    },
+    {
+      "value": "Sceptre",
+      "synonyms": [
+        "Sceptre"
+      ]
+    },
+    {
+      "value": "Selective Travel Abroad",
+      "synonyms": [
+        "Selective Travel Abroad"
+      ]
+    },
+    {
+      "value": "Sicilian Experience",
+      "synonyms": [
+        "Sicilian Experience"
+      ]
+    },
+    {
+      "value": "SoloSicily",
+      "synonyms": [
+        "SoloSicily"
+      ]
+    },
+    {
+      "value": "Southwest Vacations",
+      "synonyms": [
+        "Southwest Vacations"
+      ]
+    },
+    {
+      "value": "Spirit Vacations",
+      "synonyms": [
+        "Spirit Vacations"
+      ]
+    },
+    {
+      "value": "Stella Travel Services USA, Inc",
+      "synonyms": [
+        "Stella Travel Services USA, Inc"
+      ]
+    },
+    {
+      "value": "StudentCity",
+      "synonyms": [
+        "StudentCity"
+      ]
+    },
+    {
+      "value": "Suite 400",
+      "synonyms": [
+        "Suite 400"
+      ]
+    },
+    {
+      "value": "Summer\u0027s Leases",
+      "synonyms": [
+        "Summer\u0027s Leases"
+      ]
+    },
+    {
+      "value": "Sunsail",
+      "synonyms": [
+        "Sunsail"
+      ]
+    },
+    {
+      "value": "Sunvil",
+      "synonyms": [
+        "Sunvil"
+      ]
+    },
+    {
+      "value": "Swain Destinations",
+      "synonyms": [
+        "Swain Destinations"
+      ]
+    },
+    {
+      "value": "TCS Expeditions",
+      "synonyms": [
+        "TCS Expeditions"
+      ]
+    },
+    {
+      "value": "TRAVCOA",
+      "synonyms": [
+        "TRAVCOA"
+      ]
+    },
+    {
+      "value": "TUI Travel",
+      "synonyms": [
+        "TUI Travel"
+      ]
+    },
+    {
+      "value": "Tastes of Italy",
+      "synonyms": [
+        "Tastes of Italy"
+      ]
+    },
+    {
+      "value": "Tauck",
+      "synonyms": [
+        "Tauck"
+      ]
+    },
+    {
+      "value": "Tauck Bridges",
+      "synonyms": [
+        "Tauck Bridges"
+      ]
+    },
+    {
+      "value": "Tauck Culturious",
+      "synonyms": [
+        "Tauck Culturious"
+      ]
+    },
+    {
+      "value": "Tauck Premier Events",
+      "synonyms": [
+        "Tauck Premier Events"
+      ]
+    },
+    {
+      "value": "Tauck River Cruising",
+      "synonyms": [
+        "Tauck River Cruising"
+      ]
+    },
+    {
+      "value": "Tauck Small Ship Cruising",
+      "synonyms": [
+        "Tauck Small Ship Cruising"
+      ]
+    },
+    {
+      "value": "Tauck World Discovery",
+      "synonyms": [
+        "Tauck World Discovery"
+      ]
+    },
+    {
+      "value": "The Moorings",
+      "synonyms": [
+        "The Moorings"
+      ]
+    },
+    {
+      "value": "The Travel Corporation USA",
+      "synonyms": [
+        "The Travel Corporation USA"
+      ]
+    },
+    {
+      "value": "Thomas Cook Tours",
+      "synonyms": [
+        "Thomas Cook Tours"
+      ]
+    },
+    {
+      "value": "Thomas Cook Tours",
+      "synonyms": [
+        "Thomas Cook Tours"
+      ]
+    },
+    {
+      "value": "Timetrekkers",
+      "synonyms": [
+        "Timetrekkers"
+      ]
+    },
+    {
+      "value": "To-Tuscany",
+      "synonyms": [
+        "To-Tuscany"
+      ]
+    },
+    {
+      "value": "Traditional Tuscany",
+      "synonyms": [
+        "Traditional Tuscany"
+      ]
+    },
+    {
+      "value": "Trafalgar",
+      "synonyms": [
+        "Trafalgar"
+      ]
+    },
+    {
+      "value": "Travel Department",
+      "synonyms": [
+        "Travel Department"
+      ]
+    },
+    {
+      "value": "Travel Editions",
+      "synonyms": [
+        "Travel Editions"
+      ]
+    },
+    {
+      "value": "Travel Impressions",
+      "synonyms": [
+        "Travel Impressions"
+      ]
+    },
+    {
+      "value": "Travel and Company",
+      "synonyms": [
+        "Travel and Company"
+      ]
+    },
+    {
+      "value": "Travel la Carte",
+      "synonyms": [
+        "Travel la Carte"
+      ]
+    },
+    {
+      "value": "Travel2",
+      "synonyms": [
+        "Travel2"
+      ]
+    },
+    {
+      "value": "Travelscene",
+      "synonyms": [
+        "Travelscene"
+      ]
+    },
+    {
+      "value": "Travelsphere",
+      "synonyms": [
+        "Travelsphere"
+      ]
+    },
+    {
+      "value": "TrekAmerica",
+      "synonyms": [
+        "TrekAmerica"
+      ]
+    },
+    {
+      "value": "Tuscan Holidays",
+      "synonyms": [
+        "Tuscan Holidays"
+      ]
+    },
+    {
+      "value": "Tuscany Now",
+      "synonyms": [
+        "Tuscany Now"
+      ]
+    },
+    {
+      "value": "UK \u0026 Europe by Goway",
+      "synonyms": [
+        "UK \u0026 Europe by Goway"
+      ]
+    },
+    {
+      "value": "United Vacations",
+      "synonyms": [
+        "United Vacations"
+      ]
+    },
+    {
+      "value": "United Vacations Asia",
+      "synonyms": [
+        "United Vacations Asia"
+      ]
+    },
+    {
+      "value": "Uniworld Boutique River Cruise Collection",
+      "synonyms": [
+        "Uniworld Boutique River Cruise Collection"
+      ]
+    },
+    {
+      "value": "VBT Bicycling and Walking Vacations",
+      "synonyms": [
+        "VBT Bicycling and Walking Vacations"
+      ]
+    },
+    {
+      "value": "Vacansoleil",
+      "synonyms": [
+        "Vacansoleil"
+      ]
+    },
+    {
+      "value": "Venice Prestige",
+      "synonyms": [
+        "Venice Prestige"
+      ]
+    },
+    {
+      "value": "Viking Cruises",
+      "synonyms": [
+        "Viking Cruises"
+      ]
+    },
+    {
+      "value": "Viking River Cruises",
+      "synonyms": [
+        "Viking River Cruises"
+      ]
+    },
+    {
+      "value": "Virgin Vacations",
+      "synonyms": [
+        "Virgin Vacations"
+      ]
+    },
+    {
+      "value": "Walt Disney Travel Company",
+      "synonyms": [
+        "Walt Disney Travel Company"
+      ]
+    },
+    {
+      "value": "Wanderforth",
+      "synonyms": [
+        "Wanderforth"
+      ]
+    },
+    {
+      "value": "Wendy Wu Tours",
+      "synonyms": [
+        "Wendy Wu Tours"
+      ]
+    },
+    {
+      "value": "Wilderness Travel",
+      "synonyms": [
+        "Wilderness Travel"
+      ]
+    },
+    {
+      "value": "Wish Sicily",
+      "synonyms": [
+        "Wish Sicily"
+      ]
+    },
+    {
+      "value": "World Class Vacations",
+      "synonyms": [
+        "World Class Vacations"
+      ]
+    },
+    {
+      "value": "WorldStrides",
+      "synonyms": [
+        "WorldStrides"
+      ]
+    },
+    {
+      "value": "WorldStrides Capstone Programs",
+      "synonyms": [
+        "WorldStrides Capstone Programs"
+      ]
+    },
+    {
+      "value": "WorldStrides Discoveries",
+      "synonyms": [
+        "WorldStrides Discoveries"
+      ]
+    },
+    {
+      "value": "WorldStrides Excel",
+      "synonyms": [
+        "WorldStrides Excel"
+      ]
+    },
+    {
+      "value": "WorldStrides Explorica",
+      "synonyms": [
+        "WorldStrides Explorica"
+      ]
+    },
+    {
+      "value": "WorldStrides International Study Abroad",
+      "synonyms": [
+        "WorldStrides International Study Abroad"
+      ]
+    },
+    {
+      "value": "WorldStrides Keating Educational Programs",
+      "synonyms": [
+        "WorldStrides Keating Educational Programs"
+      ]
+    },
+    {
+      "value": "WorldStrides OnStage",
+      "synonyms": [
+        "WorldStrides OnStage"
+      ]
+    },
+    {
+      "value": "WorldStrides Oxbridge Academic",
+      "synonyms": [
+        "WorldStrides Oxbridge Academic"
+      ]
+    },
+    {
+      "value": "WorldStrides Perspectives",
+      "synonyms": [
+        "WorldStrides Perspectives"
+      ]
+    },
+    {
+      "value": "Worldwide Traveler",
+      "synonyms": [
+        "Worldwide Traveler"
+      ]
+    },
+    {
+      "value": "YMT Vacations",
+      "synonyms": [
+        "YMT Vacations"
+      ]
+    },
+    {
+      "value": "Zegrahm Expeditions",
+      "synonyms": [
+        "Zegrahm Expeditions"
+      ]
+    },
+    {
+      "value": "smarTours",
+      "synonyms": [
+        "smarTours"
+      ]
+    },
+    {
+      "value": "smarTours LLC",
+      "synonyms": [
+        "smarTours LLC"
+      ]
+    },
+    {
+      "value": "thinkSicily",
+      "synonyms": [
+        "thinkSicily"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}

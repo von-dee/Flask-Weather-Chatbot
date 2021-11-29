@@ -1,0 +1,99 @@
+{
+  "id": "b13576c4-e17a-4bfa-8c60-e899a63da372",
+  "name": "admin-area",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "@adm-division-za",
+      "synonyms": [
+        "@adm-division-za"
+      ]
+    },
+    {
+      "value": "@adm-division-jp",
+      "synonyms": [
+        "@adm-division-jp"
+      ]
+    },
+    {
+      "value": "@adm-division-us",
+      "synonyms": [
+        "@adm-division-us"
+      ]
+    },
+    {
+      "value": "@adm-division-de",
+      "synonyms": [
+        "@adm-division-de"
+      ]
+    },
+    {
+      "value": "@adm-division-fr",
+      "synonyms": [
+        "@adm-division-fr"
+      ]
+    },
+    {
+      "value": "@adm-division-ru",
+      "synonyms": [
+        "@adm-division-ru"
+      ]
+    },
+    {
+      "value": "@adm-division-kr",
+      "synonyms": [
+        "@adm-division-kr"
+      ]
+    },
+    {
+      "value": "@adm-division-it",
+      "synonyms": [
+        "@adm-division-it"
+      ]
+    },
+    {
+      "value": "@adm-division-es",
+      "synonyms": [
+        "@adm-division-es"
+      ]
+    },
+    {
+      "value": "@adm-division-br",
+      "synonyms": [
+        "@adm-division-br"
+      ]
+    },
+    {
+      "value": "@adm-division-gb",
+      "synonyms": [
+        "@adm-division-gb"
+      ]
+    },
+    {
+      "value": "@adm-division-cn",
+      "synonyms": [
+        "@adm-division-cn"
+      ]
+    },
+    {
+      "value": "@adm-division-ua",
+      "synonyms": [
+        "@adm-division-ua"
+      ]
+    },
+    {
+      "value": "@adm-division-nl",
+      "synonyms": [
+        "@adm-division-nl"
+      ]
+    },
+    {
+      "value": "@adm-division-eg",
+      "synonyms": [
+        "@adm-division-eg"
+      ]
+    }
+  ],
+  "isEnum": true,
+  "automatedExpansion": false
+}

@@ -1,0 +1,119 @@
+{
+  "id": "ec80d914-0a99-48a5-abbb-cb676f830747",
+  "name": "adm-division-kr",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Seoul",
+      "synonyms": [
+        "Seoul"
+      ]
+    },
+    {
+      "value": "Busan",
+      "synonyms": [
+        "Busan"
+      ]
+    },
+    {
+      "value": "Daegu ",
+      "synonyms": [
+        "Daegu "
+      ]
+    },
+    {
+      "value": "Incheon ",
+      "synonyms": [
+        "Incheon "
+      ]
+    },
+    {
+      "value": "Gwangju",
+      "synonyms": [
+        "Gwangju"
+      ]
+    },
+    {
+      "value": "Daejeon",
+      "synonyms": [
+        "Daejeon"
+      ]
+    },
+    {
+      "value": "Ulsan",
+      "synonyms": [
+        "Ulsan"
+      ]
+    },
+    {
+      "value": "Sejong",
+      "synonyms": [
+        "Sejong"
+      ]
+    },
+    {
+      "value": "Gyeonggi",
+      "synonyms": [
+        "Gyeonggi Province",
+        "Gyeonggi"
+      ]
+    },
+    {
+      "value": "Gangwon",
+      "synonyms": [
+        "Gangwon Province",
+        "Gangwon"
+      ]
+    },
+    {
+      "value": "North Chungcheong",
+      "synonyms": [
+        "North Chungcheong Province",
+        "North Chungcheong"
+      ]
+    },
+    {
+      "value": "South Chungcheong",
+      "synonyms": [
+        "South Chungcheong Province",
+        "South Chungcheong"
+      ]
+    },
+    {
+      "value": "North Jeolla",
+      "synonyms": [
+        "North Jeolla Province",
+        "North Jeolla"
+      ]
+    },
+    {
+      "value": "South Jeolla",
+      "synonyms": [
+        "South Jeolla Province",
+        "South Jeolla"
+      ]
+    },
+    {
+      "value": "North Gyeongsang",
+      "synonyms": [
+        "North Gyeongsang Province",
+        "North Gyeongsang"
+      ]
+    },
+    {
+      "value": "South Gyeongsang",
+      "synonyms": [
+        "South Gyeongsang Province",
+        "South Gyeongsang"
+      ]
+    },
+    {
+      "value": "Jeju",
+      "synonyms": [
+        "Jeju"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

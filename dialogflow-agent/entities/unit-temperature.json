@@ -1,0 +1,70 @@
+{
+  "id": "f637a8ec-e72a-4f21-ad4d-e564f1d9d01f",
+  "name": "unit-temperature",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "K",
+      "synonyms": [
+        "degK",
+        "deg K",
+        "Kelvin",
+        "Kelvins",
+        "degre Kelvin",
+        "degree Kelvin",
+        "degree Kelvins",
+        "degrees Kelvin",
+        "degrees Kelvins",
+        "K"
+      ]
+    },
+    {
+      "value": "C",
+      "synonyms": [
+        "degC",
+        "deg C",
+        "degre Celsius",
+        "degree Celsius",
+        "degrees Celsius",
+        "Celsius",
+        "centigrade",
+        "degree centigrade",
+        "degrees centigrade",
+        "Celsius degree",
+        "Celsius degrees",
+        "C"
+      ]
+    },
+    {
+      "value": "F",
+      "synonyms": [
+        "degF",
+        "deg F",
+        "degre Fahrenheit",
+        "degree Fahrenheit",
+        "degrees Fahrenheit",
+        "Fahrenheit",
+        "Fahrenheit degree",
+        "Fahrenheit degrees",
+        "F"
+      ]
+    },
+    {
+      "value": "R",
+      "synonyms": [
+        "degR",
+        "deg R",
+        "degre Rankine",
+        "degree Rankine",
+        "degrees Rankine",
+        "Rankine",
+        "Rankine degree",
+        "Rankine degrees",
+        "R",
+        "Ra"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

@@ -1,0 +1,90 @@
+{
+  "userSays": [
+    {
+      "id": "8c543cdf-a931-4f0f-8742-c881f10ff49a",
+      "data": [
+        {
+          "text": "skiing",
+          "alias": "activity",
+          "meta": "@activity",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e1728c1b-2a55-4500-bc5a-72b080afebe7",
+      "data": [
+        {
+          "text": "and for "
+        },
+        {
+          "text": "skating",
+          "alias": "activity",
+          "meta": "@activity",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "31d762bb-b52e-4e85-ad34-62491884bb4b",
+      "data": [
+        {
+          "text": "what about "
+        },
+        {
+          "text": "swimming",
+          "alias": "activity",
+          "meta": "@activity",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "c713719a-3845-4e23-ab35-82f18128de17",
+  "name": "weather - context:weather - comment:activity",
+  "auto": true,
+  "contexts": [
+    "weather"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "#weather.intent_action",
+      "affectedContexts": [
+        {
+          "name": "weather",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "dataType": "@activity",
+          "name": "activity",
+          "value": "$activity"
+        },
+        {
+          "dataType": "",
+          "name": "address",
+          "value": "#weather.address"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

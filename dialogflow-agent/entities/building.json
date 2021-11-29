@@ -1,0 +1,825 @@
+{
+  "id": "c88e0f78-8f60-4803-9689-dab0bafc9dc1",
+  "name": "building",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "10 Hudson Yards",
+      "synonyms": [
+        "10 Hudson Yards"
+      ]
+    },
+    {
+      "value": "1201 Third Avenue",
+      "synonyms": [
+        "1201 Third Avenue"
+      ]
+    },
+    {
+      "value": "1251 Avenue of the Americas",
+      "synonyms": [
+        "1251 Avenue of the Americas"
+      ]
+    },
+    {
+      "value": "1600 Smith Street",
+      "synonyms": [
+        "1600 Smith Street"
+      ]
+    },
+    {
+      "value": "1717 Broadway",
+      "synonyms": [
+        "1717 Broadway"
+      ]
+    },
+    {
+      "value": "1801 California Street",
+      "synonyms": [
+        "1801 California Street"
+      ]
+    },
+    {
+      "value": "191 Peachtree Tower",
+      "synonyms": [
+        "191 Peachtree Tower"
+      ]
+    },
+    {
+      "value": "20 Exchange Place",
+      "synonyms": [
+        "20 Exchange Place"
+      ]
+    },
+    {
+      "value": "200 Clarendon",
+      "synonyms": [
+        "200 Clarendon"
+      ]
+    },
+    {
+      "value": "200 Vesey Street",
+      "synonyms": [
+        "200 Vesey Street"
+      ]
+    },
+    {
+      "value": "200 West Street",
+      "synonyms": [
+        "200 West Street"
+      ]
+    },
+    {
+      "value": "28 Liberty",
+      "synonyms": [
+        "28 Liberty"
+      ]
+    },
+    {
+      "value": "3 World Trade Center",
+      "synonyms": [
+        "3 World Trade Center"
+      ]
+    },
+    {
+      "value": "30 Park Place",
+      "synonyms": [
+        "30 Park Place"
+      ]
+    },
+    {
+      "value": "300 North LaSalle",
+      "synonyms": [
+        "300 North LaSalle"
+      ]
+    },
+    {
+      "value": "311 South Wacker Drive",
+      "synonyms": [
+        "311 South Wacker Drive"
+      ]
+    },
+    {
+      "value": "383 Madison Avenue",
+      "synonyms": [
+        "383 Madison Avenue"
+      ]
+    },
+    {
+      "value": "432 Park Avenue",
+      "synonyms": [
+        "432 Park Avenue"
+      ]
+    },
+    {
+      "value": "45 East 22nd Street",
+      "synonyms": [
+        "45 East 22nd Street"
+      ]
+    },
+    {
+      "value": "50 West Street",
+      "synonyms": [
+        "50 West Street"
+      ]
+    },
+    {
+      "value": "500 Fifth Avenue",
+      "synonyms": [
+        "500 Fifth Avenue"
+      ]
+    },
+    {
+      "value": "555 California Street",
+      "synonyms": [
+        "555 California Street"
+      ]
+    },
+    {
+      "value": "56 Leonard Street",
+      "synonyms": [
+        "56 Leonard Street"
+      ]
+    },
+    {
+      "value": "60 Wall Street",
+      "synonyms": [
+        "60 Wall Street"
+      ]
+    },
+    {
+      "value": "610 Lexington Avenue",
+      "synonyms": [
+        "610 Lexington Avenue"
+      ]
+    },
+    {
+      "value": "7 World Trade Center",
+      "synonyms": [
+        "7 World Trade Center"
+      ]
+    },
+    {
+      "value": "70 Pine Street",
+      "synonyms": [
+        "70 Pine Street"
+      ]
+    },
+    {
+      "value": "777 Tower",
+      "synonyms": [
+        "777 Tower"
+      ]
+    },
+    {
+      "value": "8 Spruce Street",
+      "synonyms": [
+        "8 Spruce Street"
+      ]
+    },
+    {
+      "value": "900 North Michigan",
+      "synonyms": [
+        "900 North Michigan"
+      ]
+    },
+    {
+      "value": "AXA Equitable Center",
+      "synonyms": [
+        "AXA Equitable Center"
+      ]
+    },
+    {
+      "value": "Aon Center",
+      "synonyms": [
+        "Aon Center"
+      ]
+    },
+    {
+      "value": "Aqua",
+      "synonyms": [
+        "Aqua"
+      ]
+    },
+    {
+      "value": "BNY Mellon Center",
+      "synonyms": [
+        "BNY Mellon Center"
+      ]
+    },
+    {
+      "value": "Bank of America Center",
+      "synonyms": [
+        "Bank of America Center"
+      ]
+    },
+    {
+      "value": "Bank of America Corporate Center",
+      "synonyms": [
+        "Bank of America Corporate Center"
+      ]
+    },
+    {
+      "value": "Bank of America Plaza",
+      "synonyms": [
+        "Bank of America Plaza"
+      ]
+    },
+    {
+      "value": "Bank of America Tower",
+      "synonyms": [
+        "Bank of America Tower"
+      ]
+    },
+    {
+      "value": "Bertelsmann Building",
+      "synonyms": [
+        "Bertelsmann Building"
+      ]
+    },
+    {
+      "value": "Bloomberg Tower",
+      "synonyms": [
+        "Bloomberg Tower"
+      ]
+    },
+    {
+      "value": "Blue Cross Blue Shield Tower",
+      "synonyms": [
+        "Blue Cross Blue Shield Tower"
+      ]
+    },
+    {
+      "value": "Burj Khalifa",
+      "synonyms": [
+        "Burj Khalifa"
+      ]
+    },
+    {
+      "value": "CN Tower",
+      "synonyms": [
+        "CN Tower"
+      ]
+    },
+    {
+      "value": "Capella Tower",
+      "synonyms": [
+        "Capella Tower"
+      ]
+    },
+    {
+      "value": "Carnegie Hall Tower",
+      "synonyms": [
+        "Carnegie Hall Tower"
+      ]
+    },
+    {
+      "value": "CenterPoint Energy Plaza",
+      "synonyms": [
+        "CenterPoint Energy Plaza"
+      ]
+    },
+    {
+      "value": "Chase Tower",
+      "synonyms": [
+        "Chase Tower"
+      ]
+    },
+    {
+      "value": "Chrysler Building",
+      "synonyms": [
+        "Chrysler Building"
+      ]
+    },
+    {
+      "value": "Citigroup Center",
+      "synonyms": [
+        "Citigroup Center"
+      ]
+    },
+    {
+      "value": "CitySpire Center",
+      "synonyms": [
+        "CitySpire Center"
+      ]
+    },
+    {
+      "value": "Columbia Center",
+      "synonyms": [
+        "Columbia Center"
+      ]
+    },
+    {
+      "value": "Comcast Building",
+      "synonyms": [
+        "Comcast Building"
+      ]
+    },
+    {
+      "value": "Comcast Center",
+      "synonyms": [
+        "Comcast Center"
+      ]
+    },
+    {
+      "value": "Comerica Bank Tower",
+      "synonyms": [
+        "Comerica Bank Tower"
+      ]
+    },
+    {
+      "value": "Condé Nast Building",
+      "synonyms": [
+        "Condé Nast Building"
+      ]
+    },
+    {
+      "value": "Detroit Marriott at the Renaissance Center",
+      "synonyms": [
+        "Detroit Marriott at the Renaissance Center"
+      ]
+    },
+    {
+      "value": "Devon Energy Tower",
+      "synonyms": [
+        "Devon Energy Tower"
+      ]
+    },
+    {
+      "value": "Dubai tower",
+      "synonyms": [
+        "Dubai tower"
+      ]
+    },
+    {
+      "value": "Duke Energy Center",
+      "synonyms": [
+        "Duke Energy Center"
+      ]
+    },
+    {
+      "value": "Eiffel Tower",
+      "synonyms": [
+        "Eiffel Tower"
+      ]
+    },
+    {
+      "value": "Empire State Building",
+      "synonyms": [
+        "Empire State Building"
+      ]
+    },
+    {
+      "value": "Empire state building",
+      "synonyms": [
+        "Empire state building"
+      ]
+    },
+    {
+      "value": "Enterprise Plaza",
+      "synonyms": [
+        "Enterprise Plaza"
+      ]
+    },
+    {
+      "value": "Figueroa at Wilshire",
+      "synonyms": [
+        "Figueroa at Wilshire"
+      ]
+    },
+    {
+      "value": "Fontainebleau Resort Las Vegas",
+      "synonyms": [
+        "Fontainebleau Resort Las Vegas"
+      ]
+    },
+    {
+      "value": "Fountain Place",
+      "synonyms": [
+        "Fountain Place"
+      ]
+    },
+    {
+      "value": "Four Seasons Hotel \u0026 Tower",
+      "synonyms": [
+        "Four Seasons Hotel \u0026 Tower"
+      ]
+    },
+    {
+      "value": "Four World Trade Center",
+      "synonyms": [
+        "Four World Trade Center"
+      ]
+    },
+    {
+      "value": "Franklin Center",
+      "synonyms": [
+        "Franklin Center"
+      ]
+    },
+    {
+      "value": "Freedom tower",
+      "synonyms": [
+        "Freedom tower"
+      ]
+    },
+    {
+      "value": "Fulbright Tower",
+      "synonyms": [
+        "Fulbright Tower"
+      ]
+    },
+    {
+      "value": "Gas Company Tower",
+      "synonyms": [
+        "Gas Company Tower"
+      ]
+    },
+    {
+      "value": "General Motors Building",
+      "synonyms": [
+        "General Motors Building"
+      ]
+    },
+    {
+      "value": "Golden gate bridge",
+      "synonyms": [
+        "Golden gate bridge"
+      ]
+    },
+    {
+      "value": "Goldman Sachs Tower",
+      "synonyms": [
+        "Goldman Sachs Tower"
+      ]
+    },
+    {
+      "value": "Grant Thornton Tower",
+      "synonyms": [
+        "Grant Thornton Tower"
+      ]
+    },
+    {
+      "value": "Heritage Plaza",
+      "synonyms": [
+        "Heritage Plaza"
+      ]
+    },
+    {
+      "value": "IDS Tower",
+      "synonyms": [
+        "IDS Tower"
+      ]
+    },
+    {
+      "value": "JPMorgan Chase Tower",
+      "synonyms": [
+        "JPMorgan Chase Tower"
+      ]
+    },
+    {
+      "value": "JPMorgan Chase World Headquarters",
+      "synonyms": [
+        "JPMorgan Chase World Headquarters"
+      ]
+    },
+    {
+      "value": "Jefferson memorial building",
+      "synonyms": [
+        "Jefferson memorial building"
+      ]
+    },
+    {
+      "value": "John Hancock Center",
+      "synonyms": [
+        "John Hancock Center"
+      ]
+    },
+    {
+      "value": "Key Tower",
+      "synonyms": [
+        "Key Tower"
+      ]
+    },
+    {
+      "value": "MetLife Building",
+      "synonyms": [
+        "MetLife Building"
+      ]
+    },
+    {
+      "value": "Metropolitan Life Insurance Company Tower",
+      "synonyms": [
+        "Metropolitan Life Insurance Company Tower"
+      ]
+    },
+    {
+      "value": "Metropolitan Tower",
+      "synonyms": [
+        "Metropolitan Tower"
+      ]
+    },
+    {
+      "value": "Olympia Centre",
+      "synonyms": [
+        "Olympia Centre"
+      ]
+    },
+    {
+      "value": "One Astor Plaza",
+      "synonyms": [
+        "One Astor Plaza"
+      ]
+    },
+    {
+      "value": "One Atlantic Center",
+      "synonyms": [
+        "One Atlantic Center"
+      ]
+    },
+    {
+      "value": "One Liberty Place",
+      "synonyms": [
+        "One Liberty Place"
+      ]
+    },
+    {
+      "value": "One Liberty Plaza",
+      "synonyms": [
+        "One Liberty Plaza"
+      ]
+    },
+    {
+      "value": "One Museum Park",
+      "synonyms": [
+        "One Museum Park"
+      ]
+    },
+    {
+      "value": "One Penn Plaza",
+      "synonyms": [
+        "One Penn Plaza"
+      ]
+    },
+    {
+      "value": "One Shell Plaza",
+      "synonyms": [
+        "One Shell Plaza"
+      ]
+    },
+    {
+      "value": "One World Trade Center",
+      "synonyms": [
+        "One World Trade Center"
+      ]
+    },
+    {
+      "value": "One Worldwide Plaza",
+      "synonyms": [
+        "One Worldwide Plaza"
+      ]
+    },
+    {
+      "value": "One57",
+      "synonyms": [
+        "One57"
+      ]
+    },
+    {
+      "value": "Park Tower",
+      "synonyms": [
+        "Park Tower"
+      ]
+    },
+    {
+      "value": "Prudential Tower",
+      "synonyms": [
+        "Prudential Tower"
+      ]
+    },
+    {
+      "value": "RSA Battle House Tower",
+      "synonyms": [
+        "RSA Battle House Tower"
+      ]
+    },
+    {
+      "value": "Renaissance Tower",
+      "synonyms": [
+        "Renaissance Tower"
+      ]
+    },
+    {
+      "value": "Republic Plaza",
+      "synonyms": [
+        "Republic Plaza"
+      ]
+    },
+    {
+      "value": "Revel Casino",
+      "synonyms": [
+        "Revel Casino"
+      ]
+    },
+    {
+      "value": "River Point",
+      "synonyms": [
+        "River Point"
+      ]
+    },
+    {
+      "value": "Seattle Municipal Tower",
+      "synonyms": [
+        "Seattle Municipal Tower"
+      ]
+    },
+    {
+      "value": "Southeast Financial Center",
+      "synonyms": [
+        "Southeast Financial Center"
+      ]
+    },
+    {
+      "value": "Space needle",
+      "synonyms": [
+        "Space needle"
+      ]
+    },
+    {
+      "value": "SunTrust Plaza",
+      "synonyms": [
+        "SunTrust Plaza"
+      ]
+    },
+    {
+      "value": "Terminal Tower",
+      "synonyms": [
+        "Terminal Tower"
+      ]
+    },
+    {
+      "value": "The Legacy at Millennium Park",
+      "synonyms": [
+        "The Legacy at Millennium Park"
+      ]
+    },
+    {
+      "value": "The New York Times Building",
+      "synonyms": [
+        "The New York Times Building"
+      ]
+    },
+    {
+      "value": "The Trump Building",
+      "synonyms": [
+        "The Trump Building"
+      ]
+    },
+    {
+      "value": "Three First National Plaza",
+      "synonyms": [
+        "Three First National Plaza"
+      ]
+    },
+    {
+      "value": "Three Logan Square",
+      "synonyms": [
+        "Three Logan Square"
+      ]
+    },
+    {
+      "value": "Time Warner Center Tower North Tower",
+      "synonyms": [
+        "Time Warner Center Tower North Tower"
+      ]
+    },
+    {
+      "value": "Time Warner Center Tower South Tower",
+      "synonyms": [
+        "Time Warner Center Tower South Tower"
+      ]
+    },
+    {
+      "value": "Times Square Tower",
+      "synonyms": [
+        "Times Square Tower"
+      ]
+    },
+    {
+      "value": "Transamerica Pyramid",
+      "synonyms": [
+        "Transamerica Pyramid"
+      ]
+    },
+    {
+      "value": "Trump International Hotel and Tower",
+      "synonyms": [
+        "Trump International Hotel and Tower"
+      ]
+    },
+    {
+      "value": "Trump World Tower",
+      "synonyms": [
+        "Trump World Tower"
+      ]
+    },
+    {
+      "value": "Two California Plaza",
+      "synonyms": [
+        "Two California Plaza"
+      ]
+    },
+    {
+      "value": "Two Liberty Place",
+      "synonyms": [
+        "Two Liberty Place"
+      ]
+    },
+    {
+      "value": "Two Prudential Plaza",
+      "synonyms": [
+        "Two Prudential Plaza"
+      ]
+    },
+    {
+      "value": "Two Union Square",
+      "synonyms": [
+        "Two Union Square"
+      ]
+    },
+    {
+      "value": "U.S. Bank Tower",
+      "synonyms": [
+        "U.S. Bank Tower"
+      ]
+    },
+    {
+      "value": "U.S. Steel Tower",
+      "synonyms": [
+        "U.S. Steel Tower"
+      ]
+    },
+    {
+      "value": "URL Harborside Tower I",
+      "synonyms": [
+        "URL Harborside Tower I"
+      ]
+    },
+    {
+      "value": "Water Tower Place",
+      "synonyms": [
+        "Water Tower Place"
+      ]
+    },
+    {
+      "value": "Wells Fargo Center",
+      "synonyms": [
+        "Wells Fargo Center"
+      ]
+    },
+    {
+      "value": "Wells Fargo Plaza",
+      "synonyms": [
+        "Wells Fargo Plaza"
+      ]
+    },
+    {
+      "value": "Wells Fargo Tower",
+      "synonyms": [
+        "Wells Fargo Tower"
+      ]
+    },
+    {
+      "value": "Westin Peachtree Plaza Hotel",
+      "synonyms": [
+        "Westin Peachtree Plaza Hotel"
+      ]
+    },
+    {
+      "value": "Williams Tower",
+      "synonyms": [
+        "Williams Tower"
+      ]
+    },
+    {
+      "value": "Willis Tower",
+      "synonyms": [
+        "Willis Tower"
+      ]
+    },
+    {
+      "value": "Wilshire Grand Center",
+      "synonyms": [
+        "Wilshire Grand Center"
+      ]
+    },
+    {
+      "value": "Woolworth Building",
+      "synonyms": [
+        "Woolworth Building"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

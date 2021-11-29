@@ -1,0 +1,177 @@
+{
+  "id": "cd750a01-6061-47a3-8811-9f25f30af27c",
+  "name": "adm-division-br",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Paraná",
+      "synonyms": [
+        "Paraná"
+      ]
+    },
+    {
+      "value": "Alagoas",
+      "synonyms": [
+        "Alagoas"
+      ]
+    },
+    {
+      "value": "Mato Grosso",
+      "synonyms": [
+        "Mato Grosso"
+      ]
+    },
+    {
+      "value": "Paraíba",
+      "synonyms": [
+        "Paraíba"
+      ]
+    },
+    {
+      "value": "Pernambuco",
+      "synonyms": [
+        "Pernambuco"
+      ]
+    },
+    {
+      "value": "Piauí",
+      "synonyms": [
+        "Piauí"
+      ]
+    },
+    {
+      "value": "Rio Grande do Norte",
+      "synonyms": [
+        "Rio Grande do Norte"
+      ]
+    },
+    {
+      "value": "Acre",
+      "synonyms": [
+        "Acre"
+      ]
+    },
+    {
+      "value": "Amazonas",
+      "synonyms": [
+        "Amazonas"
+      ]
+    },
+    {
+      "value": "Bahia",
+      "synonyms": [
+        "Bahia"
+      ]
+    },
+    {
+      "value": "Santa Catarina",
+      "synonyms": [
+        "Santa Catarina"
+      ]
+    },
+    {
+      "value": "Guanabara",
+      "synonyms": [
+        "Guanabara"
+      ]
+    },
+    {
+      "value": "Maranhão",
+      "synonyms": [
+        "Maranhão"
+      ]
+    },
+    {
+      "value": "São Paulo",
+      "synonyms": [
+        "São Paulo"
+      ]
+    },
+    {
+      "value": "Rio Grande do Sul",
+      "synonyms": [
+        "Rio Grande do Sul"
+      ]
+    },
+    {
+      "value": "Pará",
+      "synonyms": [
+        "Pará"
+      ]
+    },
+    {
+      "value": "Rio de Janeiro",
+      "synonyms": [
+        "Rio de Janeiro"
+      ]
+    },
+    {
+      "value": "Amapá",
+      "synonyms": [
+        "Amapá"
+      ]
+    },
+    {
+      "value": "Goiás",
+      "synonyms": [
+        "Goiás"
+      ]
+    },
+    {
+      "value": "Rondônia",
+      "synonyms": [
+        "Rondônia"
+      ]
+    },
+    {
+      "value": "Espírito Santo",
+      "synonyms": [
+        "Espírito Santo"
+      ]
+    },
+    {
+      "value": "Ceará",
+      "synonyms": [
+        "Ceará"
+      ]
+    },
+    {
+      "value": "Roraima",
+      "synonyms": [
+        "Roraima"
+      ]
+    },
+    {
+      "value": "Mato Grosso do Sul",
+      "synonyms": [
+        "Mato Grosso do Sul"
+      ]
+    },
+    {
+      "value": "Minas Gerais",
+      "synonyms": [
+        "Minas Gerais"
+      ]
+    },
+    {
+      "value": "Tocantins",
+      "synonyms": [
+        "Tocantins"
+      ]
+    },
+    {
+      "value": "Sergipe",
+      "synonyms": [
+        "Sergipe"
+      ]
+    },
+    {
+      "value": "Federal District",
+      "synonyms": [
+        "Federal District"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

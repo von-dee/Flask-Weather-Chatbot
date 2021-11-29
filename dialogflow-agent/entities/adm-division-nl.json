@@ -1,0 +1,87 @@
+{
+  "id": "f8af1cc7-5178-4149-936c-a77d8daba73b",
+  "name": "adm-division-nl",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "South Holland",
+      "synonyms": [
+        "South Holland"
+      ]
+    },
+    {
+      "value": "North Holland",
+      "synonyms": [
+        "North Holland"
+      ]
+    },
+    {
+      "value": "Zeeland",
+      "synonyms": [
+        "Zeeland"
+      ]
+    },
+    {
+      "value": "Flevoland",
+      "synonyms": [
+        "Flevoland"
+      ]
+    },
+    {
+      "value": "Groningen",
+      "synonyms": [
+        "Groningen"
+      ]
+    },
+    {
+      "value": "Friesland",
+      "synonyms": [
+        "Friesland"
+      ]
+    },
+    {
+      "value": "Drenthe",
+      "synonyms": [
+        "Drenthe"
+      ]
+    },
+    {
+      "value": "Overijssel",
+      "synonyms": [
+        "Overijssel"
+      ]
+    },
+    {
+      "value": "Gelderland",
+      "synonyms": [
+        "Gelderland"
+      ]
+    },
+    {
+      "value": "Utrecht",
+      "synonyms": [
+        "Utrecht"
+      ]
+    },
+    {
+      "value": "Limburg",
+      "synonyms": [
+        "Limburg"
+      ]
+    },
+    {
+      "value": "North Brabant",
+      "synonyms": [
+        "North Brabant"
+      ]
+    },
+    {
+      "value": "Duchy of Limburg",
+      "synonyms": [
+        "Duchy of Limburg"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

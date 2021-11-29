@@ -1,0 +1,4203 @@
+{
+  "id": "ffb60bde-7e6f-4970-88d0-de5b9bbd9502",
+  "name": "venue-medical-title",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "A.O. Fox Memorial Hospital Oneonta",
+      "synonyms": [
+        "A.O. Fox Memorial Hospital Oneonta"
+      ]
+    },
+    {
+      "value": "Adirondack Medical Center Lake Placid",
+      "synonyms": [
+        "Adirondack Medical Center Lake Placid"
+      ]
+    },
+    {
+      "value": "Adirondack Medical Center Saranac Lake",
+      "synonyms": [
+        "Adirondack Medical Center Saranac Lake"
+      ]
+    },
+    {
+      "value": "Adventist Medical Center",
+      "synonyms": [
+        "Adventist Medical Center"
+      ]
+    },
+    {
+      "value": "Alameda Hospital",
+      "synonyms": [
+        "Alameda Hospital"
+      ]
+    },
+    {
+      "value": "Albany Medical Center Albany",
+      "synonyms": [
+        "Albany Medical Center Albany"
+      ]
+    },
+    {
+      "value": "Albany Memorial Hospital Albany",
+      "synonyms": [
+        "Albany Memorial Hospital Albany"
+      ]
+    },
+    {
+      "value": "Alhambra Hospital Medical Center",
+      "synonyms": [
+        "Alhambra Hospital Medical Center"
+      ]
+    },
+    {
+      "value": "Alice Hyde Medical Center Malone",
+      "synonyms": [
+        "Alice Hyde Medical Center Malone"
+      ]
+    },
+    {
+      "value": "Alta Bates Summit Medical Center",
+      "synonyms": [
+        "Alta Bates Summit Medical Center"
+      ]
+    },
+    {
+      "value": "Alvarado Hospital Medical Center",
+      "synonyms": [
+        "Alvarado Hospital Medical Center"
+      ]
+    },
+    {
+      "value": "Amsterdam Memorial Hospital Amsterdam",
+      "synonyms": [
+        "Amsterdam Memorial Hospital Amsterdam"
+      ]
+    },
+    {
+      "value": "Anaheim General Hospital",
+      "synonyms": [
+        "Anaheim General Hospital"
+      ]
+    },
+    {
+      "value": "Anaheim Regional Medical Center",
+      "synonyms": [
+        "Anaheim Regional Medical Center"
+      ]
+    },
+    {
+      "value": "Angel View Children\u0027s Hospital",
+      "synonyms": [
+        "Angel View Children\u0027s Hospital"
+      ]
+    },
+    {
+      "value": "Antelope Valley Hospital Medical Center",
+      "synonyms": [
+        "Antelope Valley Hospital Medical Center"
+      ]
+    },
+    {
+      "value": "Arden Hill Hospital Goshen",
+      "synonyms": [
+        "Arden Hill Hospital Goshen"
+      ]
+    },
+    {
+      "value": "Arnot Ogden Medical Center Elmira",
+      "synonyms": [
+        "Arnot Ogden Medical Center Elmira"
+      ]
+    },
+    {
+      "value": "Arrowhead Regional Medical Center",
+      "synonyms": [
+        "Arrowhead Regional Medical Center"
+      ]
+    },
+    {
+      "value": "Arroyo Grande Community Hospital",
+      "synonyms": [
+        "Arroyo Grande Community Hospital"
+      ]
+    },
+    {
+      "value": "Atascadero State Hospital",
+      "synonyms": [
+        "Atascadero State Hospital"
+      ]
+    },
+    {
+      "value": "Auburn Community Hospital Auburn",
+      "synonyms": [
+        "Auburn Community Hospital Auburn"
+      ]
+    },
+    {
+      "value": "Avalon Municipal Hospital",
+      "synonyms": [
+        "Avalon Municipal Hospital"
+      ]
+    },
+    {
+      "value": "Ayesha Hospital",
+      "synonyms": [
+        "Ayesha Hospital"
+      ]
+    },
+    {
+      "value": "Bakersfield Heart Hospital",
+      "synonyms": [
+        "Bakersfield Heart Hospital"
+      ]
+    },
+    {
+      "value": "Bakersfield Memorial Hospital",
+      "synonyms": [
+        "Bakersfield Memorial Hospital"
+      ]
+    },
+    {
+      "value": "Baldwin Park Hospital",
+      "synonyms": [
+        "Baldwin Park Hospital"
+      ]
+    },
+    {
+      "value": "Banner Lassen Medical Center",
+      "synonyms": [
+        "Banner Lassen Medical Center"
+      ]
+    },
+    {
+      "value": "Barlow Respiratory Hospital",
+      "synonyms": [
+        "Barlow Respiratory Hospital"
+      ]
+    },
+    {
+      "value": "Barstow Community Hospital",
+      "synonyms": [
+        "Barstow Community Hospital"
+      ]
+    },
+    {
+      "value": "Barton Memorial Hospital",
+      "synonyms": [
+        "Barton Memorial Hospital"
+      ]
+    },
+    {
+      "value": "Bassett Hospital Of Schoharie County Cobleskill",
+      "synonyms": [
+        "Bassett Hospital Of Schoharie County Cobleskill"
+      ]
+    },
+    {
+      "value": "Bath Va Medical Center",
+      "synonyms": [
+        "Bath Va Medical Center"
+      ]
+    },
+    {
+      "value": "Bayley Seton Hospital Staten Island",
+      "synonyms": [
+        "Bayley Seton Hospital Staten Island"
+      ]
+    },
+    {
+      "value": "Bayview Hospital",
+      "synonyms": [
+        "Bayview Hospital"
+      ]
+    },
+    {
+      "value": "Beacon Center Buffalo",
+      "synonyms": [
+        "Beacon Center Buffalo"
+      ]
+    },
+    {
+      "value": "Bear Valley Community Hospital",
+      "synonyms": [
+        "Bear Valley Community Hospital"
+      ]
+    },
+    {
+      "value": "Behavioral Health Center at Westchester Medical Center Valhalla",
+      "synonyms": [
+        "Behavioral Health Center at Westchester Medical Center Valhalla"
+      ]
+    },
+    {
+      "value": "Bellevue Hospital Center New York",
+      "synonyms": [
+        "Bellevue Hospital Center New York"
+      ]
+    },
+    {
+      "value": "Bellevue Women\u0027s Hospital Schenectady",
+      "synonyms": [
+        "Bellevue Women\u0027s Hospital Schenectady"
+      ]
+    },
+    {
+      "value": "Bellflower Medical Center",
+      "synonyms": [
+        "Bellflower Medical Center"
+      ]
+    },
+    {
+      "value": "Benedictine Hospital Kingston",
+      "synonyms": [
+        "Benedictine Hospital Kingston"
+      ]
+    },
+    {
+      "value": "Bertrand Chaffee Hospital Springville",
+      "synonyms": [
+        "Bertrand Chaffee Hospital Springville"
+      ]
+    },
+    {
+      "value": "Beth Israel Medical Center New York",
+      "synonyms": [
+        "Beth Israel Medical Center New York"
+      ]
+    },
+    {
+      "value": "Beverly Hospital",
+      "synonyms": [
+        "Beverly Hospital"
+      ]
+    },
+    {
+      "value": "Biggs-Gridley Memorial Hospital",
+      "synonyms": [
+        "Biggs-Gridley Memorial Hospital"
+      ]
+    },
+    {
+      "value": "Binghamton Psychiatric Center Binghamton",
+      "synonyms": [
+        "Binghamton Psychiatric Center Binghamton"
+      ]
+    },
+    {
+      "value": "Birmingham Urgent Care",
+      "synonyms": [
+        "Birmingham Urgent Care"
+      ]
+    },
+    {
+      "value": "Blythedale Children\u0027s Hospital Valhalla",
+      "synonyms": [
+        "Blythedale Children\u0027s Hospital Valhalla"
+      ]
+    },
+    {
+      "value": "Bridge to Wellness",
+      "synonyms": [
+        "Bridge to Wellness"
+      ]
+    },
+    {
+      "value": "Bronx Psychiatric Center",
+      "synonyms": [
+        "Bronx Psychiatric Center"
+      ]
+    },
+    {
+      "value": "Bronx Veterans Administration Medical Center",
+      "synonyms": [
+        "Bronx Veterans Administration Medical Center"
+      ]
+    },
+    {
+      "value": "Bronx-Lebanon Hospital Center Bronx",
+      "synonyms": [
+        "Bronx-Lebanon Hospital Center Bronx"
+      ]
+    },
+    {
+      "value": "Brookdale Hospital Medical Center Brooklyn",
+      "synonyms": [
+        "Brookdale Hospital Medical Center Brooklyn"
+      ]
+    },
+    {
+      "value": "Brookhaven Memorial Hospital Medical Center Inc Patchogue",
+      "synonyms": [
+        "Brookhaven Memorial Hospital Medical Center Inc Patchogue"
+      ]
+    },
+    {
+      "value": "Brooklyn Campus Of The VA NY Harbor Healthcare System",
+      "synonyms": [
+        "Brooklyn Campus Of The VA NY Harbor Healthcare System"
+      ]
+    },
+    {
+      "value": "Brooklyn Children\u0027s Psychiatric Center",
+      "synonyms": [
+        "Brooklyn Children\u0027s Psychiatric Center"
+      ]
+    },
+    {
+      "value": "Brooklyn Hospital Center Brooklyn",
+      "synonyms": [
+        "Brooklyn Hospital Center Brooklyn"
+      ]
+    },
+    {
+      "value": "Brooks Memorial Hospital Dunkirk",
+      "synonyms": [
+        "Brooks Memorial Hospital Dunkirk"
+      ]
+    },
+    {
+      "value": "Brotman Medical Center",
+      "synonyms": [
+        "Brotman Medical Center"
+      ]
+    },
+    {
+      "value": "Brunswick Hospital Center Inc Amityville New York",
+      "synonyms": [
+        "Brunswick Hospital Center Inc Amityville New York"
+      ]
+    },
+    {
+      "value": "Buffalo General Hospital Buffalo",
+      "synonyms": [
+        "Buffalo General Hospital Buffalo"
+      ]
+    },
+    {
+      "value": "Buffalo Niagara Medical Campus Buffalo",
+      "synonyms": [
+        "Buffalo Niagara Medical Campus Buffalo"
+      ]
+    },
+    {
+      "value": "Burbank Community Hospital",
+      "synonyms": [
+        "Burbank Community Hospital"
+      ]
+    },
+    {
+      "value": "Burke Rehabilitation Hospital White Plains",
+      "synonyms": [
+        "Burke Rehabilitation Hospital White Plains"
+      ]
+    },
+    {
+      "value": "Calexico Health Center",
+      "synonyms": [
+        "Calexico Health Center"
+      ]
+    },
+    {
+      "value": "California Hospital Medical Center",
+      "synonyms": [
+        "California Hospital Medical Center"
+      ]
+    },
+    {
+      "value": "California Pacific Medical Center",
+      "synonyms": [
+        "California Pacific Medical Center"
+      ]
+    },
+    {
+      "value": "California Park Rehabilitation Hospital",
+      "synonyms": [
+        "California Park Rehabilitation Hospital"
+      ]
+    },
+    {
+      "value": "California Specialty Hospital",
+      "synonyms": [
+        "California Specialty Hospital"
+      ]
+    },
+    {
+      "value": "Calvary Hospital Bronx NYC",
+      "synonyms": [
+        "Calvary Hospital Bronx NYC"
+      ]
+    },
+    {
+      "value": "Camarillo State Mental Hospital",
+      "synonyms": [
+        "Camarillo State Mental Hospital"
+      ]
+    },
+    {
+      "value": "Canandaigua VA Medical Center",
+      "synonyms": [
+        "Canandaigua VA Medical Center"
+      ]
+    },
+    {
+      "value": "Canton-Potsdam Hospital Potsdam",
+      "synonyms": [
+        "Canton-Potsdam Hospital Potsdam"
+      ]
+    },
+    {
+      "value": "Capital District Psychiatric Center",
+      "synonyms": [
+        "Capital District Psychiatric Center"
+      ]
+    },
+    {
+      "value": "Carthage Area Hospital Inc Carthage",
+      "synonyms": [
+        "Carthage Area Hospital Inc Carthage"
+      ]
+    },
+    {
+      "value": "Casa Colina Hospital For Rehab Medicine",
+      "synonyms": [
+        "Casa Colina Hospital For Rehab Medicine"
+      ]
+    },
+    {
+      "value": "Castle Point Campus Of The VA Hudson Valley Healthcare System",
+      "synonyms": [
+        "Castle Point Campus Of The VA Hudson Valley Healthcare System"
+      ]
+    },
+    {
+      "value": "Catskill Regional Medical Center Callicoon",
+      "synonyms": [
+        "Catskill Regional Medical Center Callicoon"
+      ]
+    },
+    {
+      "value": "Catskill Regional Medical Center Harris",
+      "synonyms": [
+        "Catskill Regional Medical Center Harris"
+      ]
+    },
+    {
+      "value": "Cayuga Medical Center at Ithaca Ithaca",
+      "synonyms": [
+        "Cayuga Medical Center at Ithaca Ithaca"
+      ]
+    },
+    {
+      "value": "Cedars-Sinai Medical Center",
+      "synonyms": [
+        "Cedars-Sinai Medical Center"
+      ]
+    },
+    {
+      "value": "Centinela Freeman Regional Medical Center Centinela Campus",
+      "synonyms": [
+        "Centinela Freeman Regional Medical Center Centinela Campus"
+      ]
+    },
+    {
+      "value": "Centinela Freeman Regional Medical Center Marina Campus",
+      "synonyms": [
+        "Centinela Freeman Regional Medical Center Marina Campus"
+      ]
+    },
+    {
+      "value": "Central New York Psychiatric Center",
+      "synonyms": [
+        "Central New York Psychiatric Center"
+      ]
+    },
+    {
+      "value": "Central Suffolk Hospital Riverhead",
+      "synonyms": [
+        "Central Suffolk Hospital Riverhead"
+      ]
+    },
+    {
+      "value": "Central Valley General Hospital",
+      "synonyms": [
+        "Central Valley General Hospital"
+      ]
+    },
+    {
+      "value": "Century City Hospital",
+      "synonyms": [
+        "Century City Hospital"
+      ]
+    },
+    {
+      "value": "Champlain Valley Physicians Hospital Medical Ctr Plattsburgh",
+      "synonyms": [
+        "Champlain Valley Physicians Hospital Medical Ctr Plattsburgh"
+      ]
+    },
+    {
+      "value": "Chapman Medical Center",
+      "synonyms": [
+        "Chapman Medical Center"
+      ]
+    },
+    {
+      "value": "Children\u0027s Hospital Los Angeles",
+      "synonyms": [
+        "Children\u0027s Hospital Los Angeles"
+      ]
+    },
+    {
+      "value": "Children\u0027s Hospital Oakland",
+      "synonyms": [
+        "Children\u0027s Hospital Oakland"
+      ]
+    },
+    {
+      "value": "Children\u0027s Hospital and Health Center",
+      "synonyms": [
+        "Children\u0027s Hospital and Health Center"
+      ]
+    },
+    {
+      "value": "Children\u0027s Hospital at Mission",
+      "synonyms": [
+        "Children\u0027s Hospital at Mission"
+      ]
+    },
+    {
+      "value": "Children\u0027s Hospital of Buffalo Buffalo",
+      "synonyms": [
+        "Children\u0027s Hospital of Buffalo Buffalo"
+      ]
+    },
+    {
+      "value": "Children\u0027s Hospital of Central California",
+      "synonyms": [
+        "Children\u0027s Hospital of Central California"
+      ]
+    },
+    {
+      "value": "Children\u0027s Hospital of Orange County",
+      "synonyms": [
+        "Children\u0027s Hospital of Orange County"
+      ]
+    },
+    {
+      "value": "Children\u0027s Hospital of San Diego",
+      "synonyms": [
+        "Children\u0027s Hospital of San Diego"
+      ]
+    },
+    {
+      "value": "Chino Valley Medical Center",
+      "synonyms": [
+        "Chino Valley Medical Center"
+      ]
+    },
+    {
+      "value": "Citrus Valley Medical Center",
+      "synonyms": [
+        "Citrus Valley Medical Center"
+      ]
+    },
+    {
+      "value": "City of Hope National Medical Center",
+      "synonyms": [
+        "City of Hope National Medical Center"
+      ]
+    },
+    {
+      "value": "Claxton - Hepburn Medical Center",
+      "synonyms": [
+        "Claxton - Hepburn Medical Center"
+      ]
+    },
+    {
+      "value": "Cleveland Clinic",
+      "synonyms": [
+        "Cleveland Clinic"
+      ]
+    },
+    {
+      "value": "Clifton Springs Hospital \u0026 Clinic Clifton Springs",
+      "synonyms": [
+        "Clifton Springs Hospital \u0026 Clinic Clifton Springs"
+      ]
+    },
+    {
+      "value": "Clifton-Fine Hospital",
+      "synonyms": [
+        "Clifton-Fine Hospital"
+      ]
+    },
+    {
+      "value": "Coalinga Regional Medical Center",
+      "synonyms": [
+        "Coalinga Regional Medical Center"
+      ]
+    },
+    {
+      "value": "Coalinga State Hospital",
+      "synonyms": [
+        "Coalinga State Hospital"
+      ]
+    },
+    {
+      "value": "Coastal Communities Hospital",
+      "synonyms": [
+        "Coastal Communities Hospital"
+      ]
+    },
+    {
+      "value": "Coler-Goldwater Specialty Hospital New York",
+      "synonyms": [
+        "Coler-Goldwater Specialty Hospital New York"
+      ]
+    },
+    {
+      "value": "College Hospital",
+      "synonyms": [
+        "College Hospital"
+      ]
+    },
+    {
+      "value": "College Hospital Costa Mesa",
+      "synonyms": [
+        "College Hospital Costa Mesa"
+      ]
+    },
+    {
+      "value": "College Medical Center",
+      "synonyms": [
+        "College Medical Center"
+      ]
+    },
+    {
+      "value": "Colorado River Medical Center",
+      "synonyms": [
+        "Colorado River Medical Center"
+      ]
+    },
+    {
+      "value": "Columbia Memorial Hospital Hudson",
+      "synonyms": [
+        "Columbia Memorial Hospital Hudson"
+      ]
+    },
+    {
+      "value": "Colusa Regional Medical Center",
+      "synonyms": [
+        "Colusa Regional Medical Center"
+      ]
+    },
+    {
+      "value": "Community General Hospital Syracuse",
+      "synonyms": [
+        "Community General Hospital Syracuse"
+      ]
+    },
+    {
+      "value": "Community Hospital at Dobbs Ferry Dobbs Ferry",
+      "synonyms": [
+        "Community Hospital at Dobbs Ferry Dobbs Ferry"
+      ]
+    },
+    {
+      "value": "Community Hospital of Gardena",
+      "synonyms": [
+        "Community Hospital of Gardena"
+      ]
+    },
+    {
+      "value": "Community Hospital of Huntington Park",
+      "synonyms": [
+        "Community Hospital of Huntington Park"
+      ]
+    },
+    {
+      "value": "Community Hospital of Long Beach",
+      "synonyms": [
+        "Community Hospital of Long Beach"
+      ]
+    },
+    {
+      "value": "Community Hospital of Los Gatos",
+      "synonyms": [
+        "Community Hospital of Los Gatos"
+      ]
+    },
+    {
+      "value": "Community Hospital of San Bernardino",
+      "synonyms": [
+        "Community Hospital of San Bernardino"
+      ]
+    },
+    {
+      "value": "Community Hospital of the Monterey Peninsula",
+      "synonyms": [
+        "Community Hospital of the Monterey Peninsula"
+      ]
+    },
+    {
+      "value": "Community Medical Center-Clovis",
+      "synonyms": [
+        "Community Medical Center-Clovis"
+      ]
+    },
+    {
+      "value": "Community Memorial Hospital",
+      "synonyms": [
+        "Community Memorial Hospital"
+      ]
+    },
+    {
+      "value": "Community Memorial Hospital Inc Hamilton",
+      "synonyms": [
+        "Community Memorial Hospital Inc Hamilton"
+      ]
+    },
+    {
+      "value": "Community Regional Medical Center",
+      "synonyms": [
+        "Community Regional Medical Center"
+      ]
+    },
+    {
+      "value": "Coney Island Hospital Brooklyn",
+      "synonyms": [
+        "Coney Island Hospital Brooklyn"
+      ]
+    },
+    {
+      "value": "Contra Costa Regional Medical Center",
+      "synonyms": [
+        "Contra Costa Regional Medical Center"
+      ]
+    },
+    {
+      "value": "Corcoran District Hospital",
+      "synonyms": [
+        "Corcoran District Hospital"
+      ]
+    },
+    {
+      "value": "Corning Hospital Corning",
+      "synonyms": [
+        "Corning Hospital Corning"
+      ]
+    },
+    {
+      "value": "Cornwall Hospital Cornwall",
+      "synonyms": [
+        "Cornwall Hospital Cornwall"
+      ]
+    },
+    {
+      "value": "Corona Regional Medical Center",
+      "synonyms": [
+        "Corona Regional Medical Center"
+      ]
+    },
+    {
+      "value": "Cortland Regional Medical Center Cortland",
+      "synonyms": [
+        "Cortland Regional Medical Center Cortland"
+      ]
+    },
+    {
+      "value": "Cottage Children\u0027s Hospital",
+      "synonyms": [
+        "Cottage Children\u0027s Hospital"
+      ]
+    },
+    {
+      "value": "County Hospital",
+      "synonyms": [
+        "County Hospital"
+      ]
+    },
+    {
+      "value": "Creedmoor Psychiatric Center Queens Village Queens",
+      "synonyms": [
+        "Creedmoor Psychiatric Center Queens Village Queens"
+      ]
+    },
+    {
+      "value": "Crouse Hospital Syracuse",
+      "synonyms": [
+        "Crouse Hospital Syracuse"
+      ]
+    },
+    {
+      "value": "Cuba Memorial Hospital",
+      "synonyms": [
+        "Cuba Memorial Hospital"
+      ]
+    },
+    {
+      "value": "Dameron Hospital",
+      "synonyms": [
+        "Dameron Hospital"
+      ]
+    },
+    {
+      "value": "David Grant USAF Medical Center",
+      "synonyms": [
+        "David Grant USAF Medical Center"
+      ]
+    },
+    {
+      "value": "Davies Medical Center",
+      "synonyms": [
+        "Davies Medical Center"
+      ]
+    },
+    {
+      "value": "Delta Memorial Hospital",
+      "synonyms": [
+        "Delta Memorial Hospital"
+      ]
+    },
+    {
+      "value": "Desert Regional Medical Center",
+      "synonyms": [
+        "Desert Regional Medical Center"
+      ]
+    },
+    {
+      "value": "Desert Valley Hospital",
+      "synonyms": [
+        "Desert Valley Hospital"
+      ]
+    },
+    {
+      "value": "Doctors Hospital Of West Covina",
+      "synonyms": [
+        "Doctors Hospital Of West Covina"
+      ]
+    },
+    {
+      "value": "Doctors Hospital of Manteca",
+      "synonyms": [
+        "Doctors Hospital of Manteca"
+      ]
+    },
+    {
+      "value": "Doctors Medical Center Pinole Campus",
+      "synonyms": [
+        "Doctors Medical Center Pinole Campus"
+      ]
+    },
+    {
+      "value": "Doctors Medical Center San Pablo Campus",
+      "synonyms": [
+        "Doctors Medical Center San Pablo Campus"
+      ]
+    },
+    {
+      "value": "Doctors Medical Center of Modesto",
+      "synonyms": [
+        "Doctors Medical Center of Modesto"
+      ]
+    },
+    {
+      "value": "Dominican Hospital",
+      "synonyms": [
+        "Dominican Hospital"
+      ]
+    },
+    {
+      "value": "Downey Regional Medical Center",
+      "synonyms": [
+        "Downey Regional Medical Center"
+      ]
+    },
+    {
+      "value": "East Los Angeles Doctors Hospital",
+      "synonyms": [
+        "East Los Angeles Doctors Hospital"
+      ]
+    },
+    {
+      "value": "Eastern Long Island Hospita Greenport",
+      "synonyms": [
+        "Eastern Long Island Hospita Greenport"
+      ]
+    },
+    {
+      "value": "Eastern Plumas District Hospital",
+      "synonyms": [
+        "Eastern Plumas District Hospital"
+      ]
+    },
+    {
+      "value": "Eddy Cohoes Rehabilitation Center Cohoes",
+      "synonyms": [
+        "Eddy Cohoes Rehabilitation Center Cohoes"
+      ]
+    },
+    {
+      "value": "Eden Medical Center",
+      "synonyms": [
+        "Eden Medical Center"
+      ]
+    },
+    {
+      "value": "Edward John Noble Hospital Alexandria Bay",
+      "synonyms": [
+        "Edward John Noble Hospital Alexandria Bay"
+      ]
+    },
+    {
+      "value": "Edward John Noble Hospital Of Gouverneur Gouverneur",
+      "synonyms": [
+        "Edward John Noble Hospital Of Gouverneur Gouverneur"
+      ]
+    },
+    {
+      "value": "Eisenhower Medical Center",
+      "synonyms": [
+        "Eisenhower Medical Center"
+      ]
+    },
+    {
+      "value": "El Camino Hospital",
+      "synonyms": [
+        "El Camino Hospital"
+      ]
+    },
+    {
+      "value": "El Centro Regional Medical Center",
+      "synonyms": [
+        "El Centro Regional Medical Center"
+      ]
+    },
+    {
+      "value": "Elizabethtown Community Hospital",
+      "synonyms": [
+        "Elizabethtown Community Hospital"
+      ]
+    },
+    {
+      "value": "Ellenville Regional Hospital Ellenville",
+      "synonyms": [
+        "Ellenville Regional Hospital Ellenville"
+      ]
+    },
+    {
+      "value": "Ellis Hospital Schenectady",
+      "synonyms": [
+        "Ellis Hospital Schenectady"
+      ]
+    },
+    {
+      "value": "Elmhurst Hospital Center Queens",
+      "synonyms": [
+        "Elmhurst Hospital Center Queens"
+      ]
+    },
+    {
+      "value": "Elmira Psychiatric Center",
+      "synonyms": [
+        "Elmira Psychiatric Center"
+      ]
+    },
+    {
+      "value": "Emanuel Medical Center",
+      "synonyms": [
+        "Emanuel Medical Center"
+      ]
+    },
+    {
+      "value": "Encino Hospital Medical Center",
+      "synonyms": [
+        "Encino Hospital Medical Center"
+      ]
+    },
+    {
+      "value": "Enloe Medical Center",
+      "synonyms": [
+        "Enloe Medical Center"
+      ]
+    },
+    {
+      "value": "Erie County Medical Center Buffalo",
+      "synonyms": [
+        "Erie County Medical Center Buffalo"
+      ]
+    },
+    {
+      "value": "Estelle Doheney Eye Hospital",
+      "synonyms": [
+        "Estelle Doheney Eye Hospital"
+      ]
+    },
+    {
+      "value": "F F Thompson Hospital Canandaigua",
+      "synonyms": [
+        "F F Thompson Hospital Canandaigua"
+      ]
+    },
+    {
+      "value": "FDR Campus Of The VA Hudson Valley Healthcare System Melrose",
+      "synonyms": [
+        "FDR Campus Of The VA Hudson Valley Healthcare System Melrose"
+      ]
+    },
+    {
+      "value": "Fairmont Hospital",
+      "synonyms": [
+        "Fairmont Hospital"
+      ]
+    },
+    {
+      "value": "Fallbrook Hospital",
+      "synonyms": [
+        "Fallbrook Hospital"
+      ]
+    },
+    {
+      "value": "Faxton St. Luke\u0027s Healthcare New Hartford and Utica",
+      "synonyms": [
+        "Faxton St. Luke\u0027s Healthcare New Hartford and Utica"
+      ]
+    },
+    {
+      "value": "Feather River Hospital",
+      "synonyms": [
+        "Feather River Hospital"
+      ]
+    },
+    {
+      "value": "Flushing Hospital Medical Center Queens",
+      "synonyms": [
+        "Flushing Hospital Medical Center Queens"
+      ]
+    },
+    {
+      "value": "Foothill Presbyterian Hospital-Johnston Memorial",
+      "synonyms": [
+        "Foothill Presbyterian Hospital-Johnston Memorial"
+      ]
+    },
+    {
+      "value": "Forest Hills Hospital Northwell Health System.",
+      "synonyms": [
+        "Forest Hills Hospital Northwell Health System."
+      ]
+    },
+    {
+      "value": "Fountain Valley Regional Hospital and Medical Center",
+      "synonyms": [
+        "Fountain Valley Regional Hospital and Medical Center"
+      ]
+    },
+    {
+      "value": "Four Winds Hospital Katonah New York",
+      "synonyms": [
+        "Four Winds Hospital Katonah New York"
+      ]
+    },
+    {
+      "value": "Frank R. Howard Memorial Hospital",
+      "synonyms": [
+        "Frank R. Howard Memorial Hospital"
+      ]
+    },
+    {
+      "value": "Franklin Hospital Medical Center",
+      "synonyms": [
+        "Franklin Hospital Medical Center"
+      ]
+    },
+    {
+      "value": "Fremont Memorial Hospital",
+      "synonyms": [
+        "Fremont Memorial Hospital"
+      ]
+    },
+    {
+      "value": "French Hospital Medical Center",
+      "synonyms": [
+        "French Hospital Medical Center"
+      ]
+    },
+    {
+      "value": "Fresno Surgery Center",
+      "synonyms": [
+        "Fresno Surgery Center"
+      ]
+    },
+    {
+      "value": "Fulton Medical Center",
+      "synonyms": [
+        "Fulton Medical Center"
+      ]
+    },
+    {
+      "value": "Garden Grove Hospital and Medical Center",
+      "synonyms": [
+        "Garden Grove Hospital and Medical Center"
+      ]
+    },
+    {
+      "value": "Garfield Medical Center",
+      "synonyms": [
+        "Garfield Medical Center"
+      ]
+    },
+    {
+      "value": "Geneva General Hospital Geneva",
+      "synonyms": [
+        "Geneva General Hospital Geneva"
+      ]
+    },
+    {
+      "value": "George L. Mee Memorial Hospital",
+      "synonyms": [
+        "George L. Mee Memorial Hospital"
+      ]
+    },
+    {
+      "value": "Glendale Adventist Medical Center",
+      "synonyms": [
+        "Glendale Adventist Medical Center"
+      ]
+    },
+    {
+      "value": "Glendale Memorial Hospital and Health Center",
+      "synonyms": [
+        "Glendale Memorial Hospital and Health Center"
+      ]
+    },
+    {
+      "value": "Glendora Community Hospital",
+      "synonyms": [
+        "Glendora Community Hospital"
+      ]
+    },
+    {
+      "value": "Glenn Medical Center",
+      "synonyms": [
+        "Glenn Medical Center"
+      ]
+    },
+    {
+      "value": "Glens Falls Hospital Glens Falls",
+      "synonyms": [
+        "Glens Falls Hospital Glens Falls"
+      ]
+    },
+    {
+      "value": "Goldwater Memorial Hospital And Nursing Home",
+      "synonyms": [
+        "Goldwater Memorial Hospital And Nursing Home"
+      ]
+    },
+    {
+      "value": "Goleta Valley Cottage Hospital",
+      "synonyms": [
+        "Goleta Valley Cottage Hospital"
+      ]
+    },
+    {
+      "value": "Good Samaritan Hospital",
+      "synonyms": [
+        "Good Samaritan Hospital"
+      ]
+    },
+    {
+      "value": "Gracie Square Hospital New York",
+      "synonyms": [
+        "Gracie Square Hospital New York"
+      ]
+    },
+    {
+      "value": "Granada Hills Community Hospital",
+      "synonyms": [
+        "Granada Hills Community Hospital"
+      ]
+    },
+    {
+      "value": "Greater El Monte Community Hospital",
+      "synonyms": [
+        "Greater El Monte Community Hospital"
+      ]
+    },
+    {
+      "value": "Green Hospital of Scripps Clinic",
+      "synonyms": [
+        "Green Hospital of Scripps Clinic"
+      ]
+    },
+    {
+      "value": "Guardian Rehabilitation Hospital",
+      "synonyms": [
+        "Guardian Rehabilitation Hospital"
+      ]
+    },
+    {
+      "value": "Haight Free Clinic",
+      "synonyms": [
+        "Haight Free Clinic"
+      ]
+    },
+    {
+      "value": "Harbor-UCLA Medical Center",
+      "synonyms": [
+        "Harbor-UCLA Medical Center"
+      ]
+    },
+    {
+      "value": "Harlem Hospital Center New York",
+      "synonyms": [
+        "Harlem Hospital Center New York"
+      ]
+    },
+    {
+      "value": "Healdsburg District Hospital",
+      "synonyms": [
+        "Healdsburg District Hospital"
+      ]
+    },
+    {
+      "value": "HealthBridge Children\u0027s Rehabilitation Hospital",
+      "synonyms": [
+        "HealthBridge Children\u0027s Rehabilitation Hospital"
+      ]
+    },
+    {
+      "value": "Helen Hayes Hospital West Haverstraw New York",
+      "synonyms": [
+        "Helen Hayes Hospital West Haverstraw New York"
+      ]
+    },
+    {
+      "value": "Hemet Valley Medical Center",
+      "synonyms": [
+        "Hemet Valley Medical Center"
+      ]
+    },
+    {
+      "value": "Henry Mayo Newhall Memorial Hospital",
+      "synonyms": [
+        "Henry Mayo Newhall Memorial Hospital"
+      ]
+    },
+    {
+      "value": "Hi-Desert Medical Center",
+      "synonyms": [
+        "Hi-Desert Medical Center"
+      ]
+    },
+    {
+      "value": "Highland Hospital",
+      "synonyms": [
+        "Highland Hospital"
+      ]
+    },
+    {
+      "value": "Highland Hospital Rochester",
+      "synonyms": [
+        "Highland Hospital Rochester"
+      ]
+    },
+    {
+      "value": "Hillcrest Medical Center",
+      "synonyms": [
+        "Hillcrest Medical Center"
+      ]
+    },
+    {
+      "value": "Hoag Memorial Hospital Presbyterian",
+      "synonyms": [
+        "Hoag Memorial Hospital Presbyterian"
+      ]
+    },
+    {
+      "value": "Hollywood Community Hospital of Hollywood",
+      "synonyms": [
+        "Hollywood Community Hospital of Hollywood"
+      ]
+    },
+    {
+      "value": "Hollywood Community Hospital of Van Nuys",
+      "synonyms": [
+        "Hollywood Community Hospital of Van Nuys"
+      ]
+    },
+    {
+      "value": "Hollywood Presbyterian Medical Center",
+      "synonyms": [
+        "Hollywood Presbyterian Medical Center"
+      ]
+    },
+    {
+      "value": "Horton Medical Center Middletown",
+      "synonyms": [
+        "Horton Medical Center Middletown"
+      ]
+    },
+    {
+      "value": "Hospital for Joint Diseases New York",
+      "synonyms": [
+        "Hospital for Joint Diseases New York"
+      ]
+    },
+    {
+      "value": "Hospital for Special Surgery New York",
+      "synonyms": [
+        "Hospital for Special Surgery New York"
+      ]
+    },
+    {
+      "value": "Hudson River Psychiatric Center",
+      "synonyms": [
+        "Hudson River Psychiatric Center"
+      ]
+    },
+    {
+      "value": "Hudson Valley Hospital Cortlandt Manor",
+      "synonyms": [
+        "Hudson Valley Hospital Cortlandt Manor"
+      ]
+    },
+    {
+      "value": "Huntington Beach Hospital and Medical Center",
+      "synonyms": [
+        "Huntington Beach Hospital and Medical Center"
+      ]
+    },
+    {
+      "value": "Huntington Hospital",
+      "synonyms": [
+        "Huntington Hospital"
+      ]
+    },
+    {
+      "value": "Hutchings Psychiatric Center",
+      "synonyms": [
+        "Hutchings Psychiatric Center"
+      ]
+    },
+    {
+      "value": "Indian Valley Hospital",
+      "synonyms": [
+        "Indian Valley Hospital"
+      ]
+    },
+    {
+      "value": "Inland Valley Regional Medical Center",
+      "synonyms": [
+        "Inland Valley Regional Medical Center"
+      ]
+    },
+    {
+      "value": "Inter-Community Medical Center",
+      "synonyms": [
+        "Inter-Community Medical Center"
+      ]
+    },
+    {
+      "value": "Inter-Community Memorial Hospital At Newfane Inc Newfane",
+      "synonyms": [
+        "Inter-Community Memorial Hospital At Newfane Inc Newfane"
+      ]
+    },
+    {
+      "value": "Interfaith Medical Center",
+      "synonyms": [
+        "Interfaith Medical Center"
+      ]
+    },
+    {
+      "value": "Ira Davenport Memorial Hospital Inc Bath",
+      "synonyms": [
+        "Ira Davenport Memorial Hospital Inc Bath"
+      ]
+    },
+    {
+      "value": "Island Medical Center Hempstead",
+      "synonyms": [
+        "Island Medical Center Hempstead"
+      ]
+    },
+    {
+      "value": "Jacobi Medical Center The Bronx",
+      "synonyms": [
+        "Jacobi Medical Center The Bronx"
+      ]
+    },
+    {
+      "value": "Jamaica Hospital Medical Center Jamaica",
+      "synonyms": [
+        "Jamaica Hospital Medical Center Jamaica"
+      ]
+    },
+    {
+      "value": "Jerold Phelps Community Hospital",
+      "synonyms": [
+        "Jerold Phelps Community Hospital"
+      ]
+    },
+    {
+      "value": "Jewish Memorial Hospital Inwood",
+      "synonyms": [
+        "Jewish Memorial Hospital Inwood"
+      ]
+    },
+    {
+      "value": "John C. Fremont Hospital",
+      "synonyms": [
+        "John C. Fremont Hospital"
+      ]
+    },
+    {
+      "value": "John Douglas French Center",
+      "synonyms": [
+        "John Douglas French Center"
+      ]
+    },
+    {
+      "value": "John F. Kennedy Memorial Hospital",
+      "synonyms": [
+        "John F. Kennedy Memorial Hospital"
+      ]
+    },
+    {
+      "value": "John George Psychiatric Pavilion",
+      "synonyms": [
+        "John George Psychiatric Pavilion"
+      ]
+    },
+    {
+      "value": "John Muir Medical Center",
+      "synonyms": [
+        "John Muir Medical Center"
+      ]
+    },
+    {
+      "value": "John T. Mather Memorial Hospital Port Jefferson",
+      "synonyms": [
+        "John T. Mather Memorial Hospital Port Jefferson"
+      ]
+    },
+    {
+      "value": "Jones Memorial Hlth Ctr Jamestown",
+      "synonyms": [
+        "Jones Memorial Hlth Ctr Jamestown"
+      ]
+    },
+    {
+      "value": "Jones Memorial Hosp Wellsville",
+      "synonyms": [
+        "Jones Memorial Hosp Wellsville"
+      ]
+    },
+    {
+      "value": "Kaiser Foundation Hospital",
+      "synonyms": [
+        "Kaiser Foundation Hospital"
+      ]
+    },
+    {
+      "value": "Kaiser Fremont",
+      "synonyms": [
+        "Kaiser Fremont"
+      ]
+    },
+    {
+      "value": "Kaiser Livermore",
+      "synonyms": [
+        "Kaiser Livermore"
+      ]
+    },
+    {
+      "value": "Kaiser Medical Center",
+      "synonyms": [
+        "Kaiser Medical Center"
+      ]
+    },
+    {
+      "value": "Kaiser Oakland",
+      "synonyms": [
+        "Kaiser Oakland"
+      ]
+    },
+    {
+      "value": "Kaiser Permanente",
+      "synonyms": [
+        "Kaiser Permanente"
+      ]
+    },
+    {
+      "value": "Kaiser Permanente Medical Center",
+      "synonyms": [
+        "Kaiser Permanente Medical Center"
+      ]
+    },
+    {
+      "value": "Kaiser Permanente San Francisco Medical Center",
+      "synonyms": [
+        "Kaiser Permanente San Francisco Medical Center"
+      ]
+    },
+    {
+      "value": "Kaiser Permanente Santa Clara Medical Center",
+      "synonyms": [
+        "Kaiser Permanente Santa Clara Medical Center"
+      ]
+    },
+    {
+      "value": "Kaiser Permanente Santa Teresa Medical Center",
+      "synonyms": [
+        "Kaiser Permanente Santa Teresa Medical Center"
+      ]
+    },
+    {
+      "value": "Kaiser Pleasanton",
+      "synonyms": [
+        "Kaiser Pleasanton"
+      ]
+    },
+    {
+      "value": "Kaleida Health Buffalo General Hospital",
+      "synonyms": [
+        "Kaleida Health Buffalo General Hospital"
+      ]
+    },
+    {
+      "value": "Kaweah Delta Medical Center",
+      "synonyms": [
+        "Kaweah Delta Medical Center"
+      ]
+    },
+    {
+      "value": "Kenmore Mercy Hospital Kenmore",
+      "synonyms": [
+        "Kenmore Mercy Hospital Kenmore"
+      ]
+    },
+    {
+      "value": "Kentfield Rehabilitation Hospital",
+      "synonyms": [
+        "Kentfield Rehabilitation Hospital"
+      ]
+    },
+    {
+      "value": "Kern Medical Center",
+      "synonyms": [
+        "Kern Medical Center"
+      ]
+    },
+    {
+      "value": "Kern Valley",
+      "synonyms": [
+        "Kern Valley"
+      ]
+    },
+    {
+      "value": "Kindred Hospital",
+      "synonyms": [
+        "Kindred Hospital"
+      ]
+    },
+    {
+      "value": "Kings County Hospital Center Brooklyn",
+      "synonyms": [
+        "Kings County Hospital Center Brooklyn"
+      ]
+    },
+    {
+      "value": "Kingsboro Psychiatric Center",
+      "synonyms": [
+        "Kingsboro Psychiatric Center"
+      ]
+    },
+    {
+      "value": "Kingsbrook Jewish Medical Center Brooklyn",
+      "synonyms": [
+        "Kingsbrook Jewish Medical Center Brooklyn"
+      ]
+    },
+    {
+      "value": "Kingston Hospital Kingston",
+      "synonyms": [
+        "Kingston Hospital Kingston"
+      ]
+    },
+    {
+      "value": "Kirby Forensic Psychiatric Center",
+      "synonyms": [
+        "Kirby Forensic Psychiatric Center"
+      ]
+    },
+    {
+      "value": "La Palma Intercommunity Hospital",
+      "synonyms": [
+        "La Palma Intercommunity Hospital"
+      ]
+    },
+    {
+      "value": "Laguna Honda Hospital and Rehabilitation Center",
+      "synonyms": [
+        "Laguna Honda Hospital and Rehabilitation Center"
+      ]
+    },
+    {
+      "value": "Lake Shore Hospital Inc Irving",
+      "synonyms": [
+        "Lake Shore Hospital Inc Irving"
+      ]
+    },
+    {
+      "value": "Lakeside Hospital",
+      "synonyms": [
+        "Lakeside Hospital"
+      ]
+    },
+    {
+      "value": "Lakeside Memorial Hospital Brockport",
+      "synonyms": [
+        "Lakeside Memorial Hospital Brockport"
+      ]
+    },
+    {
+      "value": "Lawrence Hospital Center Bronxville",
+      "synonyms": [
+        "Lawrence Hospital Center Bronxville"
+      ]
+    },
+    {
+      "value": "Lenox Hill Hospital",
+      "synonyms": [
+        "Lenox Hill Hospital"
+      ]
+    },
+    {
+      "value": "Lewis County General Hospital Lowville",
+      "synonyms": [
+        "Lewis County General Hospital Lowville"
+      ]
+    },
+    {
+      "value": "Lincoln Hospital",
+      "synonyms": [
+        "Lincoln Hospital"
+      ]
+    },
+    {
+      "value": "Little Company of Mary Hospital",
+      "synonyms": [
+        "Little Company of Mary Hospital"
+      ]
+    },
+    {
+      "value": "Little Falls Hospital Little Falls",
+      "synonyms": [
+        "Little Falls Hospital Little Falls"
+      ]
+    },
+    {
+      "value": "Livermore VA Hospital",
+      "synonyms": [
+        "Livermore VA Hospital"
+      ]
+    },
+    {
+      "value": "Lockport Memorial Hospital Lockport",
+      "synonyms": [
+        "Lockport Memorial Hospital Lockport"
+      ]
+    },
+    {
+      "value": "Lodi Memorial Hospital",
+      "synonyms": [
+        "Lodi Memorial Hospital"
+      ]
+    },
+    {
+      "value": "Loma Linda University Children\u0027s Hospital",
+      "synonyms": [
+        "Loma Linda University Children\u0027s Hospital"
+      ]
+    },
+    {
+      "value": "Loma Linda University Medical Center",
+      "synonyms": [
+        "Loma Linda University Medical Center"
+      ]
+    },
+    {
+      "value": "Loma Linda Veterans Affairs Medical Center",
+      "synonyms": [
+        "Loma Linda Veterans Affairs Medical Center"
+      ]
+    },
+    {
+      "value": "Lompoc Valley Medical Center",
+      "synonyms": [
+        "Lompoc Valley Medical Center"
+      ]
+    },
+    {
+      "value": "Long Beach Community Hospital",
+      "synonyms": [
+        "Long Beach Community Hospital"
+      ]
+    },
+    {
+      "value": "Long Beach Medical Center Long Beach",
+      "synonyms": [
+        "Long Beach Medical Center Long Beach"
+      ]
+    },
+    {
+      "value": "Long Beach Memorial Medical Center",
+      "synonyms": [
+        "Long Beach Memorial Medical Center"
+      ]
+    },
+    {
+      "value": "Long Island College Hospital Brooklyn",
+      "synonyms": [
+        "Long Island College Hospital Brooklyn"
+      ]
+    },
+    {
+      "value": "Long Island Jewish Medical Center",
+      "synonyms": [
+        "Long Island Jewish Medical Center"
+      ]
+    },
+    {
+      "value": "Los Alamitos Medical Center",
+      "synonyms": [
+        "Los Alamitos Medical Center"
+      ]
+    },
+    {
+      "value": "Los Angeles Community Hospital of Norwalk",
+      "synonyms": [
+        "Los Angeles Community Hospital of Norwalk"
+      ]
+    },
+    {
+      "value": "Los Angeles Metropolitan Med Center",
+      "synonyms": [
+        "Los Angeles Metropolitan Med Center"
+      ]
+    },
+    {
+      "value": "Los Banos Community Hospital",
+      "synonyms": [
+        "Los Banos Community Hospital"
+      ]
+    },
+    {
+      "value": "Los Medanos Community Hospital",
+      "synonyms": [
+        "Los Medanos Community Hospital"
+      ]
+    },
+    {
+      "value": "Los Robles Hospital \u0026 Medical Center",
+      "synonyms": [
+        "Los Robles Hospital \u0026 Medical Center"
+      ]
+    },
+    {
+      "value": "Lucile Salter Packard Children\u0027s Hospital at Stanford",
+      "synonyms": [
+        "Lucile Salter Packard Children\u0027s Hospital at Stanford"
+      ]
+    },
+    {
+      "value": "Lutheran Medical Center Brooklyn",
+      "synonyms": [
+        "Lutheran Medical Center Brooklyn"
+      ]
+    },
+    {
+      "value": "Mad River Community Hospital",
+      "synonyms": [
+        "Mad River Community Hospital"
+      ]
+    },
+    {
+      "value": "Madera Community Hospital",
+      "synonyms": [
+        "Madera Community Hospital"
+      ]
+    },
+    {
+      "value": "Maimonides Medical Center Brooklyn",
+      "synonyms": [
+        "Maimonides Medical Center Brooklyn"
+      ]
+    },
+    {
+      "value": "Mammoth Hospital",
+      "synonyms": [
+        "Mammoth Hospital"
+      ]
+    },
+    {
+      "value": "Manhattan Eye Ear and Throat Hospital New York",
+      "synonyms": [
+        "Manhattan Eye Ear and Throat Hospital New York"
+      ]
+    },
+    {
+      "value": "Margaretville Memorial Hospital",
+      "synonyms": [
+        "Margaretville Memorial Hospital"
+      ]
+    },
+    {
+      "value": "Maria Fareri Children\u0027s Hospital at Westchester Medical Center Valhalla",
+      "synonyms": [
+        "Maria Fareri Children\u0027s Hospital at Westchester Medical Center Valhalla"
+      ]
+    },
+    {
+      "value": "Marian Medical Center",
+      "synonyms": [
+        "Marian Medical Center"
+      ]
+    },
+    {
+      "value": "Marin General Hospital",
+      "synonyms": [
+        "Marin General Hospital"
+      ]
+    },
+    {
+      "value": "Marina Del Rey Hospital",
+      "synonyms": [
+        "Marina Del Rey Hospital"
+      ]
+    },
+    {
+      "value": "Mark Twain St. Joseph Hospital",
+      "synonyms": [
+        "Mark Twain St. Joseph Hospital"
+      ]
+    },
+    {
+      "value": "Marshall Hospital",
+      "synonyms": [
+        "Marshall Hospital"
+      ]
+    },
+    {
+      "value": "Martin Luther Hospital Medical Center",
+      "synonyms": [
+        "Martin Luther Hospital Medical Center"
+      ]
+    },
+    {
+      "value": "Martin Luther King Jr.-Harbor Hospital",
+      "synonyms": [
+        "Martin Luther King Jr.-Harbor Hospital"
+      ]
+    },
+    {
+      "value": "Mary Birch Hospital for Women",
+      "synonyms": [
+        "Mary Birch Hospital for Women"
+      ]
+    },
+    {
+      "value": "Mary Imogene Bassett Hospital Cooperstown",
+      "synonyms": [
+        "Mary Imogene Bassett Hospital Cooperstown"
+      ]
+    },
+    {
+      "value": "Massena Memorial Hospital Massena",
+      "synonyms": [
+        "Massena Memorial Hospital Massena"
+      ]
+    },
+    {
+      "value": "Matteawan State Hospital",
+      "synonyms": [
+        "Matteawan State Hospital"
+      ]
+    },
+    {
+      "value": "Mayers Memorial Hospital District",
+      "synonyms": [
+        "Mayers Memorial Hospital District"
+      ]
+    },
+    {
+      "value": "Mclaren Hospital",
+      "synonyms": [
+        "Mclaren Hospital"
+      ]
+    },
+    {
+      "value": "Medina Memorial Hospital Medina",
+      "synonyms": [
+        "Medina Memorial Hospital Medina"
+      ]
+    },
+    {
+      "value": "Memorial Hospital Of Gardena",
+      "synonyms": [
+        "Memorial Hospital Of Gardena"
+      ]
+    },
+    {
+      "value": "Memorial Medical Center",
+      "synonyms": [
+        "Memorial Medical Center"
+      ]
+    },
+    {
+      "value": "Memorial Sloan-Kettering Cancer Center New York",
+      "synonyms": [
+        "Memorial Sloan-Kettering Cancer Center New York"
+      ]
+    },
+    {
+      "value": "Mendocino Coast District Hospital",
+      "synonyms": [
+        "Mendocino Coast District Hospital"
+      ]
+    },
+    {
+      "value": "Mendocino State Hospital",
+      "synonyms": [
+        "Mendocino State Hospital"
+      ]
+    },
+    {
+      "value": "Menifee Valley Medical Center",
+      "synonyms": [
+        "Menifee Valley Medical Center"
+      ]
+    },
+    {
+      "value": "Menlo Park VA Hospital",
+      "synonyms": [
+        "Menlo Park VA Hospital"
+      ]
+    },
+    {
+      "value": "Mercy General Hospital",
+      "synonyms": [
+        "Mercy General Hospital"
+      ]
+    },
+    {
+      "value": "Mercy Hospital",
+      "synonyms": [
+        "Mercy Hospital"
+      ]
+    },
+    {
+      "value": "Mercy Hospital Buffalo",
+      "synonyms": [
+        "Mercy Hospital Buffalo"
+      ]
+    },
+    {
+      "value": "Mercy Medical Center",
+      "synonyms": [
+        "Mercy Medical Center"
+      ]
+    },
+    {
+      "value": "Mercy Medical Center Merced Community Campus",
+      "synonyms": [
+        "Mercy Medical Center Merced Community Campus"
+      ]
+    },
+    {
+      "value": "Mercy Medical Center Merced Dominican Campus",
+      "synonyms": [
+        "Mercy Medical Center Merced Dominican Campus"
+      ]
+    },
+    {
+      "value": "Mercy Medical Center Rockville Centre",
+      "synonyms": [
+        "Mercy Medical Center Rockville Centre"
+      ]
+    },
+    {
+      "value": "Mercy San Juan Medical Center",
+      "synonyms": [
+        "Mercy San Juan Medical Center"
+      ]
+    },
+    {
+      "value": "Mercy Southwest",
+      "synonyms": [
+        "Mercy Southwest"
+      ]
+    },
+    {
+      "value": "Methodist Hospital Brooklyn",
+      "synonyms": [
+        "Methodist Hospital Brooklyn"
+      ]
+    },
+    {
+      "value": "Methodist Hospital of Sacramento",
+      "synonyms": [
+        "Methodist Hospital of Sacramento"
+      ]
+    },
+    {
+      "value": "Metropolitan Hospital Center New York",
+      "synonyms": [
+        "Metropolitan Hospital Center New York"
+      ]
+    },
+    {
+      "value": "Metropolitan Medical and Mental Health Center New York",
+      "synonyms": [
+        "Metropolitan Medical and Mental Health Center New York"
+      ]
+    },
+    {
+      "value": "Metropolitan State Hospital",
+      "synonyms": [
+        "Metropolitan State Hospital"
+      ]
+    },
+    {
+      "value": "Mid-Hudson Psychiatric Center",
+      "synonyms": [
+        "Mid-Hudson Psychiatric Center"
+      ]
+    },
+    {
+      "value": "Millard Fillmore Suburban Hospital Amherst",
+      "synonyms": [
+        "Millard Fillmore Suburban Hospital Amherst"
+      ]
+    },
+    {
+      "value": "Miller Children\u0027s Hospital",
+      "synonyms": [
+        "Miller Children\u0027s Hospital"
+      ]
+    },
+    {
+      "value": "Mills Health Center",
+      "synonyms": [
+        "Mills Health Center"
+      ]
+    },
+    {
+      "value": "Mills-Peninsula Medical Center",
+      "synonyms": [
+        "Mills-Peninsula Medical Center"
+      ]
+    },
+    {
+      "value": "Mission Hospital Regional Medical Center",
+      "synonyms": [
+        "Mission Hospital Regional Medical Center"
+      ]
+    },
+    {
+      "value": "Mission Hospital of Huntington Park",
+      "synonyms": [
+        "Mission Hospital of Huntington Park"
+      ]
+    },
+    {
+      "value": "Mission Valley Medical Center",
+      "synonyms": [
+        "Mission Valley Medical Center"
+      ]
+    },
+    {
+      "value": "Modoc Medical Center",
+      "synonyms": [
+        "Modoc Medical Center"
+      ]
+    },
+    {
+      "value": "Mohawk Valley Psychiatric Center",
+      "synonyms": [
+        "Mohawk Valley Psychiatric Center"
+      ]
+    },
+    {
+      "value": "Monroe Community Hospital Rochester MCH",
+      "synonyms": [
+        "Monroe Community Hospital Rochester MCH"
+      ]
+    },
+    {
+      "value": "Monrovia Community Hospital",
+      "synonyms": [
+        "Monrovia Community Hospital"
+      ]
+    },
+    {
+      "value": "Montclair Hospital Medical Center",
+      "synonyms": [
+        "Montclair Hospital Medical Center"
+      ]
+    },
+    {
+      "value": "Montefiore Medical Center The Bronx",
+      "synonyms": [
+        "Montefiore Medical Center The Bronx"
+      ]
+    },
+    {
+      "value": "Monterey Park Hospital",
+      "synonyms": [
+        "Monterey Park Hospital"
+      ]
+    },
+    {
+      "value": "Moreno Valley Community Hospital",
+      "synonyms": [
+        "Moreno Valley Community Hospital"
+      ]
+    },
+    {
+      "value": "Motion Picture \u0026 Television Hospital",
+      "synonyms": [
+        "Motion Picture \u0026 Television Hospital"
+      ]
+    },
+    {
+      "value": "Mount Saint Mary\u0027s Hospital Lewiston New York",
+      "synonyms": [
+        "Mount Saint Mary\u0027s Hospital Lewiston New York"
+      ]
+    },
+    {
+      "value": "Mount Sinai Hospital New York",
+      "synonyms": [
+        "Mount Sinai Hospital New York"
+      ]
+    },
+    {
+      "value": "Mount Vernon Hospital Mount Vernon",
+      "synonyms": [
+        "Mount Vernon Hospital Mount Vernon"
+      ]
+    },
+    {
+      "value": "Mountain Community Medical Services",
+      "synonyms": [
+        "Mountain Community Medical Services"
+      ]
+    },
+    {
+      "value": "Mountains Community Hospital",
+      "synonyms": [
+        "Mountains Community Hospital"
+      ]
+    },
+    {
+      "value": "NY Campus Of The VA NY Harbor Healthcare System",
+      "synonyms": [
+        "NY Campus Of The VA NY Harbor Healthcare System"
+      ]
+    },
+    {
+      "value": "NY Eye And Ear Infirmary New York",
+      "synonyms": [
+        "NY Eye And Ear Infirmary New York"
+      ]
+    },
+    {
+      "value": "NY Flushing Hosp Med Ctr North Div Flushing",
+      "synonyms": [
+        "NY Flushing Hosp Med Ctr North Div Flushing"
+      ]
+    },
+    {
+      "value": "NYU Downtown Hospital New York",
+      "synonyms": [
+        "NYU Downtown Hospital New York"
+      ]
+    },
+    {
+      "value": "NYU Hospitals Center New York",
+      "synonyms": [
+        "NYU Hospitals Center New York"
+      ]
+    },
+    {
+      "value": "Napa State Hospital",
+      "synonyms": [
+        "Napa State Hospital"
+      ]
+    },
+    {
+      "value": "Nassau University Medical Center East Meadow",
+      "synonyms": [
+        "Nassau University Medical Center East Meadow"
+      ]
+    },
+    {
+      "value": "Nathan Littauer Hospital Gloversville",
+      "synonyms": [
+        "Nathan Littauer Hospital Gloversville"
+      ]
+    },
+    {
+      "value": "Nathan S. Kline Institute",
+      "synonyms": [
+        "Nathan S. Kline Institute"
+      ]
+    },
+    {
+      "value": "Natividad Medical Center",
+      "synonyms": [
+        "Natividad Medical Center"
+      ]
+    },
+    {
+      "value": "Naval Hospital Lemoore",
+      "synonyms": [
+        "Naval Hospital Lemoore"
+      ]
+    },
+    {
+      "value": "Naval Medical Center San Diego",
+      "synonyms": [
+        "Naval Medical Center San Diego"
+      ]
+    },
+    {
+      "value": "New York Community Hospital Of Brooklyn Inc Brooklyn",
+      "synonyms": [
+        "New York Community Hospital Of Brooklyn Inc Brooklyn"
+      ]
+    },
+    {
+      "value": "New York Downtown Hospital New York",
+      "synonyms": [
+        "New York Downtown Hospital New York"
+      ]
+    },
+    {
+      "value": "New York Eye and Ear Infirmary",
+      "synonyms": [
+        "New York Eye and Ear Infirmary"
+      ]
+    },
+    {
+      "value": "New York Eye and Ear Infirmary New York",
+      "synonyms": [
+        "New York Eye and Ear Infirmary New York"
+      ]
+    },
+    {
+      "value": "New York Flushing Hosp Medical Center Flushing",
+      "synonyms": [
+        "New York Flushing Hosp Medical Center Flushing"
+      ]
+    },
+    {
+      "value": "New York Hospital Queens Flushing Queens",
+      "synonyms": [
+        "New York Hospital Queens Flushing Queens"
+      ]
+    },
+    {
+      "value": "New York Methodist Hospital Brooklyn",
+      "synonyms": [
+        "New York Methodist Hospital Brooklyn"
+      ]
+    },
+    {
+      "value": "New York Presbyterian Hospital New York",
+      "synonyms": [
+        "New York Presbyterian Hospital New York"
+      ]
+    },
+    {
+      "value": "New York Psychiatric Institute",
+      "synonyms": [
+        "New York Psychiatric Institute"
+      ]
+    },
+    {
+      "value": "New York United Hospital Medical Center Port Chester New York. Closed in 2005.",
+      "synonyms": [
+        "New York United Hospital Medical Center Port Chester New York. Closed in 2005."
+      ]
+    },
+    {
+      "value": "New York University Tisch Hospital New York",
+      "synonyms": [
+        "New York University Tisch Hospital New York"
+      ]
+    },
+    {
+      "value": "Newark-Wayne Community Hospital Newark",
+      "synonyms": [
+        "Newark-Wayne Community Hospital Newark"
+      ]
+    },
+    {
+      "value": "Niagara Falls Memorial Medical Center Niagara Falls",
+      "synonyms": [
+        "Niagara Falls Memorial Medical Center Niagara Falls"
+      ]
+    },
+    {
+      "value": "Nicholas H Noyes Memorial Hospital Dansville",
+      "synonyms": [
+        "Nicholas H Noyes Memorial Hospital Dansville"
+      ]
+    },
+    {
+      "value": "North Central Bronx Hospital",
+      "synonyms": [
+        "North Central Bronx Hospital"
+      ]
+    },
+    {
+      "value": "North Central Bronx Hospital The Bronx",
+      "synonyms": [
+        "North Central Bronx Hospital The Bronx"
+      ]
+    },
+    {
+      "value": "North Shore University Hospital",
+      "synonyms": [
+        "North Shore University Hospital"
+      ]
+    },
+    {
+      "value": "NorthBay Medical Center",
+      "synonyms": [
+        "NorthBay Medical Center"
+      ]
+    },
+    {
+      "value": "Northern Dutchess Hospital Rhinebeck",
+      "synonyms": [
+        "Northern Dutchess Hospital Rhinebeck"
+      ]
+    },
+    {
+      "value": "Northern Inyo Hospital",
+      "synonyms": [
+        "Northern Inyo Hospital"
+      ]
+    },
+    {
+      "value": "Northern Westchester Hospital Mount Kisco",
+      "synonyms": [
+        "Northern Westchester Hospital Mount Kisco"
+      ]
+    },
+    {
+      "value": "Northport VA Medical Center",
+      "synonyms": [
+        "Northport VA Medical Center"
+      ]
+    },
+    {
+      "value": "Northridge Hospital Medical Center",
+      "synonyms": [
+        "Northridge Hospital Medical Center"
+      ]
+    },
+    {
+      "value": "Novato Community Hospital",
+      "synonyms": [
+        "Novato Community Hospital"
+      ]
+    },
+    {
+      "value": "Nyack Hearing Center",
+      "synonyms": [
+        "Nyack Hearing Center"
+      ]
+    },
+    {
+      "value": "Nyack Hospital Nyack New York",
+      "synonyms": [
+        "Nyack Hospital Nyack New York"
+      ]
+    },
+    {
+      "value": "O\u0027Connor Hospital",
+      "synonyms": [
+        "O\u0027Connor Hospital"
+      ]
+    },
+    {
+      "value": "ORBIS International New York",
+      "synonyms": [
+        "ORBIS International New York"
+      ]
+    },
+    {
+      "value": "Oak Valley Hospital",
+      "synonyms": [
+        "Oak Valley Hospital"
+      ]
+    },
+    {
+      "value": "Olean General Hospital",
+      "synonyms": [
+        "Olean General Hospital"
+      ]
+    },
+    {
+      "value": "Olive View-UCLA Medical Center",
+      "synonyms": [
+        "Olive View-UCLA Medical Center"
+      ]
+    },
+    {
+      "value": "Olympia Medical Center",
+      "synonyms": [
+        "Olympia Medical Center"
+      ]
+    },
+    {
+      "value": "Oneida Healthcare Center Oneida",
+      "synonyms": [
+        "Oneida Healthcare Center Oneida"
+      ]
+    },
+    {
+      "value": "Orange Coast Memorial Medical Center",
+      "synonyms": [
+        "Orange Coast Memorial Medical Center"
+      ]
+    },
+    {
+      "value": "Orange County Community Hospital",
+      "synonyms": [
+        "Orange County Community Hospital"
+      ]
+    },
+    {
+      "value": "Orange Regional Medical Center Middletown",
+      "synonyms": [
+        "Orange Regional Medical Center Middletown"
+      ]
+    },
+    {
+      "value": "Oroville Hospital",
+      "synonyms": [
+        "Oroville Hospital"
+      ]
+    },
+    {
+      "value": "Oswego Hospital",
+      "synonyms": [
+        "Oswego Hospital"
+      ]
+    },
+    {
+      "value": "Our Lady Of Lourdes Memorial Hospital Inc Binghamton",
+      "synonyms": [
+        "Our Lady Of Lourdes Memorial Hospital Inc Binghamton"
+      ]
+    },
+    {
+      "value": "Our Lady Of Mercy Medical Center Bronx",
+      "synonyms": [
+        "Our Lady Of Mercy Medical Center Bronx"
+      ]
+    },
+    {
+      "value": "Our Lady Of Victory Hospital Of Lackawanna Lackawanna",
+      "synonyms": [
+        "Our Lady Of Victory Hospital Of Lackawanna Lackawanna"
+      ]
+    },
+    {
+      "value": "Pacific Alliance Medical Center",
+      "synonyms": [
+        "Pacific Alliance Medical Center"
+      ]
+    },
+    {
+      "value": "Pacifica Hospital",
+      "synonyms": [
+        "Pacifica Hospital"
+      ]
+    },
+    {
+      "value": "Pacifica Hospital Of The Valley",
+      "synonyms": [
+        "Pacifica Hospital Of The Valley"
+      ]
+    },
+    {
+      "value": "Palmdale Regional Medical Center",
+      "synonyms": [
+        "Palmdale Regional Medical Center"
+      ]
+    },
+    {
+      "value": "Palo Verde Hospital",
+      "synonyms": [
+        "Palo Verde Hospital"
+      ]
+    },
+    {
+      "value": "Palomar Medical Center",
+      "synonyms": [
+        "Palomar Medical Center"
+      ]
+    },
+    {
+      "value": "Paradise Valley Hospital",
+      "synonyms": [
+        "Paradise Valley Hospital"
+      ]
+    },
+    {
+      "value": "Parkview Community Hospital Medical Center",
+      "synonyms": [
+        "Parkview Community Hospital Medical Center"
+      ]
+    },
+    {
+      "value": "Patton State Hospital",
+      "synonyms": [
+        "Patton State Hospital"
+      ]
+    },
+    {
+      "value": "Peconic Bay Medical Center",
+      "synonyms": [
+        "Peconic Bay Medical Center"
+      ]
+    },
+    {
+      "value": "Petaluma Valley Hospital",
+      "synonyms": [
+        "Petaluma Valley Hospital"
+      ]
+    },
+    {
+      "value": "Phelps Memorial Hospital Center Sleepy Hollow",
+      "synonyms": [
+        "Phelps Memorial Hospital Center Sleepy Hollow"
+      ]
+    },
+    {
+      "value": "Pico Rivera Medical Center",
+      "synonyms": [
+        "Pico Rivera Medical Center"
+      ]
+    },
+    {
+      "value": "Pilgrim Psychiatric Center",
+      "synonyms": [
+        "Pilgrim Psychiatric Center"
+      ]
+    },
+    {
+      "value": "Pioneers Memorial Hospital",
+      "synonyms": [
+        "Pioneers Memorial Hospital"
+      ]
+    },
+    {
+      "value": "Placentia-Linda Community Hospital",
+      "synonyms": [
+        "Placentia-Linda Community Hospital"
+      ]
+    },
+    {
+      "value": "Plainview Hospital",
+      "synonyms": [
+        "Plainview Hospital"
+      ]
+    },
+    {
+      "value": "Plumas District Hospital",
+      "synonyms": [
+        "Plumas District Hospital"
+      ]
+    },
+    {
+      "value": "Pomerado Hospital",
+      "synonyms": [
+        "Pomerado Hospital"
+      ]
+    },
+    {
+      "value": "Pomona Valley Hospital Medical Center",
+      "synonyms": [
+        "Pomona Valley Hospital Medical Center"
+      ]
+    },
+    {
+      "value": "Porterville Developmental Center",
+      "synonyms": [
+        "Porterville Developmental Center"
+      ]
+    },
+    {
+      "value": "Presbyterian Intercommunity Hospital",
+      "synonyms": [
+        "Presbyterian Intercommunity Hospital"
+      ]
+    },
+    {
+      "value": "Promise Hospital of East Los Angeles",
+      "synonyms": [
+        "Promise Hospital of East Los Angeles"
+      ]
+    },
+    {
+      "value": "Providence Holy Cross Medical Center",
+      "synonyms": [
+        "Providence Holy Cross Medical Center"
+      ]
+    },
+    {
+      "value": "Providence Little Company of Mary Medical Center San Pedro Campus",
+      "synonyms": [
+        "Providence Little Company of Mary Medical Center San Pedro Campus"
+      ]
+    },
+    {
+      "value": "Providence St. Joseph Medical Center",
+      "synonyms": [
+        "Providence St. Joseph Medical Center"
+      ]
+    },
+    {
+      "value": "Providence Tarzana Medical Center",
+      "synonyms": [
+        "Providence Tarzana Medical Center"
+      ]
+    },
+    {
+      "value": "Putnam Hospital Center Carmel",
+      "synonyms": [
+        "Putnam Hospital Center Carmel"
+      ]
+    },
+    {
+      "value": "Queen of the Valley",
+      "synonyms": [
+        "Queen of the Valley"
+      ]
+    },
+    {
+      "value": "Queen of the Valley Medical Center",
+      "synonyms": [
+        "Queen of the Valley Medical Center"
+      ]
+    },
+    {
+      "value": "Queens Children\u0027s Psychiatric Center",
+      "synonyms": [
+        "Queens Children\u0027s Psychiatric Center"
+      ]
+    },
+    {
+      "value": "Queens Hospital Center Jamaica",
+      "synonyms": [
+        "Queens Hospital Center Jamaica"
+      ]
+    },
+    {
+      "value": "Queens Hospital Center Queens",
+      "synonyms": [
+        "Queens Hospital Center Queens"
+      ]
+    },
+    {
+      "value": "Rady Children\u0027s Hospital",
+      "synonyms": [
+        "Rady Children\u0027s Hospital"
+      ]
+    },
+    {
+      "value": "Rancho Los Amigos National Rehabilitation Center",
+      "synonyms": [
+        "Rancho Los Amigos National Rehabilitation Center"
+      ]
+    },
+    {
+      "value": "Rancho Springs Medical Center",
+      "synonyms": [
+        "Rancho Springs Medical Center"
+      ]
+    },
+    {
+      "value": "Redlands Community Hospital",
+      "synonyms": [
+        "Redlands Community Hospital"
+      ]
+    },
+    {
+      "value": "Regional Medical Center",
+      "synonyms": [
+        "Regional Medical Center"
+      ]
+    },
+    {
+      "value": "Regional Medical Center of San Jose",
+      "synonyms": [
+        "Regional Medical Center of San Jose"
+      ]
+    },
+    {
+      "value": "Resnick Neuropsychiatric Hospital at UCLA",
+      "synonyms": [
+        "Resnick Neuropsychiatric Hospital at UCLA"
+      ]
+    },
+    {
+      "value": "Rideout Memorial Hospital",
+      "synonyms": [
+        "Rideout Memorial Hospital"
+      ]
+    },
+    {
+      "value": "Ridgecrest Regional Hospital",
+      "synonyms": [
+        "Ridgecrest Regional Hospital"
+      ]
+    },
+    {
+      "value": "Rio Hondo Hospital",
+      "synonyms": [
+        "Rio Hondo Hospital"
+      ]
+    },
+    {
+      "value": "Riverside Community Hospital",
+      "synonyms": [
+        "Riverside Community Hospital"
+      ]
+    },
+    {
+      "value": "Riverside County Regional Medical Center",
+      "synonyms": [
+        "Riverside County Regional Medical Center"
+      ]
+    },
+    {
+      "value": "Robert H. Ballard Rehabilitation Hospital",
+      "synonyms": [
+        "Robert H. Ballard Rehabilitation Hospital"
+      ]
+    },
+    {
+      "value": "Rochester General Hospital Rochester New York",
+      "synonyms": [
+        "Rochester General Hospital Rochester New York"
+      ]
+    },
+    {
+      "value": "Rochester Psychiatric Center",
+      "synonyms": [
+        "Rochester Psychiatric Center"
+      ]
+    },
+    {
+      "value": "Rockefeller University Hospital New York",
+      "synonyms": [
+        "Rockefeller University Hospital New York"
+      ]
+    },
+    {
+      "value": "Rockland Children\u0027s Psychiatric Center",
+      "synonyms": [
+        "Rockland Children\u0027s Psychiatric Center"
+      ]
+    },
+    {
+      "value": "Rockland Psychiatric Center",
+      "synonyms": [
+        "Rockland Psychiatric Center"
+      ]
+    },
+    {
+      "value": "Rome Memorial Hospital Inc Rome",
+      "synonyms": [
+        "Rome Memorial Hospital Inc Rome"
+      ]
+    },
+    {
+      "value": "Ronald Reagan UCLA Medical Center",
+      "synonyms": [
+        "Ronald Reagan UCLA Medical Center"
+      ]
+    },
+    {
+      "value": "Roswell Park Cancer Institute Buffalo",
+      "synonyms": [
+        "Roswell Park Cancer Institute Buffalo"
+      ]
+    },
+    {
+      "value": "Rye Hospital Center Rye",
+      "synonyms": [
+        "Rye Hospital Center Rye"
+      ]
+    },
+    {
+      "value": "Saddleback Memorial Medical Center",
+      "synonyms": [
+        "Saddleback Memorial Medical Center"
+      ]
+    },
+    {
+      "value": "Sagamore Children\u0027s Psychiatric Center",
+      "synonyms": [
+        "Sagamore Children\u0027s Psychiatric Center"
+      ]
+    },
+    {
+      "value": "Saint Agnes Medical Center",
+      "synonyms": [
+        "Saint Agnes Medical Center"
+      ]
+    },
+    {
+      "value": "Saint Francis Medical Center",
+      "synonyms": [
+        "Saint Francis Medical Center"
+      ]
+    },
+    {
+      "value": "Saint Francis Memorial Hospital",
+      "synonyms": [
+        "Saint Francis Memorial Hospital"
+      ]
+    },
+    {
+      "value": "Saint Joseph\u0027s Medical Center Yonkers",
+      "synonyms": [
+        "Saint Joseph\u0027s Medical Center Yonkers"
+      ]
+    },
+    {
+      "value": "Saint Louise Regional Hospital",
+      "synonyms": [
+        "Saint Louise Regional Hospital"
+      ]
+    },
+    {
+      "value": "Salinas Surgery Center",
+      "synonyms": [
+        "Salinas Surgery Center"
+      ]
+    },
+    {
+      "value": "Salinas Valley Memorial Hospital",
+      "synonyms": [
+        "Salinas Valley Memorial Hospital"
+      ]
+    },
+    {
+      "value": "Samaritan Hospital Troy",
+      "synonyms": [
+        "Samaritan Hospital Troy"
+      ]
+    },
+    {
+      "value": "Samaritan Medical Center Watertown",
+      "synonyms": [
+        "Samaritan Medical Center Watertown"
+      ]
+    },
+    {
+      "value": "Samuel S Stratton Albany VA Medical Center",
+      "synonyms": [
+        "Samuel S Stratton Albany VA Medical Center"
+      ]
+    },
+    {
+      "value": "San Antonio Community Hospital",
+      "synonyms": [
+        "San Antonio Community Hospital"
+      ]
+    },
+    {
+      "value": "San Benito Health Care District-Hazel Hawkins SNF",
+      "synonyms": [
+        "San Benito Health Care District-Hazel Hawkins SNF"
+      ]
+    },
+    {
+      "value": "San Clemente Hospital and Medical Center",
+      "synonyms": [
+        "San Clemente Hospital and Medical Center"
+      ]
+    },
+    {
+      "value": "San Diego County Psychiatric Hospital",
+      "synonyms": [
+        "San Diego County Psychiatric Hospital"
+      ]
+    },
+    {
+      "value": "San Dimas Community Hospital",
+      "synonyms": [
+        "San Dimas Community Hospital"
+      ]
+    },
+    {
+      "value": "San Francisco City Clinic",
+      "synonyms": [
+        "San Francisco City Clinic"
+      ]
+    },
+    {
+      "value": "San Francisco General Hospital",
+      "synonyms": [
+        "San Francisco General Hospital"
+      ]
+    },
+    {
+      "value": "San Francisco VA Medical Center",
+      "synonyms": [
+        "San Francisco VA Medical Center"
+      ]
+    },
+    {
+      "value": "San Gabriel Valley Medical Center",
+      "synonyms": [
+        "San Gabriel Valley Medical Center"
+      ]
+    },
+    {
+      "value": "San Gorgonio Memorial Hospital",
+      "synonyms": [
+        "San Gorgonio Memorial Hospital"
+      ]
+    },
+    {
+      "value": "San Joaquin General Hospital",
+      "synonyms": [
+        "San Joaquin General Hospital"
+      ]
+    },
+    {
+      "value": "San Joaquin Medical Center",
+      "synonyms": [
+        "San Joaquin Medical Center"
+      ]
+    },
+    {
+      "value": "San Joaquin Valley Rehabilitation Hospital",
+      "synonyms": [
+        "San Joaquin Valley Rehabilitation Hospital"
+      ]
+    },
+    {
+      "value": "San Jose Medical Center",
+      "synonyms": [
+        "San Jose Medical Center"
+      ]
+    },
+    {
+      "value": "San Leandro Hospital",
+      "synonyms": [
+        "San Leandro Hospital"
+      ]
+    },
+    {
+      "value": "San Luis Rey Hospital",
+      "synonyms": [
+        "San Luis Rey Hospital"
+      ]
+    },
+    {
+      "value": "San Mateo Medical Center",
+      "synonyms": [
+        "San Mateo Medical Center"
+      ]
+    },
+    {
+      "value": "San Ramon Regional Medical Center",
+      "synonyms": [
+        "San Ramon Regional Medical Center"
+      ]
+    },
+    {
+      "value": "San Vicente Hospital",
+      "synonyms": [
+        "San Vicente Hospital"
+      ]
+    },
+    {
+      "value": "Sanger General Hospital",
+      "synonyms": [
+        "Sanger General Hospital"
+      ]
+    },
+    {
+      "value": "Santa Ana Hospital Medical Center",
+      "synonyms": [
+        "Santa Ana Hospital Medical Center"
+      ]
+    },
+    {
+      "value": "Santa Barbara Cottage Hospital",
+      "synonyms": [
+        "Santa Barbara Cottage Hospital"
+      ]
+    },
+    {
+      "value": "Santa Clara Valley Medical Center",
+      "synonyms": [
+        "Santa Clara Valley Medical Center"
+      ]
+    },
+    {
+      "value": "Santa Connie hospital",
+      "synonyms": [
+        "Santa Connie hospital"
+      ]
+    },
+    {
+      "value": "Santa Marta Hospital",
+      "synonyms": [
+        "Santa Marta Hospital"
+      ]
+    },
+    {
+      "value": "Santa Paula Hospital",
+      "synonyms": [
+        "Santa Paula Hospital"
+      ]
+    },
+    {
+      "value": "Santa Rosa Memorial Hospital",
+      "synonyms": [
+        "Santa Rosa Memorial Hospital"
+      ]
+    },
+    {
+      "value": "Santa Teresita Hospital",
+      "synonyms": [
+        "Santa Teresita Hospital"
+      ]
+    },
+    {
+      "value": "Santa Ynez Valley Cottage Hospital",
+      "synonyms": [
+        "Santa Ynez Valley Cottage Hospital"
+      ]
+    },
+    {
+      "value": "Saratoga Hospital Saratoga Springs",
+      "synonyms": [
+        "Saratoga Hospital Saratoga Springs"
+      ]
+    },
+    {
+      "value": "Schuyler Hospital Montour Falls",
+      "synonyms": [
+        "Schuyler Hospital Montour Falls"
+      ]
+    },
+    {
+      "value": "Scripps Green Hospital",
+      "synonyms": [
+        "Scripps Green Hospital"
+      ]
+    },
+    {
+      "value": "Scripps Health",
+      "synonyms": [
+        "Scripps Health"
+      ]
+    },
+    {
+      "value": "Scripps Memorial Hospital",
+      "synonyms": [
+        "Scripps Memorial Hospital"
+      ]
+    },
+    {
+      "value": "Scripps Mercy Hospital",
+      "synonyms": [
+        "Scripps Mercy Hospital"
+      ]
+    },
+    {
+      "value": "Sears Optical",
+      "synonyms": [
+        "Sears Optical"
+      ]
+    },
+    {
+      "value": "Sears Optical store",
+      "synonyms": [
+        "Sears Optical store"
+      ]
+    },
+    {
+      "value": "Selma Community Hospital",
+      "synonyms": [
+        "Selma Community Hospital"
+      ]
+    },
+    {
+      "value": "Seneca Hospital",
+      "synonyms": [
+        "Seneca Hospital"
+      ]
+    },
+    {
+      "value": "Sequoia Hospital",
+      "synonyms": [
+        "Sequoia Hospital"
+      ]
+    },
+    {
+      "value": "Seton Health System-St Mary\u0027s Campus Troy",
+      "synonyms": [
+        "Seton Health System-St Mary\u0027s Campus Troy"
+      ]
+    },
+    {
+      "value": "Seton Medical Center",
+      "synonyms": [
+        "Seton Medical Center"
+      ]
+    },
+    {
+      "value": "Sharp Cabrillo Hospital",
+      "synonyms": [
+        "Sharp Cabrillo Hospital"
+      ]
+    },
+    {
+      "value": "Sharp Chula Vista Medical Center",
+      "synonyms": [
+        "Sharp Chula Vista Medical Center"
+      ]
+    },
+    {
+      "value": "Sharp Coronado Hospital",
+      "synonyms": [
+        "Sharp Coronado Hospital"
+      ]
+    },
+    {
+      "value": "Sharp Grossmont Hospital",
+      "synonyms": [
+        "Sharp Grossmont Hospital"
+      ]
+    },
+    {
+      "value": "Sharp HealthCare",
+      "synonyms": [
+        "Sharp HealthCare"
+      ]
+    },
+    {
+      "value": "Sharp Memorial Hospital",
+      "synonyms": [
+        "Sharp Memorial Hospital"
+      ]
+    },
+    {
+      "value": "Sharp Mesa Vista",
+      "synonyms": [
+        "Sharp Mesa Vista"
+      ]
+    },
+    {
+      "value": "Shasta Regional Medical Center",
+      "synonyms": [
+        "Shasta Regional Medical Center"
+      ]
+    },
+    {
+      "value": "Sheehan Memorial Hospital Buffalo",
+      "synonyms": [
+        "Sheehan Memorial Hospital Buffalo"
+      ]
+    },
+    {
+      "value": "Sherman Oaks Hospital and the Grossman Burn Center",
+      "synonyms": [
+        "Sherman Oaks Hospital and the Grossman Burn Center"
+      ]
+    },
+    {
+      "value": "Shriners Hospital",
+      "synonyms": [
+        "Shriners Hospital"
+      ]
+    },
+    {
+      "value": "Shriners Hospitals for Children Northern Calif.",
+      "synonyms": [
+        "Shriners Hospitals for Children Northern Calif."
+      ]
+    },
+    {
+      "value": "Sierra Nevada Memorial Hospital",
+      "synonyms": [
+        "Sierra Nevada Memorial Hospital"
+      ]
+    },
+    {
+      "value": "Sierra View District Hospital",
+      "synonyms": [
+        "Sierra View District Hospital"
+      ]
+    },
+    {
+      "value": "Sierra Vista Hospital",
+      "synonyms": [
+        "Sierra Vista Hospital"
+      ]
+    },
+    {
+      "value": "Sierra Vista Regional Medical Center",
+      "synonyms": [
+        "Sierra Vista Regional Medical Center"
+      ]
+    },
+    {
+      "value": "Silver Lake Medical Center",
+      "synonyms": [
+        "Silver Lake Medical Center"
+      ]
+    },
+    {
+      "value": "Silver Lake Medical Center Ingleside Campus",
+      "synonyms": [
+        "Silver Lake Medical Center Ingleside Campus"
+      ]
+    },
+    {
+      "value": "Simi Valley Hospital",
+      "synonyms": [
+        "Simi Valley Hospital"
+      ]
+    },
+    {
+      "value": "Sisters Of Charity Bayley Seton",
+      "synonyms": [
+        "Sisters Of Charity Bayley Seton"
+      ]
+    },
+    {
+      "value": "Sisters Of Charity Hospital Buffalo",
+      "synonyms": [
+        "Sisters Of Charity Hospital Buffalo"
+      ]
+    },
+    {
+      "value": "Sisters Of Charity St Vincents Hospital Campus",
+      "synonyms": [
+        "Sisters Of Charity St Vincents Hospital Campus"
+      ]
+    },
+    {
+      "value": "Soldiers And Sailors Memorial Hospital Of Yates County Inc Penn Yan",
+      "synonyms": [
+        "Soldiers And Sailors Memorial Hospital Of Yates County Inc Penn Yan"
+      ]
+    },
+    {
+      "value": "Sonoma Developmental Center - Eldridge",
+      "synonyms": [
+        "Sonoma Developmental Center - Eldridge"
+      ]
+    },
+    {
+      "value": "Sonoma Valley Hospital",
+      "synonyms": [
+        "Sonoma Valley Hospital"
+      ]
+    },
+    {
+      "value": "Sonoma West Medical Center",
+      "synonyms": [
+        "Sonoma West Medical Center"
+      ]
+    },
+    {
+      "value": "Sonora Regional Medical Center",
+      "synonyms": [
+        "Sonora Regional Medical Center"
+      ]
+    },
+    {
+      "value": "Sound Shore Medical Center of Westchester New Rochelle",
+      "synonyms": [
+        "Sound Shore Medical Center of Westchester New Rochelle"
+      ]
+    },
+    {
+      "value": "Sound Shore Medical Ctr Of Westchester New Rochelle",
+      "synonyms": [
+        "Sound Shore Medical Ctr Of Westchester New Rochelle"
+      ]
+    },
+    {
+      "value": "South Beach Psychiatric Center",
+      "synonyms": [
+        "South Beach Psychiatric Center"
+      ]
+    },
+    {
+      "value": "South Coast Medical Center",
+      "synonyms": [
+        "South Coast Medical Center"
+      ]
+    },
+    {
+      "value": "South Nassau Communities Hospital Oceanside",
+      "synonyms": [
+        "South Nassau Communities Hospital Oceanside"
+      ]
+    },
+    {
+      "value": "Southampton Hospital Southampton",
+      "synonyms": [
+        "Southampton Hospital Southampton"
+      ]
+    },
+    {
+      "value": "Southern Inyo Hospital",
+      "synonyms": [
+        "Southern Inyo Hospital"
+      ]
+    },
+    {
+      "value": "Southside Hospital Bay Shore",
+      "synonyms": [
+        "Southside Hospital Bay Shore"
+      ]
+    },
+    {
+      "value": "Specialty Hospital of Southern California",
+      "synonyms": [
+        "Specialty Hospital of Southern California"
+      ]
+    },
+    {
+      "value": "St Agnes Hospital White Plains",
+      "synonyms": [
+        "St Agnes Hospital White Plains"
+      ]
+    },
+    {
+      "value": "St Anthony Community Hospital Warwick",
+      "synonyms": [
+        "St Anthony Community Hospital Warwick"
+      ]
+    },
+    {
+      "value": "St Barnabas Hospital Bronx",
+      "synonyms": [
+        "St Barnabas Hospital Bronx"
+      ]
+    },
+    {
+      "value": "St Catherine Of Siena Medical Center Smithtown",
+      "synonyms": [
+        "St Catherine Of Siena Medical Center Smithtown"
+      ]
+    },
+    {
+      "value": "St Elizabeth Medical Center",
+      "synonyms": [
+        "St Elizabeth Medical Center"
+      ]
+    },
+    {
+      "value": "St Francis Hospital Beacon Div Beacon",
+      "synonyms": [
+        "St Francis Hospital Beacon Div Beacon"
+      ]
+    },
+    {
+      "value": "St Francis Hospital Roslyn",
+      "synonyms": [
+        "St Francis Hospital Roslyn"
+      ]
+    },
+    {
+      "value": "St James Mercy Hospital - Mercycare North Hornell",
+      "synonyms": [
+        "St James Mercy Hospital - Mercycare North Hornell"
+      ]
+    },
+    {
+      "value": "St James Mercy Hospital Hornell",
+      "synonyms": [
+        "St James Mercy Hospital Hornell"
+      ]
+    },
+    {
+      "value": "St Jerome Hospital",
+      "synonyms": [
+        "St Jerome Hospital"
+      ]
+    },
+    {
+      "value": "St John\u0027s Episcopal Hospital At",
+      "synonyms": [
+        "St John\u0027s Episcopal Hospital At"
+      ]
+    },
+    {
+      "value": "St Johns Episcopal Hospital",
+      "synonyms": [
+        "St Johns Episcopal Hospital"
+      ]
+    },
+    {
+      "value": "St Joseph Hospital Bethpage",
+      "synonyms": [
+        "St Joseph Hospital Bethpage"
+      ]
+    },
+    {
+      "value": "St Joseph Hospital Of Cheektowaga",
+      "synonyms": [
+        "St Joseph Hospital Of Cheektowaga"
+      ]
+    },
+    {
+      "value": "St Joseph\u0027s Hospital Elmira",
+      "synonyms": [
+        "St Joseph\u0027s Hospital Elmira"
+      ]
+    },
+    {
+      "value": "St Joseph\u0027s Hospital Health Center",
+      "synonyms": [
+        "St Joseph\u0027s Hospital Health Center"
+      ]
+    },
+    {
+      "value": "St Marys Healthcare Amsterdam New York www.smha.org",
+      "synonyms": [
+        "St Marys Healthcare Amsterdam New York www.smha.org"
+      ]
+    },
+    {
+      "value": "St. Bernardine Medical Center",
+      "synonyms": [
+        "St. Bernardine Medical Center"
+      ]
+    },
+    {
+      "value": "St. Charles Hospital Port Jefferson",
+      "synonyms": [
+        "St. Charles Hospital Port Jefferson"
+      ]
+    },
+    {
+      "value": "St. Elizabeth Community Hospital",
+      "synonyms": [
+        "St. Elizabeth Community Hospital"
+      ]
+    },
+    {
+      "value": "St. Francis Medical Center",
+      "synonyms": [
+        "St. Francis Medical Center"
+      ]
+    },
+    {
+      "value": "St. Helena Hospital",
+      "synonyms": [
+        "St. Helena Hospital"
+      ]
+    },
+    {
+      "value": "St. Helena Hospital Clearlake",
+      "synonyms": [
+        "St. Helena Hospital Clearlake"
+      ]
+    },
+    {
+      "value": "St. John\u0027s Health Center",
+      "synonyms": [
+        "St. John\u0027s Health Center"
+      ]
+    },
+    {
+      "value": "St. John\u0027s Pleasant Valley Hospital",
+      "synonyms": [
+        "St. John\u0027s Pleasant Valley Hospital"
+      ]
+    },
+    {
+      "value": "St. John\u0027s Regional Medical Center",
+      "synonyms": [
+        "St. John\u0027s Regional Medical Center"
+      ]
+    },
+    {
+      "value": "St. John\u0027s Riverside Hospital Yonkers",
+      "synonyms": [
+        "St. John\u0027s Riverside Hospital Yonkers"
+      ]
+    },
+    {
+      "value": "St. Joseph Hospital",
+      "synonyms": [
+        "St. Joseph Hospital"
+      ]
+    },
+    {
+      "value": "St. Joseph\u0027s Medical Center",
+      "synonyms": [
+        "St. Joseph\u0027s Medical Center"
+      ]
+    },
+    {
+      "value": "St. Jude Medical Center",
+      "synonyms": [
+        "St. Jude Medical Center"
+      ]
+    },
+    {
+      "value": "St. Luke Medical Center",
+      "synonyms": [
+        "St. Luke Medical Center"
+      ]
+    },
+    {
+      "value": "St. Luke\u0027s Hospital",
+      "synonyms": [
+        "St. Luke\u0027s Hospital"
+      ]
+    },
+    {
+      "value": "St. Luke\u0027s-Roosevelt Hospital Center New York",
+      "synonyms": [
+        "St. Luke\u0027s-Roosevelt Hospital Center New York"
+      ]
+    },
+    {
+      "value": "St. Mary Medical Center",
+      "synonyms": [
+        "St. Mary Medical Center"
+      ]
+    },
+    {
+      "value": "St. Mary Regional Medical Center",
+      "synonyms": [
+        "St. Mary Regional Medical Center"
+      ]
+    },
+    {
+      "value": "St. Mary\u0027s Hospital",
+      "synonyms": [
+        "St. Mary\u0027s Hospital"
+      ]
+    },
+    {
+      "value": "St. Mary\u0027s Medical Center",
+      "synonyms": [
+        "St. Mary\u0027s Medical Center"
+      ]
+    },
+    {
+      "value": "St. Peter\u0027s Hospital Albany",
+      "synonyms": [
+        "St. Peter\u0027s Hospital Albany"
+      ]
+    },
+    {
+      "value": "St. Rose Hospital",
+      "synonyms": [
+        "St. Rose Hospital"
+      ]
+    },
+    {
+      "value": "St. Vincent Medical Center",
+      "synonyms": [
+        "St. Vincent Medical Center"
+      ]
+    },
+    {
+      "value": "St. Vincent\u0027s Hospital Westchester Harrison",
+      "synonyms": [
+        "St. Vincent\u0027s Hospital Westchester Harrison"
+      ]
+    },
+    {
+      "value": "Stanford University Medical Center",
+      "synonyms": [
+        "Stanford University Medical Center"
+      ]
+    },
+    {
+      "value": "State University of New York Downstate Medical Center Brooklyn",
+      "synonyms": [
+        "State University of New York Downstate Medical Center Brooklyn"
+      ]
+    },
+    {
+      "value": "Staten Island University Hospital North Campus",
+      "synonyms": [
+        "Staten Island University Hospital North Campus"
+      ]
+    },
+    {
+      "value": "Stony Brook University Hospital Stony Brook",
+      "synonyms": [
+        "Stony Brook University Hospital Stony Brook"
+      ]
+    },
+    {
+      "value": "Strong Memorial Hospital Rochester",
+      "synonyms": [
+        "Strong Memorial Hospital Rochester"
+      ]
+    },
+    {
+      "value": "Suburban Medical Center",
+      "synonyms": [
+        "Suburban Medical Center"
+      ]
+    },
+    {
+      "value": "Summit Park Hospital-Rockland County Infirmary Pomona",
+      "synonyms": [
+        "Summit Park Hospital-Rockland County Infirmary Pomona"
+      ]
+    },
+    {
+      "value": "Sunnyview Hospital And Rehabilitation Center Schenectady",
+      "synonyms": [
+        "Sunnyview Hospital And Rehabilitation Center Schenectady"
+      ]
+    },
+    {
+      "value": "Surprise Valley Community Hospital",
+      "synonyms": [
+        "Surprise Valley Community Hospital"
+      ]
+    },
+    {
+      "value": "Sutter Amador Hospital",
+      "synonyms": [
+        "Sutter Amador Hospital"
+      ]
+    },
+    {
+      "value": "Sutter Auburn Faith Hospital",
+      "synonyms": [
+        "Sutter Auburn Faith Hospital"
+      ]
+    },
+    {
+      "value": "Sutter Coast Hospital",
+      "synonyms": [
+        "Sutter Coast Hospital"
+      ]
+    },
+    {
+      "value": "Sutter Davis Hospital",
+      "synonyms": [
+        "Sutter Davis Hospital"
+      ]
+    },
+    {
+      "value": "Sutter Delta Medical Center",
+      "synonyms": [
+        "Sutter Delta Medical Center"
+      ]
+    },
+    {
+      "value": "Sutter General Hospital",
+      "synonyms": [
+        "Sutter General Hospital"
+      ]
+    },
+    {
+      "value": "Sutter Lakeside Hospital",
+      "synonyms": [
+        "Sutter Lakeside Hospital"
+      ]
+    },
+    {
+      "value": "Sutter Maternity and Surgery Hospital",
+      "synonyms": [
+        "Sutter Maternity and Surgery Hospital"
+      ]
+    },
+    {
+      "value": "Sutter Medical Center of Santa Rosa",
+      "synonyms": [
+        "Sutter Medical Center of Santa Rosa"
+      ]
+    },
+    {
+      "value": "Sutter Memorial Hospital",
+      "synonyms": [
+        "Sutter Memorial Hospital"
+      ]
+    },
+    {
+      "value": "Sutter Roseville Medical Center",
+      "synonyms": [
+        "Sutter Roseville Medical Center"
+      ]
+    },
+    {
+      "value": "Sutter Solano Medical Center",
+      "synonyms": [
+        "Sutter Solano Medical Center"
+      ]
+    },
+    {
+      "value": "Syosset Hospital",
+      "synonyms": [
+        "Syosset Hospital"
+      ]
+    },
+    {
+      "value": "Syracuse VA Medical Center",
+      "synonyms": [
+        "Syracuse VA Medical Center"
+      ]
+    },
+    {
+      "value": "Tahoe Forest Hospital",
+      "synonyms": [
+        "Tahoe Forest Hospital"
+      ]
+    },
+    {
+      "value": "Temple Community Hospital",
+      "synonyms": [
+        "Temple Community Hospital"
+      ]
+    },
+    {
+      "value": "Texas Medical Center",
+      "synonyms": [
+        "Texas Medical Center"
+      ]
+    },
+    {
+      "value": "Thompson Memorial Medical Center Hospital",
+      "synonyms": [
+        "Thompson Memorial Medical Center Hospital"
+      ]
+    },
+    {
+      "value": "Thornton Hospital",
+      "synonyms": [
+        "Thornton Hospital"
+      ]
+    },
+    {
+      "value": "Torrance Memorial Medical Center",
+      "synonyms": [
+        "Torrance Memorial Medical Center"
+      ]
+    },
+    {
+      "value": "Tri-Cities Hospital",
+      "synonyms": [
+        "Tri-Cities Hospital"
+      ]
+    },
+    {
+      "value": "Tri-City Medical Center",
+      "synonyms": [
+        "Tri-City Medical Center"
+      ]
+    },
+    {
+      "value": "Tulare Regional Medical Center",
+      "synonyms": [
+        "Tulare Regional Medical Center"
+      ]
+    },
+    {
+      "value": "Tustin Hospital Medical Center",
+      "synonyms": [
+        "Tustin Hospital Medical Center"
+      ]
+    },
+    {
+      "value": "Tustin Rehabilitation Hospital",
+      "synonyms": [
+        "Tustin Rehabilitation Hospital"
+      ]
+    },
+    {
+      "value": "Twin Cities Community Hospital",
+      "synonyms": [
+        "Twin Cities Community Hospital"
+      ]
+    },
+    {
+      "value": "U.S. Naval Hospital",
+      "synonyms": [
+        "U.S. Naval Hospital"
+      ]
+    },
+    {
+      "value": "UC San Diego Health",
+      "synonyms": [
+        "UC San Diego Health"
+      ]
+    },
+    {
+      "value": "UCLA Medical Center Santa Monica",
+      "synonyms": [
+        "UCLA Medical Center Santa Monica"
+      ]
+    },
+    {
+      "value": "UCSF Medical Center",
+      "synonyms": [
+        "UCSF Medical Center"
+      ]
+    },
+    {
+      "value": "UCSF Mount Zion Medical Center",
+      "synonyms": [
+        "UCSF Mount Zion Medical Center"
+      ]
+    },
+    {
+      "value": "UHS Binghamton General Hospital Binghamton",
+      "synonyms": [
+        "UHS Binghamton General Hospital Binghamton"
+      ]
+    },
+    {
+      "value": "UHS Chenango Memorial Hospital Norwich",
+      "synonyms": [
+        "UHS Chenango Memorial Hospital Norwich"
+      ]
+    },
+    {
+      "value": "UHS Delaware Valley Hospital Walton",
+      "synonyms": [
+        "UHS Delaware Valley Hospital Walton"
+      ]
+    },
+    {
+      "value": "UHS Wilson Medical Center Johnson City",
+      "synonyms": [
+        "UHS Wilson Medical Center Johnson City"
+      ]
+    },
+    {
+      "value": "USC Kenneth Norris Jr. Cancer Hospital",
+      "synonyms": [
+        "USC Kenneth Norris Jr. Cancer Hospital"
+      ]
+    },
+    {
+      "value": "USC University Hospital",
+      "synonyms": [
+        "USC University Hospital"
+      ]
+    },
+    {
+      "value": "Ukiah Valley Medical Center",
+      "synonyms": [
+        "Ukiah Valley Medical Center"
+      ]
+    },
+    {
+      "value": "United Memorial Medical Center Batavia",
+      "synonyms": [
+        "United Memorial Medical Center Batavia"
+      ]
+    },
+    {
+      "value": "Unity Hospital Rochester",
+      "synonyms": [
+        "Unity Hospital Rochester"
+      ]
+    },
+    {
+      "value": "University Hospital Of Brooklyn Brooklyn",
+      "synonyms": [
+        "University Hospital Of Brooklyn Brooklyn"
+      ]
+    },
+    {
+      "value": "University Hospital Stony Brook",
+      "synonyms": [
+        "University Hospital Stony Brook"
+      ]
+    },
+    {
+      "value": "University of California Davis Medical Center",
+      "synonyms": [
+        "University of California Davis Medical Center"
+      ]
+    },
+    {
+      "value": "University of California Irvine Medical Center",
+      "synonyms": [
+        "University of California Irvine Medical Center"
+      ]
+    },
+    {
+      "value": "University of Rochester Medical Center Rochester",
+      "synonyms": [
+        "University of Rochester Medical Center Rochester"
+      ]
+    },
+    {
+      "value": "Upstate University Hospital Syracuse",
+      "synonyms": [
+        "Upstate University Hospital Syracuse"
+      ]
+    },
+    {
+      "value": "VA Greater Los Angeles Healthcare Center",
+      "synonyms": [
+        "VA Greater Los Angeles Healthcare Center"
+      ]
+    },
+    {
+      "value": "VA Palo Alto Hospital",
+      "synonyms": [
+        "VA Palo Alto Hospital"
+      ]
+    },
+    {
+      "value": "Vaca Valley Hospital",
+      "synonyms": [
+        "Vaca Valley Hospital"
+      ]
+    },
+    {
+      "value": "Valley Care Medical Center",
+      "synonyms": [
+        "Valley Care Medical Center"
+      ]
+    },
+    {
+      "value": "Valley Health Systems",
+      "synonyms": [
+        "Valley Health Systems"
+      ]
+    },
+    {
+      "value": "Valley Plaza Doctors Hospital",
+      "synonyms": [
+        "Valley Plaza Doctors Hospital"
+      ]
+    },
+    {
+      "value": "Vassar Brothers Hospital Poughkeepsie",
+      "synonyms": [
+        "Vassar Brothers Hospital Poughkeepsie"
+      ]
+    },
+    {
+      "value": "Vencor Hospital",
+      "synonyms": [
+        "Vencor Hospital"
+      ]
+    },
+    {
+      "value": "Ventura County Medical Center",
+      "synonyms": [
+        "Ventura County Medical Center"
+      ]
+    },
+    {
+      "value": "Verdugo Hills Regional Medical Center",
+      "synonyms": [
+        "Verdugo Hills Regional Medical Center"
+      ]
+    },
+    {
+      "value": "Veterans Affairs Medical Center San Diego",
+      "synonyms": [
+        "Veterans Affairs Medical Center San Diego"
+      ]
+    },
+    {
+      "value": "Veterans Home of California Yountville",
+      "synonyms": [
+        "Veterans Home of California Yountville"
+      ]
+    },
+    {
+      "value": "Victor Valley Hospital",
+      "synonyms": [
+        "Victor Valley Hospital"
+      ]
+    },
+    {
+      "value": "Washington Hospital",
+      "synonyms": [
+        "Washington Hospital"
+      ]
+    },
+    {
+      "value": "Watsonville Community Hospital",
+      "synonyms": [
+        "Watsonville Community Hospital"
+      ]
+    },
+    {
+      "value": "West Anaheim Medical Center",
+      "synonyms": [
+        "West Anaheim Medical Center"
+      ]
+    },
+    {
+      "value": "West Hills Hospital",
+      "synonyms": [
+        "West Hills Hospital"
+      ]
+    },
+    {
+      "value": "West Hills Regional Medical Center",
+      "synonyms": [
+        "West Hills Regional Medical Center"
+      ]
+    },
+    {
+      "value": "West Los Angeles Memorial Hospital",
+      "synonyms": [
+        "West Los Angeles Memorial Hospital"
+      ]
+    },
+    {
+      "value": "West Los Angeles VA Medical Center",
+      "synonyms": [
+        "West Los Angeles VA Medical Center"
+      ]
+    },
+    {
+      "value": "West Valley Hospital And Health Center",
+      "synonyms": [
+        "West Valley Hospital And Health Center"
+      ]
+    },
+    {
+      "value": "Westchester Medical Center Valhalla",
+      "synonyms": [
+        "Westchester Medical Center Valhalla"
+      ]
+    },
+    {
+      "value": "Westchester Square Medical Center Bronx",
+      "synonyms": [
+        "Westchester Square Medical Center Bronx"
+      ]
+    },
+    {
+      "value": "Western Medical Center",
+      "synonyms": [
+        "Western Medical Center"
+      ]
+    },
+    {
+      "value": "Western New York VA Health Care System Buffalo",
+      "synonyms": [
+        "Western New York VA Health Care System Buffalo"
+      ]
+    },
+    {
+      "value": "Western Ny Children\u0027s Psychiatric Center",
+      "synonyms": [
+        "Western Ny Children\u0027s Psychiatric Center"
+      ]
+    },
+    {
+      "value": "Westfield Memorial Hospital Inc Westfield",
+      "synonyms": [
+        "Westfield Memorial Hospital Inc Westfield"
+      ]
+    },
+    {
+      "value": "Westlake Outpatient Medical Center",
+      "synonyms": [
+        "Westlake Outpatient Medical Center"
+      ]
+    },
+    {
+      "value": "Westside Hospital",
+      "synonyms": [
+        "Westside Hospital"
+      ]
+    },
+    {
+      "value": "White Memorial Medical Center",
+      "synonyms": [
+        "White Memorial Medical Center"
+      ]
+    },
+    {
+      "value": "White Plains Hospital White Plains",
+      "synonyms": [
+        "White Plains Hospital White Plains"
+      ]
+    },
+    {
+      "value": "Whittier Hospital Medical Center",
+      "synonyms": [
+        "Whittier Hospital Medical Center"
+      ]
+    },
+    {
+      "value": "Winthrop-University Hospital Mineola",
+      "synonyms": [
+        "Winthrop-University Hospital Mineola"
+      ]
+    },
+    {
+      "value": "Woman\u0027s Christian Association Jamestown",
+      "synonyms": [
+        "Woman\u0027s Christian Association Jamestown"
+      ]
+    },
+    {
+      "value": "Woodhull Medical and Mental Health Center Brooklyn",
+      "synonyms": [
+        "Woodhull Medical and Mental Health Center Brooklyn"
+      ]
+    },
+    {
+      "value": "Wyckoff Heights Medical Center Brooklyn",
+      "synonyms": [
+        "Wyckoff Heights Medical Center Brooklyn"
+      ]
+    },
+    {
+      "value": "Wyoming County Community Hospital Warsaw",
+      "synonyms": [
+        "Wyoming County Community Hospital Warsaw"
+      ]
+    },
+    {
+      "value": "Yonkers General Hospital Yonkers",
+      "synonyms": [
+        "Yonkers General Hospital Yonkers"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}

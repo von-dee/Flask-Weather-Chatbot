@@ -1,0 +1,339 @@
+{
+  "id": "db8aba17-225f-4eb5-8104-479f22dfa7fa",
+  "name": "address",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "@sys.zip-code:zip-code",
+      "synonyms": [
+        "@sys.zip-code:zip-code"
+      ]
+    },
+    {
+      "value": "@geo-city:city",
+      "synonyms": [
+        "@geo-city:city"
+      ]
+    },
+    {
+      "value": "@sys.street-address:street-address",
+      "synonyms": [
+        "@sys.street-address:street-address"
+      ]
+    },
+    {
+      "value": "@mountain:subadmin-area",
+      "synonyms": [
+        "@mountain:subadmin-area"
+      ]
+    },
+    {
+      "value": "@island:subadmin-area",
+      "synonyms": [
+        "@island:subadmin-area"
+      ]
+    },
+    {
+      "value": "@subadmin-area:subadmin-area @admin-area:admin-area",
+      "synonyms": [
+        "@subadmin-area:subadmin-area @admin-area:admin-area"
+      ]
+    },
+    {
+      "value": "@subadmin-area:subadmin-area",
+      "synonyms": [
+        "@subadmin-area:subadmin-area"
+      ]
+    },
+    {
+      "value": "@venue-title:business-name",
+      "synonyms": [
+        "@venue-title:business-name"
+      ]
+    },
+    {
+      "value": "@venue-type:business-name",
+      "synonyms": [
+        "@venue-type:business-name"
+      ]
+    },
+    {
+      "value": "@venue-chain:business-name",
+      "synonyms": [
+        "@venue-chain:business-name"
+      ]
+    },
+    {
+      "value": "@map-shortcut:shortcut",
+      "synonyms": [
+        "@map-shortcut:shortcut"
+      ]
+    },
+    {
+      "value": "@geo-city:city in @geo-country:country",
+      "synonyms": [
+        "@geo-city:city in @geo-country:country"
+      ]
+    },
+    {
+      "value": "@geo-city:city @geo-country:country",
+      "synonyms": [
+        "@geo-city:city @geo-country:country"
+      ]
+    },
+    {
+      "value": "@geo-country:country @geo-city:city",
+      "synonyms": [
+        "@geo-country:country @geo-city:city"
+      ]
+    },
+    {
+      "value": "@geo-country:country @admin-area:admin-area",
+      "synonyms": [
+        "@geo-country:country @admin-area:admin-area"
+      ]
+    },
+    {
+      "value": "@admin-area:admin-area @geo-country:country",
+      "synonyms": [
+        "@admin-area:admin-area @geo-country:country"
+      ]
+    },
+    {
+      "value": "@geo-city:city @admin-area:admin-area",
+      "synonyms": [
+        "@geo-city:city @admin-area:admin-area"
+      ]
+    },
+    {
+      "value": "@geo-city:city country @admin-area:admin-area",
+      "synonyms": [
+        "@geo-city:city country @admin-area:admin-area"
+      ]
+    },
+    {
+      "value": "@geo-city:city @admin-area:admin-area @geo-country:country",
+      "synonyms": [
+        "@geo-city:city @admin-area:admin-area @geo-country:country"
+      ]
+    },
+    {
+      "value": "@sys.street-address:street-address @geo-city:city",
+      "synonyms": [
+        "@sys.street-address:street-address @geo-city:city"
+      ]
+    },
+    {
+      "value": "@sys.street-address:street-address @geo-city:city @sys.zip-code:zip-code",
+      "synonyms": [
+        "@sys.street-address:street-address @geo-city:city @sys.zip-code:zip-code"
+      ]
+    },
+    {
+      "value": "@sys.street-address:street-address @geo-city:city @admin-area:admin-area",
+      "synonyms": [
+        "@sys.street-address:street-address @geo-city:city @admin-area:admin-area"
+      ]
+    },
+    {
+      "value": "@sys.street-address:street-address @geo-city:city @sys.zip-code:zip-code @admin-area:admin-area",
+      "synonyms": [
+        "@sys.street-address:street-address @geo-city:city @sys.zip-code:zip-code @admin-area:admin-area"
+      ]
+    },
+    {
+      "value": "@sys.street-address:street-address @geo-city:city @admin-area:admin-area @sys.zip-code:zip-code",
+      "synonyms": [
+        "@sys.street-address:street-address @geo-city:city @admin-area:admin-area @sys.zip-code:zip-code"
+      ]
+    },
+    {
+      "value": "@sys.street-address:street-address @geo-city:city @geo-country:country",
+      "synonyms": [
+        "@sys.street-address:street-address @geo-city:city @geo-country:country"
+      ]
+    },
+    {
+      "value": "@sys.street-address:street-address @geo-city:city @admin-area:admin-area @geo-country:country",
+      "synonyms": [
+        "@sys.street-address:street-address @geo-city:city @admin-area:admin-area @geo-country:country"
+      ]
+    },
+    {
+      "value": "@sys.street-address:street-address @geo-city:city @sys.zip-code:zip-code @admin-area:admin-area @geo-country:country",
+      "synonyms": [
+        "@sys.street-address:street-address @geo-city:city @sys.zip-code:zip-code @admin-area:admin-area @geo-country:country"
+      ]
+    },
+    {
+      "value": "@sys.street-address:street-address @geo-city:city @admin-area:admin-area @sys.zip-code:zip-code @geo-country:country",
+      "synonyms": [
+        "@sys.street-address:street-address @geo-city:city @admin-area:admin-area @sys.zip-code:zip-code @geo-country:country"
+      ]
+    },
+    {
+      "value": "@venue-title:business-name in @geo-city:city",
+      "synonyms": [
+        "@venue-title:business-name in @geo-city:city"
+      ]
+    },
+    {
+      "value": "@geo-city:city @venue-type:business-name",
+      "synonyms": [
+        "@geo-city:city @venue-type:business-name"
+      ]
+    },
+    {
+      "value": "@geo-city:city and @venue-title:business-name",
+      "synonyms": [
+        "@geo-city:city and @venue-title:business-name"
+      ]
+    },
+    {
+      "value": "@venue-title:business-name on @sys.street-address:street-address",
+      "synonyms": [
+        "@venue-title:business-name on @sys.street-address:street-address"
+      ]
+    },
+    {
+      "value": "@venue-title:business-name at @sys.street-address:street-address",
+      "synonyms": [
+        "@venue-title:business-name at @sys.street-address:street-address"
+      ]
+    },
+    {
+      "value": "@venue-title:business-name @sys.street-address:street-address",
+      "synonyms": [
+        "@venue-title:business-name @sys.street-address:street-address"
+      ]
+    },
+    {
+      "value": "@venue-title:business-name @sys.street-address:street-address @geo-city:city",
+      "synonyms": [
+        "@venue-title:business-name @sys.street-address:street-address @geo-city:city"
+      ]
+    },
+    {
+      "value": "@venue-title:business-name @sys.street-address:street-address @geo-city:city @admin-area:admin-area",
+      "synonyms": [
+        "@venue-title:business-name @sys.street-address:street-address @geo-city:city @admin-area:admin-area"
+      ]
+    },
+    {
+      "value": "@venue-title:business-name @sys.street-address:street-address @geo-city:city @admin-area:admin-area @sys.zip-code:zip-code",
+      "synonyms": [
+        "@venue-title:business-name @sys.street-address:street-address @geo-city:city @admin-area:admin-area @sys.zip-code:zip-code"
+      ]
+    },
+    {
+      "value": "@sys.street-address:street-address in @geo-city:city",
+      "synonyms": [
+        "@sys.street-address:street-address in @geo-city:city"
+      ]
+    },
+    {
+      "value": "@sys.street-address:street-address in @geo-city:city @sys.geo-country:country",
+      "synonyms": [
+        "@sys.street-address:street-address in @geo-city:city @sys.geo-country:country"
+      ]
+    },
+    {
+      "value": "@venue-title:business-name @sys.street-address:street-address @geo-city:city @admin-area:admin-area @sys.zip-code:zip-code @geo-country:country",
+      "synonyms": [
+        "@venue-title:business-name @sys.street-address:street-address @geo-city:city @admin-area:admin-area @sys.zip-code:zip-code @geo-country:country"
+      ]
+    },
+    {
+      "value": "@subadmin-area:subadmin-area @geo-city:city",
+      "synonyms": [
+        "@subadmin-area:subadmin-area @geo-city:city"
+      ]
+    },
+    {
+      "value": "@subadmin-area:subadmin-area in @geo-city:city",
+      "synonyms": [
+        "@subadmin-area:subadmin-area in @geo-city:city"
+      ]
+    },
+    {
+      "value": "@geo-city:city @venue-title:business-name",
+      "synonyms": [
+        "@geo-city:city @venue-title:business-name"
+      ]
+    },
+    {
+      "value": "@sys.highway-number:street-address in @geo-country:country",
+      "synonyms": [
+        "@sys.highway-number:street-address in @geo-country:country"
+      ]
+    },
+    {
+      "value": "@sys.highway-number:street-address @geo-country:country",
+      "synonyms": [
+        "@sys.highway-number:street-address @geo-country:country"
+      ]
+    },
+    {
+      "value": "@sys.highway-number:street-address in @admin-area:admin-area @geo-country:country",
+      "synonyms": [
+        "@sys.highway-number:street-address in @admin-area:admin-area @geo-country:country"
+      ]
+    },
+    {
+      "value": "@sys.highway-number:street-address @admin-area:admin-area @geo-country:country",
+      "synonyms": [
+        "@sys.highway-number:street-address @admin-area:admin-area @geo-country:country"
+      ]
+    },
+    {
+      "value": "@sys.highway-number:street-address in @admin-area:admin-area",
+      "synonyms": [
+        "@sys.highway-number:street-address in @admin-area:admin-area"
+      ]
+    },
+    {
+      "value": "@sys.highway-number:street-address @admin-area:admin-area",
+      "synonyms": [
+        "@sys.highway-number:street-address @admin-area:admin-area"
+      ]
+    },
+    {
+      "value": "@sys.highway-number:street-address",
+      "synonyms": [
+        "@sys.highway-number:street-address"
+      ]
+    },
+    {
+      "value": "@geo-country:country",
+      "synonyms": [
+        "@geo-country:country"
+      ]
+    },
+    {
+      "value": "@admin-area:admin-area",
+      "synonyms": [
+        "@admin-area:admin-area"
+      ]
+    },
+    {
+      "value": "@continent:admin-area",
+      "synonyms": [
+        "@continent:admin-area"
+      ]
+    },
+    {
+      "value": "Bansko",
+      "synonyms": [
+        "Bansko"
+      ]
+    },
+    {
+      "value": "Sicilia",
+      "synonyms": [
+        "Sicilia"
+      ]
+    }
+  ],
+  "isEnum": true,
+  "automatedExpansion": false
+}

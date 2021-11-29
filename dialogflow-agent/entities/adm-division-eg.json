@@ -1,0 +1,177 @@
+{
+  "id": "55146d1f-1808-43e7-a6b1-d68d6075e23b",
+  "name": "adm-division-eg",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Alexandria",
+      "synonyms": [
+        "Alexandria"
+      ]
+    },
+    {
+      "value": "Aswan",
+      "synonyms": [
+        "Aswan"
+      ]
+    },
+    {
+      "value": "Asyut",
+      "synonyms": [
+        "Asyut"
+      ]
+    },
+    {
+      "value": "Beheira",
+      "synonyms": [
+        "Beheira"
+      ]
+    },
+    {
+      "value": "Beni Suef",
+      "synonyms": [
+        "Beni Suef"
+      ]
+    },
+    {
+      "value": "Cairo",
+      "synonyms": [
+        "Cairo"
+      ]
+    },
+    {
+      "value": "Dakahlia",
+      "synonyms": [
+        "Dakahlia"
+      ]
+    },
+    {
+      "value": "Damietta",
+      "synonyms": [
+        "Damietta"
+      ]
+    },
+    {
+      "value": "Faiyum",
+      "synonyms": [
+        "Faiyum"
+      ]
+    },
+    {
+      "value": "Gharbia",
+      "synonyms": [
+        "Gharbia"
+      ]
+    },
+    {
+      "value": "Giza",
+      "synonyms": [
+        "Giza"
+      ]
+    },
+    {
+      "value": "Ismailia",
+      "synonyms": [
+        "Ismailia"
+      ]
+    },
+    {
+      "value": "Kafr El Sheikh",
+      "synonyms": [
+        "Kafr El Sheikh"
+      ]
+    },
+    {
+      "value": "Luxor",
+      "synonyms": [
+        "Luxor"
+      ]
+    },
+    {
+      "value": "Matruh",
+      "synonyms": [
+        "Matruh"
+      ]
+    },
+    {
+      "value": "Minya",
+      "synonyms": [
+        "Minya"
+      ]
+    },
+    {
+      "value": "Monufia",
+      "synonyms": [
+        "Monufia"
+      ]
+    },
+    {
+      "value": "New Valley",
+      "synonyms": [
+        "New Valley"
+      ]
+    },
+    {
+      "value": "North Sinai",
+      "synonyms": [
+        "North Sinai"
+      ]
+    },
+    {
+      "value": "Port Said",
+      "synonyms": [
+        "Port Said"
+      ]
+    },
+    {
+      "value": "Qalyubia",
+      "synonyms": [
+        "Qalyubia"
+      ]
+    },
+    {
+      "value": "Qena",
+      "synonyms": [
+        "Qena"
+      ]
+    },
+    {
+      "value": "Red Sea",
+      "synonyms": [
+        "Red Sea"
+      ]
+    },
+    {
+      "value": "Sharqia",
+      "synonyms": [
+        "Sharqia"
+      ]
+    },
+    {
+      "value": "Sinai",
+      "synonyms": [
+        "Sinai"
+      ]
+    },
+    {
+      "value": "Sohag",
+      "synonyms": [
+        "Sohag"
+      ]
+    },
+    {
+      "value": "South Sinai",
+      "synonyms": [
+        "South Sinai"
+      ]
+    },
+    {
+      "value": "Suez",
+      "synonyms": [
+        "Suez"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

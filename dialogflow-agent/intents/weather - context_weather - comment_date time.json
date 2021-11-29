@@ -1,0 +1,314 @@
+{
+  "userSays": [
+    {
+      "id": "f02710a0-a6ff-4bbb-96a4-26be851c31c8",
+      "data": [
+        {
+          "text": "and during "
+        },
+        {
+          "text": "next week",
+          "alias": "date-time",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e88581b1-909c-4725-a0e9-37f3bcf6aa66",
+      "data": [
+        {
+          "text": "and "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date-time",
+          "meta": "@sys.date-time",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "c5ad5473-36a1-4141-8b64-60b306850659",
+      "data": [
+        {
+          "text": "what "
+        },
+        {
+          "text": "about",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date-time",
+          "meta": "@sys.date-time",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e15a0c8b-c8be-44ac-84de-119615289d97",
+      "data": [
+        {
+          "text": "will",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "it",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "change",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "at 5 pm",
+          "alias": "date-time",
+          "meta": "@sys.date-time",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b82badc2-440d-4e8a-b4ca-f897c09d2b19",
+      "data": [
+        {
+          "text": "on "
+        },
+        {
+          "text": "Wednesday",
+          "alias": "date-time",
+          "meta": "@sys.date-time",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "295c09e1-d061-4279-8219-ffbf46cefba1",
+      "data": [
+        {
+          "text": "and what "
+        },
+        {
+          "text": "about",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date-time",
+          "meta": "@sys.date-time",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8e07da56-11e9-4eee-88f0-9e46de04d5df",
+      "data": [
+        {
+          "text": "what about "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date-time",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "149a34a0-e3c4-4b64-8096-5f31fef1c071",
+      "data": [
+        {
+          "text": "check for "
+        },
+        {
+          "text": "next monday",
+          "alias": "date-time",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "beaaf919-390a-4fe7-8168-a70d63091b28",
+      "data": [
+        {
+          "text": "check "
+        },
+        {
+          "text": "next week",
+          "alias": "date-time",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a6a6ff54-86e0-4693-a311-93aef37a88d9",
+      "data": [
+        {
+          "text": "and "
+        },
+        {
+          "text": "next weekend",
+          "alias": "date-time",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "30421dee-7834-46d2-8e67-8e725ae67f61",
+      "data": [
+        {
+          "text": "for next month",
+          "alias": "date-time",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        },
+        {
+          "text": " too"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bcb884ef-c4c2-45a6-976f-7e6f1c81dc6d",
+      "data": [
+        {
+          "text": "this evening",
+          "alias": "date-time",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bc0b71ad-d90a-4194-92ec-49be94f4a9a1",
+      "data": [
+        {
+          "text": "how "
+        },
+        {
+          "text": "about",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Saturday",
+          "alias": "date-time",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "00fb056b-fe4c-42a3-8de1-fd538b3e9225",
+  "name": "weather - context:weather - comment:date time",
+  "auto": true,
+  "contexts": [
+    "weather"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "#weather.intent_action",
+      "affectedContexts": [
+        {
+          "name": "weather",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time"
+        },
+        {
+          "dataType": "",
+          "name": "activity",
+          "value": "#weather.activity"
+        },
+        {
+          "dataType": "",
+          "name": "address",
+          "value": "#weather.address"
+        },
+        {
+          "dataType": "",
+          "name": "temperature",
+          "value": "#weather.temperature"
+        },
+        {
+          "dataType": "",
+          "name": "outfit",
+          "value": "#weather.outfit"
+        },
+        {
+          "name": "condition",
+          "value": "#weather.condition"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

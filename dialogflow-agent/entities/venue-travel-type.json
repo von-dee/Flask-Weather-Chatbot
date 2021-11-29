@@ -1,0 +1,63 @@
+{
+  "id": "bfde06e7-cf1f-4c05-8ccd-f8446eac5251",
+  "name": "venue-travel-type",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "airport",
+      "synonyms": [
+        "airport",
+        "airports"
+      ]
+    },
+    {
+      "value": "rental service",
+      "synonyms": [
+        "rental service",
+        "rental services"
+      ]
+    },
+    {
+      "value": "tourist information",
+      "synonyms": [
+        "tourist information"
+      ]
+    },
+    {
+      "value": "train station",
+      "synonyms": [
+        "train station",
+        "railway station"
+      ]
+    },
+    {
+      "value": "tour operator",
+      "synonyms": [
+        "tour operator",
+        "tour service",
+        "tour operators",
+        "tour services"
+      ]
+    },
+    {
+      "value": "bus station",
+      "synonyms": [
+        "bus station",
+        "bus stations"
+      ]
+    },
+    {
+      "value": "metro station",
+      "synonyms": [
+        "metro station",
+        "metro stations",
+        "subway station",
+        "subway stations",
+        "metro",
+        "subway"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

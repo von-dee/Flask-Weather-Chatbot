@@ -1,0 +1,65 @@
+{
+  "id": "689f26dc-ed0e-4452-bdd7-fec1cb187dc6",
+  "name": "adm-division-za",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Eastern Cape",
+      "synonyms": [
+        "Eastern Cape"
+      ]
+    },
+    {
+      "value": "Free State",
+      "synonyms": [
+        "Free State"
+      ]
+    },
+    {
+      "value": "Gauteng",
+      "synonyms": [
+        "Gauteng"
+      ]
+    },
+    {
+      "value": "KwaZulu-Natal",
+      "synonyms": [
+        "KwaZulu-Natal",
+        "KwaZulu Natal",
+        "Kwa Zulu Natal"
+      ]
+    },
+    {
+      "value": "Limpopo",
+      "synonyms": [
+        "Limpopo"
+      ]
+    },
+    {
+      "value": "Mpumalanga",
+      "synonyms": [
+        "Mpumalanga"
+      ]
+    },
+    {
+      "value": "Northern Cape",
+      "synonyms": [
+        "Northern Cape"
+      ]
+    },
+    {
+      "value": "North West",
+      "synonyms": [
+        "North West"
+      ]
+    },
+    {
+      "value": "Western Cape",
+      "synonyms": [
+        "Western Cape"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

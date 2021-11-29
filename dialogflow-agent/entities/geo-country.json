@@ -1,0 +1,1787 @@
+{
+  "id": "8ab29a70-2cc4-4222-a60d-88e824d930ae",
+  "name": "geo-country",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Afghanistan",
+      "synonyms": [
+        "Afghanistan",
+        "Islamic Republic of Afghanistan",
+        "Graveyard of Empires"
+      ]
+    },
+    {
+      "value": "Albania",
+      "synonyms": [
+        "Albania",
+        "Republic of Albania",
+        "Land of the Eagles"
+      ]
+    },
+    {
+      "value": "Algeria",
+      "synonyms": [
+        "Algeria",
+        "People\u0027s Democratic Republic of Algeria"
+      ]
+    },
+    {
+      "value": "American Samoa",
+      "synonyms": [
+        "American Samoa"
+      ]
+    },
+    {
+      "value": "Andorra",
+      "synonyms": [
+        "Andorra",
+        "Principality of Andorra",
+        "Principality of the Valleys of Andorra"
+      ]
+    },
+    {
+      "value": "Angola",
+      "synonyms": [
+        "Angola",
+        "Republic of Angola"
+      ]
+    },
+    {
+      "value": "Anguilla",
+      "synonyms": [
+        "Anguilla"
+      ]
+    },
+    {
+      "value": "Antarctica",
+      "synonyms": [
+        "Antarctica"
+      ]
+    },
+    {
+      "value": "Antigua and Barbuda",
+      "synonyms": [
+        "Antigua and Barbuda"
+      ]
+    },
+    {
+      "value": "Argentina",
+      "synonyms": [
+        "Argentina",
+        "Argentine Republic"
+      ]
+    },
+    {
+      "value": "Armenia",
+      "synonyms": [
+        "Armenia",
+        "Republic of Armenia"
+      ]
+    },
+    {
+      "value": "Aruba",
+      "synonyms": [
+        "Aruba"
+      ]
+    },
+    {
+      "value": "Australia",
+      "synonyms": [
+        "Australia",
+        "Commonwealth of Australia",
+        "Land Down Under"
+      ]
+    },
+    {
+      "value": "Austria",
+      "synonyms": [
+        "Austria",
+        "Republic of Austria"
+      ]
+    },
+    {
+      "value": "Azerbaijan",
+      "synonyms": [
+        "Azerbaijan",
+        "Republic of Azerbaijan"
+      ]
+    },
+    {
+      "value": "Bahamas",
+      "synonyms": [
+        "Bahamas",
+        "Commonwealth of Bahamas"
+      ]
+    },
+    {
+      "value": "Bahrain",
+      "synonyms": [
+        "Bahrain",
+        "Kingdom of Bahrain"
+      ]
+    },
+    {
+      "value": "Bangladesh",
+      "synonyms": [
+        "Bangladesh",
+        "People\u0027s Republic of Bangladesh"
+      ]
+    },
+    {
+      "value": "Barbados",
+      "synonyms": [
+        "Barbados"
+      ]
+    },
+    {
+      "value": "Belarus",
+      "synonyms": [
+        "Belarus",
+        "Republic of Belarus",
+        "The White Rus"
+      ]
+    },
+    {
+      "value": "Belgium",
+      "synonyms": [
+        "Belgium",
+        "Kingdom of Belgium"
+      ]
+    },
+    {
+      "value": "Belize",
+      "synonyms": [
+        "Belize"
+      ]
+    },
+    {
+      "value": "Benin",
+      "synonyms": [
+        "Benin",
+        "Republic of Benin"
+      ]
+    },
+    {
+      "value": "Bermuda",
+      "synonyms": [
+        "Bermuda",
+        "Bermudas or Somers Isles"
+      ]
+    },
+    {
+      "value": "Bhutan",
+      "synonyms": [
+        "Bhutan",
+        "Kingdom of Bhutan",
+        "Land of the Thunder Dragon"
+      ]
+    },
+    {
+      "value": "Bolivia",
+      "synonyms": [
+        "Bolivia",
+        "Plurinational State of Bolivia"
+      ]
+    },
+    {
+      "value": "Bonaire, Sint Eustatius and Saba",
+      "synonyms": [
+        "Bonaire Sint Eustatius and Saba",
+        "Bonaire Sint Eustatius Saba",
+        "BES Islands",
+        "Caribbean Netherlands"
+      ]
+    },
+    {
+      "value": "Bosnia and Herzegovina",
+      "synonyms": [
+        "Bosnia and Herzegovina",
+        "Bosnia-Herzegovina",
+        "Bosnia Herzegovina"
+      ]
+    },
+    {
+      "value": "Botswana",
+      "synonyms": [
+        "Botswana",
+        "Republic of Botswana"
+      ]
+    },
+    {
+      "value": "Bouvet Island",
+      "synonyms": [
+        "Bouvet Island",
+        "Bouvet Islands"
+      ]
+    },
+    {
+      "value": "Brazil",
+      "synonyms": [
+        "Brazil",
+        "Federative Republic of Brazil",
+        "Pindorama"
+      ]
+    },
+    {
+      "value": "British Indian Ocean Territory",
+      "synonyms": [
+        "British Indian Ocean Territory",
+        "BIOT",
+        "Chagos Islands"
+      ]
+    },
+    {
+      "value": "Brunei Darussalam",
+      "synonyms": [
+        "Brunei Darussalam",
+        "Brunei",
+        "Nation of Brunei",
+        "Nation of Brunei the Abode of Peace"
+      ]
+    },
+    {
+      "value": "Bulgaria",
+      "synonyms": [
+        "Bulgaria",
+        "Republic of Bulgaria"
+      ]
+    },
+    {
+      "value": "Burkina Faso",
+      "synonyms": [
+        "Burkina Faso",
+        "Land of the Upright Men"
+      ]
+    },
+    {
+      "value": "Burundi",
+      "synonyms": [
+        "Burundi",
+        "Republic of Burundi"
+      ]
+    },
+    {
+      "value": "Cabo Verde",
+      "synonyms": [
+        "Cabo Verde",
+        "Cape Verde",
+        "Republic of Cabo Verde",
+        "Republic of Cape Verde"
+      ]
+    },
+    {
+      "value": "Cambodia",
+      "synonyms": [
+        "Cambodia",
+        "Kingdom of Cambodia",
+        "Khmer Republic"
+      ]
+    },
+    {
+      "value": "Cameroon",
+      "synonyms": [
+        "Cameroon",
+        "Republic of Cameroon"
+      ]
+    },
+    {
+      "value": "Canada",
+      "synonyms": [
+        "Canada",
+        "The Great White North"
+      ]
+    },
+    {
+      "value": "Cayman Islands",
+      "synonyms": [
+        "Cayman Islands"
+      ]
+    },
+    {
+      "value": "Central African Republic",
+      "synonyms": [
+        "Central African Republic",
+        "Centrafrique"
+      ]
+    },
+    {
+      "value": "Chad",
+      "synonyms": [
+        "Chad",
+        "Republic of Chad"
+      ]
+    },
+    {
+      "value": "Chile",
+      "synonyms": [
+        "Chile",
+        "Republic of Chile",
+        "Land of Poets"
+      ]
+    },
+    {
+      "value": "China",
+      "synonyms": [
+        "China",
+        "Republic of China",
+        "People s Republic of China",
+        "The Red Dragon"
+      ]
+    },
+    {
+      "value": "Christmas Island",
+      "synonyms": [
+        "Christmas Island",
+        "Territory of Christmas Island",
+        "Christmas Islands"
+      ]
+    },
+    {
+      "value": "Cocos",
+      "synonyms": [
+        "Cocos Keeling Islands",
+        "Territory of the Cocos Keeling Islands",
+        "Territory of the Cocos Islands",
+        "Territory of the Keeling Islands",
+        "Cocos Islands",
+        "Keeling Islands"
+      ]
+    },
+    {
+      "value": "Colombia",
+      "synonyms": [
+        "Colombia",
+        "Republic of Colombia"
+      ]
+    },
+    {
+      "value": "Comoros",
+      "synonyms": [
+        "Comoros",
+        "Union of the Comoros"
+      ]
+    },
+    {
+      "value": "Congo",
+      "synonyms": [
+        "Congo",
+        "Republic of Congo",
+        "Congo Republic",
+        "People s Republic of Congo",
+        "Congo Brazzaville",
+        "Congo-Brazzaville"
+      ]
+    },
+    {
+      "value": "Congo",
+      "synonyms": [
+        "Democratic Republic of Congo",
+        "DR Congo",
+        "Congo Kinshasa",
+        "Congo-Kinshasa",
+        "DROC"
+      ]
+    },
+    {
+      "value": "Cook Islands",
+      "synonyms": [
+        "Cook Islands"
+      ]
+    },
+    {
+      "value": "Costa Rica",
+      "synonyms": [
+        "Costa Rica",
+        "Republic of Costa Rica"
+      ]
+    },
+    {
+      "value": "Croatia",
+      "synonyms": [
+        "Croatia",
+        "Republic of Croatia"
+      ]
+    },
+    {
+      "value": "Cuba",
+      "synonyms": [
+        "Cuba",
+        "Republic of Cuba"
+      ]
+    },
+    {
+      "value": "Cyprus",
+      "synonyms": [
+        "Cyprus",
+        "Republic of Cyprus"
+      ]
+    },
+    {
+      "value": "Czech Republic",
+      "synonyms": [
+        "Czech Republic"
+      ]
+    },
+    {
+      "value": "Denmark",
+      "synonyms": [
+        "Denmark",
+        "Kingdom of Denmark"
+      ]
+    },
+    {
+      "value": "Djibouti",
+      "synonyms": [
+        "Djibouti",
+        "Republic of Djibouti"
+      ]
+    },
+    {
+      "value": "Dominica",
+      "synonyms": [
+        "Dominica",
+        "Commonwealth of Dominica"
+      ]
+    },
+    {
+      "value": "Dominican Republic",
+      "synonyms": [
+        "Dominican Republic"
+      ]
+    },
+    {
+      "value": "Ecuador",
+      "synonyms": [
+        "Ecuador",
+        "Republic of Ecuador"
+      ]
+    },
+    {
+      "value": "Egypt",
+      "synonyms": [
+        "Egypt",
+        "The Gift of the Nile"
+      ]
+    },
+    {
+      "value": "El Salvador",
+      "synonyms": [
+        "El Salvador",
+        "Republic of El Salvador"
+      ]
+    },
+    {
+      "value": "Equatorial Guinea",
+      "synonyms": [
+        "Equatorial Guinea",
+        "Republic of Equatorial Guinea"
+      ]
+    },
+    {
+      "value": "Eritrea",
+      "synonyms": [
+        "Eritrea",
+        "State of Eritrea"
+      ]
+    },
+    {
+      "value": "Estonia",
+      "synonyms": [
+        "Estonia",
+        "Republic of Estonia"
+      ]
+    },
+    {
+      "value": "Ethiopia",
+      "synonyms": [
+        "Ethiopia",
+        "Federal Democratic Republic of Ethiopia"
+      ]
+    },
+    {
+      "value": "Falkland Islands",
+      "synonyms": [
+        "Falkland Islands",
+        "Malvinas Islands",
+        "Malvinas"
+      ]
+    },
+    {
+      "value": "Faroe Islands",
+      "synonyms": [
+        "Faroe Islands"
+      ]
+    },
+    {
+      "value": "Fiji",
+      "synonyms": [
+        "Fiji",
+        "Republic of Fiji"
+      ]
+    },
+    {
+      "value": "Finland",
+      "synonyms": [
+        "Finland",
+        "Republic of Finland",
+        "Land of a Thousand Lakes",
+        "Suomi"
+      ]
+    },
+    {
+      "value": "France",
+      "synonyms": [
+        "France",
+        "French Republic",
+        "L’hexagone"
+      ]
+    },
+    {
+      "value": "French Guiana",
+      "synonyms": [
+        "French Guiana",
+        "Guiana"
+      ]
+    },
+    {
+      "value": "French Polynesia",
+      "synonyms": [
+        "French Polynesia"
+      ]
+    },
+    {
+      "value": "French Southern Territories",
+      "synonyms": [
+        "French Southern Territories",
+        "French Southern Lands",
+        "Territory of the French Southern and Antarctic Lands",
+        "TAAF"
+      ]
+    },
+    {
+      "value": "Gabon",
+      "synonyms": [
+        "Gabon",
+        "Gabonese Republicc"
+      ]
+    },
+    {
+      "value": "Gambia",
+      "synonyms": [
+        "Gambia",
+        "Republic of Gambia"
+      ]
+    },
+    {
+      "value": "Georgia",
+      "synonyms": [
+        "Georgia"
+      ]
+    },
+    {
+      "value": "Germany",
+      "synonyms": [
+        "Germany",
+        "Federal Republic of Germany"
+      ]
+    },
+    {
+      "value": "Ghana",
+      "synonyms": [
+        "Ghana",
+        "Republic of Ghana"
+      ]
+    },
+    {
+      "value": "Gibraltar",
+      "synonyms": [
+        "Gibraltar"
+      ]
+    },
+    {
+      "value": "Greece",
+      "synonyms": [
+        "Greece",
+        "Hellenic Republic",
+        "Hellas"
+      ]
+    },
+    {
+      "value": "Greenland",
+      "synonyms": [
+        "Greenland"
+      ]
+    },
+    {
+      "value": "Grenada",
+      "synonyms": [
+        "Grenada"
+      ]
+    },
+    {
+      "value": "Guadeloupe",
+      "synonyms": [
+        "Guadeloupe"
+      ]
+    },
+    {
+      "value": "Guam",
+      "synonyms": [
+        "Guam"
+      ]
+    },
+    {
+      "value": "Guatemala",
+      "synonyms": [
+        "Guatemala",
+        "Republic of Guatemala"
+      ]
+    },
+    {
+      "value": "Guernsey",
+      "synonyms": [
+        "Guernsey",
+        "Bailiwick of Guernsey"
+      ]
+    },
+    {
+      "value": "Guinea",
+      "synonyms": [
+        "Guinea"
+      ]
+    },
+    {
+      "value": "Guinea-Bissau",
+      "synonyms": [
+        "Guinea-Bissau",
+        "Guinea Bissau",
+        "Republic of Guinea-Bissau",
+        "Republic of Guinea Bissau"
+      ]
+    },
+    {
+      "value": "Guyana",
+      "synonyms": [
+        "Guyana",
+        "Co-operative Republic of Guyana",
+        "Co operative Republic of Guyana",
+        "Cooperative Republic of Guyana",
+        "Land of Many Waters"
+      ]
+    },
+    {
+      "value": "Haiti",
+      "synonyms": [
+        "Haiti",
+        "Republic of Haiti"
+      ]
+    },
+    {
+      "value": "Heard Island and McDonald Islands",
+      "synonyms": [
+        "Heard Island and McDonald Islands",
+        "HIMI"
+      ]
+    },
+    {
+      "value": "Holy See",
+      "synonyms": [
+        "Holy See",
+        "Vatican City",
+        "Vatican City State",
+        "Holy See Vatican City State"
+      ]
+    },
+    {
+      "value": "Honduras",
+      "synonyms": [
+        "Honduras",
+        "Republic of Honduras"
+      ]
+    },
+    {
+      "value": "Hong Kong",
+      "synonyms": [
+        "Hong Kong",
+        "Hong Kong Special Administrative Region of the People\u0027s Republic of China",
+        "Hong Kong Special Administrative Region of China",
+        "Hong Kong Special Administrative Region",
+        "Special Administrative Region Hong Kong"
+      ]
+    },
+    {
+      "value": "Hungary",
+      "synonyms": [
+        "Hungary"
+      ]
+    },
+    {
+      "value": "Iceland",
+      "synonyms": [
+        "Iceland",
+        "Land of Fire and Ice"
+      ]
+    },
+    {
+      "value": "India",
+      "synonyms": [
+        "India",
+        "Republic of India"
+      ]
+    },
+    {
+      "value": "Indonesia",
+      "synonyms": [
+        "Indonesia",
+        "Republic of Indonesia",
+        "The Emerald of the Equator"
+      ]
+    },
+    {
+      "value": "Iran",
+      "synonyms": [
+        "Iran",
+        "Persia",
+        "Islamic Republic of Iran"
+      ]
+    },
+    {
+      "value": "Iraq",
+      "synonyms": [
+        "Iraq",
+        "Republic of Iraq"
+      ]
+    },
+    {
+      "value": "Ireland",
+      "synonyms": [
+        "Ireland",
+        "Republic of Ireland",
+        "The Emerald Isle"
+      ]
+    },
+    {
+      "value": "Isle of Man",
+      "synonyms": [
+        "Isle of Man",
+        "Mann"
+      ]
+    },
+    {
+      "value": "Israel",
+      "synonyms": [
+        "Israel",
+        "State of Israel",
+        "The Holy Land"
+      ]
+    },
+    {
+      "value": "Italy",
+      "synonyms": [
+        "Italy",
+        "Italian Republic",
+        "The Boot"
+      ]
+    },
+    {
+      "value": "Jamaica",
+      "synonyms": [
+        "Jamaica"
+      ]
+    },
+    {
+      "value": "Japan",
+      "synonyms": [
+        "Japan",
+        "Nihon",
+        "Nippon",
+        "Land of the Rising Sun"
+      ]
+    },
+    {
+      "value": "Jersey",
+      "synonyms": [
+        "Jersey",
+        "Bailiwick of Jersey"
+      ]
+    },
+    {
+      "value": "Jordan",
+      "synonyms": [
+        "Jordan",
+        "Hashemite Kingdom of Jordan"
+      ]
+    },
+    {
+      "value": "Kazakhstan",
+      "synonyms": [
+        "Kazakhstan",
+        "Republic of Kazakhstan"
+      ]
+    },
+    {
+      "value": "Kenya",
+      "synonyms": [
+        "Kenya",
+        "Republic of Kenya"
+      ]
+    },
+    {
+      "value": "Kiribati",
+      "synonyms": [
+        "Kiribati",
+        "Independent and Sovereign Republic of Kiribati"
+      ]
+    },
+    {
+      "value": "Korea",
+      "synonyms": [
+        "Democratic People s Republic of Korea",
+        "North Korea"
+      ]
+    },
+    {
+      "value": "Korea",
+      "synonyms": [
+        "Korea",
+        "Republic of Korea",
+        "South Korea"
+      ]
+    },
+    {
+      "value": "Kuwait",
+      "synonyms": [
+        "Kuwait",
+        "State of Kuwait"
+      ]
+    },
+    {
+      "value": "Kyrgyzstan",
+      "synonyms": [
+        "Kyrgyzstan",
+        "Kyrgyz Republic",
+        "Kirghizia"
+      ]
+    },
+    {
+      "value": "Lao People\u0027s Democratic Republic",
+      "synonyms": [
+        "Laos",
+        "Lao People s Democratic Republic"
+      ]
+    },
+    {
+      "value": "Latvia",
+      "synonyms": [
+        "Latvia",
+        "Republic of Latvia"
+      ]
+    },
+    {
+      "value": "Lebanon",
+      "synonyms": [
+        "Lebanon",
+        "Lebanese Republic",
+        "Switzerland of the Middle East"
+      ]
+    },
+    {
+      "value": "Lesotho",
+      "synonyms": [
+        "Lesotho",
+        "Kingdom of Lesotho",
+        "The Kingdom In The Sky"
+      ]
+    },
+    {
+      "value": "Liberia",
+      "synonyms": [
+        "Liberia",
+        "Republic of Liberia"
+      ]
+    },
+    {
+      "value": "Libya",
+      "synonyms": [
+        "Libya",
+        "State of Libya"
+      ]
+    },
+    {
+      "value": "Liechtenstein",
+      "synonyms": [
+        "Liechtenstein",
+        "Principality of Liechtenstein"
+      ]
+    },
+    {
+      "value": "Lithuania",
+      "synonyms": [
+        "Lithuania",
+        "Republic of Lithuania"
+      ]
+    },
+    {
+      "value": "Luxembourg",
+      "synonyms": [
+        "Luxembourg",
+        "Grand Duchy of Luxembourg"
+      ]
+    },
+    {
+      "value": "Macao",
+      "synonyms": [
+        "Macao",
+        "Macau"
+      ]
+    },
+    {
+      "value": "Macedonia",
+      "synonyms": [
+        "Macedonia",
+        "Republic of Macedonia",
+        "Former Yugoslav Republic of Macedonia",
+        "FYROM"
+      ]
+    },
+    {
+      "value": "Madagascar",
+      "synonyms": [
+        "Madagascar",
+        "Republic of Madagascar",
+        "The Red Island"
+      ]
+    },
+    {
+      "value": "Malawi",
+      "synonyms": [
+        "Malawi",
+        "Republic of Malawi"
+      ]
+    },
+    {
+      "value": "Malaysia",
+      "synonyms": [
+        "Malaysia"
+      ]
+    },
+    {
+      "value": "Maldives",
+      "synonyms": [
+        "Maldives",
+        "Republic of Maldives"
+      ]
+    },
+    {
+      "value": "Mali",
+      "synonyms": [
+        "Mali",
+        "Republic of Mali"
+      ]
+    },
+    {
+      "value": "Malta",
+      "synonyms": [
+        "Malta",
+        "Republic of Malta"
+      ]
+    },
+    {
+      "value": "Marshall Islands",
+      "synonyms": [
+        "Marshall Islands",
+        "Republic of Marshall Islands"
+      ]
+    },
+    {
+      "value": "Martinique",
+      "synonyms": [
+        "Martinique"
+      ]
+    },
+    {
+      "value": "Mauritania",
+      "synonyms": [
+        "Mauritania",
+        "Islamic Republic of Mauritania"
+      ]
+    },
+    {
+      "value": "Mauritius",
+      "synonyms": [
+        "Mauritius",
+        "Republic of Mauritius"
+      ]
+    },
+    {
+      "value": "Mayotte",
+      "synonyms": [
+        "Mayotte"
+      ]
+    },
+    {
+      "value": "Mexico",
+      "synonyms": [
+        "Mexico",
+        "United Mexican States"
+      ]
+    },
+    {
+      "value": "Micronesia\", \"Federated States of Micronesia",
+      "synonyms": [
+        "Micronesia",
+        "Federated States of Micronesia"
+      ]
+    },
+    {
+      "value": "Moldova\", \"Republic of Moldova",
+      "synonyms": [
+        "Moldova",
+        "Republic of Moldova",
+        "Moldavia"
+      ]
+    },
+    {
+      "value": "Monaco",
+      "synonyms": [
+        "Monaco",
+        "Principality of Monaco"
+      ]
+    },
+    {
+      "value": "Mongolia",
+      "synonyms": [
+        "Mongolia",
+        "Land of the Blue Sky"
+      ]
+    },
+    {
+      "value": "Montenegro",
+      "synonyms": [
+        "Montenegro"
+      ]
+    },
+    {
+      "value": "Montserrat",
+      "synonyms": [
+        "Montserrat"
+      ]
+    },
+    {
+      "value": "Morocco",
+      "synonyms": [
+        "Morocco",
+        "Kingdom of Morocco"
+      ]
+    },
+    {
+      "value": "Mozambique",
+      "synonyms": [
+        "Mozambique",
+        "Republic of Mozambique"
+      ]
+    },
+    {
+      "value": "Myanmar",
+      "synonyms": [
+        "Myanmar",
+        "Republic of the Union of Myanmar",
+        "Burma"
+      ]
+    },
+    {
+      "value": "Namibia",
+      "synonyms": [
+        "Namibia",
+        "Republic of Namibia"
+      ]
+    },
+    {
+      "value": "Nauru",
+      "synonyms": [
+        "Nauru",
+        "Republic of Nauru"
+      ]
+    },
+    {
+      "value": "Nepal",
+      "synonyms": [
+        "Nepal",
+        "Federal Democratic Republic of Nepal"
+      ]
+    },
+    {
+      "value": "Netherlands",
+      "synonyms": [
+        "Netherlands"
+      ]
+    },
+    {
+      "value": "New Caledonia",
+      "synonyms": [
+        "New Caledonia"
+      ]
+    },
+    {
+      "value": "New Zealand",
+      "synonyms": [
+        "New Zealand",
+        "Land of the Long White Cloud"
+      ]
+    },
+    {
+      "value": "Nicaragua",
+      "synonyms": [
+        "Nicaragua",
+        "Republic of Nicaragua"
+      ]
+    },
+    {
+      "value": "Niger",
+      "synonyms": [
+        "Niger",
+        "Republic of Niger"
+      ]
+    },
+    {
+      "value": "Nigeria",
+      "synonyms": [
+        "Nigeria",
+        "Republic of Nigeria"
+      ]
+    },
+    {
+      "value": "Niue",
+      "synonyms": [
+        "Niue"
+      ]
+    },
+    {
+      "value": "Norfolk Island",
+      "synonyms": [
+        "Norfolk Island",
+        "Territory of Norfolk Islands"
+      ]
+    },
+    {
+      "value": "Northern Mariana Islands",
+      "synonyms": [
+        "Northern Mariana Islands",
+        "Commonwealth of Northern Mariana Islands"
+      ]
+    },
+    {
+      "value": "Norway",
+      "synonyms": [
+        "Norway",
+        "Kingdom of Norway"
+      ]
+    },
+    {
+      "value": "Oman",
+      "synonyms": [
+        "Oman",
+        "Sultanate of Oman"
+      ]
+    },
+    {
+      "value": "Pakistan",
+      "synonyms": [
+        "Pakistan",
+        "Islamic Republic of Pakistan"
+      ]
+    },
+    {
+      "value": "Palau",
+      "synonyms": [
+        "Palau",
+        "Belau",
+        "Pelew",
+        "Republic of Palau"
+      ]
+    },
+    {
+      "value": "Palestine, State of",
+      "synonyms": [
+        "Palestine",
+        "State of Palestine"
+      ]
+    },
+    {
+      "value": "Panama",
+      "synonyms": [
+        "Panama",
+        "Republic of Panama"
+      ]
+    },
+    {
+      "value": "Papua New Guinea",
+      "synonyms": [
+        "Papua New Guinea",
+        "Independent State of Papua New Guinea"
+      ]
+    },
+    {
+      "value": "Paraguay",
+      "synonyms": [
+        "Paraguay",
+        "Republic of Paraguay",
+        "The Island Surrounded by Land"
+      ]
+    },
+    {
+      "value": "Peru",
+      "synonyms": [
+        "Peru",
+        "Republic of Peru",
+        "Land of the Incas"
+      ]
+    },
+    {
+      "value": "Philippines",
+      "synonyms": [
+        "Philippines",
+        "Republic of Philippines",
+        "The Pearl of the Orient Seas"
+      ]
+    },
+    {
+      "value": "Pitcairn",
+      "synonyms": [
+        "Pitcairn",
+        "Pitcairn Islands",
+        "Pitcairn Group of Islands"
+      ]
+    },
+    {
+      "value": "Poland",
+      "synonyms": [
+        "Poland",
+        "Republic of Poland"
+      ]
+    },
+    {
+      "value": "Portugal",
+      "synonyms": [
+        "Portugal",
+        "Portuguese Republic"
+      ]
+    },
+    {
+      "value": "Puerto Rico",
+      "synonyms": [
+        "Puerto Rico",
+        "Commonwealth of Puerto Rico"
+      ]
+    },
+    {
+      "value": "Qatar",
+      "synonyms": [
+        "Qatar",
+        "State of Qatar"
+      ]
+    },
+    {
+      "value": "Romania",
+      "synonyms": [
+        "Romania",
+        "Rumania",
+        "Roumania"
+      ]
+    },
+    {
+      "value": "Russian Federation",
+      "synonyms": [
+        "Russia",
+        "Russian Federation"
+      ]
+    },
+    {
+      "value": "Rwanda",
+      "synonyms": [
+        "Rwanda",
+        "Republic of Rwanda",
+        "Land of a Thousand Hills"
+      ]
+    },
+    {
+      "value": "Saint Helena, Ascension and Tristan da Cunha",
+      "synonyms": [
+        "Saint Helena Ascension and Tristan da Cunha",
+        "Saint Helena and Dependencies"
+      ]
+    },
+    {
+      "value": "Saint Kitts and Nevis",
+      "synonyms": [
+        "Saint Kitts and Nevis",
+        "St Kitts and Nevis",
+        "Federation of Saint Christopher and Nevis",
+        "Federation of Saint Kitts and Nevis",
+        "Federation of St Christopher and Nevis",
+        "Federation of St Kitts and Nevis"
+      ]
+    },
+    {
+      "value": "Saint Lucia",
+      "synonyms": [
+        "Saint Lucia",
+        "St Lucia"
+      ]
+    },
+    {
+      "value": "Saint Pierre and Miquelon",
+      "synonyms": [
+        "Saint Pierre and Miquelon"
+      ]
+    },
+    {
+      "value": "Saint Vincent and the Grenadines",
+      "synonyms": [
+        "Saint Vincent and the Grenadines",
+        "Saint Vincent and Grenadines",
+        "Saint Vincent",
+        "St Vincent and the Grenadines",
+        "St Vincent and Grenadines",
+        "St Vincent"
+      ]
+    },
+    {
+      "value": "Samoa",
+      "synonyms": [
+        "Samoa",
+        "Independent State of Samoa",
+        "Western Samoa"
+      ]
+    },
+    {
+      "value": "San Marino",
+      "synonyms": [
+        "San Marino",
+        "Republic of San Marino",
+        "Most Serene Republic of San Marino"
+      ]
+    },
+    {
+      "value": "Saudi Arabia",
+      "synonyms": [
+        "Saudi Arabia",
+        "Kingdom of Saudi Arabia"
+      ]
+    },
+    {
+      "value": "Senegal",
+      "synonyms": [
+        "Senegal",
+        "Republic of Senegal"
+      ]
+    },
+    {
+      "value": "Serbia",
+      "synonyms": [
+        "Serbia",
+        "Republic of Serbia"
+      ]
+    },
+    {
+      "value": "Seychelles",
+      "synonyms": [
+        "Seychelles",
+        "Republic of Seychelles"
+      ]
+    },
+    {
+      "value": "Sierra Leone",
+      "synonyms": [
+        "Sierra Leone",
+        "Republic of Sierra Leone"
+      ]
+    },
+    {
+      "value": "Singapore",
+      "synonyms": [
+        "Singapore",
+        "Republic of Singapore"
+      ]
+    },
+    {
+      "value": "Sint Maarten",
+      "synonyms": [
+        "Sint Maarten",
+        "Sint Maarten Dutch part"
+      ]
+    },
+    {
+      "value": "Slovakia",
+      "synonyms": [
+        "Slovakia",
+        "Slovak Republic"
+      ]
+    },
+    {
+      "value": "Slovenia",
+      "synonyms": [
+        "Slovenia",
+        "Republic of Slovenia",
+        "The Sunny Side of the Alps"
+      ]
+    },
+    {
+      "value": "Solomon Islands",
+      "synonyms": [
+        "Solomon Islands"
+      ]
+    },
+    {
+      "value": "Somalia",
+      "synonyms": [
+        "Somalia",
+        "Federal Republic of Somalia"
+      ]
+    },
+    {
+      "value": "South Africa",
+      "synonyms": [
+        "South Africa",
+        "Republic of South Africa",
+        "Rainbow Nation"
+      ]
+    },
+    {
+      "value": "South Georgia and the South Sandwich Islands",
+      "synonyms": [
+        "South Georgia and the South Sandwich Islands",
+        "SGSSI"
+      ]
+    },
+    {
+      "value": "South Sudan",
+      "synonyms": [
+        "South Sudan",
+        "Republic of South Sudan"
+      ]
+    },
+    {
+      "value": "Spain",
+      "synonyms": [
+        "Spain",
+        "Kingdom of Spain"
+      ]
+    },
+    {
+      "value": "Sri Lanka",
+      "synonyms": [
+        "Sri Lanka",
+        "Democratic Socialist Republic of Sri Lanka",
+        "India’s Teardrop"
+      ]
+    },
+    {
+      "value": "Sudan",
+      "synonyms": [
+        "Sudan",
+        "Republic of Sudan"
+      ]
+    },
+    {
+      "value": "Suriname",
+      "synonyms": [
+        "Suriname",
+        "Surinam",
+        "Republic of Suriname",
+        "Republic of Surinam"
+      ]
+    },
+    {
+      "value": "Svalbard and Jan Mayen",
+      "synonyms": [
+        "Svalbard and Jan Mayen"
+      ]
+    },
+    {
+      "value": "Swaziland",
+      "synonyms": [
+        "Swaziland",
+        "Kingdom of Swaziland",
+        "kaNgwane",
+        "Eswatini"
+      ]
+    },
+    {
+      "value": "Sweden",
+      "synonyms": [
+        "Sweden",
+        "Kingdom of Sweden"
+      ]
+    },
+    {
+      "value": "Switzerland",
+      "synonyms": [
+        "Switzerland",
+        "Swiss Confederation",
+        "Land of Milk and Honey"
+      ]
+    },
+    {
+      "value": "Syrian Arab Republic",
+      "synonyms": [
+        "Syria",
+        "Syrian Arab Republic"
+      ]
+    },
+    {
+      "value": "Taiwan, Province of China[a]",
+      "synonyms": [
+        "Taiwan",
+        "Province of China",
+        "Province of China Taiwan",
+        "Taiwan Province of China"
+      ]
+    },
+    {
+      "value": "Tajikistan",
+      "synonyms": [
+        "Tajikistan",
+        "Republic of Tajikistan"
+      ]
+    },
+    {
+      "value": "Tanzania, United Republic of",
+      "synonyms": [
+        "Tanzania",
+        "United Republic of Tanzania"
+      ]
+    },
+    {
+      "value": "Thailand",
+      "synonyms": [
+        "Thailand",
+        "Kingdom of Thailand",
+        "Land of Smiles"
+      ]
+    },
+    {
+      "value": "Timor-Leste",
+      "synonyms": [
+        "Timor-Leste",
+        "Timor Leste",
+        "East Timor",
+        "Democratic Republic of Timor-Leste",
+        "Democratic Republic of Timor Leste"
+      ]
+    },
+    {
+      "value": "Togo",
+      "synonyms": [
+        "Togo",
+        "Togolese Republic"
+      ]
+    },
+    {
+      "value": "Tokelau",
+      "synonyms": [
+        "Tokelau"
+      ]
+    },
+    {
+      "value": "Tonga",
+      "synonyms": [
+        "Tonga",
+        "Kingdom of Tonga"
+      ]
+    },
+    {
+      "value": "Trinidad and Tobago",
+      "synonyms": [
+        "Trinidad and Tobago",
+        "Republic of Trinidad and Tobago"
+      ]
+    },
+    {
+      "value": "Tunisia",
+      "synonyms": [
+        "Tunisia",
+        "Tunisian Republic",
+        "Republic of Tunisia"
+      ]
+    },
+    {
+      "value": "Turkey",
+      "synonyms": [
+        "Turkey",
+        "Republic of Turkey"
+      ]
+    },
+    {
+      "value": "Turkmenistan",
+      "synonyms": [
+        "Turkmenistan",
+        "Turkmenia"
+      ]
+    },
+    {
+      "value": "Turks and Caicos Islands",
+      "synonyms": [
+        "Turks and Caicos Islands"
+      ]
+    },
+    {
+      "value": "Tuvalu",
+      "synonyms": [
+        "Tuvalu",
+        "Ellice Islands"
+      ]
+    },
+    {
+      "value": "Uganda",
+      "synonyms": [
+        "Uganda",
+        "Republic of Uganda"
+      ]
+    },
+    {
+      "value": "Ukraine",
+      "synonyms": [
+        "Ukraine",
+        "The Bread Basket of Europe"
+      ]
+    },
+    {
+      "value": "United Arab Emirates",
+      "synonyms": [
+        "United Arab Emirates",
+        "Emirates",
+        "UAE",
+        "the UAE"
+      ]
+    },
+    {
+      "value": "United Kingdom of Great Britain and Northern Ireland",
+      "synonyms": [
+        "United Kingdom of Great Britain and Northern Ireland",
+        "United Kingdom",
+        "United Kingdom of Great Britain and Ireland",
+        "Great Britain",
+        "Britain",
+        "UK",
+        "U K"
+      ]
+    },
+    {
+      "value": "United States of America",
+      "synonyms": [
+        "United States of America",
+        "United States",
+        "US",
+        "USA",
+        "U S",
+        "U S A",
+        "America",
+        "States",
+        "Uncle Sam"
+      ]
+    },
+    {
+      "value": "United States Minor Outlying Islands",
+      "synonyms": [
+        "United States Minor Outlying Islands"
+      ]
+    },
+    {
+      "value": "Uruguay",
+      "synonyms": [
+        "Uruguay",
+        "Eastern Republic of Uruguay"
+      ]
+    },
+    {
+      "value": "Uzbekistan",
+      "synonyms": [
+        "Uzbekistan",
+        "Republic of Uzbekistan"
+      ]
+    },
+    {
+      "value": "Vanuatu",
+      "synonyms": [
+        "Vanuatu",
+        "Republic of Vanuatu"
+      ]
+    },
+    {
+      "value": "Venezuela",
+      "synonyms": [
+        "Venezuela",
+        "Bolivarian Republic of Venezuela",
+        "Land of Grace"
+      ]
+    },
+    {
+      "value": "Viet Nam",
+      "synonyms": [
+        "Viet Nam",
+        "Vietnam",
+        "Socialist Republic of Vietnam"
+      ]
+    },
+    {
+      "value": "Wallis and Futuna",
+      "synonyms": [
+        "Wallis and Futuna",
+        "Territory of Wallis and Futuna Islands",
+        "Wallis and Futuna Islands"
+      ]
+    },
+    {
+      "value": "Western Sahara",
+      "synonyms": [
+        "Western Sahara"
+      ]
+    },
+    {
+      "value": "Yemen",
+      "synonyms": [
+        "Yemen",
+        "Republic of Yemen"
+      ]
+    },
+    {
+      "value": "Zambia",
+      "synonyms": [
+        "Zambia",
+        "Republic of Zambia"
+      ]
+    },
+    {
+      "value": "Zimbabwe",
+      "synonyms": [
+        "Zimbabwe",
+        "Republic of Zimbabwe"
+      ]
+    },
+    {
+      "value": "England",
+      "synonyms": [
+        "England",
+        "Land of Hope and Glory"
+      ]
+    },
+    {
+      "value": "North Korea",
+      "synonyms": [
+        "North Korea",
+        "The Hermit Kingdom"
+      ]
+    },
+    {
+      "value": "South Korea",
+      "synonyms": [
+        "South Korea",
+        "Land of the Morning Calm"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

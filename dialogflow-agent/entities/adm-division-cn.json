@@ -1,0 +1,177 @@
+{
+  "id": "27e9c395-8c5d-4d13-a275-809639466b56",
+  "name": "adm-division-cn",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Zhejiang",
+      "synonyms": [
+        "Zhejiang"
+      ]
+    },
+    {
+      "value": "Heilongjiang",
+      "synonyms": [
+        "Heilongjiang"
+      ]
+    },
+    {
+      "value": "Fujian",
+      "synonyms": [
+        "Fujian"
+      ]
+    },
+    {
+      "value": "Guizhou",
+      "synonyms": [
+        "Guizhou"
+      ]
+    },
+    {
+      "value": "Qinghai",
+      "synonyms": [
+        "Qinghai"
+      ]
+    },
+    {
+      "value": "Taiwan Province",
+      "synonyms": [
+        "Taiwan Province"
+      ]
+    },
+    {
+      "value": "Yunnan",
+      "synonyms": [
+        "Yunnan"
+      ]
+    },
+    {
+      "value": "Hebei",
+      "synonyms": [
+        "Hebei"
+      ]
+    },
+    {
+      "value": "Anhui",
+      "synonyms": [
+        "Anhui"
+      ]
+    },
+    {
+      "value": "Gansu",
+      "synonyms": [
+        "Gansu"
+      ]
+    },
+    {
+      "value": "Shaanxi",
+      "synonyms": [
+        "Shaanxi"
+      ]
+    },
+    {
+      "value": "Shanxi",
+      "synonyms": [
+        "Shanxi"
+      ]
+    },
+    {
+      "value": "Liaoning",
+      "synonyms": [
+        "Liaoning"
+      ]
+    },
+    {
+      "value": "Hainan",
+      "synonyms": [
+        "Hainan"
+      ]
+    },
+    {
+      "value": "Sichuan",
+      "synonyms": [
+        "Sichuan"
+      ]
+    },
+    {
+      "value": "Guangdong",
+      "synonyms": [
+        "Guangdong"
+      ]
+    },
+    {
+      "value": "Henan",
+      "synonyms": [
+        "Henan"
+      ]
+    },
+    {
+      "value": "Jilin",
+      "synonyms": [
+        "Jilin"
+      ]
+    },
+    {
+      "value": "Jiangsu",
+      "synonyms": [
+        "Jiangsu"
+      ]
+    },
+    {
+      "value": "Hubei",
+      "synonyms": [
+        "Hubei"
+      ]
+    },
+    {
+      "value": "Hunan",
+      "synonyms": [
+        "Hunan"
+      ]
+    },
+    {
+      "value": "Shandong",
+      "synonyms": [
+        "Shandong"
+      ]
+    },
+    {
+      "value": "Jiangxi",
+      "synonyms": [
+        "Jiangxi"
+      ]
+    },
+    {
+      "value": "Inner Mongolia",
+      "synonyms": [
+        "Inner Mongolia"
+      ]
+    },
+    {
+      "value": "Guangxi Zhuang Autonomous Region",
+      "synonyms": [
+        "Guangxi Zhuang Autonomous Region"
+      ]
+    },
+    {
+      "value": "Xinjiang",
+      "synonyms": [
+        "Xinjiang"
+      ]
+    },
+    {
+      "value": "Tibet",
+      "synonyms": [
+        "Tibet"
+      ]
+    },
+    {
+      "value": "Ningxia Hui Autonomous Region",
+      "synonyms": [
+        "Ningxia Hui Autonomous Region"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

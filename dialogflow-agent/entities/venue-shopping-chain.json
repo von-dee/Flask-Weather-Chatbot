@@ -1,0 +1,1521 @@
+{
+  "id": "3371b69a-ac45-41b3-8403-e8d7294ed224",
+  "name": "venue-shopping-chain",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "7-Eleven",
+      "synonyms": [
+        "7-Eleven"
+      ]
+    },
+    {
+      "value": "ABC Stores",
+      "synonyms": [
+        "ABC Stores"
+      ]
+    },
+    {
+      "value": "APT Stores",
+      "synonyms": [
+        "APT Stores"
+      ]
+    },
+    {
+      "value": "Acme Fresh Market",
+      "synonyms": [
+        "Acme Fresh Market"
+      ]
+    },
+    {
+      "value": "Ahold Delhaize",
+      "synonyms": [
+        "Ahold Delhaize"
+      ]
+    },
+    {
+      "value": "Albertson\u0027s",
+      "synonyms": [
+        "Albertson\u0027s"
+      ]
+    },
+    {
+      "value": "Albertsons LLC",
+      "synonyms": [
+        "Albertsons LLC"
+      ]
+    },
+    {
+      "value": "Aldi",
+      "synonyms": [
+        "Aldi"
+      ]
+    },
+    {
+      "value": "Alimentation Couche Tard",
+      "synonyms": [
+        "Alimentation Couche Tard"
+      ]
+    },
+    {
+      "value": "Aloha Island Mart",
+      "synonyms": [
+        "Aloha Island Mart"
+      ]
+    },
+    {
+      "value": "Andronico s Community Markets",
+      "synonyms": [
+        "Andronico s Community Markets"
+      ]
+    },
+    {
+      "value": "Apple Store",
+      "synonyms": [
+        "Apple Store"
+      ]
+    },
+    {
+      "value": "Asda",
+      "synonyms": [
+        "Asda"
+      ]
+    },
+    {
+      "value": "Associated Retail Stores Inc",
+      "synonyms": [
+        "Associated Retail Stores Inc"
+      ]
+    },
+    {
+      "value": "BP Safeway",
+      "synonyms": [
+        "BP Safeway"
+      ]
+    },
+    {
+      "value": "Bejam",
+      "synonyms": [
+        "Bejam"
+      ]
+    },
+    {
+      "value": "Best Buy",
+      "synonyms": [
+        "Best Buy"
+      ]
+    },
+    {
+      "value": "Best-One",
+      "synonyms": [
+        "Best-One"
+      ]
+    },
+    {
+      "value": "Bi Rite Market Bi Rite Market",
+      "synonyms": [
+        "Bi Rite Market Bi Rite Market"
+      ]
+    },
+    {
+      "value": "Big W",
+      "synonyms": [
+        "Big W"
+      ]
+    },
+    {
+      "value": "Billa",
+      "synonyms": [
+        "Billa"
+      ]
+    },
+    {
+      "value": "Bishops",
+      "synonyms": [
+        "Bishops"
+      ]
+    },
+    {
+      "value": "Booths",
+      "synonyms": [
+        "Booths"
+      ]
+    },
+    {
+      "value": "Brian Ford\u0027s Discount Store",
+      "synonyms": [
+        "Brian Ford\u0027s Discount Store"
+      ]
+    },
+    {
+      "value": "Budgens",
+      "synonyms": [
+        "Budgens"
+      ]
+    },
+    {
+      "value": "Burton Supermarkets",
+      "synonyms": [
+        "Burton Supermarkets"
+      ]
+    },
+    {
+      "value": "Buy the Way",
+      "synonyms": [
+        "Buy the Way"
+      ]
+    },
+    {
+      "value": "CBA",
+      "synonyms": [
+        "CBA"
+      ]
+    },
+    {
+      "value": "COOP",
+      "synonyms": [
+        "COOP"
+      ]
+    },
+    {
+      "value": "Capital Freezer Centres",
+      "synonyms": [
+        "Capital Freezer Centres"
+      ]
+    },
+    {
+      "value": "Carrefour",
+      "synonyms": [
+        "Carrefour"
+      ]
+    },
+    {
+      "value": "Carrefour City",
+      "synonyms": [
+        "Carrefour City"
+      ]
+    },
+    {
+      "value": "Cartier\u0027s Superfoods",
+      "synonyms": [
+        "Cartier\u0027s Superfoods"
+      ]
+    },
+    {
+      "value": "Cater Brothers",
+      "synonyms": [
+        "Cater Brothers"
+      ]
+    },
+    {
+      "value": "Cenex",
+      "synonyms": [
+        "Cenex"
+      ]
+    },
+    {
+      "value": "Centra",
+      "synonyms": [
+        "Centra"
+      ]
+    },
+    {
+      "value": "Central Market Central Market",
+      "synonyms": [
+        "Central Market Central Market"
+      ]
+    },
+    {
+      "value": "Challenge Supermarket",
+      "synonyms": [
+        "Challenge Supermarket"
+      ]
+    },
+    {
+      "value": "Circle K",
+      "synonyms": [
+        "Circle K"
+      ]
+    },
+    {
+      "value": "Circle K Sunkus",
+      "synonyms": [
+        "Circle K Sunkus"
+      ]
+    },
+    {
+      "value": "Co-op,* andCo-op Food",
+      "synonyms": [
+        "Co-op,* andCo-op Food"
+      ]
+    },
+    {
+      "value": "Cooltrader",
+      "synonyms": [
+        "Cooltrader"
+      ]
+    },
+    {
+      "value": "Coopers \u0026 Co",
+      "synonyms": [
+        "Coopers \u0026 Co"
+      ]
+    },
+    {
+      "value": "Cordon Bleu",
+      "synonyms": [
+        "Cordon Bleu"
+      ]
+    },
+    {
+      "value": "Costco",
+      "synonyms": [
+        "Costco"
+      ]
+    },
+    {
+      "value": "Costcutter",
+      "synonyms": [
+        "Costcutter"
+      ]
+    },
+    {
+      "value": "County Stores",
+      "synonyms": [
+        "County Stores"
+      ]
+    },
+    {
+      "value": "Crazy Prices",
+      "synonyms": [
+        "Crazy Prices"
+      ]
+    },
+    {
+      "value": "DEE Discount Stores",
+      "synonyms": [
+        "DEE Discount Stores"
+      ]
+    },
+    {
+      "value": "Daily Yamazaki",
+      "synonyms": [
+        "Daily Yamazaki"
+      ]
+    },
+    {
+      "value": "Dash In",
+      "synonyms": [
+        "Dash In"
+      ]
+    },
+    {
+      "value": "David Greig",
+      "synonyms": [
+        "David Greig"
+      ]
+    },
+    {
+      "value": "David Sands",
+      "synonyms": [
+        "David Sands"
+      ]
+    },
+    {
+      "value": "Dollar Tree",
+      "synonyms": [
+        "Dollar Tree"
+      ]
+    },
+    {
+      "value": "Downsway Supermarkets",
+      "synonyms": [
+        "Downsway Supermarkets"
+      ]
+    },
+    {
+      "value": "Elmo",
+      "synonyms": [
+        "Elmo"
+      ]
+    },
+    {
+      "value": "EuroSpar",
+      "synonyms": [
+        "EuroSpar"
+      ]
+    },
+    {
+      "value": "Evvia Estiatorio",
+      "synonyms": [
+        "Evvia Estiatorio"
+      ]
+    },
+    {
+      "value": "ExtraMile",
+      "synonyms": [
+        "ExtraMile"
+      ]
+    },
+    {
+      "value": "Fairway",
+      "synonyms": [
+        "Fairway"
+      ]
+    },
+    {
+      "value": "Family Dollar Store",
+      "synonyms": [
+        "Family Dollar Store"
+      ]
+    },
+    {
+      "value": "FamilyMart",
+      "synonyms": [
+        "FamilyMart"
+      ]
+    },
+    {
+      "value": "Famima",
+      "synonyms": [
+        "Famima"
+      ]
+    },
+    {
+      "value": "Farmacias Guadalajara",
+      "synonyms": [
+        "Farmacias Guadalajara"
+      ]
+    },
+    {
+      "value": "Farmfoods",
+      "synonyms": [
+        "Farmfoods"
+      ]
+    },
+    {
+      "value": "Fine Fare",
+      "synonyms": [
+        "Fine Fare"
+      ]
+    },
+    {
+      "value": "Food Giant",
+      "synonyms": [
+        "Food Giant"
+      ]
+    },
+    {
+      "value": "Food Lion",
+      "synonyms": [
+        "Food Lion"
+      ]
+    },
+    {
+      "value": "Ford \u0026 Lock",
+      "synonyms": [
+        "Ford \u0026 Lock"
+      ]
+    },
+    {
+      "value": "Frank Dee Supermarkets",
+      "synonyms": [
+        "Frank Dee Supermarkets"
+      ]
+    },
+    {
+      "value": "Freezeway",
+      "synonyms": [
+        "Freezeway"
+      ]
+    },
+    {
+      "value": "Fresh Market Inc",
+      "synonyms": [
+        "Fresh Market Inc"
+      ]
+    },
+    {
+      "value": "FreshXpress",
+      "synonyms": [
+        "FreshXpress"
+      ]
+    },
+    {
+      "value": "Fulton\u0027s Foods",
+      "synonyms": [
+        "Fulton\u0027s Foods"
+      ]
+    },
+    {
+      "value": "GS25",
+      "synonyms": [
+        "GS25"
+      ]
+    },
+    {
+      "value": "GT Smith",
+      "synonyms": [
+        "GT Smith"
+      ]
+    },
+    {
+      "value": "Galbraith supermarkets",
+      "synonyms": [
+        "Galbraith supermarkets"
+      ]
+    },
+    {
+      "value": "Gateway Foodmarkets",
+      "synonyms": [
+        "Gateway Foodmarkets"
+      ]
+    },
+    {
+      "value": "Giant Food",
+      "synonyms": [
+        "Giant Food"
+      ]
+    },
+    {
+      "value": "Giant-Carlisle",
+      "synonyms": [
+        "Giant-Carlisle"
+      ]
+    },
+    {
+      "value": "Giant-Landover",
+      "synonyms": [
+        "Giant-Landover"
+      ]
+    },
+    {
+      "value": "Grandways",
+      "synonyms": [
+        "Grandways"
+      ]
+    },
+    {
+      "value": "Great Atlantic and Pacific Tea Company",
+      "synonyms": [
+        "Great Atlantic and Pacific Tea Company"
+      ]
+    },
+    {
+      "value": "H.E. Butt Grocery",
+      "synonyms": [
+        "H.E. Butt Grocery"
+      ]
+    },
+    {
+      "value": "HE Butt Grocery",
+      "synonyms": [
+        "HE Butt Grocery"
+      ]
+    },
+    {
+      "value": "Haldanes",
+      "synonyms": [
+        "Haldanes"
+      ]
+    },
+    {
+      "value": "Hanburys",
+      "synonyms": [
+        "Hanburys"
+      ]
+    },
+    {
+      "value": "Hannaford",
+      "synonyms": [
+        "Hannaford"
+      ]
+    },
+    {
+      "value": "Happy Shopper",
+      "synonyms": [
+        "Happy Shopper"
+      ]
+    },
+    {
+      "value": "Heron Foods",
+      "synonyms": [
+        "Heron Foods"
+      ]
+    },
+    {
+      "value": "High\u0027s Dairy Store",
+      "synonyms": [
+        "High\u0027s Dairy Store"
+      ]
+    },
+    {
+      "value": "Hillards",
+      "synonyms": [
+        "Hillards"
+      ]
+    },
+    {
+      "value": "Hiller\u0027s Market",
+      "synonyms": [
+        "Hiller\u0027s Market"
+      ]
+    },
+    {
+      "value": "Hintons",
+      "synonyms": [
+        "Hintons"
+      ]
+    },
+    {
+      "value": "Holiday Stationstores",
+      "synonyms": [
+        "Holiday Stationstores"
+      ]
+    },
+    {
+      "value": "Home Depot",
+      "synonyms": [
+        "Home Depot"
+      ]
+    },
+    {
+      "value": "IKEA",
+      "synonyms": [
+        "IKEA"
+      ]
+    },
+    {
+      "value": "Indomaret",
+      "synonyms": [
+        "Indomaret"
+      ]
+    },
+    {
+      "value": "International",
+      "synonyms": [
+        "International"
+      ]
+    },
+    {
+      "value": "Irving Blue Canoe",
+      "synonyms": [
+        "Irving Blue Canoe"
+      ]
+    },
+    {
+      "value": "Irving Mainway",
+      "synonyms": [
+        "Irving Mainway"
+      ]
+    },
+    {
+      "value": "Irwin\u0027s Stores",
+      "synonyms": [
+        "Irwin\u0027s Stores"
+      ]
+    },
+    {
+      "value": "Jacksons",
+      "synonyms": [
+        "Jacksons"
+      ]
+    },
+    {
+      "value": "Jewel Express",
+      "synonyms": [
+        "Jewel Express"
+      ]
+    },
+    {
+      "value": "Jungle Jim s International Market",
+      "synonyms": [
+        "Jungle Jim s International Market"
+      ]
+    },
+    {
+      "value": "Kenton Supermarkets",
+      "synonyms": [
+        "Kenton Supermarkets"
+      ]
+    },
+    {
+      "value": "Key Markets",
+      "synonyms": [
+        "Key Markets"
+      ]
+    },
+    {
+      "value": "Kibby\u0027s Supermarkets",
+      "synonyms": [
+        "Kibby\u0027s Supermarkets"
+      ]
+    },
+    {
+      "value": "Kmart Super Center",
+      "synonyms": [
+        "Kmart Super Center"
+      ]
+    },
+    {
+      "value": "Kroger",
+      "synonyms": [
+        "Kroger"
+      ]
+    },
+    {
+      "value": "Kroger Company",
+      "synonyms": [
+        "Kroger Company"
+      ]
+    },
+    {
+      "value": "Kroger CompanyKroger",
+      "synonyms": [
+        "Kroger CompanyKroger"
+      ]
+    },
+    {
+      "value": "Kum \u0026 Go",
+      "synonyms": [
+        "Kum \u0026 Go"
+      ]
+    },
+    {
+      "value": "Kwik Save",
+      "synonyms": [
+        "Kwik Save"
+      ]
+    },
+    {
+      "value": "L\u0026F Jones",
+      "synonyms": [
+        "L\u0026F Jones"
+      ]
+    },
+    {
+      "value": "La Michoacana",
+      "synonyms": [
+        "La Michoacana"
+      ]
+    },
+    {
+      "value": "Laws Stores",
+      "synonyms": [
+        "Laws Stores"
+      ]
+    },
+    {
+      "value": "Lawson",
+      "synonyms": [
+        "Lawson"
+      ]
+    },
+    {
+      "value": "Lennons Supermarkets",
+      "synonyms": [
+        "Lennons Supermarkets"
+      ]
+    },
+    {
+      "value": "Leos",
+      "synonyms": [
+        "Leos"
+      ]
+    },
+    {
+      "value": "Lidl",
+      "synonyms": [
+        "Lidl"
+      ]
+    },
+    {
+      "value": "Liptons",
+      "synonyms": [
+        "Liptons"
+      ]
+    },
+    {
+      "value": "Little Waitrose",
+      "synonyms": [
+        "Little Waitrose"
+      ]
+    },
+    {
+      "value": "Lo-Cost",
+      "synonyms": [
+        "Lo-Cost"
+      ]
+    },
+    {
+      "value": "Loaf \u0027N Jug",
+      "synonyms": [
+        "Loaf \u0027N Jug"
+      ]
+    },
+    {
+      "value": "Londis",
+      "synonyms": [
+        "Londis"
+      ]
+    },
+    {
+      "value": "Lowfreeze",
+      "synonyms": [
+        "Lowfreeze"
+      ]
+    },
+    {
+      "value": "M Local",
+      "synonyms": [
+        "M Local"
+      ]
+    },
+    {
+      "value": "Mac Fisheries",
+      "synonyms": [
+        "Mac Fisheries"
+      ]
+    },
+    {
+      "value": "Mac\u0027s Convenience Stores",
+      "synonyms": [
+        "Mac\u0027s Convenience Stores"
+      ]
+    },
+    {
+      "value": "Mace",
+      "synonyms": [
+        "Mace"
+      ]
+    },
+    {
+      "value": "Mainstop",
+      "synonyms": [
+        "Mainstop"
+      ]
+    },
+    {
+      "value": "Marks \u0026 Spencer",
+      "synonyms": [
+        "Marks \u0026 Spencer"
+      ]
+    },
+    {
+      "value": "Martin McColl",
+      "synonyms": [
+        "Martin McColl"
+      ]
+    },
+    {
+      "value": "Martin\u0027s Food Markets",
+      "synonyms": [
+        "Martin\u0027s Food Markets"
+      ]
+    },
+    {
+      "value": "Ministop",
+      "synonyms": [
+        "Ministop"
+      ]
+    },
+    {
+      "value": "Moore Stores",
+      "synonyms": [
+        "Moore Stores"
+      ]
+    },
+    {
+      "value": "Morning Noon and Night",
+      "synonyms": [
+        "Morning Noon and Night"
+      ]
+    },
+    {
+      "value": "Morrisons",
+      "synonyms": [
+        "Morrisons"
+      ]
+    },
+    {
+      "value": "Narvesen",
+      "synonyms": [
+        "Narvesen"
+      ]
+    },
+    {
+      "value": "Needs Convenience",
+      "synonyms": [
+        "Needs Convenience"
+      ]
+    },
+    {
+      "value": "Netto",
+      "synonyms": [
+        "Netto"
+      ]
+    },
+    {
+      "value": "Norco",
+      "synonyms": [
+        "Norco"
+      ]
+    },
+    {
+      "value": "Nordstrom",
+      "synonyms": [
+        "Nordstrom"
+      ]
+    },
+    {
+      "value": "Normans supermarkets",
+      "synonyms": [
+        "Normans supermarkets"
+      ]
+    },
+    {
+      "value": "Normid",
+      "synonyms": [
+        "Normid"
+      ]
+    },
+    {
+      "value": "Northgate Gonzalez Market Inc",
+      "synonyms": [
+        "Northgate Gonzalez Market Inc"
+      ]
+    },
+    {
+      "value": "OLCO",
+      "synonyms": [
+        "OLCO"
+      ]
+    },
+    {
+      "value": "OXXO",
+      "synonyms": [
+        "OXXO"
+      ]
+    },
+    {
+      "value": "Ocado",
+      "synonyms": [
+        "Ocado"
+      ]
+    },
+    {
+      "value": "Omaha Steaks",
+      "synonyms": [
+        "Omaha Steaks"
+      ]
+    },
+    {
+      "value": "On the Run",
+      "synonyms": [
+        "On the Run"
+      ]
+    },
+    {
+      "value": "One Stop",
+      "synonyms": [
+        "One Stop"
+      ]
+    },
+    {
+      "value": "Orchard Frozen Foods",
+      "synonyms": [
+        "Orchard Frozen Foods"
+      ]
+    },
+    {
+      "value": "PARKnSHOP Express",
+      "synonyms": [
+        "PARKnSHOP Express"
+      ]
+    },
+    {
+      "value": "Petco",
+      "synonyms": [
+        "Petco"
+      ]
+    },
+    {
+      "value": "Petsmart",
+      "synonyms": [
+        "Petsmart"
+      ]
+    },
+    {
+      "value": "Pioneer",
+      "synonyms": [
+        "Pioneer"
+      ]
+    },
+    {
+      "value": "Poplar",
+      "synonyms": [
+        "Poplar"
+      ]
+    },
+    {
+      "value": "Premier Stores",
+      "synonyms": [
+        "Premier Stores"
+      ]
+    },
+    {
+      "value": "Premier Supermarkets",
+      "synonyms": [
+        "Premier Supermarkets"
+      ]
+    },
+    {
+      "value": "Presto",
+      "synonyms": [
+        "Presto"
+      ]
+    },
+    {
+      "value": "Price Rite",
+      "synonyms": [
+        "Price Rite"
+      ]
+    },
+    {
+      "value": "Primark",
+      "synonyms": [
+        "Primark"
+      ]
+    },
+    {
+      "value": "Provi-Soir",
+      "synonyms": [
+        "Provi-Soir"
+      ]
+    },
+    {
+      "value": "Publix",
+      "synonyms": [
+        "Publix"
+      ]
+    },
+    {
+      "value": "Quality Fare",
+      "synonyms": [
+        "Quality Fare"
+      ]
+    },
+    {
+      "value": "Queens Supermarkets",
+      "synonyms": [
+        "Queens Supermarkets"
+      ]
+    },
+    {
+      "value": "Quickie Convenience Stores",
+      "synonyms": [
+        "Quickie Convenience Stores"
+      ]
+    },
+    {
+      "value": "R-Kioski",
+      "synonyms": [
+        "R-Kioski"
+      ]
+    },
+    {
+      "value": "RaceTrac",
+      "synonyms": [
+        "RaceTrac"
+      ]
+    },
+    {
+      "value": "Rainbow",
+      "synonyms": [
+        "Rainbow"
+      ]
+    },
+    {
+      "value": "Raley\u0027s Supermarkets",
+      "synonyms": [
+        "Raley\u0027s Supermarkets"
+      ]
+    },
+    {
+      "value": "Ralphs",
+      "synonyms": [
+        "Ralphs"
+      ]
+    },
+    {
+      "value": "Ralphs Supermarket",
+      "synonyms": [
+        "Ralphs Supermarket"
+      ]
+    },
+    {
+      "value": "Richway Supermarkets",
+      "synonyms": [
+        "Richway Supermarkets"
+      ]
+    },
+    {
+      "value": "Road Ranger",
+      "synonyms": [
+        "Road Ranger"
+      ]
+    },
+    {
+      "value": "Rouse\u0027s Rouse\u0027sRouses",
+      "synonyms": [
+        "Rouse\u0027s Rouse\u0027sRouses"
+      ]
+    },
+    {
+      "value": "Rouses Enterprises LLC",
+      "synonyms": [
+        "Rouses Enterprises LLC"
+      ]
+    },
+    {
+      "value": "Royal Farms",
+      "synonyms": [
+        "Royal Farms"
+      ]
+    },
+    {
+      "value": "SPAR",
+      "synonyms": [
+        "SPAR"
+      ]
+    },
+    {
+      "value": "SPAR Express",
+      "synonyms": [
+        "SPAR Express"
+      ]
+    },
+    {
+      "value": "SVT LLC",
+      "synonyms": [
+        "SVT LLC"
+      ]
+    },
+    {
+      "value": "Safeway",
+      "synonyms": [
+        "Safeway"
+      ]
+    },
+    {
+      "value": "Safeway Safeway",
+      "synonyms": [
+        "Safeway Safeway"
+      ]
+    },
+    {
+      "value": "Sainsbury\u0027s",
+      "synonyms": [
+        "Sainsbury\u0027s"
+      ]
+    },
+    {
+      "value": "Sainsbury\u0027s Local",
+      "synonyms": [
+        "Sainsbury\u0027s Local"
+      ]
+    },
+    {
+      "value": "Sainsbury\u0027s Savacentre",
+      "synonyms": [
+        "Sainsbury\u0027s Savacentre"
+      ]
+    },
+    {
+      "value": "Save Mart",
+      "synonyms": [
+        "Save Mart"
+      ]
+    },
+    {
+      "value": "Saverite",
+      "synonyms": [
+        "Saverite"
+      ]
+    },
+    {
+      "value": "Schofield \u0026 Martin",
+      "synonyms": [
+        "Schofield \u0026 Martin"
+      ]
+    },
+    {
+      "value": "Sears",
+      "synonyms": [
+        "Sears"
+      ]
+    },
+    {
+      "value": "Seven eleven",
+      "synonyms": [
+        "Seven eleven"
+      ]
+    },
+    {
+      "value": "Shop Rite",
+      "synonyms": [
+        "Shop Rite"
+      ]
+    },
+    {
+      "value": "Shoppers Paradise",
+      "synonyms": [
+        "Shoppers Paradise"
+      ]
+    },
+    {
+      "value": "Smiths Freezer Centres",
+      "synonyms": [
+        "Smiths Freezer Centres"
+      ]
+    },
+    {
+      "value": "Sobeys",
+      "synonyms": [
+        "Sobeys"
+      ]
+    },
+    {
+      "value": "Solo",
+      "synonyms": [
+        "Solo"
+      ]
+    },
+    {
+      "value": "Somerfield",
+      "synonyms": [
+        "Somerfield"
+      ]
+    },
+    {
+      "value": "Spartan Stores",
+      "synonyms": [
+        "Spartan Stores"
+      ]
+    },
+    {
+      "value": "Sprouts",
+      "synonyms": [
+        "Sprouts"
+      ]
+    },
+    {
+      "value": "Sprouts Farmers Market",
+      "synonyms": [
+        "Sprouts Farmers Market"
+      ]
+    },
+    {
+      "value": "St Catherine\u0027s Freezer Centres",
+      "synonyms": [
+        "St Catherine\u0027s Freezer Centres"
+      ]
+    },
+    {
+      "value": "Stater Bros Markets",
+      "synonyms": [
+        "Stater Bros Markets"
+      ]
+    },
+    {
+      "value": "Statoil",
+      "synonyms": [
+        "Statoil"
+      ]
+    },
+    {
+      "value": "Stewarts Supermarket Limited",
+      "synonyms": [
+        "Stewarts Supermarket Limited"
+      ]
+    },
+    {
+      "value": "Stitchers Supermarkets",
+      "synonyms": [
+        "Stitchers Supermarkets"
+      ]
+    },
+    {
+      "value": "Stop \u0026 Shop",
+      "synonyms": [
+        "Stop \u0026 Shop"
+      ]
+    },
+    {
+      "value": "Storyway",
+      "synonyms": [
+        "Storyway"
+      ]
+    },
+    {
+      "value": "Stuckey s",
+      "synonyms": [
+        "Stuckey s"
+      ]
+    },
+    {
+      "value": "Stuckeys",
+      "synonyms": [
+        "Stuckeys"
+      ]
+    },
+    {
+      "value": "Sullivan Family of Companies",
+      "synonyms": [
+        "Sullivan Family of Companies"
+      ]
+    },
+    {
+      "value": "Sunflower Farmers Market",
+      "synonyms": [
+        "Sunflower Farmers Market"
+      ]
+    },
+    {
+      "value": "Super Center Concepts Inc",
+      "synonyms": [
+        "Super Center Concepts Inc"
+      ]
+    },
+    {
+      "value": "Super City",
+      "synonyms": [
+        "Super City"
+      ]
+    },
+    {
+      "value": "Super One Foods",
+      "synonyms": [
+        "Super One Foods"
+      ]
+    },
+    {
+      "value": "SuperAmerica",
+      "synonyms": [
+        "SuperAmerica"
+      ]
+    },
+    {
+      "value": "SuperSpar",
+      "synonyms": [
+        "SuperSpar"
+      ]
+    },
+    {
+      "value": "SuperTarget",
+      "synonyms": [
+        "SuperTarget"
+      ]
+    },
+    {
+      "value": "SuperValu Inc.",
+      "synonyms": [
+        "SuperValu Inc."
+      ]
+    },
+    {
+      "value": "Supernational Stores",
+      "synonyms": [
+        "Supernational Stores"
+      ]
+    },
+    {
+      "value": "Templeton supermarkets",
+      "synonyms": [
+        "Templeton supermarkets"
+      ]
+    },
+    {
+      "value": "Tesco",
+      "synonyms": [
+        "Tesco"
+      ]
+    },
+    {
+      "value": "Tesco Express",
+      "synonyms": [
+        "Tesco Express"
+      ]
+    },
+    {
+      "value": "Tesco Lotus Express",
+      "synonyms": [
+        "Tesco Lotus Express"
+      ]
+    },
+    {
+      "value": "The Body Shop",
+      "synonyms": [
+        "The Body Shop"
+      ]
+    },
+    {
+      "value": "The Cooperative Food",
+      "synonyms": [
+        "The Cooperative Food"
+      ]
+    },
+    {
+      "value": "The Good Food Store",
+      "synonyms": [
+        "The Good Food Store"
+      ]
+    },
+    {
+      "value": "Thorntons",
+      "synonyms": [
+        "Thorntons"
+      ]
+    },
+    {
+      "value": "Tiendas Extra",
+      "synonyms": [
+        "Tiendas Extra"
+      ]
+    },
+    {
+      "value": "Trader Joe\u0027s",
+      "synonyms": [
+        "Trader Joe\u0027s"
+      ]
+    },
+    {
+      "value": "Vallarta Supermarkets",
+      "synonyms": [
+        "Vallarta Supermarkets"
+      ]
+    },
+    {
+      "value": "VanGO",
+      "synonyms": [
+        "VanGO"
+      ]
+    },
+    {
+      "value": "Victor Value",
+      "synonyms": [
+        "Victor Value"
+      ]
+    },
+    {
+      "value": "Victoria\u0027s Secret",
+      "synonyms": [
+        "Victoria\u0027s Secret"
+      ]
+    },
+    {
+      "value": "Waitrose",
+      "synonyms": [
+        "Waitrose"
+      ]
+    },
+    {
+      "value": "Walgreens",
+      "synonyms": [
+        "Walgreens"
+      ]
+    },
+    {
+      "value": "Wallis",
+      "synonyms": [
+        "Wallis"
+      ]
+    },
+    {
+      "value": "Walmart Supercenters",
+      "synonyms": [
+        "Walmart Supercenters"
+      ]
+    },
+    {
+      "value": "Walter Wilson",
+      "synonyms": [
+        "Walter Wilson"
+      ]
+    },
+    {
+      "value": "Wavy Line",
+      "synonyms": [
+        "Wavy Line"
+      ]
+    },
+    {
+      "value": "Wegmans Food Markets",
+      "synonyms": [
+        "Wegmans Food Markets"
+      ]
+    },
+    {
+      "value": "Weis Markets",
+      "synonyms": [
+        "Weis Markets"
+      ]
+    },
+    {
+      "value": "Wellworths",
+      "synonyms": [
+        "Wellworths"
+      ]
+    },
+    {
+      "value": "Westfield",
+      "synonyms": [
+        "Westfield"
+      ]
+    },
+    {
+      "value": "Whelan Discount Stores",
+      "synonyms": [
+        "Whelan Discount Stores"
+      ]
+    },
+    {
+      "value": "Whole Foods",
+      "synonyms": [
+        "Whole Foods"
+      ]
+    },
+    {
+      "value": "Whole Foods Market",
+      "synonyms": [
+        "Whole Foods Market"
+      ]
+    },
+    {
+      "value": "Williamson \u0026 Treadgold",
+      "synonyms": [
+        "Williamson \u0026 Treadgold"
+      ]
+    },
+    {
+      "value": "WinCo Foods",
+      "synonyms": [
+        "WinCo Foods"
+      ]
+    },
+    {
+      "value": "Wm Low",
+      "synonyms": [
+        "Wm Low"
+      ]
+    },
+    {
+      "value": "Woolco",
+      "synonyms": [
+        "Woolco"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}

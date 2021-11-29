@@ -1,0 +1,1287 @@
+{
+  "id": "9f3dd763-2dc0-4d28-8942-aea61a27c7c1",
+  "name": "moscow-metro-stations",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Aeroport",
+      "synonyms": [
+        "Aeroport"
+      ]
+    },
+    {
+      "value": "Akademicheskaya",
+      "synonyms": [
+        "Akademicheskaya"
+      ]
+    },
+    {
+      "value": "Aleksandrovsky Sad",
+      "synonyms": [
+        "Aleksandrovsky Sad"
+      ]
+    },
+    {
+      "value": "Alekseyevskaya",
+      "synonyms": [
+        "Alekseyevskaya"
+      ]
+    },
+    {
+      "value": "Alma-Atinskaya",
+      "synonyms": [
+        "Alma-Atinskaya"
+      ]
+    },
+    {
+      "value": "Altufyevo",
+      "synonyms": [
+        "Altufyevo"
+      ]
+    },
+    {
+      "value": "Andronovka",
+      "synonyms": [
+        "Andronovka"
+      ]
+    },
+    {
+      "value": "Annino",
+      "synonyms": [
+        "Annino"
+      ]
+    },
+    {
+      "value": "Arbatskaya",
+      "synonyms": [
+        "Arbatskaya"
+      ]
+    },
+    {
+      "value": "Aviamotornaya",
+      "synonyms": [
+        "Aviamotornaya"
+      ]
+    },
+    {
+      "value": "Avtozavodskaya",
+      "synonyms": [
+        "Avtozavodskaya"
+      ]
+    },
+    {
+      "value": "Babushkinskaya",
+      "synonyms": [
+        "Babushkinskaya"
+      ]
+    },
+    {
+      "value": "Bagrationovskaya",
+      "synonyms": [
+        "Bagrationovskaya"
+      ]
+    },
+    {
+      "value": "Baltiyskaya",
+      "synonyms": [
+        "Baltiyskaya"
+      ]
+    },
+    {
+      "value": "Barrikadnaya",
+      "synonyms": [
+        "Barrikadnaya"
+      ]
+    },
+    {
+      "value": "Baumanskaya",
+      "synonyms": [
+        "Baumanskaya"
+      ]
+    },
+    {
+      "value": "Begovaya",
+      "synonyms": [
+        "Begovaya"
+      ]
+    },
+    {
+      "value": "Belokamennaya",
+      "synonyms": [
+        "Belokamennaya"
+      ]
+    },
+    {
+      "value": "Belorusskaya",
+      "synonyms": [
+        "Belorusskaya"
+      ]
+    },
+    {
+      "value": "Belyayevo",
+      "synonyms": [
+        "Belyayevo"
+      ]
+    },
+    {
+      "value": "Bibirevo",
+      "synonyms": [
+        "Bibirevo"
+      ]
+    },
+    {
+      "value": "Biblioteka Imeni Lenina",
+      "synonyms": [
+        "Biblioteka Imeni Lenina"
+      ]
+    },
+    {
+      "value": "Bittsevsky Park",
+      "synonyms": [
+        "Bittsevsky Park"
+      ]
+    },
+    {
+      "value": "Borisovo",
+      "synonyms": [
+        "Borisovo"
+      ]
+    },
+    {
+      "value": "Borovitskaya",
+      "synonyms": [
+        "Borovitskaya"
+      ]
+    },
+    {
+      "value": "Botanichesky Sad",
+      "synonyms": [
+        "Botanichesky Sad"
+      ]
+    },
+    {
+      "value": "Bratislavskaya",
+      "synonyms": [
+        "Bratislavskaya"
+      ]
+    },
+    {
+      "value": "Bulvar Admirala Ushakova",
+      "synonyms": [
+        "Bulvar Admirala Ushakova"
+      ]
+    },
+    {
+      "value": "Bulvar Dmitriya Donskogo",
+      "synonyms": [
+        "Bulvar Dmitriya Donskogo"
+      ]
+    },
+    {
+      "value": "Bulvar Rokossovskogo",
+      "synonyms": [
+        "Bulvar Rokossovskogo"
+      ]
+    },
+    {
+      "value": "Buninskaya Alleya",
+      "synonyms": [
+        "Buninskaya Alleya"
+      ]
+    },
+    {
+      "value": "Butyrskaya",
+      "synonyms": [
+        "Butyrskaya"
+      ]
+    },
+    {
+      "value": "Chekhovskaya",
+      "synonyms": [
+        "Chekhovskaya"
+      ]
+    },
+    {
+      "value": "Cherkizovskaya",
+      "synonyms": [
+        "Cherkizovskaya"
+      ]
+    },
+    {
+      "value": "Chertanovskaya",
+      "synonyms": [
+        "Chertanovskaya"
+      ]
+    },
+    {
+      "value": "Chistye Prudy",
+      "synonyms": [
+        "Chistye Prudy"
+      ]
+    },
+    {
+      "value": "Chkalovskaya",
+      "synonyms": [
+        "Chkalovskaya"
+      ]
+    },
+    {
+      "value": "Delovoy Tsentr",
+      "synonyms": [
+        "Delovoy Tsentr"
+      ]
+    },
+    {
+      "value": "Dinamo",
+      "synonyms": [
+        "Dinamo"
+      ]
+    },
+    {
+      "value": "Dmitrovskaya",
+      "synonyms": [
+        "Dmitrovskaya"
+      ]
+    },
+    {
+      "value": "Dobryninskaya",
+      "synonyms": [
+        "Dobryninskaya"
+      ]
+    },
+    {
+      "value": "Domodedovskaya",
+      "synonyms": [
+        "Domodedovskaya"
+      ]
+    },
+    {
+      "value": "Dostoyevskaya",
+      "synonyms": [
+        "Dostoyevskaya"
+      ]
+    },
+    {
+      "value": "Dubrovka",
+      "synonyms": [
+        "Dubrovka"
+      ]
+    },
+    {
+      "value": "Elektrozavodskaya",
+      "synonyms": [
+        "Elektrozavodskaya"
+      ]
+    },
+    {
+      "value": "Fili",
+      "synonyms": [
+        "Fili"
+      ]
+    },
+    {
+      "value": "Filyovsky Park",
+      "synonyms": [
+        "Filyovsky Park"
+      ]
+    },
+    {
+      "value": "Fonvizinskaya",
+      "synonyms": [
+        "Fonvizinskaya"
+      ]
+    },
+    {
+      "value": "Frunzenskaya",
+      "synonyms": [
+        "Frunzenskaya"
+      ]
+    },
+    {
+      "value": "Izmaylovo",
+      "synonyms": [
+        "Izmaylovo"
+      ]
+    },
+    {
+      "value": "Izmaylovskaya",
+      "synonyms": [
+        "Izmaylovskaya"
+      ]
+    },
+    {
+      "value": "Kakhovskaya",
+      "synonyms": [
+        "Kakhovskaya"
+      ]
+    },
+    {
+      "value": "Kaluzhskaya",
+      "synonyms": [
+        "Kaluzhskaya"
+      ]
+    },
+    {
+      "value": "Kantemirovskaya",
+      "synonyms": [
+        "Kantemirovskaya"
+      ]
+    },
+    {
+      "value": "Kashirskaya",
+      "synonyms": [
+        "Kashirskaya"
+      ]
+    },
+    {
+      "value": "Khoroshyovo",
+      "synonyms": [
+        "Khoroshyovo"
+      ]
+    },
+    {
+      "value": "Kitay-gorod",
+      "synonyms": [
+        "Kitay-gorod"
+      ]
+    },
+    {
+      "value": "Kiyevskaya",
+      "synonyms": [
+        "Kiyevskaya"
+      ]
+    },
+    {
+      "value": "Kolomenskaya",
+      "synonyms": [
+        "Kolomenskaya"
+      ]
+    },
+    {
+      "value": "Komsomolskaya",
+      "synonyms": [
+        "Komsomolskaya"
+      ]
+    },
+    {
+      "value": "Konkovo",
+      "synonyms": [
+        "Konkovo"
+      ]
+    },
+    {
+      "value": "Koptevo",
+      "synonyms": [
+        "Koptevo"
+      ]
+    },
+    {
+      "value": "Kotelniki",
+      "synonyms": [
+        "Kotelniki"
+      ]
+    },
+    {
+      "value": "Kozhukhovskaya",
+      "synonyms": [
+        "Kozhukhovskaya"
+      ]
+    },
+    {
+      "value": "Krasnogvardeyskaya",
+      "synonyms": [
+        "Krasnogvardeyskaya"
+      ]
+    },
+    {
+      "value": "Krasnopresnenskaya",
+      "synonyms": [
+        "Krasnopresnenskaya"
+      ]
+    },
+    {
+      "value": "Krasnoselskaya",
+      "synonyms": [
+        "Krasnoselskaya"
+      ]
+    },
+    {
+      "value": "Krasnye Vorota",
+      "synonyms": [
+        "Krasnye Vorota"
+      ]
+    },
+    {
+      "value": "Krestyanskaya Zastava",
+      "synonyms": [
+        "Krestyanskaya Zastava"
+      ]
+    },
+    {
+      "value": "Kropotkinskaya",
+      "synonyms": [
+        "Kropotkinskaya"
+      ]
+    },
+    {
+      "value": "Krylatskoye",
+      "synonyms": [
+        "Krylatskoye"
+      ]
+    },
+    {
+      "value": "Krymskaya",
+      "synonyms": [
+        "Krymskaya"
+      ]
+    },
+    {
+      "value": "Kuntsevskaya",
+      "synonyms": [
+        "Kuntsevskaya"
+      ]
+    },
+    {
+      "value": "Kurskaya",
+      "synonyms": [
+        "Kurskaya"
+      ]
+    },
+    {
+      "value": "Kutuzovskaya",
+      "synonyms": [
+        "Kutuzovskaya"
+      ]
+    },
+    {
+      "value": "Kuzminki",
+      "synonyms": [
+        "Kuzminki"
+      ]
+    },
+    {
+      "value": "Kuznetsky Most",
+      "synonyms": [
+        "Kuznetsky Most"
+      ]
+    },
+    {
+      "value": "Leninsky Prospekt",
+      "synonyms": [
+        "Leninsky Prospekt"
+      ]
+    },
+    {
+      "value": "Lermontovsky Prospekt",
+      "synonyms": [
+        "Lermontovsky Prospekt"
+      ]
+    },
+    {
+      "value": "Lesoparkovaya",
+      "synonyms": [
+        "Lesoparkovaya"
+      ]
+    },
+    {
+      "value": "Likhobory",
+      "synonyms": [
+        "Likhobory"
+      ]
+    },
+    {
+      "value": "Lokomotiv",
+      "synonyms": [
+        "Lokomotiv"
+      ]
+    },
+    {
+      "value": "Lubyanka",
+      "synonyms": [
+        "Lubyanka"
+      ]
+    },
+    {
+      "value": "Luzhniki",
+      "synonyms": [
+        "Luzhniki"
+      ]
+    },
+    {
+      "value": "Lyublino",
+      "synonyms": [
+        "Lyublino"
+      ]
+    },
+    {
+      "value": "Marksistskaya",
+      "synonyms": [
+        "Marksistskaya"
+      ]
+    },
+    {
+      "value": "Maryina Roshcha",
+      "synonyms": [
+        "Maryina Roshcha"
+      ]
+    },
+    {
+      "value": "Maryino",
+      "synonyms": [
+        "Maryino"
+      ]
+    },
+    {
+      "value": "Mayakovskaya",
+      "synonyms": [
+        "Mayakovskaya"
+      ]
+    },
+    {
+      "value": "Medvedkovo",
+      "synonyms": [
+        "Medvedkovo"
+      ]
+    },
+    {
+      "value": "Mendeleyevskaya",
+      "synonyms": [
+        "Mendeleyevskaya"
+      ]
+    },
+    {
+      "value": "Mezhdunarodnaya",
+      "synonyms": [
+        "Mezhdunarodnaya"
+      ]
+    },
+    {
+      "value": "Mitino",
+      "synonyms": [
+        "Mitino"
+      ]
+    },
+    {
+      "value": "Molodyozhnaya",
+      "synonyms": [
+        "Molodyozhnaya"
+      ]
+    },
+    {
+      "value": "Myakinino",
+      "synonyms": [
+        "Myakinino"
+      ]
+    },
+    {
+      "value": "Nagatinskaya",
+      "synonyms": [
+        "Nagatinskaya"
+      ]
+    },
+    {
+      "value": "Nagornaya",
+      "synonyms": [
+        "Nagornaya"
+      ]
+    },
+    {
+      "value": "Nakhimovsky Prospekt",
+      "synonyms": [
+        "Nakhimovsky Prospekt"
+      ]
+    },
+    {
+      "value": "Nizhegorodskaya",
+      "synonyms": [
+        "Nizhegorodskaya"
+      ]
+    },
+    {
+      "value": "Novogireyevo",
+      "synonyms": [
+        "Novogireyevo"
+      ]
+    },
+    {
+      "value": "Novokhokhlovskaya",
+      "synonyms": [
+        "Novokhokhlovskaya"
+      ]
+    },
+    {
+      "value": "Novokosino",
+      "synonyms": [
+        "Novokosino"
+      ]
+    },
+    {
+      "value": "Novokuznetskaya",
+      "synonyms": [
+        "Novokuznetskaya"
+      ]
+    },
+    {
+      "value": "Novoslobodskaya",
+      "synonyms": [
+        "Novoslobodskaya"
+      ]
+    },
+    {
+      "value": "Novoyasenevskaya",
+      "synonyms": [
+        "Novoyasenevskaya"
+      ]
+    },
+    {
+      "value": "Novye Cheryomushki",
+      "synonyms": [
+        "Novye Cheryomushki"
+      ]
+    },
+    {
+      "value": "Okhotny Ryad",
+      "synonyms": [
+        "Okhotny Ryad"
+      ]
+    },
+    {
+      "value": "Okruzhnaya",
+      "synonyms": [
+        "Okruzhnaya"
+      ]
+    },
+    {
+      "value": "Oktyabrskaya",
+      "synonyms": [
+        "Oktyabrskaya"
+      ]
+    },
+    {
+      "value": "Oktyabrskoye Pole",
+      "synonyms": [
+        "Oktyabrskoye Pole"
+      ]
+    },
+    {
+      "value": "Orekhovo",
+      "synonyms": [
+        "Orekhovo"
+      ]
+    },
+    {
+      "value": "Otradnoye",
+      "synonyms": [
+        "Otradnoye"
+      ]
+    },
+    {
+      "value": "Panfilovskaya",
+      "synonyms": [
+        "Panfilovskaya"
+      ]
+    },
+    {
+      "value": "Park Kultury",
+      "synonyms": [
+        "Park Kultury"
+      ]
+    },
+    {
+      "value": "Park Pobedy",
+      "synonyms": [
+        "Park Pobedy"
+      ]
+    },
+    {
+      "value": "Partizanskaya",
+      "synonyms": [
+        "Partizanskaya"
+      ]
+    },
+    {
+      "value": "Paveletskaya",
+      "synonyms": [
+        "Paveletskaya"
+      ]
+    },
+    {
+      "value": "Pechatniki",
+      "synonyms": [
+        "Pechatniki"
+      ]
+    },
+    {
+      "value": "Perovo",
+      "synonyms": [
+        "Perovo"
+      ]
+    },
+    {
+      "value": "Pervomayskaya",
+      "synonyms": [
+        "Pervomayskaya"
+      ]
+    },
+    {
+      "value": "Petrovsko-Razumovskaya",
+      "synonyms": [
+        "Petrovsko-Razumovskaya"
+      ]
+    },
+    {
+      "value": "Pionerskaya",
+      "synonyms": [
+        "Pionerskaya"
+      ]
+    },
+    {
+      "value": "Planernaya",
+      "synonyms": [
+        "Planernaya"
+      ]
+    },
+    {
+      "value": "Ploshchad Gagarina",
+      "synonyms": [
+        "Ploshchad Gagarina"
+      ]
+    },
+    {
+      "value": "Ploshchad Ilyicha",
+      "synonyms": [
+        "Ploshchad Ilyicha"
+      ]
+    },
+    {
+      "value": "Ploshchad Revolyutsii",
+      "synonyms": [
+        "Ploshchad Revolyutsii"
+      ]
+    },
+    {
+      "value": "Polezhayevskaya",
+      "synonyms": [
+        "Polezhayevskaya"
+      ]
+    },
+    {
+      "value": "Polyanka",
+      "synonyms": [
+        "Polyanka"
+      ]
+    },
+    {
+      "value": "Prazhskaya",
+      "synonyms": [
+        "Prazhskaya"
+      ]
+    },
+    {
+      "value": "Preobrazhenskaya Ploshchad",
+      "synonyms": [
+        "Preobrazhenskaya Ploshchad"
+      ]
+    },
+    {
+      "value": "Profsoyuznaya",
+      "synonyms": [
+        "Profsoyuznaya"
+      ]
+    },
+    {
+      "value": "Proletarskaya",
+      "synonyms": [
+        "Proletarskaya"
+      ]
+    },
+    {
+      "value": "Prospekt Mira",
+      "synonyms": [
+        "Prospekt Mira"
+      ]
+    },
+    {
+      "value": "Prospekt Vernadskogo",
+      "synonyms": [
+        "Prospekt Vernadskogo"
+      ]
+    },
+    {
+      "value": "Pushkinskaya",
+      "synonyms": [
+        "Pushkinskaya"
+      ]
+    },
+    {
+      "value": "Pyatnitskoye Shosse",
+      "synonyms": [
+        "Pyatnitskoye Shosse"
+      ]
+    },
+    {
+      "value": "Rechnoy Vokzal",
+      "synonyms": [
+        "Rechnoy Vokzal"
+      ]
+    },
+    {
+      "value": "Rimskaya",
+      "synonyms": [
+        "Rimskaya"
+      ]
+    },
+    {
+      "value": "Rizhskaya",
+      "synonyms": [
+        "Rizhskaya"
+      ]
+    },
+    {
+      "value": "Rostokino",
+      "synonyms": [
+        "Rostokino"
+      ]
+    },
+    {
+      "value": "Rumyantsevo",
+      "synonyms": [
+        "Rumyantsevo"
+      ]
+    },
+    {
+      "value": "Ryazansky Prospekt",
+      "synonyms": [
+        "Ryazansky Prospekt"
+      ]
+    },
+    {
+      "value": "Salaryevo",
+      "synonyms": [
+        "Salaryevo"
+      ]
+    },
+    {
+      "value": "Savyolovskaya",
+      "synonyms": [
+        "Savyolovskaya"
+      ]
+    },
+    {
+      "value": "Semyonovskaya",
+      "synonyms": [
+        "Semyonovskaya"
+      ]
+    },
+    {
+      "value": "Serpukhovskaya",
+      "synonyms": [
+        "Serpukhovskaya"
+      ]
+    },
+    {
+      "value": "Sevastopolskaya",
+      "synonyms": [
+        "Sevastopolskaya"
+      ]
+    },
+    {
+      "value": "Shabolovskaya",
+      "synonyms": [
+        "Shabolovskaya"
+      ]
+    },
+    {
+      "value": "Shchukinskaya",
+      "synonyms": [
+        "Shchukinskaya"
+      ]
+    },
+    {
+      "value": "Shchyolkovskaya",
+      "synonyms": [
+        "Shchyolkovskaya"
+      ]
+    },
+    {
+      "value": "Shelepikha",
+      "synonyms": [
+        "Shelepikha"
+      ]
+    },
+    {
+      "value": "Shipilovskaya",
+      "synonyms": [
+        "Shipilovskaya"
+      ]
+    },
+    {
+      "value": "Shosse Entuziastov",
+      "synonyms": [
+        "Shosse Entuziastov"
+      ]
+    },
+    {
+      "value": "Skhodnenskaya",
+      "synonyms": [
+        "Skhodnenskaya"
+      ]
+    },
+    {
+      "value": "Slavyansky Bulvar",
+      "synonyms": [
+        "Slavyansky Bulvar"
+      ]
+    },
+    {
+      "value": "Smolenskaya",
+      "synonyms": [
+        "Smolenskaya"
+      ]
+    },
+    {
+      "value": "Sokol",
+      "synonyms": [
+        "Sokol"
+      ]
+    },
+    {
+      "value": "Sokolinaya Gora",
+      "synonyms": [
+        "Sokolinaya Gora"
+      ]
+    },
+    {
+      "value": "Sokolniki",
+      "synonyms": [
+        "Sokolniki"
+      ]
+    },
+    {
+      "value": "Spartak",
+      "synonyms": [
+        "Spartak"
+      ]
+    },
+    {
+      "value": "Sportivnaya",
+      "synonyms": [
+        "Sportivnaya"
+      ]
+    },
+    {
+      "value": "Sretensky Bulvar",
+      "synonyms": [
+        "Sretensky Bulvar"
+      ]
+    },
+    {
+      "value": "Streshnevo",
+      "synonyms": [
+        "Streshnevo"
+      ]
+    },
+    {
+      "value": "Strogino",
+      "synonyms": [
+        "Strogino"
+      ]
+    },
+    {
+      "value": "Studencheskaya",
+      "synonyms": [
+        "Studencheskaya"
+      ]
+    },
+    {
+      "value": "Sukharevskaya",
+      "synonyms": [
+        "Sukharevskaya"
+      ]
+    },
+    {
+      "value": "Sviblovo",
+      "synonyms": [
+        "Sviblovo"
+      ]
+    },
+    {
+      "value": "Taganskaya",
+      "synonyms": [
+        "Taganskaya"
+      ]
+    },
+    {
+      "value": "Teatralnaya",
+      "synonyms": [
+        "Teatralnaya"
+      ]
+    },
+    {
+      "value": "Tekhnopark",
+      "synonyms": [
+        "Tekhnopark"
+      ]
+    },
+    {
+      "value": "Tekstilshchiki",
+      "synonyms": [
+        "Tekstilshchiki"
+      ]
+    },
+    {
+      "value": "Teletsentr",
+      "synonyms": [
+        "Teletsentr"
+      ]
+    },
+    {
+      "value": "Timiryazevskaya",
+      "synonyms": [
+        "Timiryazevskaya"
+      ]
+    },
+    {
+      "value": "Tretyakovskaya",
+      "synonyms": [
+        "Tretyakovskaya"
+      ]
+    },
+    {
+      "value": "Troparyovo",
+      "synonyms": [
+        "Troparyovo"
+      ]
+    },
+    {
+      "value": "Trubnaya",
+      "synonyms": [
+        "Trubnaya"
+      ]
+    },
+    {
+      "value": "Tsaritsyno",
+      "synonyms": [
+        "Tsaritsyno"
+      ]
+    },
+    {
+      "value": "Tsvetnoy Bulvar",
+      "synonyms": [
+        "Tsvetnoy Bulvar"
+      ]
+    },
+    {
+      "value": "Tulskaya",
+      "synonyms": [
+        "Tulskaya"
+      ]
+    },
+    {
+      "value": "Turgenevskaya",
+      "synonyms": [
+        "Turgenevskaya"
+      ]
+    },
+    {
+      "value": "Tushinskaya",
+      "synonyms": [
+        "Tushinskaya"
+      ]
+    },
+    {
+      "value": "Tverskaya",
+      "synonyms": [
+        "Tverskaya"
+      ]
+    },
+    {
+      "value": "Tyoply Stan",
+      "synonyms": [
+        "Tyoply Stan"
+      ]
+    },
+    {
+      "value": "Ugreshskaya",
+      "synonyms": [
+        "Ugreshskaya"
+      ]
+    },
+    {
+      "value": "Ulitsa 1905 Goda",
+      "synonyms": [
+        "Ulitsa 1905 Goda"
+      ]
+    },
+    {
+      "value": "Ulitsa Akademika Korolyova",
+      "synonyms": [
+        "Ulitsa Akademika Korolyova"
+      ]
+    },
+    {
+      "value": "Ulitsa Akademika Yangelya",
+      "synonyms": [
+        "Ulitsa Akademika Yangelya"
+      ]
+    },
+    {
+      "value": "Ulitsa Gorchakova",
+      "synonyms": [
+        "Ulitsa Gorchakova"
+      ]
+    },
+    {
+      "value": "Ulitsa Milashenkova",
+      "synonyms": [
+        "Ulitsa Milashenkova"
+      ]
+    },
+    {
+      "value": "Ulitsa Sergeya Eyzenshteyna",
+      "synonyms": [
+        "Ulitsa Sergeya Eyzenshteyna"
+      ]
+    },
+    {
+      "value": "Ulitsa Skobelevskaya",
+      "synonyms": [
+        "Ulitsa Skobelevskaya"
+      ]
+    },
+    {
+      "value": "Ulitsa Starokachalovskaya",
+      "synonyms": [
+        "Ulitsa Starokachalovskaya"
+      ]
+    },
+    {
+      "value": "Universitet",
+      "synonyms": [
+        "Universitet"
+      ]
+    },
+    {
+      "value": "Varshavskaya",
+      "synonyms": [
+        "Varshavskaya"
+      ]
+    },
+    {
+      "value": "VDNKh",
+      "synonyms": [
+        "VDNKh"
+      ]
+    },
+    {
+      "value": "Verkhnie Kotly",
+      "synonyms": [
+        "Verkhnie Kotly"
+      ]
+    },
+    {
+      "value": "Vladykino",
+      "synonyms": [
+        "Vladykino"
+      ]
+    },
+    {
+      "value": "Vodny Stadion",
+      "synonyms": [
+        "Vodny Stadion"
+      ]
+    },
+    {
+      "value": "Volgogradsky Prospekt",
+      "synonyms": [
+        "Volgogradsky Prospekt"
+      ]
+    },
+    {
+      "value": "Volokolamskaya",
+      "synonyms": [
+        "Volokolamskaya"
+      ]
+    },
+    {
+      "value": "Volzhskaya",
+      "synonyms": [
+        "Volzhskaya"
+      ]
+    },
+    {
+      "value": "Vorobyovy Gory",
+      "synonyms": [
+        "Vorobyovy Gory"
+      ]
+    },
+    {
+      "value": "Voykovskaya",
+      "synonyms": [
+        "Voykovskaya"
+      ]
+    },
+    {
+      "value": "Vykhino",
+      "synonyms": [
+        "Vykhino"
+      ]
+    },
+    {
+      "value": "Vystavochnaya",
+      "synonyms": [
+        "Vystavochnaya"
+      ]
+    },
+    {
+      "value": "Vystavochny Tsentr",
+      "synonyms": [
+        "Vystavochny Tsentr"
+      ]
+    },
+    {
+      "value": "Yasenevo",
+      "synonyms": [
+        "Yasenevo"
+      ]
+    },
+    {
+      "value": "Yugo-Zapadnaya",
+      "synonyms": [
+        "Yugo-Zapadnaya"
+      ]
+    },
+    {
+      "value": "Yuzhnaya",
+      "synonyms": [
+        "Yuzhnaya"
+      ]
+    },
+    {
+      "value": "Zhulebino",
+      "synonyms": [
+        "Zhulebino"
+      ]
+    },
+    {
+      "value": "ZIL",
+      "synonyms": [
+        "ZIL"
+      ]
+    },
+    {
+      "value": "Zorge",
+      "synonyms": [
+        "Zorge"
+      ]
+    },
+    {
+      "value": "Zyablikovo",
+      "synonyms": [
+        "Zyablikovo"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

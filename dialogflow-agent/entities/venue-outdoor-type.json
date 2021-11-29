@@ -1,0 +1,88 @@
+{
+  "id": "4d2d7c4d-0eef-4abf-a1b4-e3af8d9cb8bb",
+  "name": "venue-outdoor-type",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "park",
+      "synonyms": [
+        "park",
+        "national park",
+        "parks",
+        "national parks"
+      ]
+    },
+    {
+      "value": "skate park",
+      "synonyms": [
+        "skate park",
+        "skate parks"
+      ]
+    },
+    {
+      "value": "dog park",
+      "synonyms": [
+        "dog park",
+        "dog parks"
+      ]
+    },
+    {
+      "value": "trampoline",
+      "synonyms": [
+        "trampoline",
+        "trampoline park"
+      ]
+    },
+    {
+      "value": "water park",
+      "synonyms": [
+        "water park"
+      ]
+    },
+    {
+      "value": "dominos",
+      "synonyms": [
+        "dominos",
+        "domino"
+      ]
+    },
+    {
+      "value": "bike trail",
+      "synonyms": [
+        "bike trail",
+        "biking"
+      ]
+    },
+    {
+      "value": "camping",
+      "synonyms": [
+        "camping",
+        "campsite",
+        "campground",
+        "camping site",
+        "camping pitch"
+      ]
+    },
+    {
+      "value": "zoos",
+      "synonyms": [
+        "zoos",
+        "zoo"
+      ]
+    },
+    {
+      "value": "attraction park",
+      "synonyms": [
+        "attraction park"
+      ]
+    },
+    {
+      "value": "playground",
+      "synonyms": [
+        "playground"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

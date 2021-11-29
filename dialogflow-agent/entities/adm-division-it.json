@@ -1,0 +1,912 @@
+{
+  "id": "c8994bce-6c82-4e22-9c72-f7e93dbd6799",
+  "name": "adm-division-it",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Abruzzo",
+      "synonyms": [
+        "Abruzzo"
+      ]
+    },
+    {
+      "value": "Aosta Valley",
+      "synonyms": [
+        "Aosta Valley"
+      ]
+    },
+    {
+      "value": "Apulia",
+      "synonyms": [
+        "Apulia"
+      ]
+    },
+    {
+      "value": "Basilicata",
+      "synonyms": [
+        "Basilicata"
+      ]
+    },
+    {
+      "value": "Calabria",
+      "synonyms": [
+        "Calabria"
+      ]
+    },
+    {
+      "value": "Campania",
+      "synonyms": [
+        "Campania"
+      ]
+    },
+    {
+      "value": "Emilia-Romagna",
+      "synonyms": [
+        "Emilia-Romagna"
+      ]
+    },
+    {
+      "value": "Friuli-Venezia Giulia",
+      "synonyms": [
+        "Friuli-Venezia Giulia"
+      ]
+    },
+    {
+      "value": "Lazio",
+      "synonyms": [
+        "Lazio"
+      ]
+    },
+    {
+      "value": "Liguria",
+      "synonyms": [
+        "Liguria"
+      ]
+    },
+    {
+      "value": "Lombardy",
+      "synonyms": [
+        "Lombardy"
+      ]
+    },
+    {
+      "value": "Marche",
+      "synonyms": [
+        "Marche"
+      ]
+    },
+    {
+      "value": "Molise",
+      "synonyms": [
+        "Molise"
+      ]
+    },
+    {
+      "value": "Piedmont",
+      "synonyms": [
+        "Piedmont"
+      ]
+    },
+    {
+      "value": "Sardinia",
+      "synonyms": [
+        "Sardinia"
+      ]
+    },
+    {
+      "value": "Sicily",
+      "synonyms": [
+        "Sicily"
+      ]
+    },
+    {
+      "value": "Tuscany",
+      "synonyms": [
+        "Tuscany"
+      ]
+    },
+    {
+      "value": "Trentino-Alto Adige",
+      "synonyms": [
+        "Südtirol",
+        "Trentino-Alto Adige",
+        "Trentino-South Tyrol"
+      ]
+    },
+    {
+      "value": "Umbria",
+      "synonyms": [
+        "Umbria"
+      ]
+    },
+    {
+      "value": "Veneto",
+      "synonyms": [
+        "Veneto"
+      ]
+    },
+    {
+      "value": "Ancona",
+      "synonyms": [
+        "Ancona",
+        "Province of Ancona"
+      ]
+    },
+    {
+      "value": "Asti",
+      "synonyms": [
+        "Asti",
+        "Province of Asti"
+      ]
+    },
+    {
+      "value": "Bari",
+      "synonyms": [
+        "Bari",
+        "Province of Bari"
+      ]
+    },
+    {
+      "value": "Brindisi",
+      "synonyms": [
+        "Brindisi",
+        "Province of Brindisi"
+      ]
+    },
+    {
+      "value": "Caltanissetta",
+      "synonyms": [
+        "Caltanissetta",
+        "Province of Caltanissetta"
+      ]
+    },
+    {
+      "value": "Caserta",
+      "synonyms": [
+        "Caserta",
+        "Province of Caserta"
+      ]
+    },
+    {
+      "value": "Cremona",
+      "synonyms": [
+        "Cremona",
+        "Province of Cremona"
+      ]
+    },
+    {
+      "value": "Crotone",
+      "synonyms": [
+        "Crotone",
+        "Province of Crotone"
+      ]
+    },
+    {
+      "value": "Cuneo",
+      "synonyms": [
+        "Cuneo",
+        "Province of Cuneo"
+      ]
+    },
+    {
+      "value": "Enna",
+      "synonyms": [
+        "Enna",
+        "Province of Enna"
+      ]
+    },
+    {
+      "value": "Genoa",
+      "synonyms": [
+        "Genoa",
+        "Province of Genoa"
+      ]
+    },
+    {
+      "value": "L\u0027Aquila",
+      "synonyms": [
+        "L\u0027Aquila",
+        "Province of L\u0027Aquila"
+      ]
+    },
+    {
+      "value": "Mantua",
+      "synonyms": [
+        "Mantua",
+        "Province of Mantua"
+      ]
+    },
+    {
+      "value": "Messina",
+      "synonyms": [
+        "Messina",
+        "Province of Messina"
+      ]
+    },
+    {
+      "value": "Monza and Brianza",
+      "synonyms": [
+        "Monza and Brianza",
+        "Province of Monza and Brianza"
+      ]
+    },
+    {
+      "value": "Novara",
+      "synonyms": [
+        "Novara",
+        "Province of Novara"
+      ]
+    },
+    {
+      "value": "Nuoro",
+      "synonyms": [
+        "Nuoro",
+        "Province of Nuoro"
+      ]
+    },
+    {
+      "value": "Ogliastra",
+      "synonyms": [
+        "Ogliastra",
+        "Province of Ogliastra"
+      ]
+    },
+    {
+      "value": "Perugia",
+      "synonyms": [
+        "Perugia",
+        "Province of Perugia"
+      ]
+    },
+    {
+      "value": "Piacenza",
+      "synonyms": [
+        "Piacenza",
+        "Province of Piacenza"
+      ]
+    },
+    {
+      "value": "Potenza",
+      "synonyms": [
+        "Potenza",
+        "Province of Potenza"
+      ]
+    },
+    {
+      "value": "Ragusa",
+      "synonyms": [
+        "Ragusa",
+        "Province of Ragusa"
+      ]
+    },
+    {
+      "value": "Reggio Calabria",
+      "synonyms": [
+        "Reggio Calabria",
+        "Province of Reggio Calabria"
+      ]
+    },
+    {
+      "value": "Sassari",
+      "synonyms": [
+        "Sassari",
+        "Province of Sassari"
+      ]
+    },
+    {
+      "value": "Teramo",
+      "synonyms": [
+        "Teramo",
+        "Province of Teramo"
+      ]
+    },
+    {
+      "value": "Terni",
+      "synonyms": [
+        "Terni",
+        "Province of Terni"
+      ]
+    },
+    {
+      "value": "Milan",
+      "synonyms": [
+        "Milan",
+        "Province of Milan"
+      ]
+    },
+    {
+      "value": "Arezzo",
+      "synonyms": [
+        "Arezzo",
+        "Province of Arezzo"
+      ]
+    },
+    {
+      "value": "Ascoli Piceno",
+      "synonyms": [
+        "Ascoli Piceno",
+        "Province of Ascoli Piceno"
+      ]
+    },
+    {
+      "value": "Belluno",
+      "synonyms": [
+        "Belluno",
+        "Province of Belluno"
+      ]
+    },
+    {
+      "value": "Bergamo",
+      "synonyms": [
+        "Bergamo",
+        "Province of Bergamo"
+      ]
+    },
+    {
+      "value": "Biella",
+      "synonyms": [
+        "Biella",
+        "Province of Biella"
+      ]
+    },
+    {
+      "value": "Carbonia-Iglesias",
+      "synonyms": [
+        "Carbonia-Iglesias",
+        "Province of Carbonia-Iglesias"
+      ]
+    },
+    {
+      "value": "Catania",
+      "synonyms": [
+        "Catania",
+        "Province of Catania"
+      ]
+    },
+    {
+      "value": "Fermo",
+      "synonyms": [
+        "Fermo",
+        "Province of Fermo"
+      ]
+    },
+    {
+      "value": "Foggia",
+      "synonyms": [
+        "Foggia",
+        "Province of Foggia"
+      ]
+    },
+    {
+      "value": "Gorizia",
+      "synonyms": [
+        "Gorizia",
+        "Province of Gorizia"
+      ]
+    },
+    {
+      "value": "Isernia",
+      "synonyms": [
+        "Isernia",
+        "Province of Isernia"
+      ]
+    },
+    {
+      "value": "Latina",
+      "synonyms": [
+        "Latina",
+        "Province of Latina"
+      ]
+    },
+    {
+      "value": "Macerata",
+      "synonyms": [
+        "Macerata",
+        "Province of Macerata"
+      ]
+    },
+    {
+      "value": "Medio Campidano",
+      "synonyms": [
+        "Medio Campidano",
+        "Province of Medio Campidano"
+      ]
+    },
+    {
+      "value": "Pescara",
+      "synonyms": [
+        "Pescara",
+        "Province of Pescara"
+      ]
+    },
+    {
+      "value": "Rome",
+      "synonyms": [
+        "Rome",
+        "Province of Rome"
+      ]
+    },
+    {
+      "value": "Rovigo",
+      "synonyms": [
+        "Rovigo",
+        "Province of Rovigo"
+      ]
+    },
+    {
+      "value": "Siena",
+      "synonyms": [
+        "Siena",
+        "Province of Siena"
+      ]
+    },
+    {
+      "value": "Sondrio",
+      "synonyms": [
+        "Sondrio",
+        "Province of Sondrio"
+      ]
+    },
+    {
+      "value": "Syracuse",
+      "synonyms": [
+        "Syracuse",
+        "Province of Syracuse"
+      ]
+    },
+    {
+      "value": "Como",
+      "synonyms": [
+        "Como",
+        "Province of Como"
+      ]
+    },
+    {
+      "value": "Pesaro and Urbino",
+      "synonyms": [
+        "Pesaro and Urbino",
+        "Pesaro and Urbino Province"
+      ]
+    },
+    {
+      "value": "Agrigento",
+      "synonyms": [
+        "Agrigento",
+        "Province of Agrigento"
+      ]
+    },
+    {
+      "value": "Avellino",
+      "synonyms": [
+        "Avellino",
+        "Province of Avellino"
+      ]
+    },
+    {
+      "value": "Barletta-Andria-Trani",
+      "synonyms": [
+        "Barletta-Andria-Trani",
+        "Province of Barletta-Andria-Trani"
+      ]
+    },
+    {
+      "value": "Bologna",
+      "synonyms": [
+        "Bologna",
+        "Province of Bologna"
+      ]
+    },
+    {
+      "value": "Chieti",
+      "synonyms": [
+        "Chieti",
+        "Province of Chieti"
+      ]
+    },
+    {
+      "value": "Cosenza",
+      "synonyms": [
+        "Cosenza",
+        "Province of Cosenza"
+      ]
+    },
+    {
+      "value": "La Spezia",
+      "synonyms": [
+        "La Spezia",
+        "Province of La Spezia"
+      ]
+    },
+    {
+      "value": "Livorno",
+      "synonyms": [
+        "Livorno",
+        "Province of Livorno"
+      ]
+    },
+    {
+      "value": "Modena",
+      "synonyms": [
+        "Modena",
+        "Province of Modena"
+      ]
+    },
+    {
+      "value": "Olbia-Tempio",
+      "synonyms": [
+        "Olbia-Tempio",
+        "Province of Olbia-Tempio"
+      ]
+    },
+    {
+      "value": "Padua",
+      "synonyms": [
+        "Padua",
+        "Province of Padua"
+      ]
+    },
+    {
+      "value": "Parma",
+      "synonyms": [
+        "Parma",
+        "Province of Parma"
+      ]
+    },
+    {
+      "value": "Pistoia",
+      "synonyms": [
+        "Pistoia",
+        "Province of Pistoia"
+      ]
+    },
+    {
+      "value": "Prato",
+      "synonyms": [
+        "Prato",
+        "Province of Prato"
+      ]
+    },
+    {
+      "value": "Rieti",
+      "synonyms": [
+        "Rieti",
+        "Province of Rieti"
+      ]
+    },
+    {
+      "value": "Rimini",
+      "synonyms": [
+        "Rimini",
+        "Province of Rimini"
+      ]
+    },
+    {
+      "value": "Trapani",
+      "synonyms": [
+        "Trapani",
+        "Province of Trapani"
+      ]
+    },
+    {
+      "value": "Turin",
+      "synonyms": [
+        "Turin",
+        "Province of Turin"
+      ]
+    },
+    {
+      "value": "South Tyrol",
+      "synonyms": [
+        "South Tyrol"
+      ]
+    },
+    {
+      "value": "Trentino",
+      "synonyms": [
+        "Trentino"
+      ]
+    },
+    {
+      "value": "Brescia",
+      "synonyms": [
+        "Brescia",
+        "Province of Brescia"
+      ]
+    },
+    {
+      "value": "Alessandria",
+      "synonyms": [
+        "Alessandria",
+        "Province of Alessandria"
+      ]
+    },
+    {
+      "value": "Aosta",
+      "synonyms": [
+        "Aosta",
+        "Province of Aosta"
+      ]
+    },
+    {
+      "value": "Cagliari",
+      "synonyms": [
+        "Cagliari",
+        "Province of Cagliari"
+      ]
+    },
+    {
+      "value": "Campobasso",
+      "synonyms": [
+        "Campobasso",
+        "Province of Campobasso"
+      ]
+    },
+    {
+      "value": "Catanzaro",
+      "synonyms": [
+        "Catanzaro",
+        "Province of Catanzaro"
+      ]
+    },
+    {
+      "value": "Ferrara",
+      "synonyms": [
+        "Ferrara",
+        "Province of Ferrara"
+      ]
+    },
+    {
+      "value": "Florence",
+      "synonyms": [
+        "Florence",
+        "Province of Florence"
+      ]
+    },
+    {
+      "value": "Forlì-Cesena",
+      "synonyms": [
+        "Forlì-Cesena",
+        "Province of Forlì-Cesena"
+      ]
+    },
+    {
+      "value": "Frosinone",
+      "synonyms": [
+        "Frosinone",
+        "Province of Frosinone"
+      ]
+    },
+    {
+      "value": "Grosseto",
+      "synonyms": [
+        "Grosseto",
+        "Province of Grosseto"
+      ]
+    },
+    {
+      "value": "Imperia",
+      "synonyms": [
+        "Imperia",
+        "Province of Imperia"
+      ]
+    },
+    {
+      "value": "Lecce",
+      "synonyms": [
+        "Lecce",
+        "Province of Lecce"
+      ]
+    },
+    {
+      "value": "Lecco",
+      "synonyms": [
+        "Lecco",
+        "Province of Lecco"
+      ]
+    },
+    {
+      "value": "Lodi",
+      "synonyms": [
+        "Lodi",
+        "Province of Lodi"
+      ]
+    },
+    {
+      "value": "Lucca",
+      "synonyms": [
+        "Lucca",
+        "Province of Lucca"
+      ]
+    },
+    {
+      "value": "Massa and Carrara",
+      "synonyms": [
+        "Massa and Carrara",
+        "Province of Massa and Carrara"
+      ]
+    },
+    {
+      "value": "Matera",
+      "synonyms": [
+        "Matera",
+        "Province of Matera"
+      ]
+    },
+    {
+      "value": "Naples",
+      "synonyms": [
+        "Naples",
+        "Province of Naples"
+      ]
+    },
+    {
+      "value": "Oristano",
+      "synonyms": [
+        "Oristano",
+        "Province of Oristano"
+      ]
+    },
+    {
+      "value": "Palermo",
+      "synonyms": [
+        "Palermo",
+        "Province of Palermo"
+      ]
+    },
+    {
+      "value": "Pavia",
+      "synonyms": [
+        "Pavia",
+        "Province of Pavia"
+      ]
+    },
+    {
+      "value": "Pisa",
+      "synonyms": [
+        "Pisa",
+        "Province of Pisa"
+      ]
+    },
+    {
+      "value": "Pordenone",
+      "synonyms": [
+        "Pordenone",
+        "Province of Pordenone"
+      ]
+    },
+    {
+      "value": "Ravenna",
+      "synonyms": [
+        "Ravenna",
+        "Province of Ravenna"
+      ]
+    },
+    {
+      "value": "Reggio Emilia",
+      "synonyms": [
+        "Reggio Emilia",
+        "Province of Reggio Emilia"
+      ]
+    },
+    {
+      "value": "Salerno",
+      "synonyms": [
+        "Salerno",
+        "Province of Salerno"
+      ]
+    },
+    {
+      "value": "Savona",
+      "synonyms": [
+        "Savona",
+        "Province of Savona"
+      ]
+    },
+    {
+      "value": "Taranto",
+      "synonyms": [
+        "Taranto",
+        "Province of Taranto"
+      ]
+    },
+    {
+      "value": "Vercelli",
+      "synonyms": [
+        "Vercelli",
+        "Province of Vercelli"
+      ]
+    },
+    {
+      "value": "Benevento",
+      "synonyms": [
+        "Benevento",
+        "Benevento Province"
+      ]
+    },
+    {
+      "value": "Trieste",
+      "synonyms": [
+        "Trieste",
+        "Province of Trieste"
+      ]
+    },
+    {
+      "value": "Udine",
+      "synonyms": [
+        "Udine",
+        "Province of Udine"
+      ]
+    },
+    {
+      "value": "Varese",
+      "synonyms": [
+        "Varese",
+        "Province of Varese"
+      ]
+    },
+    {
+      "value": "Venice",
+      "synonyms": [
+        "Venice",
+        "Province of Venice"
+      ]
+    },
+    {
+      "value": "Viterbo",
+      "synonyms": [
+        "Viterbo",
+        "Viterbo Province"
+      ]
+    },
+    {
+      "value": "Treviso",
+      "synonyms": [
+        "Treviso",
+        "Province of Treviso"
+      ]
+    },
+    {
+      "value": "Vicenza",
+      "synonyms": [
+        "Vicenza",
+        "Province of Vicenza"
+      ]
+    },
+    {
+      "value": "Vibo Valentia",
+      "synonyms": [
+        "Vibo Valentia",
+        "Province of Vibo Valentia"
+      ]
+    },
+    {
+      "value": "Verona",
+      "synonyms": [
+        "Verona",
+        "Province of Verona"
+      ]
+    },
+    {
+      "value": "Verbano-Cusio-Ossola",
+      "synonyms": [
+        "Verbano-Cusio-Ossola"
+      ]
+    },
+    {
+      "value": "Spalato",
+      "synonyms": [
+        "Spalato",
+        "Spalato Province"
+      ]
+    },
+    {
+      "value": "South Sardinia",
+      "synonyms": [
+        "South Sardinia",
+        "Province of South Sardinia"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

@@ -1,0 +1,69 @@
+{
+  "id": "c33fb879-5f8c-49a5-8d69-20f221521257",
+  "name": "venue-accomodation-type",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "hotel",
+      "synonyms": [
+        "hotel",
+        "hotels"
+      ]
+    },
+    {
+      "value": "hostel",
+      "synonyms": [
+        "hostel",
+        "hostels"
+      ]
+    },
+    {
+      "value": "guesthouse",
+      "synonyms": [
+        "guesthouse",
+        "guesthouses"
+      ]
+    },
+    {
+      "value": "motel",
+      "synonyms": [
+        "motel",
+        "motels"
+      ]
+    },
+    {
+      "value": "cottage",
+      "synonyms": [
+        "chalet",
+        "cottage",
+        "cottages",
+        "chalets"
+      ]
+    },
+    {
+      "value": "apartment",
+      "synonyms": [
+        "apartment",
+        "apartments"
+      ]
+    },
+    {
+      "value": "resort",
+      "synonyms": [
+        "resort",
+        "resorts",
+        "beach resort",
+        "beach resorts"
+      ]
+    },
+    {
+      "value": "ski resort",
+      "synonyms": [
+        "ski resort",
+        "ski resorts"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

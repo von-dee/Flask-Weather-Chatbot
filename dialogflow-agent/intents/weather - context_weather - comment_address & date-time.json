@@ -1,0 +1,154 @@
+{
+  "userSays": [
+    {
+      "id": "854495f0-2d7f-4446-a888-07e06ab61c85",
+      "data": [
+        {
+          "text": "what about "
+        },
+        {
+          "text": "Princeton",
+          "alias": "address",
+          "meta": "@address",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date-time",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "73e95c18-0ef8-4afd-bdb6-38e98328e2f1",
+      "data": [
+        {
+          "text": "in "
+        },
+        {
+          "text": "Moscow",
+          "alias": "address",
+          "meta": "@address",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this weekend",
+          "alias": "date-time",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0a13241b-41b9-4c52-aa3d-e6382a4f36ff",
+      "data": [
+        {
+          "text": "and what about "
+        },
+        {
+          "text": "Paris",
+          "alias": "address",
+          "meta": "@address",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "next Friday",
+          "alias": "date-time",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5a1e6dd2-a7f7-4a24-aa08-38fb8b99d8d7",
+      "data": [
+        {
+          "text": "tomorrow",
+          "alias": "date-time",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "Madrid",
+          "alias": "address",
+          "meta": "@address",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "9c17c01c-68a6-4b2b-b461-a0e04cd9bb08",
+  "name": "weather - context:weather - comment:address \u0026 date-time",
+  "auto": true,
+  "contexts": [
+    "weather"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "#weather.intent_action",
+      "affectedContexts": [
+        {
+          "name": "weather",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "dataType": "@address",
+          "name": "address",
+          "value": "$address"
+        },
+        {
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time"
+        },
+        {
+          "name": "activity",
+          "value": "#weather.activity"
+        },
+        {
+          "name": "temperature",
+          "value": "#weather.temperature"
+        },
+        {
+          "name": "outfit",
+          "value": "#weather.outfit"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

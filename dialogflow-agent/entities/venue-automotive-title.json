@@ -1,0 +1,2649 @@
+{
+  "id": "6895c46a-d4c5-4ade-8264-9701f27343c2",
+  "name": "venue-automotive-title",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "ACMAT",
+      "synonyms": [
+        "ACMAT"
+      ]
+    },
+    {
+      "value": "AIL",
+      "synonyms": [
+        "AIL"
+      ]
+    },
+    {
+      "value": "AKIA",
+      "synonyms": [
+        "AKIA"
+      ]
+    },
+    {
+      "value": "ARO",
+      "synonyms": [
+        "ARO"
+      ]
+    },
+    {
+      "value": "ASA",
+      "synonyms": [
+        "ASA"
+      ]
+    },
+    {
+      "value": "Abais",
+      "synonyms": [
+        "Abais"
+      ]
+    },
+    {
+      "value": "Abarth",
+      "synonyms": [
+        "Abarth"
+      ]
+    },
+    {
+      "value": "Acadian",
+      "synonyms": [
+        "Acadian"
+      ]
+    },
+    {
+      "value": "Acura",
+      "synonyms": [
+        "Acura"
+      ]
+    },
+    {
+      "value": "Adamo GT",
+      "synonyms": [
+        "Adamo GT"
+      ]
+    },
+    {
+      "value": "Adelmo",
+      "synonyms": [
+        "Adelmo"
+      ]
+    },
+    {
+      "value": "Aero",
+      "synonyms": [
+        "Aero"
+      ]
+    },
+    {
+      "value": "Agrale",
+      "synonyms": [
+        "Agrale"
+      ]
+    },
+    {
+      "value": "Aixam",
+      "synonyms": [
+        "Aixam"
+      ]
+    },
+    {
+      "value": "Akepanich",
+      "synonyms": [
+        "Akepanich"
+      ]
+    },
+    {
+      "value": "Aldee",
+      "synonyms": [
+        "Aldee"
+      ]
+    },
+    {
+      "value": "Alfa Romeo",
+      "synonyms": [
+        "Alfa Romeo"
+      ]
+    },
+    {
+      "value": "Almac",
+      "synonyms": [
+        "Almac"
+      ]
+    },
+    {
+      "value": "Almenara Buggy",
+      "synonyms": [
+        "Almenara Buggy"
+      ]
+    },
+    {
+      "value": "Alpha Sports",
+      "synonyms": [
+        "Alpha Sports"
+      ]
+    },
+    {
+      "value": "Alta",
+      "synonyms": [
+        "Alta"
+      ]
+    },
+    {
+      "value": "Alternative Cars",
+      "synonyms": [
+        "Alternative Cars"
+      ]
+    },
+    {
+      "value": "Americar",
+      "synonyms": [
+        "Americar"
+      ]
+    },
+    {
+      "value": "Amherst",
+      "synonyms": [
+        "Amherst"
+      ]
+    },
+    {
+      "value": "Amoritz GT",
+      "synonyms": [
+        "Amoritz GT"
+      ]
+    },
+    {
+      "value": "Amuza",
+      "synonyms": [
+        "Amuza"
+      ]
+    },
+    {
+      "value": "Anadol",
+      "synonyms": [
+        "Anadol"
+      ]
+    },
+    {
+      "value": "Anasagasti",
+      "synonyms": [
+        "Anasagasti"
+      ]
+    },
+    {
+      "value": "Andino",
+      "synonyms": [
+        "Andino"
+      ]
+    },
+    {
+      "value": "Anziel",
+      "synonyms": [
+        "Anziel"
+      ]
+    },
+    {
+      "value": "Ascari",
+      "synonyms": [
+        "Ascari"
+      ]
+    },
+    {
+      "value": "Ascort",
+      "synonyms": [
+        "Ascort"
+      ]
+    },
+    {
+      "value": "Ashok Leyland",
+      "synonyms": [
+        "Ashok Leyland"
+      ]
+    },
+    {
+      "value": "Aston Martin",
+      "synonyms": [
+        "Aston Martin"
+      ]
+    },
+    {
+      "value": "Aston Martin Lagonda",
+      "synonyms": [
+        "Aston Martin Lagonda"
+      ]
+    },
+    {
+      "value": "Asüna",
+      "synonyms": [
+        "Asüna"
+      ]
+    },
+    {
+      "value": "Attica",
+      "synonyms": [
+        "Attica"
+      ]
+    },
+    {
+      "value": "Audi",
+      "synonyms": [
+        "Audi"
+      ]
+    },
+    {
+      "value": "Aurora 122-C",
+      "synonyms": [
+        "Aurora 122-C"
+      ]
+    },
+    {
+      "value": "Australian Six",
+      "synonyms": [
+        "Australian Six"
+      ]
+    },
+    {
+      "value": "Australis",
+      "synonyms": [
+        "Australis"
+      ]
+    },
+    {
+      "value": "Autobuses King",
+      "synonyms": [
+        "Autobuses King"
+      ]
+    },
+    {
+      "value": "Autocars",
+      "synonyms": [
+        "Autocars"
+      ]
+    },
+    {
+      "value": "Autokinitoviomihania Ellados",
+      "synonyms": [
+        "Autokinitoviomihania Ellados"
+      ]
+    },
+    {
+      "value": "Automeccanica",
+      "synonyms": [
+        "Automeccanica"
+      ]
+    },
+    {
+      "value": "Automobile Dacia",
+      "synonyms": [
+        "Automobile Dacia"
+      ]
+    },
+    {
+      "value": "Avallone",
+      "synonyms": [
+        "Avallone"
+      ]
+    },
+    {
+      "value": "AvtoVAZ",
+      "synonyms": [
+        "AvtoVAZ"
+      ]
+    },
+    {
+      "value": "AvtoVAZ Services",
+      "synonyms": [
+        "AvtoVAZ Services"
+      ]
+    },
+    {
+      "value": "BET",
+      "synonyms": [
+        "BET"
+      ]
+    },
+    {
+      "value": "BMW",
+      "synonyms": [
+        "BMW"
+      ]
+    },
+    {
+      "value": "BMW Services",
+      "synonyms": [
+        "BMW Services"
+      ]
+    },
+    {
+      "value": "BRM Buggy",
+      "synonyms": [
+        "BRM Buggy"
+      ]
+    },
+    {
+      "value": "BYD",
+      "synonyms": [
+        "BYD"
+      ]
+    },
+    {
+      "value": "Baby Buggy",
+      "synonyms": [
+        "Baby Buggy"
+      ]
+    },
+    {
+      "value": "Baby-Brousse",
+      "synonyms": [
+        "Baby-Brousse"
+      ]
+    },
+    {
+      "value": "Badsey",
+      "synonyms": [
+        "Badsey"
+      ]
+    },
+    {
+      "value": "Bahman",
+      "synonyms": [
+        "Bahman"
+      ]
+    },
+    {
+      "value": "Bajaj",
+      "synonyms": [
+        "Bajaj"
+      ]
+    },
+    {
+      "value": "Balkania",
+      "synonyms": [
+        "Balkania"
+      ]
+    },
+    {
+      "value": "Barkia",
+      "synonyms": [
+        "Barkia"
+      ]
+    },
+    {
+      "value": "Beattie",
+      "synonyms": [
+        "Beattie"
+      ]
+    },
+    {
+      "value": "Beijing Automotive Group",
+      "synonyms": [
+        "Beijing Automotive Group"
+      ]
+    },
+    {
+      "value": "Bellier",
+      "synonyms": [
+        "Bellier"
+      ]
+    },
+    {
+      "value": "Bentley",
+      "synonyms": [
+        "Bentley"
+      ]
+    },
+    {
+      "value": "Bianco",
+      "synonyms": [
+        "Bianco"
+      ]
+    },
+    {
+      "value": "Birchfield",
+      "synonyms": [
+        "Birchfield"
+      ]
+    },
+    {
+      "value": "Blade",
+      "synonyms": [
+        "Blade"
+      ]
+    },
+    {
+      "value": "Bolwell",
+      "synonyms": [
+        "Bolwell"
+      ]
+    },
+    {
+      "value": "Bourassa",
+      "synonyms": [
+        "Bourassa"
+      ]
+    },
+    {
+      "value": "Brasinca",
+      "synonyms": [
+        "Brasinca"
+      ]
+    },
+    {
+      "value": "Bricklin",
+      "synonyms": [
+        "Bricklin"
+      ]
+    },
+    {
+      "value": "Brilliance China Auto",
+      "synonyms": [
+        "Brilliance China Auto"
+      ]
+    },
+    {
+      "value": "Bristol",
+      "synonyms": [
+        "Bristol"
+      ]
+    },
+    {
+      "value": "Brock",
+      "synonyms": [
+        "Brock"
+      ]
+    },
+    {
+      "value": "Brooks",
+      "synonyms": [
+        "Brooks"
+      ]
+    },
+    {
+      "value": "Buchanan",
+      "synonyms": [
+        "Buchanan"
+      ]
+    },
+    {
+      "value": "Buckle",
+      "synonyms": [
+        "Buckle"
+      ]
+    },
+    {
+      "value": "Bufori",
+      "synonyms": [
+        "Bufori"
+      ]
+    },
+    {
+      "value": "Bugre",
+      "synonyms": [
+        "Bugre"
+      ]
+    },
+    {
+      "value": "Bugway",
+      "synonyms": [
+        "Bugway"
+      ]
+    },
+    {
+      "value": "Buick",
+      "synonyms": [
+        "Buick"
+      ]
+    },
+    {
+      "value": "Bullet",
+      "synonyms": [
+        "Bullet"
+      ]
+    },
+    {
+      "value": "Bushranger",
+      "synonyms": [
+        "Bushranger"
+      ]
+    },
+    {
+      "value": "C \u0026 D Auto Care",
+      "synonyms": [
+        "C \u0026 D Auto Care"
+      ]
+    },
+    {
+      "value": "C-FEE",
+      "synonyms": [
+        "C-FEE"
+      ]
+    },
+    {
+      "value": "C.AR",
+      "synonyms": [
+        "C.AR"
+      ]
+    },
+    {
+      "value": "CBT",
+      "synonyms": [
+        "CBT"
+      ]
+    },
+    {
+      "value": "CMC",
+      "synonyms": [
+        "CMC"
+      ]
+    },
+    {
+      "value": "CT\u0026T",
+      "synonyms": [
+        "CT\u0026T"
+      ]
+    },
+    {
+      "value": "Cadillac",
+      "synonyms": [
+        "Cadillac"
+      ]
+    },
+    {
+      "value": "Caldwell Vale",
+      "synonyms": [
+        "Caldwell Vale"
+      ]
+    },
+    {
+      "value": "Canadian",
+      "synonyms": [
+        "Canadian"
+      ]
+    },
+    {
+      "value": "Canadian Motor",
+      "synonyms": [
+        "Canadian Motor"
+      ]
+    },
+    {
+      "value": "Carbontech",
+      "synonyms": [
+        "Carbontech"
+      ]
+    },
+    {
+      "value": "Caribe",
+      "synonyms": [
+        "Caribe"
+      ]
+    },
+    {
+      "value": "Carlton",
+      "synonyms": [
+        "Carlton"
+      ]
+    },
+    {
+      "value": "Centaurus",
+      "synonyms": [
+        "Centaurus"
+      ]
+    },
+    {
+      "value": "Chamonix",
+      "synonyms": [
+        "Chamonix"
+      ]
+    },
+    {
+      "value": "Chang\u0027an Motors",
+      "synonyms": [
+        "Chang\u0027an Motors"
+      ]
+    },
+    {
+      "value": "Cheetah",
+      "synonyms": [
+        "Cheetah"
+      ]
+    },
+    {
+      "value": "Cherdchai",
+      "synonyms": [
+        "Cherdchai"
+      ]
+    },
+    {
+      "value": "Chery",
+      "synonyms": [
+        "Chery"
+      ]
+    },
+    {
+      "value": "Chevrolet",
+      "synonyms": [
+        "Chevrolet"
+      ]
+    },
+    {
+      "value": "Chevron",
+      "synonyms": [
+        "Chevron"
+      ]
+    },
+    {
+      "value": "Chinkara",
+      "synonyms": [
+        "Chinkara"
+      ]
+    },
+    {
+      "value": "Chrysler",
+      "synonyms": [
+        "Chrysler"
+      ]
+    },
+    {
+      "value": "Chrysler Services",
+      "synonyms": [
+        "Chrysler Services"
+      ]
+    },
+    {
+      "value": "Cimex",
+      "synonyms": [
+        "Cimex"
+      ]
+    },
+    {
+      "value": "Citroën",
+      "synonyms": [
+        "Citroën"
+      ]
+    },
+    {
+      "value": "Classic Glass",
+      "synonyms": [
+        "Classic Glass"
+      ]
+    },
+    {
+      "value": "Clinton",
+      "synonyms": [
+        "Clinton"
+      ]
+    },
+    {
+      "value": "Cobra",
+      "synonyms": [
+        "Cobra"
+      ]
+    },
+    {
+      "value": "Cobracar",
+      "synonyms": [
+        "Cobracar"
+      ]
+    },
+    {
+      "value": "Colonial",
+      "synonyms": [
+        "Colonial"
+      ]
+    },
+    {
+      "value": "Conquest Vehicle Incorporated",
+      "synonyms": [
+        "Conquest Vehicle Incorporated"
+      ]
+    },
+    {
+      "value": "Cross Lander",
+      "synonyms": [
+        "Cross Lander"
+      ]
+    },
+    {
+      "value": "Crowther",
+      "synonyms": [
+        "Crowther"
+      ]
+    },
+    {
+      "value": "DIM",
+      "synonyms": [
+        "DIM"
+      ]
+    },
+    {
+      "value": "DRB",
+      "synonyms": [
+        "DRB"
+      ]
+    },
+    {
+      "value": "DS Automobiles",
+      "synonyms": [
+        "DS Automobiles"
+      ]
+    },
+    {
+      "value": "Dacon",
+      "synonyms": [
+        "Dacon"
+      ]
+    },
+    {
+      "value": "Daimler",
+      "synonyms": [
+        "Daimler"
+      ]
+    },
+    {
+      "value": "Daimler Services",
+      "synonyms": [
+        "Daimler Services"
+      ]
+    },
+    {
+      "value": "Dardo",
+      "synonyms": [
+        "Dardo"
+      ]
+    },
+    {
+      "value": "Datsun",
+      "synonyms": [
+        "Datsun"
+      ]
+    },
+    {
+      "value": "David Brown",
+      "synonyms": [
+        "David Brown"
+      ]
+    },
+    {
+      "value": "Daytona",
+      "synonyms": [
+        "Daytona"
+      ]
+    },
+    {
+      "value": "De Clercq",
+      "synonyms": [
+        "De Clercq"
+      ]
+    },
+    {
+      "value": "De Joux",
+      "synonyms": [
+        "De Joux"
+      ]
+    },
+    {
+      "value": "DeLaChapelle",
+      "synonyms": [
+        "DeLaChapelle"
+      ]
+    },
+    {
+      "value": "Democrata",
+      "synonyms": [
+        "Democrata"
+      ]
+    },
+    {
+      "value": "Dennison",
+      "synonyms": [
+        "Dennison"
+      ]
+    },
+    {
+      "value": "Devaux",
+      "synonyms": [
+        "Devaux"
+      ]
+    },
+    {
+      "value": "Devrim",
+      "synonyms": [
+        "Devrim"
+      ]
+    },
+    {
+      "value": "Devs",
+      "synonyms": [
+        "Devs"
+      ]
+    },
+    {
+      "value": "Diar",
+      "synonyms": [
+        "Diar"
+      ]
+    },
+    {
+      "value": "Diardi",
+      "synonyms": [
+        "Diardi"
+      ]
+    },
+    {
+      "value": "Dina",
+      "synonyms": [
+        "Dina"
+      ]
+    },
+    {
+      "value": "Dodge",
+      "synonyms": [
+        "Dodge"
+      ]
+    },
+    {
+      "value": "Dodge Services",
+      "synonyms": [
+        "Dodge Services"
+      ]
+    },
+    {
+      "value": "DodgeDodge DealersDodge Dealer",
+      "synonyms": [
+        "DodgeDodge DealersDodge Dealer"
+      ]
+    },
+    {
+      "value": "Dominion Motors Frontenac",
+      "synonyms": [
+        "Dominion Motors Frontenac"
+      ]
+    },
+    {
+      "value": "Dongfeng Motor",
+      "synonyms": [
+        "Dongfeng Motor"
+      ]
+    },
+    {
+      "value": "Donkervoort",
+      "synonyms": [
+        "Donkervoort"
+      ]
+    },
+    {
+      "value": "Dué",
+      "synonyms": [
+        "Dué"
+      ]
+    },
+    {
+      "value": "E-Vade",
+      "synonyms": [
+        "E-Vade"
+      ]
+    },
+    {
+      "value": "ELBO",
+      "synonyms": [
+        "ELBO"
+      ]
+    },
+    {
+      "value": "EMIS",
+      "synonyms": [
+        "EMIS"
+      ]
+    },
+    {
+      "value": "Eagle",
+      "synonyms": [
+        "Eagle"
+      ]
+    },
+    {
+      "value": "Edra",
+      "synonyms": [
+        "Edra"
+      ]
+    },
+    {
+      "value": "Egy-Tech",
+      "synonyms": [
+        "Egy-Tech"
+      ]
+    },
+    {
+      "value": "Elfin",
+      "synonyms": [
+        "Elfin"
+      ]
+    },
+    {
+      "value": "Emme",
+      "synonyms": [
+        "Emme"
+      ]
+    },
+    {
+      "value": "Enfield",
+      "synonyms": [
+        "Enfield"
+      ]
+    },
+    {
+      "value": "Engesa",
+      "synonyms": [
+        "Engesa"
+      ]
+    },
+    {
+      "value": "Eniak",
+      "synonyms": [
+        "Eniak"
+      ]
+    },
+    {
+      "value": "Enterra",
+      "synonyms": [
+        "Enterra"
+      ]
+    },
+    {
+      "value": "Envemo",
+      "synonyms": [
+        "Envemo"
+      ]
+    },
+    {
+      "value": "Equus",
+      "synonyms": [
+        "Equus"
+      ]
+    },
+    {
+      "value": "Etox",
+      "synonyms": [
+        "Etox"
+      ]
+    },
+    {
+      "value": "Everson",
+      "synonyms": [
+        "Everson"
+      ]
+    },
+    {
+      "value": "Exagon Motors",
+      "synonyms": [
+        "Exagon Motors"
+      ]
+    },
+    {
+      "value": "Exxon",
+      "synonyms": [
+        "Exxon"
+      ]
+    },
+    {
+      "value": "Exxon Services",
+      "synonyms": [
+        "Exxon Services"
+      ]
+    },
+    {
+      "value": "FANASA",
+      "synonyms": [
+        "FANASA"
+      ]
+    },
+    {
+      "value": "FIAT",
+      "synonyms": [
+        "FIAT"
+      ]
+    },
+    {
+      "value": "FIAT Services",
+      "synonyms": [
+        "FIAT Services"
+      ]
+    },
+    {
+      "value": "FNM",
+      "synonyms": [
+        "FNM"
+      ]
+    },
+    {
+      "value": "FPV",
+      "synonyms": [
+        "FPV"
+      ]
+    },
+    {
+      "value": "Fabral",
+      "synonyms": [
+        "Fabral"
+      ]
+    },
+    {
+      "value": "Farus",
+      "synonyms": [
+        "Farus"
+      ]
+    },
+    {
+      "value": "Feresa",
+      "synonyms": [
+        "Feresa"
+      ]
+    },
+    {
+      "value": "Ferrari",
+      "synonyms": [
+        "Ferrari"
+      ]
+    },
+    {
+      "value": "Fibravan",
+      "synonyms": [
+        "Fibravan"
+      ]
+    },
+    {
+      "value": "Finch",
+      "synonyms": [
+        "Finch"
+      ]
+    },
+    {
+      "value": "First Automobile Works",
+      "synonyms": [
+        "First Automobile Works"
+      ]
+    },
+    {
+      "value": "Force Motors",
+      "synonyms": [
+        "Force Motors"
+      ]
+    },
+    {
+      "value": "Ford",
+      "synonyms": [
+        "Ford"
+      ]
+    },
+    {
+      "value": "Ford Frontenac",
+      "synonyms": [
+        "Ford Frontenac"
+      ]
+    },
+    {
+      "value": "Ford Services",
+      "synonyms": [
+        "Ford Services"
+      ]
+    },
+    {
+      "value": "Ford-Werke",
+      "synonyms": [
+        "Ford-Werke"
+      ]
+    },
+    {
+      "value": "Ford-Werke GmbH",
+      "synonyms": [
+        "Ford-Werke GmbH"
+      ]
+    },
+    {
+      "value": "Formosa",
+      "synonyms": [
+        "Formosa"
+      ]
+    },
+    {
+      "value": "Fornasari",
+      "synonyms": [
+        "Fornasari"
+      ]
+    },
+    {
+      "value": "Fraser",
+      "synonyms": [
+        "Fraser"
+      ]
+    },
+    {
+      "value": "Fúria",
+      "synonyms": [
+        "Fúria"
+      ]
+    },
+    {
+      "value": "GAZ",
+      "synonyms": [
+        "GAZ"
+      ]
+    },
+    {
+      "value": "GAZ Services",
+      "synonyms": [
+        "GAZ Services"
+      ]
+    },
+    {
+      "value": "GMC",
+      "synonyms": [
+        "GMC"
+      ]
+    },
+    {
+      "value": "GSM",
+      "synonyms": [
+        "GSM"
+      ]
+    },
+    {
+      "value": "Gareau",
+      "synonyms": [
+        "Gareau"
+      ]
+    },
+    {
+      "value": "Geely",
+      "synonyms": [
+        "Geely"
+      ]
+    },
+    {
+      "value": "Geely Services",
+      "synonyms": [
+        "Geely Services"
+      ]
+    },
+    {
+      "value": "Giocattolo",
+      "synonyms": [
+        "Giocattolo"
+      ]
+    },
+    {
+      "value": "Glaspac",
+      "synonyms": [
+        "Glaspac"
+      ]
+    },
+    {
+      "value": "Goggomobil",
+      "synonyms": [
+        "Goggomobil"
+      ]
+    },
+    {
+      "value": "Gordon",
+      "synonyms": [
+        "Gordon"
+      ]
+    },
+    {
+      "value": "Grancar",
+      "synonyms": [
+        "Grancar"
+      ]
+    },
+    {
+      "value": "Gray-Dort",
+      "synonyms": [
+        "Gray-Dort"
+      ]
+    },
+    {
+      "value": "Grupo Electrico Motorizado",
+      "synonyms": [
+        "Grupo Electrico Motorizado"
+      ]
+    },
+    {
+      "value": "Guangzhou Automobile",
+      "synonyms": [
+        "Guangzhou Automobile"
+      ]
+    },
+    {
+      "value": "Gurgel",
+      "synonyms": [
+        "Gurgel"
+      ]
+    },
+    {
+      "value": "HHT Technologies",
+      "synonyms": [
+        "HHT Technologies"
+      ]
+    },
+    {
+      "value": "HSV",
+      "synonyms": [
+        "HSV"
+      ]
+    },
+    {
+      "value": "Hartnett",
+      "synonyms": [
+        "Hartnett"
+      ]
+    },
+    {
+      "value": "Hayden Dart",
+      "synonyms": [
+        "Hayden Dart"
+      ]
+    },
+    {
+      "value": "Hercules",
+      "synonyms": [
+        "Hercules"
+      ]
+    },
+    {
+      "value": "Heron",
+      "synonyms": [
+        "Heron"
+      ]
+    },
+    {
+      "value": "Hi-Tech",
+      "synonyms": [
+        "Hi-Tech"
+      ]
+    },
+    {
+      "value": "Hindustan",
+      "synonyms": [
+        "Hindustan"
+      ]
+    },
+    {
+      "value": "Hispano-Argentina",
+      "synonyms": [
+        "Hispano-Argentina"
+      ]
+    },
+    {
+      "value": "Hofstetter turbo",
+      "synonyms": [
+        "Hofstetter turbo"
+      ]
+    },
+    {
+      "value": "Holden",
+      "synonyms": [
+        "Holden"
+      ]
+    },
+    {
+      "value": "Holland Car",
+      "synonyms": [
+        "Holland Car"
+      ]
+    },
+    {
+      "value": "Honda",
+      "synonyms": [
+        "Honda"
+      ]
+    },
+    {
+      "value": "Honda Services",
+      "synonyms": [
+        "Honda Services"
+      ]
+    },
+    {
+      "value": "Hradyesh",
+      "synonyms": [
+        "Hradyesh"
+      ]
+    },
+    {
+      "value": "Hulme",
+      "synonyms": [
+        "Hulme"
+      ]
+    },
+    {
+      "value": "Hyundai",
+      "synonyms": [
+        "Hyundai"
+      ]
+    },
+    {
+      "value": "Hyundai Services",
+      "synonyms": [
+        "Hyundai Services"
+      ]
+    },
+    {
+      "value": "IMCL",
+      "synonyms": [
+        "IMCL"
+      ]
+    },
+    {
+      "value": "Ilinga",
+      "synonyms": [
+        "Ilinga"
+      ]
+    },
+    {
+      "value": "Industrias Aeronáuticas y Mecánicas del Estado",
+      "synonyms": [
+        "Industrias Aeronáuticas y Mecánicas del Estado"
+      ]
+    },
+    {
+      "value": "Industrias Eduardo Sal-Lari",
+      "synonyms": [
+        "Industrias Eduardo Sal-Lari"
+      ]
+    },
+    {
+      "value": "Industrias Kaiser Argentina",
+      "synonyms": [
+        "Industrias Kaiser Argentina"
+      ]
+    },
+    {
+      "value": "Industries Mécaniques Maghrébines",
+      "synonyms": [
+        "Industries Mécaniques Maghrébines"
+      ]
+    },
+    {
+      "value": "Infiniti",
+      "synonyms": [
+        "Infiniti"
+      ]
+    },
+    {
+      "value": "Iran Khodro",
+      "synonyms": [
+        "Iran Khodro"
+      ]
+    },
+    {
+      "value": "Isuzu",
+      "synonyms": [
+        "Isuzu"
+      ]
+    },
+    {
+      "value": "Isuzu Services",
+      "synonyms": [
+        "Isuzu Services"
+      ]
+    },
+    {
+      "value": "Izuogu",
+      "synonyms": [
+        "Izuogu"
+      ]
+    },
+    {
+      "value": "JDM SIMPA",
+      "synonyms": [
+        "JDM SIMPA"
+      ]
+    },
+    {
+      "value": "JPX",
+      "synonyms": [
+        "JPX"
+      ]
+    },
+    {
+      "value": "Jaguar",
+      "synonyms": [
+        "Jaguar"
+      ]
+    },
+    {
+      "value": "Jawa",
+      "synonyms": [
+        "Jawa"
+      ]
+    },
+    {
+      "value": "Jeep",
+      "synonyms": [
+        "Jeep"
+      ]
+    },
+    {
+      "value": "Jeep Services",
+      "synonyms": [
+        "Jeep Services"
+      ]
+    },
+    {
+      "value": "Jianghuai Automobile",
+      "synonyms": [
+        "Jianghuai Automobile"
+      ]
+    },
+    {
+      "value": "Joss",
+      "synonyms": [
+        "Joss"
+      ]
+    },
+    {
+      "value": "Kaditcha",
+      "synonyms": [
+        "Kaditcha"
+      ]
+    },
+    {
+      "value": "Kadron",
+      "synonyms": [
+        "Kadron"
+      ]
+    },
+    {
+      "value": "Kaipan",
+      "synonyms": [
+        "Kaipan"
+      ]
+    },
+    {
+      "value": "Kaiser-Ilin Industries",
+      "synonyms": [
+        "Kaiser-Ilin Industries"
+      ]
+    },
+    {
+      "value": "Karmann Ghia",
+      "synonyms": [
+        "Karmann Ghia"
+      ]
+    },
+    {
+      "value": "Khodro Kaveer",
+      "synonyms": [
+        "Khodro Kaveer"
+      ]
+    },
+    {
+      "value": "Kia",
+      "synonyms": [
+        "Kia"
+      ]
+    },
+    {
+      "value": "Kish Khodro",
+      "synonyms": [
+        "Kish Khodro"
+      ]
+    },
+    {
+      "value": "Koenigsegg",
+      "synonyms": [
+        "Koenigsegg"
+      ]
+    },
+    {
+      "value": "Koller",
+      "synonyms": [
+        "Koller"
+      ]
+    },
+    {
+      "value": "Korres",
+      "synonyms": [
+        "Korres"
+      ]
+    },
+    {
+      "value": "Kremer",
+      "synonyms": [
+        "Kremer"
+      ]
+    },
+    {
+      "value": "Lamborghini",
+      "synonyms": [
+        "Lamborghini"
+      ]
+    },
+    {
+      "value": "Lancia",
+      "synonyms": [
+        "Lancia"
+      ]
+    },
+    {
+      "value": "Land Rover",
+      "synonyms": [
+        "Land Rover"
+      ]
+    },
+    {
+      "value": "Lassale",
+      "synonyms": [
+        "Lassale"
+      ]
+    },
+    {
+      "value": "Laurin \u0026 Klement",
+      "synonyms": [
+        "Laurin \u0026 Klement"
+      ]
+    },
+    {
+      "value": "Leitch",
+      "synonyms": [
+        "Leitch"
+      ]
+    },
+    {
+      "value": "Lexus",
+      "synonyms": [
+        "Lexus"
+      ]
+    },
+    {
+      "value": "Lexus Services",
+      "synonyms": [
+        "Lexus Services"
+      ]
+    },
+    {
+      "value": "Leyland",
+      "synonyms": [
+        "Leyland"
+      ]
+    },
+    {
+      "value": "Lightburn",
+      "synonyms": [
+        "Lightburn"
+      ]
+    },
+    {
+      "value": "Ligier",
+      "synonyms": [
+        "Ligier"
+      ]
+    },
+    {
+      "value": "Lincoln",
+      "synonyms": [
+        "Lincoln"
+      ]
+    },
+    {
+      "value": "Lloyd-Hartnett",
+      "synonyms": [
+        "Lloyd-Hartnett"
+      ]
+    },
+    {
+      "value": "Lobini",
+      "synonyms": [
+        "Lobini"
+      ]
+    },
+    {
+      "value": "London Six",
+      "synonyms": [
+        "London Six"
+      ]
+    },
+    {
+      "value": "Lorena GT",
+      "synonyms": [
+        "Lorena GT"
+      ]
+    },
+    {
+      "value": "Lotus",
+      "synonyms": [
+        "Lotus"
+      ]
+    },
+    {
+      "value": "Luxgen",
+      "synonyms": [
+        "Luxgen"
+      ]
+    },
+    {
+      "value": "MAVA-Renault",
+      "synonyms": [
+        "MAVA-Renault"
+      ]
+    },
+    {
+      "value": "MDI",
+      "synonyms": [
+        "MDI"
+      ]
+    },
+    {
+      "value": "MEBEA",
+      "synonyms": [
+        "MEBEA"
+      ]
+    },
+    {
+      "value": "MP Lafer",
+      "synonyms": [
+        "MP Lafer"
+      ]
+    },
+    {
+      "value": "MVM",
+      "synonyms": [
+        "MVM"
+      ]
+    },
+    {
+      "value": "Madom",
+      "synonyms": [
+        "Madom"
+      ]
+    },
+    {
+      "value": "Mahindra and Mahindra",
+      "synonyms": [
+        "Mahindra and Mahindra"
+      ]
+    },
+    {
+      "value": "Malzonimost",
+      "synonyms": [
+        "Malzonimost"
+      ]
+    },
+    {
+      "value": "Manic GT",
+      "synonyms": [
+        "Manic GT"
+      ]
+    },
+    {
+      "value": "Marlborough",
+      "synonyms": [
+        "Marlborough"
+      ]
+    },
+    {
+      "value": "Maruti",
+      "synonyms": [
+        "Maruti"
+      ]
+    },
+    {
+      "value": "Maruti Suzuki",
+      "synonyms": [
+        "Maruti Suzuki"
+      ]
+    },
+    {
+      "value": "Maserati",
+      "synonyms": [
+        "Maserati"
+      ]
+    },
+    {
+      "value": "Mastretta",
+      "synonyms": [
+        "Mastretta"
+      ]
+    },
+    {
+      "value": "Matra",
+      "synonyms": [
+        "Matra"
+      ]
+    },
+    {
+      "value": "Mauser",
+      "synonyms": [
+        "Mauser"
+      ]
+    },
+    {
+      "value": "Mazda",
+      "synonyms": [
+        "Mazda"
+      ]
+    },
+    {
+      "value": "Mazda Services",
+      "synonyms": [
+        "Mazda Services"
+      ]
+    },
+    {
+      "value": "McLaren Automotive",
+      "synonyms": [
+        "McLaren Automotive"
+      ]
+    },
+    {
+      "value": "McLaughlin",
+      "synonyms": [
+        "McLaughlin"
+      ]
+    },
+    {
+      "value": "McRae",
+      "synonyms": [
+        "McRae"
+      ]
+    },
+    {
+      "value": "Mega",
+      "synonyms": [
+        "Mega"
+      ]
+    },
+    {
+      "value": "Mercedes",
+      "synonyms": [
+        "Mercedes"
+      ]
+    },
+    {
+      "value": "Mercedes Benz",
+      "synonyms": [
+        "Mercedes Benz"
+      ]
+    },
+    {
+      "value": "Meteor",
+      "synonyms": [
+        "Meteor"
+      ]
+    },
+    {
+      "value": "Microcar",
+      "synonyms": [
+        "Microcar"
+      ]
+    },
+    {
+      "value": "Mini",
+      "synonyms": [
+        "Mini"
+      ]
+    },
+    {
+      "value": "Mirage GT",
+      "synonyms": [
+        "Mirage GT"
+      ]
+    },
+    {
+      "value": "Mistral",
+      "synonyms": [
+        "Mistral"
+      ]
+    },
+    {
+      "value": "Mitsubishi",
+      "synonyms": [
+        "Mitsubishi"
+      ]
+    },
+    {
+      "value": "Mitsubishi Services",
+      "synonyms": [
+        "Mitsubishi Services"
+      ]
+    },
+    {
+      "value": "Miura",
+      "synonyms": [
+        "Miura"
+      ]
+    },
+    {
+      "value": "Mobius Motors",
+      "synonyms": [
+        "Mobius Motors"
+      ]
+    },
+    {
+      "value": "Monarch",
+      "synonyms": [
+        "Monarch"
+      ]
+    },
+    {
+      "value": "Moose Jaw Standard",
+      "synonyms": [
+        "Moose Jaw Standard"
+      ]
+    },
+    {
+      "value": "Morattab",
+      "synonyms": [
+        "Morattab"
+      ]
+    },
+    {
+      "value": "Mustang Max",
+      "synonyms": [
+        "Mustang Max"
+      ]
+    },
+    {
+      "value": "NBM-Nasser Brazil Motores",
+      "synonyms": [
+        "NBM-Nasser Brazil Motores"
+      ]
+    },
+    {
+      "value": "Namco",
+      "synonyms": [
+        "Namco"
+      ]
+    },
+    {
+      "value": "Nasr",
+      "synonyms": [
+        "Nasr"
+      ]
+    },
+    {
+      "value": "Neorion",
+      "synonyms": [
+        "Neorion"
+      ]
+    },
+    {
+      "value": "Nissan",
+      "synonyms": [
+        "Nissan"
+      ]
+    },
+    {
+      "value": "Nissan Services",
+      "synonyms": [
+        "Nissan Services"
+      ]
+    },
+    {
+      "value": "Nordex",
+      "synonyms": [
+        "Nordex"
+      ]
+    },
+    {
+      "value": "Nota",
+      "synonyms": [
+        "Nota"
+      ]
+    },
+    {
+      "value": "Nyayo",
+      "synonyms": [
+        "Nyayo"
+      ]
+    },
+    {
+      "value": "Oliva",
+      "synonyms": [
+        "Oliva"
+      ]
+    },
+    {
+      "value": "Oltcit",
+      "synonyms": [
+        "Oltcit"
+      ]
+    },
+    {
+      "value": "Opel",
+      "synonyms": [
+        "Opel"
+      ]
+    },
+    {
+      "value": "Optimal Energy",
+      "synonyms": [
+        "Optimal Energy"
+      ]
+    },
+    {
+      "value": "Oullim",
+      "synonyms": [
+        "Oullim"
+      ]
+    },
+    {
+      "value": "PRB",
+      "synonyms": [
+        "PRB"
+      ]
+    },
+    {
+      "value": "Pan-Car",
+      "synonyms": [
+        "Pan-Car"
+      ]
+    },
+    {
+      "value": "Pars Khodro",
+      "synonyms": [
+        "Pars Khodro"
+      ]
+    },
+    {
+      "value": "Pellandini",
+      "synonyms": [
+        "Pellandini"
+      ]
+    },
+    {
+      "value": "Perana",
+      "synonyms": [
+        "Perana"
+      ]
+    },
+    {
+      "value": "Perodua",
+      "synonyms": [
+        "Perodua"
+      ]
+    },
+    {
+      "value": "Peugeot",
+      "synonyms": [
+        "Peugeot"
+      ]
+    },
+    {
+      "value": "Pioneer",
+      "synonyms": [
+        "Pioneer"
+      ]
+    },
+    {
+      "value": "Porsche",
+      "synonyms": [
+        "Porsche"
+      ]
+    },
+    {
+      "value": "Porsche Services",
+      "synonyms": [
+        "Porsche Services"
+      ]
+    },
+    {
+      "value": "Power Wash",
+      "synonyms": [
+        "Power Wash"
+      ]
+    },
+    {
+      "value": "Premier",
+      "synonyms": [
+        "Premier"
+      ]
+    },
+    {
+      "value": "Pretty",
+      "synonyms": [
+        "Pretty"
+      ]
+    },
+    {
+      "value": "Protea",
+      "synonyms": [
+        "Protea"
+      ]
+    },
+    {
+      "value": "Proto",
+      "synonyms": [
+        "Proto"
+      ]
+    },
+    {
+      "value": "Proton",
+      "synonyms": [
+        "Proton"
+      ]
+    },
+    {
+      "value": "Puma",
+      "synonyms": [
+        "Puma"
+      ]
+    },
+    {
+      "value": "Purvis Eureka",
+      "synonyms": [
+        "Purvis Eureka"
+      ]
+    },
+    {
+      "value": "Pyeonghwa Motors",
+      "synonyms": [
+        "Pyeonghwa Motors"
+      ]
+    },
+    {
+      "value": "Pyongsang Auto Works",
+      "synonyms": [
+        "Pyongsang Auto Works"
+      ]
+    },
+    {
+      "value": "Python",
+      "synonyms": [
+        "Python"
+      ]
+    },
+    {
+      "value": "Queen",
+      "synonyms": [
+        "Queen"
+      ]
+    },
+    {
+      "value": "REVA",
+      "synonyms": [
+        "REVA"
+      ]
+    },
+    {
+      "value": "ROMAN",
+      "synonyms": [
+        "ROMAN"
+      ]
+    },
+    {
+      "value": "Ram",
+      "synonyms": [
+        "Ram"
+      ]
+    },
+    {
+      "value": "Range Rover",
+      "synonyms": [
+        "Range Rover"
+      ]
+    },
+    {
+      "value": "Ranger",
+      "synonyms": [
+        "Ranger"
+      ]
+    },
+    {
+      "value": "Redline",
+      "synonyms": [
+        "Redline"
+      ]
+    },
+    {
+      "value": "Renault",
+      "synonyms": [
+        "Renault"
+      ]
+    },
+    {
+      "value": "Renault Samsung",
+      "synonyms": [
+        "Renault Samsung"
+      ]
+    },
+    {
+      "value": "Renault Services",
+      "synonyms": [
+        "Renault Services"
+      ]
+    },
+    {
+      "value": "Replicar Hellas",
+      "synonyms": [
+        "Replicar Hellas"
+      ]
+    },
+    {
+      "value": "Reyan",
+      "synonyms": [
+        "Reyan"
+      ]
+    },
+    {
+      "value": "Rolls Royce",
+      "synonyms": [
+        "Rolls Royce"
+      ]
+    },
+    {
+      "value": "Romi",
+      "synonyms": [
+        "Romi"
+      ]
+    },
+    {
+      "value": "Rossin-Bertin",
+      "synonyms": [
+        "Rossin-Bertin"
+      ]
+    },
+    {
+      "value": "SAAB",
+      "synonyms": [
+        "SAAB"
+      ]
+    },
+    {
+      "value": "SAIC Motor",
+      "synonyms": [
+        "SAIC Motor"
+      ]
+    },
+    {
+      "value": "SAIPA",
+      "synonyms": [
+        "SAIPA"
+      ]
+    },
+    {
+      "value": "SEAT",
+      "synonyms": [
+        "SEAT"
+      ]
+    },
+    {
+      "value": "SS Fiberglass",
+      "synonyms": [
+        "SS Fiberglass"
+      ]
+    },
+    {
+      "value": "SYM",
+      "synonyms": [
+        "SYM"
+      ]
+    },
+    {
+      "value": "Saker",
+      "synonyms": [
+        "Saker"
+      ]
+    },
+    {
+      "value": "San",
+      "synonyms": [
+        "San"
+      ]
+    },
+    {
+      "value": "San Vito",
+      "synonyms": [
+        "San Vito"
+      ]
+    },
+    {
+      "value": "Santa Matilde",
+      "synonyms": [
+        "Santa Matilde"
+      ]
+    },
+    {
+      "value": "Sao",
+      "synonyms": [
+        "Sao"
+      ]
+    },
+    {
+      "value": "Scavas",
+      "synonyms": [
+        "Scavas"
+      ]
+    },
+    {
+      "value": "Shahab Khodro",
+      "synonyms": [
+        "Shahab Khodro"
+      ]
+    },
+    {
+      "value": "Shaka",
+      "synonyms": [
+        "Shaka"
+      ]
+    },
+    {
+      "value": "Shell",
+      "synonyms": [
+        "Shell"
+      ]
+    },
+    {
+      "value": "Shell Services",
+      "synonyms": [
+        "Shell Services"
+      ]
+    },
+    {
+      "value": "Short GT",
+      "synonyms": [
+        "Short GT"
+      ]
+    },
+    {
+      "value": "Shrike",
+      "synonyms": [
+        "Shrike"
+      ]
+    },
+    {
+      "value": "Siam V.M.C.",
+      "synonyms": [
+        "Siam V.M.C."
+      ]
+    },
+    {
+      "value": "Siam di Tella",
+      "synonyms": [
+        "Siam di Tella"
+      ]
+    },
+    {
+      "value": "Southern Cross",
+      "synonyms": [
+        "Southern Cross"
+      ]
+    },
+    {
+      "value": "Speedwash",
+      "synonyms": [
+        "Speedwash"
+      ]
+    },
+    {
+      "value": "Speranza Chery",
+      "synonyms": [
+        "Speranza Chery"
+      ]
+    },
+    {
+      "value": "Spyker automobielen",
+      "synonyms": [
+        "Spyker automobielen"
+      ]
+    },
+    {
+      "value": "Ssangyong",
+      "synonyms": [
+        "Ssangyong"
+      ]
+    },
+    {
+      "value": "Statesman",
+      "synonyms": [
+        "Statesman"
+      ]
+    },
+    {
+      "value": "Steel Brothers",
+      "synonyms": [
+        "Steel Brothers"
+      ]
+    },
+    {
+      "value": "Studebaker",
+      "synonyms": [
+        "Studebaker"
+      ]
+    },
+    {
+      "value": "Styl Kar",
+      "synonyms": [
+        "Styl Kar"
+      ]
+    },
+    {
+      "value": "Subaru",
+      "synonyms": [
+        "Subaru"
+      ]
+    },
+    {
+      "value": "Sungri Motor Plant",
+      "synonyms": [
+        "Sungri Motor Plant"
+      ]
+    },
+    {
+      "value": "Superformance",
+      "synonyms": [
+        "Superformance"
+      ]
+    },
+    {
+      "value": "Suzuki",
+      "synonyms": [
+        "Suzuki"
+      ]
+    },
+    {
+      "value": "Suzuki Services",
+      "synonyms": [
+        "Suzuki Services"
+      ]
+    },
+    {
+      "value": "TAC",
+      "synonyms": [
+        "TAC"
+      ]
+    },
+    {
+      "value": "TD2000",
+      "synonyms": [
+        "TD2000"
+      ]
+    },
+    {
+      "value": "Taller Danree y Silveira",
+      "synonyms": [
+        "Taller Danree y Silveira"
+      ]
+    },
+    {
+      "value": "Tan Chong Motor",
+      "synonyms": [
+        "Tan Chong Motor"
+      ]
+    },
+    {
+      "value": "Tangalakis",
+      "synonyms": [
+        "Tangalakis"
+      ]
+    },
+    {
+      "value": "Tanger",
+      "synonyms": [
+        "Tanger"
+      ]
+    },
+    {
+      "value": "Tata",
+      "synonyms": [
+        "Tata"
+      ]
+    },
+    {
+      "value": "Tesla Motors",
+      "synonyms": [
+        "Tesla Motors"
+      ]
+    },
+    {
+      "value": "Thai Rung",
+      "synonyms": [
+        "Thai Rung"
+      ]
+    },
+    {
+      "value": "Theologou",
+      "synonyms": [
+        "Theologou"
+      ]
+    },
+    {
+      "value": "Thunder Power",
+      "synonyms": [
+        "Thunder Power"
+      ]
+    },
+    {
+      "value": "Timmis",
+      "synonyms": [
+        "Timmis"
+      ]
+    },
+    {
+      "value": "Tobe",
+      "synonyms": [
+        "Tobe"
+      ]
+    },
+    {
+      "value": "Toroidion",
+      "synonyms": [
+        "Toroidion"
+      ]
+    },
+    {
+      "value": "Toyota",
+      "synonyms": [
+        "Toyota"
+      ]
+    },
+    {
+      "value": "Toyota Services",
+      "synonyms": [
+        "Toyota Services"
+      ]
+    },
+    {
+      "value": "Tramontana",
+      "synonyms": [
+        "Tramontana"
+      ]
+    },
+    {
+      "value": "Trekka",
+      "synonyms": [
+        "Trekka"
+      ]
+    },
+    {
+      "value": "Troller",
+      "synonyms": [
+        "Troller"
+      ]
+    },
+    {
+      "value": "Tudhope",
+      "synonyms": [
+        "Tudhope"
+      ]
+    },
+    {
+      "value": "UAZ",
+      "synonyms": [
+        "UAZ"
+      ]
+    },
+    {
+      "value": "UAZ Services",
+      "synonyms": [
+        "UAZ Services"
+      ]
+    },
+    {
+      "value": "USA Tire",
+      "synonyms": [
+        "USA Tire"
+      ]
+    },
+    {
+      "value": "Uirapuru",
+      "synonyms": [
+        "Uirapuru"
+      ]
+    },
+    {
+      "value": "UltraCommuter",
+      "synonyms": [
+        "UltraCommuter"
+      ]
+    },
+    {
+      "value": "Uri International Vehicle \u0026 Equipment Marketing",
+      "synonyms": [
+        "Uri International Vehicle \u0026 Equipment Marketing"
+      ]
+    },
+    {
+      "value": "Uri-Automobile",
+      "synonyms": [
+        "Uri-Automobile"
+      ]
+    },
+    {
+      "value": "VAM",
+      "synonyms": [
+        "VAM"
+      ]
+    },
+    {
+      "value": "Van Doorne\u0027s Automobiel Fabrieken",
+      "synonyms": [
+        "Van Doorne\u0027s Automobiel Fabrieken"
+      ]
+    },
+    {
+      "value": "Vemag",
+      "synonyms": [
+        "Vemag"
+      ]
+    },
+    {
+      "value": "Villa GT",
+      "synonyms": [
+        "Villa GT"
+      ]
+    },
+    {
+      "value": "Volkswagen",
+      "synonyms": [
+        "Volkswagen"
+      ]
+    },
+    {
+      "value": "Volkswagen Services",
+      "synonyms": [
+        "Volkswagen Services"
+      ]
+    },
+    {
+      "value": "Volvo",
+      "synonyms": [
+        "Volvo"
+      ]
+    },
+    {
+      "value": "Volvo Services",
+      "synonyms": [
+        "Volvo Services"
+      ]
+    },
+    {
+      "value": "W.W. Trevis",
+      "synonyms": [
+        "W.W. Trevis"
+      ]
+    },
+    {
+      "value": "Wallyscar",
+      "synonyms": [
+        "Wallyscar"
+      ]
+    },
+    {
+      "value": "Willys Interlagos",
+      "synonyms": [
+        "Willys Interlagos"
+      ]
+    },
+    {
+      "value": "Winograd",
+      "synonyms": [
+        "Winograd"
+      ]
+    },
+    {
+      "value": "Wood",
+      "synonyms": [
+        "Wood"
+      ]
+    },
+    {
+      "value": "Yugo",
+      "synonyms": [
+        "Yugo"
+      ]
+    },
+    {
+      "value": "ZENN",
+      "synonyms": [
+        "ZENN"
+      ]
+    },
+    {
+      "value": "Zagross Khodro",
+      "synonyms": [
+        "Zagross Khodro"
+      ]
+    },
+    {
+      "value": "Zarooq Motors",
+      "synonyms": [
+        "Zarooq Motors"
+      ]
+    },
+    {
+      "value": "Zastava",
+      "synonyms": [
+        "Zastava"
+      ]
+    },
+    {
+      "value": "de Carlo",
+      "synonyms": [
+        "de Carlo"
+      ]
+    },
+    {
+      "value": "Özaltin",
+      "synonyms": [
+        "Özaltin"
+      ]
+    },
+    {
+      "value": "Škoda",
+      "synonyms": [
+        "Škoda"
+      ]
+    },
+    {
+      "value": "Škoda Auto",
+      "synonyms": [
+        "Škoda Auto"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}

@@ -1,0 +1,131 @@
+{
+  "id": "c3825f77-913f-4048-b72f-0e3b5eacaf61",
+  "name": "venue-eating-out-type",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "bakery",
+      "synonyms": [
+        "bakery",
+        "bakeries"
+      ]
+    },
+    {
+      "value": "bar",
+      "synonyms": [
+        "bar"
+      ]
+    },
+    {
+      "value": "buffet",
+      "synonyms": [
+        "buffet",
+        "buffets",
+        "buffet restaurant",
+        "buffet restaurants"
+      ]
+    },
+    {
+      "value": "cafe",
+      "synonyms": [
+        "cafe",
+        "cafes"
+      ]
+    },
+    {
+      "value": "coffeeshop",
+      "synonyms": [
+        "coffeeshop",
+        "coffee shop",
+        "coffeeshops",
+        "coffee shops",
+        "coffee"
+      ]
+    },
+    {
+      "value": "fast food",
+      "synonyms": [
+        "fast food"
+      ]
+    },
+    {
+      "value": "food court",
+      "synonyms": [
+        "food court"
+      ]
+    },
+    {
+      "value": "pizzeria",
+      "synonyms": [
+        "pizzeria",
+        "pizza place",
+        "pizza places"
+      ]
+    },
+    {
+      "value": "restaurant",
+      "synonyms": [
+        "restaurant",
+        "restaurants"
+      ]
+    },
+    {
+      "value": "seafood place",
+      "synonyms": [
+        "seafood place",
+        "seafood places"
+      ]
+    },
+    {
+      "value": "steakhouse",
+      "synonyms": [
+        "steakhouse",
+        "steak house"
+      ]
+    },
+    {
+      "value": "steakhouse",
+      "synonyms": [
+        "steakhouse",
+        "steakhouses"
+      ]
+    },
+    {
+      "value": "sushi bar",
+      "synonyms": [
+        "sushi bar",
+        "sushi bars"
+      ]
+    },
+    {
+      "value": "sushi place",
+      "synonyms": [
+        "sushi place"
+      ]
+    },
+    {
+      "value": "teahouse",
+      "synonyms": [
+        "teahouse",
+        "tea house",
+        "tea"
+      ]
+    },
+    {
+      "value": "vegetarian restaurant",
+      "synonyms": [
+        "vegetarian restaurant",
+        "vegetarian restaurants"
+      ]
+    },
+    {
+      "value": "salad bar",
+      "synonyms": [
+        "salad bar",
+        "salad bars"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

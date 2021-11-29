@@ -1,0 +1,360 @@
+{
+  "id": "7639967a-49e7-4d2c-979d-060efd9923f5",
+  "name": "adm-division-jp",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Aichi",
+      "synonyms": [
+        "Aichi"
+      ]
+    },
+    {
+      "value": "Akita",
+      "synonyms": [
+        "Akita"
+      ]
+    },
+    {
+      "value": "Aomori",
+      "synonyms": [
+        "Aomori"
+      ]
+    },
+    {
+      "value": "Chiba",
+      "synonyms": [
+        "Chiba"
+      ]
+    },
+    {
+      "value": "Chubu",
+      "synonyms": [
+        "Chubu",
+        "Chūbu"
+      ]
+    },
+    {
+      "value": "Chugoku",
+      "synonyms": [
+        "Chugoku",
+        "Chūgoku"
+      ]
+    },
+    {
+      "value": "Ehime",
+      "synonyms": [
+        "Ehime"
+      ]
+    },
+    {
+      "value": "Fukui",
+      "synonyms": [
+        "Fukui"
+      ]
+    },
+    {
+      "value": "Fukuoka",
+      "synonyms": [
+        "Fukuoka"
+      ]
+    },
+    {
+      "value": "Fukushima",
+      "synonyms": [
+        "Fukushima"
+      ]
+    },
+    {
+      "value": "Gifu",
+      "synonyms": [
+        "Gifu"
+      ]
+    },
+    {
+      "value": "Gunma",
+      "synonyms": [
+        "Gunma"
+      ]
+    },
+    {
+      "value": "Hiroshima",
+      "synonyms": [
+        "Hiroshima"
+      ]
+    },
+    {
+      "value": "Hokkaido",
+      "synonyms": [
+        "Hokkaido",
+        "Hokkaidō"
+      ]
+    },
+    {
+      "value": "Hokuriku",
+      "synonyms": [
+        "Hokuriku"
+      ]
+    },
+    {
+      "value": "Hyogo",
+      "synonyms": [
+        "Hyogo",
+        "Hyōgo"
+      ]
+    },
+    {
+      "value": "Ibaraki",
+      "synonyms": [
+        "Ibaraki"
+      ]
+    },
+    {
+      "value": "Ishikawa",
+      "synonyms": [
+        "Ishikawa"
+      ]
+    },
+    {
+      "value": "Iwate",
+      "synonyms": [
+        "Iwate"
+      ]
+    },
+    {
+      "value": "Kagawa",
+      "synonyms": [
+        "Kagawa"
+      ]
+    },
+    {
+      "value": "Kagoshima",
+      "synonyms": [
+        "Kagoshima"
+      ]
+    },
+    {
+      "value": "Kanagawa",
+      "synonyms": [
+        "Kanagawa"
+      ]
+    },
+    {
+      "value": "Kansai",
+      "synonyms": [
+        "Kansai"
+      ]
+    },
+    {
+      "value": "Kanto",
+      "synonyms": [
+        "Kanto",
+        "Kantō"
+      ]
+    },
+    {
+      "value": "Kochi",
+      "synonyms": [
+        "Kochi",
+        "Kōchi"
+      ]
+    },
+    {
+      "value": "Koshinetsu",
+      "synonyms": [
+        "Koshinetsu"
+      ]
+    },
+    {
+      "value": "Kumamoto",
+      "synonyms": [
+        "Kumamoto"
+      ]
+    },
+    {
+      "value": "Kyoto",
+      "synonyms": [
+        "Kyoto"
+      ]
+    },
+    {
+      "value": "Kyushu",
+      "synonyms": [
+        "Kyushu",
+        "Kyūshū"
+      ]
+    },
+    {
+      "value": "Mie",
+      "synonyms": [
+        "Mie"
+      ]
+    },
+    {
+      "value": "Miyagi",
+      "synonyms": [
+        "Miyagi"
+      ]
+    },
+    {
+      "value": "Miyazaki",
+      "synonyms": [
+        "Miyazaki"
+      ]
+    },
+    {
+      "value": "Nagano",
+      "synonyms": [
+        "Nagano"
+      ]
+    },
+    {
+      "value": "Nagasaki",
+      "synonyms": [
+        "Nagasaki"
+      ]
+    },
+    {
+      "value": "Nara",
+      "synonyms": [
+        "Nara"
+      ]
+    },
+    {
+      "value": "Niigata",
+      "synonyms": [
+        "Niigata"
+      ]
+    },
+    {
+      "value": "Oita",
+      "synonyms": [
+        "Oita",
+        "Ōita"
+      ]
+    },
+    {
+      "value": "Okayama",
+      "synonyms": [
+        "Okayama"
+      ]
+    },
+    {
+      "value": "Okinawa",
+      "synonyms": [
+        "Okinawa"
+      ]
+    },
+    {
+      "value": "Osaka",
+      "synonyms": [
+        "Osaka"
+      ]
+    },
+    {
+      "value": "Saga",
+      "synonyms": [
+        "Saga"
+      ]
+    },
+    {
+      "value": "Saitama",
+      "synonyms": [
+        "Saitama"
+      ]
+    },
+    {
+      "value": "Shiga",
+      "synonyms": [
+        "Shiga"
+      ]
+    },
+    {
+      "value": "Shikoku",
+      "synonyms": [
+        "Shikoku"
+      ]
+    },
+    {
+      "value": "Shimane",
+      "synonyms": [
+        "Shimane"
+      ]
+    },
+    {
+      "value": "Shizuoka",
+      "synonyms": [
+        "Shizuoka"
+      ]
+    },
+    {
+      "value": "Tochigi",
+      "synonyms": [
+        "Tochigi"
+      ]
+    },
+    {
+      "value": "Tohoku",
+      "synonyms": [
+        "Tohoku",
+        "Tōhoku"
+      ]
+    },
+    {
+      "value": "Tokai",
+      "synonyms": [
+        "Tokai"
+      ]
+    },
+    {
+      "value": "Tokushima",
+      "synonyms": [
+        "Tokushima"
+      ]
+    },
+    {
+      "value": "Tokyo",
+      "synonyms": [
+        "Tokyo"
+      ]
+    },
+    {
+      "value": "Tottori",
+      "synonyms": [
+        "Tottori"
+      ]
+    },
+    {
+      "value": "Toyama",
+      "synonyms": [
+        "Toyama"
+      ]
+    },
+    {
+      "value": "Wakayama",
+      "synonyms": [
+        "Wakayama"
+      ]
+    },
+    {
+      "value": "Yamagata",
+      "synonyms": [
+        "Yamagata"
+      ]
+    },
+    {
+      "value": "Yamaguchi",
+      "synonyms": [
+        "Yamaguchi"
+      ]
+    },
+    {
+      "value": "Yamanashi",
+      "synonyms": [
+        "Yamanashi"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

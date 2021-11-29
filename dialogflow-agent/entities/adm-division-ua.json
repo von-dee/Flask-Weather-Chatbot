@@ -1,0 +1,153 @@
+{
+  "id": "abff8f52-53cc-48d3-8ee0-f11048c3a9ab",
+  "name": "adm-division-ua",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Zhytomyr Oblast",
+      "synonyms": [
+        "Zhytomyr Oblast"
+      ]
+    },
+    {
+      "value": "Cherkasy Oblast",
+      "synonyms": [
+        "Cherkasy Oblast"
+      ]
+    },
+    {
+      "value": "Kherson Oblast",
+      "synonyms": [
+        "Kherson Oblast"
+      ]
+    },
+    {
+      "value": "Lviv Oblast",
+      "synonyms": [
+        "Lviv Oblast"
+      ]
+    },
+    {
+      "value": "Vinnytsia Oblast",
+      "synonyms": [
+        "Vinnytsia Oblast"
+      ]
+    },
+    {
+      "value": "Volyn Oblast",
+      "synonyms": [
+        "Volyn Oblast"
+      ]
+    },
+    {
+      "value": "Chernihiv Oblast",
+      "synonyms": [
+        "Chernihiv Oblast"
+      ]
+    },
+    {
+      "value": "Chernivtsi Oblast",
+      "synonyms": [
+        "Chernivtsi Oblast"
+      ]
+    },
+    {
+      "value": "Poltava Oblast",
+      "synonyms": [
+        "Poltava Oblast"
+      ]
+    },
+    {
+      "value": "Kyiv Oblast",
+      "synonyms": [
+        "Kyiv Oblast"
+      ]
+    },
+    {
+      "value": "Zakarpattia Oblast",
+      "synonyms": [
+        "Zakarpattia Oblast"
+      ]
+    },
+    {
+      "value": "Sumy Oblast",
+      "synonyms": [
+        "Sumy Oblast"
+      ]
+    },
+    {
+      "value": "Kharkiv Oblast",
+      "synonyms": [
+        "Kharkiv Oblast"
+      ]
+    },
+    {
+      "value": "Dnipropetrovsk Oblast",
+      "synonyms": [
+        "Dnipropetrovsk Oblast"
+      ]
+    },
+    {
+      "value": "Khmelnytsky Oblast",
+      "synonyms": [
+        "Khmelnytsky Oblast"
+      ]
+    },
+    {
+      "value": "Zaporizhzhya Oblast",
+      "synonyms": [
+        "Zaporizhzhya Oblast"
+      ]
+    },
+    {
+      "value": "Odessa Oblast",
+      "synonyms": [
+        "Odessa Oblast"
+      ]
+    },
+    {
+      "value": "Luhansk Oblast",
+      "synonyms": [
+        "Luhansk Oblast"
+      ]
+    },
+    {
+      "value": "Ternopil Oblast",
+      "synonyms": [
+        "Ternopil Oblast"
+      ]
+    },
+    {
+      "value": "Rivne Oblast",
+      "synonyms": [
+        "Rivne Oblast"
+      ]
+    },
+    {
+      "value": "Ivano-Frankivsk Oblast",
+      "synonyms": [
+        "Ivano-Frankivsk Oblast"
+      ]
+    },
+    {
+      "value": "Kirovohrad Oblast",
+      "synonyms": [
+        "Kirovohrad Oblast"
+      ]
+    },
+    {
+      "value": "Mykolaiv Oblast",
+      "synonyms": [
+        "Mykolaiv Oblast"
+      ]
+    },
+    {
+      "value": "Donetsk Oblast",
+      "synonyms": [
+        "Donetsk Oblast"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

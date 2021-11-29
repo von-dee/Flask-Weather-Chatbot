@@ -1,0 +1,121 @@
+{
+  "id": "97b4c5e9-6fef-4232-b2da-642bb90be0a5",
+  "name": "venue-local-service-type",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "bicycle rental",
+      "synonyms": [
+        "bicycle rental",
+        "rent a bicycle",
+        "bicycle rent"
+      ]
+    },
+    {
+      "value": "laundry",
+      "synonyms": [
+        "laundry",
+        "laundry",
+        "laundry service"
+      ]
+    },
+    {
+      "value": "bank",
+      "synonyms": [
+        "bank",
+        "banks"
+      ]
+    },
+    {
+      "value": "shoe repair",
+      "synonyms": [
+        "shoe repair"
+      ]
+    },
+    {
+      "value": "toilet",
+      "synonyms": [
+        "toilet",
+        "toilette",
+        "restroom",
+        "toilets",
+        "restrooms",
+        "change a diaper",
+        "change diaper"
+      ]
+    },
+    {
+      "value": "post office",
+      "synonyms": [
+        "post office",
+        "postal service"
+      ]
+    },
+    {
+      "value": "ATM",
+      "synonyms": [
+        "ATM",
+        "cash dispenser",
+        "cash machine",
+        "ATMs"
+      ]
+    },
+    {
+      "value": "home depot",
+      "synonyms": [
+        "home depot"
+      ]
+    },
+    {
+      "value": "mobile office",
+      "synonyms": [
+        "mobile office"
+      ]
+    },
+    {
+      "value": "currency exchange",
+      "synonyms": [
+        "currency exchange",
+        "exchange currency"
+      ]
+    },
+    {
+      "value": "bathroom",
+      "synonyms": [
+        "bathroom",
+        "bathrooms"
+      ]
+    },
+    {
+      "value": "change the diaper",
+      "synonyms": [
+        "change the diaper"
+      ]
+    },
+    {
+      "value": "mechanic",
+      "synonyms": [
+        "mechanic"
+      ]
+    },
+    {
+      "value": "lawyers",
+      "synonyms": [
+        "lawyers",
+        "lawyer",
+        "law office",
+        "law offices",
+        "lawyer office",
+        "lawyer offices"
+      ]
+    },
+    {
+      "value": "bicycle shop",
+      "synonyms": [
+        "bicycle shop"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}
